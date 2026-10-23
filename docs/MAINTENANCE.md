@@ -18,6 +18,8 @@ Generated paths are `catalog/repositories.json`, `state/discovery.json`, `state/
 
 GitHub truncates a README after 500 KiB, so a generated page whose entries would pass 400 KB continues on numbered pages (`data-driven-2.md`, …), and rendering deletes numbered pages that are no longer needed. The registry holds listed and unreviewed repositories only: a rejected repository is remembered in `config/excluded.json`, and each update drops it from the registry and from search provenance. This keeps `catalog/repositories.json` far below GitHub's 50 MiB warning and 100 MiB push limit.
 
+The website is static: hand-written HTML, CSS and JavaScript in `site/`. `python scripts/catalog.py site --out _site` copies it and exports the listed catalogue as `data/meta.json` and `data/catalogue.json`; nothing generated for the site is committed. The **Publish website** workflow builds and deploys it to GitHub Pages after every push to the default branch and after every successful collection run. In the repository settings, Pages must use "GitHub Actions" as its source.
+
 Every valid update record contains an attempt time, actual outcome, request count, new identity count, pending jobs and retained coverage observations. A zero-discovery run records zero. A request-budget stop is partial. API errors remain failed workflow outcomes and preserve the prior healthy time.
 
 To test or regenerate without networking:

@@ -2,9 +2,11 @@
 
 收录GitHub上公开的作物模型，以及土壤、水分、气象、病虫害等农业与环境过程模型，按“**模拟的作物或农业过程 → 编程语言 → 仓库**”的树状结构浏览。
 
-[查看完整清单](../README.md) · [待审队列](discovered.md) · [运行状态](status.md) · [竞品与参考](competitor-landscape.md)
+[网站](https://yuanyuanma03.github.io/awesome-crop-models/) · [查看完整清单](../README.md) · [待审队列](discovered.md) · [运行状态](status.md) · [竞品与参考](competitor-landscape.md)
 
 ## 怎么浏览
+
+- **网站**：[yuanyuanma03.github.io/awesome-crop-models](https://yuanyuanma03.github.io/awesome-crop-models/) 可以按作物、过程、类型和编程语言筛选全部收录仓库，支持全文搜索，中英文和深浅色可切换。页面源码在`site/`，`python scripts/catalog.py site --out _site`会导出目录数据；每次推送到`main`或每日采集成功后，Publish website 工作流自动重新发布。
 
 - 第一层是作物或过程，第二层是编程语言，同一语言内按GitHub star排序。
 - 每个仓库只出现一次：挂在它最主要的作物或过程下，归入它的主要编程语言。语言默认取GitHub主语言，`Jupyter Notebook`记为Python、`FORTRAN`记为Fortran；主语言明显误导时可在种子记录里人工指定。

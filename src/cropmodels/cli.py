@@ -8,6 +8,7 @@ from pathlib import Path
 from .catalog import read_json, render, save_json, upsert, validate
 from .discovery import discover
 from .github import BudgetExceeded, GitHubClient
+from .site import build
 from .sources import enumerate_owners, refresh
 
 
@@ -104,6 +105,8 @@ def main(argv=None):
     sub.add_parser("render", help="Regenerate the Awesome tree, candidate list and status")
     sub.add_parser("validate", help="Check catalogue/config/state offline")
     sub.add_parser("status", help="Print the most recent real collection outcome")
+    site = sub.add_parser("site", help="Build the static website (site/ plus catalogue data) into a folder")
+    site.add_argument("--out", type=Path, default=Path("_site"))
     collect = sub.add_parser("update", help="Run a bounded public-API update and save resumable progress")
     collect.add_argument("--max-requests", type=int, default=160)
     collect.add_argument("--discovery-pages", type=int, default=80)
@@ -116,6 +119,9 @@ def main(argv=None):
         print("Rendered README.md, docs/discovered.md and docs/status.md")
     elif args.command == "validate":
         print(json.dumps(validate(root), indent=2))
+    elif args.command == "site":
+        meta = build(root, args.out.resolve())
+        print(f"Built the website for {meta['listed']} repositories in {args.out}")
     elif args.command == "status":
         print(json.dumps(read_json(root / "state/health.json", {"status": "not_run"}), ensure_ascii=False, indent=2))
     else:

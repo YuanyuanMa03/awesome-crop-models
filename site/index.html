@@ -1,0 +1,211 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Awesome Crop Models</title>
+  <meta name="description" content="A curated, daily-refreshed map of open-source crop and agricultural process models on GitHub, organised by crop or process and programming language.">
+  <meta property="og:title" content="Awesome Crop Models">
+  <meta property="og:description" content="Open-source crop and agricultural process models on GitHub, mapped by crop or process and programming language.">
+  <meta name="theme-color" content="#faf9f5">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&display=swap">
+  <link rel="stylesheet" href="assets/style.css">
+  <script>
+    (function () {
+      var root = document.documentElement, theme = null, lang = null;
+      try { theme = localStorage.getItem("acm-theme"); lang = localStorage.getItem("acm-lang"); } catch (e) {}
+      if (theme) root.dataset.theme = theme;
+      lang = lang || ((navigator.language || "").toLowerCase().indexOf("zh") === 0 ? "zh" : "en");
+      root.dataset.lang = lang;
+      root.lang = lang === "zh" ? "zh-CN" : "en";
+    })();
+  </script>
+</head>
+<body>
+  <a class="skip" href="#explore" data-i18n="skip">Skip to the catalogue</a>
+
+  <header class="nav" id="nav">
+    <div class="wrap nav-inner">
+      <a class="brand" href="#top" aria-label="Awesome Crop Models">
+        <svg class="sprout" viewBox="0 0 32 32" aria-hidden="true"><path d="M16 27V14"/><path d="M16 18.5c0-5.4 3.6-9 9.2-9.5 0 5.8-3.6 9.5-9.2 9.5z"/><path d="M16 15.5c0-4.3-3-7.5-8.2-8 0 4.8 3.1 8 8.2 8z"/></svg>
+        <span>Awesome Crop Models</span>
+      </a>
+      <nav class="nav-links" aria-label="Sections">
+        <a href="#browse" data-i18n="nav_browse">Browse</a>
+        <a href="#starred" data-i18n="nav_starred">Most starred</a>
+        <a href="#explore" data-i18n="nav_explore">Explore</a>
+        <a href="#method" data-i18n="nav_method">Method</a>
+      </nav>
+      <div class="nav-actions">
+        <button class="ghost-btn" type="button" id="lang-toggle" aria-label="Switch language">中文</button>
+        <button class="ghost-btn icon" type="button" id="theme-toggle" aria-label="Toggle dark mode">
+          <svg class="i-moon" viewBox="0 0 24 24" aria-hidden="true"><path d="M20.5 14.5A8.5 8.5 0 0 1 9.5 3.5a8.5 8.5 0 1 0 11 11z"/></svg>
+          <svg class="i-sun" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2.5v2M12 19.5v2M4.6 4.6l1.4 1.4M18 18l1.4 1.4M2.5 12h2M19.5 12h2M4.6 19.4 6 18M18 6l1.4-1.4"/></svg>
+        </button>
+        <a class="btn btn-dark repo-link" href="https://github.com/YuanyuanMa03/awesome-crop-models">
+          <svg viewBox="0 0 16 16" aria-hidden="true"><path d="M8 0a8 8 0 0 0-2.53 15.59c.4.07.55-.17.55-.38v-1.33c-2.22.48-2.69-1.07-2.69-1.07-.36-.92-.89-1.17-.89-1.17-.73-.5.05-.49.05-.49.8.06 1.23.83 1.23.83.72 1.22 1.87.87 2.33.66.07-.52.28-.87.5-1.07-1.77-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82a7.6 7.6 0 0 1 4 0c1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48v2.2c0 .21.15.46.55.38A8 8 0 0 0 8 0z"/></svg>
+          <span>GitHub</span>
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <main id="top">
+    <section class="hero">
+      <div class="wrap hero-inner">
+        <p class="eyebrow"><span class="pulse" aria-hidden="true"></span><span data-i18n="eyebrow">Refreshed daily from GitHub</span></p>
+        <h1 class="display" data-i18n-html="title">Open-source crop models, <em>mapped</em>.</h1>
+        <p class="lede" data-i18n="lede">Crop growth simulators; soil, water and climate process models; and the frameworks, studies and data-driven methods around them. Sorted by crop or process, then programming language.</p>
+        <form class="search" id="hero-search" role="search">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5"/><path d="m16 16 4.5 4.5"/></svg>
+          <input type="search" id="hero-q" autocomplete="off" spellcheck="false" aria-label="Search repositories" placeholder="Search repositories">
+          <kbd aria-hidden="true">/</kbd>
+          <button class="btn btn-dark" type="submit" data-i18n="search_go">Search</button>
+        </form>
+        <div class="chips" id="hero-chips" aria-label="Popular starting points"></div>
+      </div>
+    </section>
+
+    <section class="stats" aria-label="Catalogue in numbers">
+      <div class="wrap">
+        <dl class="stat-grid">
+          <div><dt data-i18n="stat_listed">Repositories listed</dt><dd data-stat="listed">—</dd></div>
+          <div><dt data-i18n="stat_crop">Crop models</dt><dd data-stat="cropModels">—</dd></div>
+          <div><dt data-i18n="stat_process">Process models</dt><dd data-stat="processModels">—</dd></div>
+          <div><dt data-i18n="stat_tools">Frameworks &amp; tools</dt><dd data-stat="tools">—</dd></div>
+          <div><dt data-i18n="stat_data">Data-driven models</dt><dd data-stat="dataDriven">—</dd></div>
+        </dl>
+        <p class="stat-note" id="stat-note"></p>
+      </div>
+    </section>
+
+    <section class="section" id="browse">
+      <div class="wrap">
+        <div class="section-head">
+          <p class="kicker" data-i18n="browse_kicker">01 — Browse</p>
+          <h2 data-i18n="browse_title">Start from a crop or a process</h2>
+          <p data-i18n="browse_text">Every repository appears once: under its main crop or process, then its main programming language.</p>
+        </div>
+        <div class="segmented" role="tablist" id="browse-tabs">
+          <button type="button" role="tab" aria-selected="true" data-group="crops" data-i18n="tab_crops">Crops</button>
+          <button type="button" role="tab" aria-selected="false" data-group="processes" data-i18n="tab_processes">Processes</button>
+          <button type="button" role="tab" aria-selected="false" data-group="tools" data-i18n="tab_tools">Tools</button>
+        </div>
+        <div class="card-grid" id="subject-grid" aria-live="polite"></div>
+      </div>
+    </section>
+
+    <section class="section section-sunken" id="starred">
+      <div class="wrap">
+        <div class="section-head">
+          <p class="kicker" data-i18n="starred_kicker">02 — Most starred</p>
+          <h2 data-i18n="starred_title">The community’s favourites</h2>
+          <p data-i18n="starred_text">The most-starred process-based models and tools on the list.</p>
+        </div>
+        <ol class="starred-list" id="starred-list"></ol>
+      </div>
+    </section>
+
+    <section class="section" id="explore">
+      <div class="wrap">
+        <div class="section-head">
+          <p class="kicker" data-i18n="explore_kicker">03 — Explore</p>
+          <h2 data-i18n="explore_title">The full catalogue</h2>
+          <p data-i18n="explore_text">Filter every listed repository by type, crop or process, and programming language.</p>
+        </div>
+        <div class="explore-layout">
+          <aside class="filters" aria-label="Filters">
+            <label class="field">
+              <span data-i18n="f_search">Search</span>
+              <input type="search" id="q" autocomplete="off" spellcheck="false" data-i18n-placeholder="f_search_ph" placeholder="Name or description">
+            </label>
+            <div class="field">
+              <span data-i18n="f_type">Type</span>
+              <div class="type-list" id="type-list" role="radiogroup" aria-label="Type"></div>
+            </div>
+            <label class="field">
+              <span data-i18n="f_subject">Crop or process</span>
+              <select id="subject"></select>
+            </label>
+            <label class="field">
+              <span data-i18n="f_language">Language</span>
+              <select id="language"></select>
+            </label>
+            <label class="field">
+              <span data-i18n="f_sort">Sort</span>
+              <select id="sort">
+                <option value="stars" data-i18n="sort_stars">Most stars</option>
+                <option value="name" data-i18n="sort_name">Name A–Z</option>
+              </select>
+            </label>
+            <button class="link-btn" type="button" id="reset" data-i18n="reset">Reset filters</button>
+          </aside>
+          <div class="results">
+            <p class="results-count" id="results-count" aria-live="polite"></p>
+            <ul class="result-list" id="results"></ul>
+            <div class="results-foot"><button class="btn btn-outline" type="button" id="more" hidden data-i18n="more">Show more</button></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="method">
+      <div class="wrap">
+        <div class="section-head">
+          <p class="kicker" data-i18n="method_kicker">04 — Method</p>
+          <h2 data-i18n="method_title">How the list is built</h2>
+        </div>
+        <div class="method-grid">
+          <article class="method-card">
+            <svg class="line-icon" viewBox="0 0 48 48" aria-hidden="true"><circle cx="21" cy="21" r="11"/><path d="m29 29 10 10"/><path d="M16 21h10M21 16v10"/></svg>
+            <h3 data-i18n="m1_title">Search widely</h3>
+            <p data-i18n="m1_text" data-fill></p>
+          </article>
+          <article class="method-card">
+            <svg class="line-icon" viewBox="0 0 48 48" aria-hidden="true"><path d="M24 40V22"/><path d="M24 22 13 12M24 22l11-10M24 30l-8-6M24 30l8-6"/><circle cx="13" cy="12" r="3"/><circle cx="35" cy="12" r="3"/><circle cx="24" cy="22" r="2"/></svg>
+            <h3 data-i18n="m2_title">Decide explicitly</h3>
+            <p data-i18n="m2_text" data-fill></p>
+          </article>
+          <article class="method-card">
+            <svg class="line-icon" viewBox="0 0 48 48" aria-hidden="true"><path d="M38 21A14 14 0 0 0 12.5 14"/><path d="M12 8v6.5h6.5"/><path d="M10 27a14 14 0 0 0 25.5 7"/><path d="M36 40v-6.5h-6.5"/></svg>
+            <h3 data-i18n="m3_title">Refresh daily</h3>
+            <p data-i18n="m3_text" data-fill></p>
+          </article>
+        </div>
+        <div class="cta">
+          <div>
+            <h3 data-i18n="cta_title">Know a model we missed?</h3>
+            <p data-i18n="cta_text">Suggest it with its crop or process. Corrections are welcome too.</p>
+          </div>
+          <div class="cta-actions">
+            <a class="btn btn-light repo-link" data-path="/issues/new" href="https://github.com/YuanyuanMa03/awesome-crop-models/issues/new" data-i18n="cta_issue">Suggest a repository</a>
+            <a class="btn btn-ghost-light repo-link" data-path="/blob/main/CONTRIBUTING.md" href="https://github.com/YuanyuanMa03/awesome-crop-models/blob/main/CONTRIBUTING.md" data-i18n="cta_guide">Contribution guide</a>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="wrap footer-inner">
+      <a class="brand small" href="#top">
+        <svg class="sprout" viewBox="0 0 32 32" aria-hidden="true"><path d="M16 27V14"/><path d="M16 18.5c0-5.4 3.6-9 9.2-9.5 0 5.8-3.6 9.5-9.2 9.5z"/><path d="M16 15.5c0-4.3-3-7.5-8.2-8 0 4.8 3.1 8 8.2 8z"/></svg>
+        <span>Awesome Crop Models</span>
+      </a>
+      <p class="footer-text" data-i18n="footer_text" data-fill></p>
+      <nav class="footer-links" aria-label="Project links">
+        <a class="repo-link" data-path="" href="https://github.com/YuanyuanMa03/awesome-crop-models">GitHub</a>
+        <a class="repo-link" data-path="/blob/main/docs/discovered.md" href="https://github.com/YuanyuanMa03/awesome-crop-models/blob/main/docs/discovered.md" data-i18n="f_queue">Review queue</a>
+        <a class="repo-link" data-path="/blob/main/docs/status.md" href="https://github.com/YuanyuanMa03/awesome-crop-models/blob/main/docs/status.md" data-i18n="f_status">Collection status</a>
+        <a class="repo-link" data-path="/blob/main/docs/README.zh-CN.md" href="https://github.com/YuanyuanMa03/awesome-crop-models/blob/main/docs/README.zh-CN.md">中文说明</a>
+      </nav>
+      <p class="fineprint" data-i18n="fineprint">MIT licence. Repository data comes from GitHub; each project keeps its own licence.</p>
+    </div>
+  </footer>
+
+  <script src="assets/app.js" defer></script>
+</body>
+</html>

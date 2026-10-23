@@ -156,13 +156,18 @@ def text(value):
     return re.sub(r"[\r\n\t]+", " ", str(value)).replace("|", "&#124;").replace("<", "&lt;").replace(">", "&gt;").replace("[", "&#91;").replace("]", "&#93;").strip()
 
 
-def describe(row, limit=200):
+def sentence(row, limit=200):
+    """The curated or GitHub description as plain text of at most limit characters, ending in punctuation."""
     value = " ".join(str(row["selection"].get("description") or row.get("description") or "").split())
     if len(value) > limit:
         value = value[:limit - 1].rsplit(" ", 1)[0].rstrip(",;:") + "…"
     if value and value[-1] not in ".!?…":
         value += "."
-    return text(value) or "No description provided."
+    return value
+
+
+def describe(row, limit=200):
+    return text(sentence(row, limit)) or "No description provided."
 
 
 def stars(count):
