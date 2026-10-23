@@ -47,6 +47,8 @@ jobs:
         if: ${{ always() && steps.verify.outcome == 'success' }}
         env:
           DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
+          OWNER: ${{ github.repository_owner }}
+          OWNER_ID: ${{ github.repository_owner_id }}
         run: |
           : "${DEFAULT_BRANCH:?Missing default branch metadata}"
           git add -A -- catalog/repositories.json state/discovery.json state/refresh.json state/health.json README.md docs
@@ -54,8 +56,9 @@ jobs:
             echo "No catalogue or health changes to publish."
             exit 0
           fi
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          # Commit as the repository owner (GitHub noreply address), so automation adds no other contributor.
+          git config user.name "$OWNER"
+          git config user.email "$OWNER_ID+$OWNER@users.noreply.github.com"
           git commit -m 'chore: update crop model catalogue and collection health'
           git push origin "HEAD:refs/heads/${DEFAULT_BRANCH}"
       - name: Preserve a failed collection outcome
