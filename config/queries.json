@@ -1,0 +1,2102 @@
+[
+  {
+    "id": "crop-model",
+    "query": "\"crop model\" in:name,description,readme"
+  },
+  {
+    "id": "crop-growth",
+    "query": "\"crop growth\" in:readme"
+  },
+  {
+    "id": "crop-simulation",
+    "query": "\"crop simulation\" in:readme"
+  },
+  {
+    "id": "cropping-systems",
+    "query": "\"cropping system\" in:readme"
+  },
+  {
+    "id": "mechanistic-crop",
+    "query": "mechanistic crop in:readme"
+  },
+  {
+    "id": "process-based-crop",
+    "query": "\"process-based\" crop in:readme"
+  },
+  {
+    "id": "crop-phenology",
+    "query": "phenology crop in:readme"
+  },
+  {
+    "id": "canopy-photosynthesis",
+    "query": "photosynthesis canopy in:readme"
+  },
+  {
+    "id": "stomatal-processes",
+    "query": "photosynthesis stomatal in:readme"
+  },
+  {
+    "id": "root-water-uptake",
+    "query": "\"root\" \"water uptake\" in:readme"
+  },
+  {
+    "id": "crop-nitrogen",
+    "query": "nitrogen \"crop model\" in:readme"
+  },
+  {
+    "id": "soil-carbon-crop",
+    "query": "soil carbon crop in:readme"
+  },
+  {
+    "id": "agroecosystem-ghg",
+    "query": "agroecosystem \"greenhouse gas\" in:readme"
+  },
+  {
+    "id": "crop-energy-balance",
+    "query": "\"energy balance\" crop in:readme"
+  },
+  {
+    "id": "functional-structural",
+    "query": "\"functional-structural\" plant in:readme"
+  },
+  {
+    "id": "cn-crop-model",
+    "query": "作物模型 in:readme"
+  },
+  {
+    "id": "cn-crop-growth",
+    "query": "作物生长 模型 in:readme"
+  },
+  {
+    "id": "cn-crop-simulation",
+    "query": "作物 模拟 机理 in:readme"
+  },
+  {
+    "id": "cn-rice-wheat",
+    "query": "水稻 小麦 模型 in:readme"
+  },
+  {
+    "id": "cn-photosynthesis",
+    "query": "光合作用 模型 in:readme"
+  },
+  {
+    "id": "cn-soil-nitrogen",
+    "query": "土壤 氮 模型 in:readme"
+  },
+  {
+    "id": "fr-crop-model",
+    "query": "\"modèle\" \"culture\" in:readme"
+  },
+  {
+    "id": "es-crop-model",
+    "query": "\"modelo\" \"cultivo\" in:readme"
+  },
+  {
+    "id": "model-apsim",
+    "query": "APSIM in:name,description,readme"
+  },
+  {
+    "id": "model-dssat",
+    "query": "DSSAT in:name,description,readme"
+  },
+  {
+    "id": "model-aquacrop",
+    "query": "AquaCrop in:name,description,readme"
+  },
+  {
+    "id": "model-wofost",
+    "query": "WOFOST in:name,description,readme"
+  },
+  {
+    "id": "model-stics",
+    "query": "STICS crop in:readme"
+  },
+  {
+    "id": "model-oryza",
+    "query": "ORYZA crop in:readme"
+  },
+  {
+    "id": "model-lintul",
+    "query": "LINTUL in:name,description,readme"
+  },
+  {
+    "id": "model-sucros",
+    "query": "SUCROS in:readme"
+  },
+  {
+    "id": "model-cropsyst",
+    "query": "CropSyst in:name,description,readme"
+  },
+  {
+    "id": "model-monica",
+    "query": "MONICA crop in:readme"
+  },
+  {
+    "id": "model-dndc",
+    "query": "DNDC soil in:readme"
+  },
+  {
+    "id": "model-rothc",
+    "query": "RothC in:name,description,readme"
+  },
+  {
+    "id": "model-maizsim",
+    "query": "MAIZSIM in:readme"
+  },
+  {
+    "id": "model-cplantbox",
+    "query": "CPlantBox in:readme"
+  },
+  {
+    "id": "model-biocro",
+    "query": "BioCro in:name,description,readme"
+  },
+  {
+    "id": "topic-crop-model",
+    "query": "topic:crop-model"
+  },
+  {
+    "id": "topic-crop-modeling",
+    "query": "topic:crop-modeling"
+  },
+  {
+    "id": "topic-crop-simulation",
+    "query": "topic:crop-simulation-models"
+  },
+  {
+    "id": "topic-fspm",
+    "query": "topic:fspm"
+  },
+  {
+    "id": "topic-plant-soil",
+    "query": "topic:plant-soil-interaction"
+  },
+  {
+    "id": "topic-aquacrop",
+    "query": "topic:aquacrop"
+  },
+  {
+    "id": "gen-crop-models",
+    "query": "\"crop models\""
+  },
+  {
+    "id": "gen-crop-modeling",
+    "query": "\"crop modeling\""
+  },
+  {
+    "id": "gen-crop-modelling",
+    "query": "\"crop modelling\""
+  },
+  {
+    "id": "gen-crop-simulation",
+    "query": "crop simulation"
+  },
+  {
+    "id": "gen-crop-growth",
+    "query": "crop growth"
+  },
+  {
+    "id": "gen-cropping-system",
+    "query": "\"cropping system\""
+  },
+  {
+    "id": "gen-cropping-systems",
+    "query": "\"cropping systems\""
+  },
+  {
+    "id": "gen-plant-growth-model",
+    "query": "plant growth model"
+  },
+  {
+    "id": "gen-plant-growth-simulation",
+    "query": "plant growth simulation"
+  },
+  {
+    "id": "gen-agroecosystem",
+    "query": "agroecosystem"
+  },
+  {
+    "id": "gen-agro-ecosystem",
+    "query": "\"agro-ecosystem\""
+  },
+  {
+    "id": "gen-agricultural-model",
+    "query": "\"agricultural model\""
+  },
+  {
+    "id": "gen-agricultural-simulation",
+    "query": "\"agricultural simulation\""
+  },
+  {
+    "id": "gen-farm-model",
+    "query": "\"farm model\""
+  },
+  {
+    "id": "gen-whole-farm",
+    "query": "\"whole farm\""
+  },
+  {
+    "id": "gen-farming-system",
+    "query": "\"farming system\" model"
+  },
+  {
+    "id": "gen-yield-gap",
+    "query": "\"yield gap\""
+  },
+  {
+    "id": "gen-process-based",
+    "query": "process-based crop"
+  },
+  {
+    "id": "gen-mechanistic",
+    "query": "mechanistic crop model"
+  },
+  {
+    "id": "gen-crop-physiology",
+    "query": "crop physiology"
+  },
+  {
+    "id": "gen-agronomic-model",
+    "query": "agronomic model"
+  },
+  {
+    "id": "gen-digital-twin-crop",
+    "query": "digital twin crop"
+  },
+  {
+    "id": "gen-digital-twin-agri",
+    "query": "digital twin agriculture"
+  },
+  {
+    "id": "gen-crop-yield-simulation",
+    "query": "crop yield simulation"
+  },
+  {
+    "id": "gen-water-productivity",
+    "query": "\"water productivity\" crop"
+  },
+  {
+    "id": "gen-climate-impact-crop",
+    "query": "climate change crop yield"
+  },
+  {
+    "id": "gen-intercropping",
+    "query": "intercropping model"
+  },
+  {
+    "id": "gen-agroforestry",
+    "query": "agroforestry model"
+  },
+  {
+    "id": "gen-cover-crop",
+    "query": "cover crop model"
+  },
+  {
+    "id": "gen-crop-rotation",
+    "query": "crop rotation simulation"
+  },
+  {
+    "id": "gen-crop-ecophysiology",
+    "query": "ecophysiology model"
+  },
+  {
+    "id": "proc-phenology-model",
+    "query": "phenology model"
+  },
+  {
+    "id": "proc-growing-degree",
+    "query": "\"growing degree\""
+  },
+  {
+    "id": "proc-thermal-time",
+    "query": "\"thermal time\""
+  },
+  {
+    "id": "proc-leaf-area",
+    "query": "\"leaf area\" model"
+  },
+  {
+    "id": "proc-rue",
+    "query": "\"radiation use efficiency\""
+  },
+  {
+    "id": "proc-light-interception",
+    "query": "light interception"
+  },
+  {
+    "id": "proc-canopy-photosynthesis",
+    "query": "canopy photosynthesis"
+  },
+  {
+    "id": "proc-leaf-photosynthesis",
+    "query": "leaf photosynthesis"
+  },
+  {
+    "id": "proc-photosynthesis-model",
+    "query": "photosynthesis model"
+  },
+  {
+    "id": "proc-farquhar",
+    "query": "Farquhar photosynthesis"
+  },
+  {
+    "id": "proc-stomatal",
+    "query": "stomatal conductance"
+  },
+  {
+    "id": "proc-canopy-rt",
+    "query": "canopy radiative transfer"
+  },
+  {
+    "id": "proc-fspm",
+    "query": "FSPM"
+  },
+  {
+    "id": "proc-plant-architecture",
+    "query": "plant architecture model"
+  },
+  {
+    "id": "proc-virtual-plant",
+    "query": "\"virtual plant\""
+  },
+  {
+    "id": "proc-lsystem",
+    "query": "L-system plant"
+  },
+  {
+    "id": "proc-3d-plant",
+    "query": "3D plant growth"
+  },
+  {
+    "id": "proc-root-architecture",
+    "query": "root architecture"
+  },
+  {
+    "id": "proc-root-system",
+    "query": "\"root system\" model"
+  },
+  {
+    "id": "proc-root-growth",
+    "query": "root growth model"
+  },
+  {
+    "id": "proc-rhizosphere",
+    "query": "rhizosphere model"
+  },
+  {
+    "id": "proc-plant-hydraulics",
+    "query": "plant hydraulics"
+  },
+  {
+    "id": "proc-soil-water-balance",
+    "query": "soil water balance"
+  },
+  {
+    "id": "proc-soil-water-model",
+    "query": "soil water model"
+  },
+  {
+    "id": "proc-soil-moisture-model",
+    "query": "soil moisture model"
+  },
+  {
+    "id": "proc-soil-moisture-simulation",
+    "query": "soil moisture simulation"
+  },
+  {
+    "id": "proc-richards",
+    "query": "\"Richards equation\""
+  },
+  {
+    "id": "proc-vadose",
+    "query": "\"vadose zone\""
+  },
+  {
+    "id": "proc-unsaturated",
+    "query": "unsaturated flow soil"
+  },
+  {
+    "id": "proc-soil-temperature",
+    "query": "soil temperature model"
+  },
+  {
+    "id": "proc-soil-heat",
+    "query": "\"soil heat\""
+  },
+  {
+    "id": "proc-soil-carbon-model",
+    "query": "soil carbon model"
+  },
+  {
+    "id": "proc-soc",
+    "query": "\"soil organic carbon\" model"
+  },
+  {
+    "id": "proc-som",
+    "query": "\"soil organic matter\" model"
+  },
+  {
+    "id": "proc-decomposition",
+    "query": "litter decomposition model"
+  },
+  {
+    "id": "proc-carbon-sequestration",
+    "query": "soil carbon sequestration"
+  },
+  {
+    "id": "proc-nitrogen-crop",
+    "query": "nitrogen crop model"
+  },
+  {
+    "id": "proc-nitrogen-cycle",
+    "query": "nitrogen cycle soil"
+  },
+  {
+    "id": "proc-nitrogen-leaching",
+    "query": "\"nitrogen leaching\""
+  },
+  {
+    "id": "proc-nitrate-leaching",
+    "query": "\"nitrate leaching\""
+  },
+  {
+    "id": "proc-nitrogen-balance",
+    "query": "\"nitrogen balance\""
+  },
+  {
+    "id": "proc-nutrient-uptake",
+    "query": "nutrient uptake model"
+  },
+  {
+    "id": "proc-phosphorus",
+    "query": "phosphorus soil model"
+  },
+  {
+    "id": "proc-n2o",
+    "query": "N2O emission"
+  },
+  {
+    "id": "proc-nitrous-oxide",
+    "query": "\"nitrous oxide\" model"
+  },
+  {
+    "id": "proc-methane-rice",
+    "query": "methane rice paddy"
+  },
+  {
+    "id": "proc-ghg-agriculture",
+    "query": "greenhouse gas agriculture model"
+  },
+  {
+    "id": "proc-evapotranspiration",
+    "query": "evapotranspiration"
+  },
+  {
+    "id": "proc-penman",
+    "query": "Penman-Monteith"
+  },
+  {
+    "id": "proc-crop-coefficient",
+    "query": "\"crop coefficient\""
+  },
+  {
+    "id": "proc-fao56",
+    "query": "FAO-56"
+  },
+  {
+    "id": "proc-fao56b",
+    "query": "FAO56"
+  },
+  {
+    "id": "proc-energy-balance",
+    "query": "\"surface energy balance\""
+  },
+  {
+    "id": "proc-irrigation-scheduling",
+    "query": "irrigation scheduling"
+  },
+  {
+    "id": "proc-irrigation-model",
+    "query": "irrigation model"
+  },
+  {
+    "id": "proc-irrigation-simulation",
+    "query": "irrigation simulation"
+  },
+  {
+    "id": "proc-water-balance-crop",
+    "query": "water balance crop"
+  },
+  {
+    "id": "proc-deficit-irrigation",
+    "query": "deficit irrigation"
+  },
+  {
+    "id": "proc-crop-water-requirement",
+    "query": "\"crop water requirement\""
+  },
+  {
+    "id": "proc-weather-generator",
+    "query": "\"weather generator\""
+  },
+  {
+    "id": "proc-stochastic-weather",
+    "query": "stochastic weather"
+  },
+  {
+    "id": "proc-agrometeorology",
+    "query": "agrometeorology"
+  },
+  {
+    "id": "proc-agrometeorological",
+    "query": "agrometeorological"
+  },
+  {
+    "id": "proc-agroclimatic",
+    "query": "agroclimatic"
+  },
+  {
+    "id": "proc-crop-disease-model",
+    "query": "crop disease model"
+  },
+  {
+    "id": "proc-disease-epidemiology",
+    "query": "plant disease epidemiology"
+  },
+  {
+    "id": "proc-epidemic-crop",
+    "query": "epidemic model crop"
+  },
+  {
+    "id": "proc-disease-forecast",
+    "query": "disease forecasting crop"
+  },
+  {
+    "id": "proc-pest-model",
+    "query": "pest population model"
+  },
+  {
+    "id": "proc-insect-phenology",
+    "query": "insect phenology"
+  },
+  {
+    "id": "proc-degree-day-pest",
+    "query": "degree-day pest"
+  },
+  {
+    "id": "proc-weed-competition",
+    "query": "weed competition"
+  },
+  {
+    "id": "proc-crop-weed",
+    "query": "crop weed model"
+  },
+  {
+    "id": "proc-watershed-agri",
+    "query": "watershed model agricultural"
+  },
+  {
+    "id": "proc-erosion-model",
+    "query": "soil erosion model"
+  },
+  {
+    "id": "proc-land-surface-crop",
+    "query": "land surface model crop"
+  },
+  {
+    "id": "proc-dgvm",
+    "query": "dynamic global vegetation model"
+  },
+  {
+    "id": "proc-dgvm2",
+    "query": "DGVM"
+  },
+  {
+    "id": "proc-greenhouse-climate",
+    "query": "greenhouse climate model"
+  },
+  {
+    "id": "proc-greenhouse-simulation",
+    "query": "greenhouse simulation"
+  },
+  {
+    "id": "proc-greenhouse-crop",
+    "query": "greenhouse crop model"
+  },
+  {
+    "id": "proc-vertical-farm",
+    "query": "vertical farming model"
+  },
+  {
+    "id": "proc-cea",
+    "query": "\"controlled environment agriculture\""
+  },
+  {
+    "id": "proc-salinity",
+    "query": "salinity crop model"
+  },
+  {
+    "id": "proc-heat-stress-crop",
+    "query": "heat stress crop"
+  },
+  {
+    "id": "proc-frost-crop",
+    "query": "frost crop model"
+  },
+  {
+    "id": "proc-chilling",
+    "query": "chilling requirement"
+  },
+  {
+    "id": "proc-crop-water-stress",
+    "query": "\"water stress\" crop model"
+  },
+  {
+    "id": "proc-hydrological-crop",
+    "query": "hydrological model crop"
+  },
+  {
+    "id": "crop-rice-model",
+    "query": "rice model"
+  },
+  {
+    "id": "crop-rice-growth",
+    "query": "rice growth"
+  },
+  {
+    "id": "crop-rice-simulation",
+    "query": "rice simulation"
+  },
+  {
+    "id": "crop-wheat-model",
+    "query": "wheat model"
+  },
+  {
+    "id": "crop-wheat-growth",
+    "query": "wheat growth"
+  },
+  {
+    "id": "crop-wheat-simulation",
+    "query": "wheat simulation"
+  },
+  {
+    "id": "crop-maize-model",
+    "query": "maize model"
+  },
+  {
+    "id": "crop-maize-growth",
+    "query": "maize growth"
+  },
+  {
+    "id": "crop-maize-simulation",
+    "query": "maize simulation"
+  },
+  {
+    "id": "crop-corn-growth",
+    "query": "corn growth"
+  },
+  {
+    "id": "crop-corn-model",
+    "query": "corn crop model"
+  },
+  {
+    "id": "crop-soybean-model",
+    "query": "soybean model"
+  },
+  {
+    "id": "crop-soybean-growth",
+    "query": "soybean growth"
+  },
+  {
+    "id": "crop-potato-model",
+    "query": "potato model"
+  },
+  {
+    "id": "crop-potato-growth",
+    "query": "potato growth"
+  },
+  {
+    "id": "crop-cotton-model",
+    "query": "cotton model"
+  },
+  {
+    "id": "crop-cotton-growth",
+    "query": "cotton growth"
+  },
+  {
+    "id": "crop-sugarcane-model",
+    "query": "sugarcane model"
+  },
+  {
+    "id": "crop-sugarcane-growth",
+    "query": "sugarcane growth"
+  },
+  {
+    "id": "crop-sugarbeet",
+    "query": "sugar beet model"
+  },
+  {
+    "id": "crop-cassava",
+    "query": "cassava model"
+  },
+  {
+    "id": "crop-cassava-growth",
+    "query": "cassava growth"
+  },
+  {
+    "id": "crop-sorghum",
+    "query": "sorghum model"
+  },
+  {
+    "id": "crop-barley",
+    "query": "barley model"
+  },
+  {
+    "id": "crop-millet",
+    "query": "millet model"
+  },
+  {
+    "id": "crop-peanut",
+    "query": "peanut model"
+  },
+  {
+    "id": "crop-groundnut",
+    "query": "groundnut model"
+  },
+  {
+    "id": "crop-canola",
+    "query": "canola model"
+  },
+  {
+    "id": "crop-rapeseed",
+    "query": "rapeseed model"
+  },
+  {
+    "id": "crop-sunflower",
+    "query": "sunflower crop model"
+  },
+  {
+    "id": "crop-chickpea",
+    "query": "chickpea model"
+  },
+  {
+    "id": "crop-bean",
+    "query": "bean crop model"
+  },
+  {
+    "id": "crop-tomato",
+    "query": "tomato growth model"
+  },
+  {
+    "id": "crop-tomato-crop",
+    "query": "tomato crop model"
+  },
+  {
+    "id": "crop-cucumber",
+    "query": "cucumber growth"
+  },
+  {
+    "id": "crop-lettuce",
+    "query": "lettuce growth model"
+  },
+  {
+    "id": "crop-strawberry",
+    "query": "strawberry growth model"
+  },
+  {
+    "id": "crop-grapevine",
+    "query": "grapevine model"
+  },
+  {
+    "id": "crop-vineyard",
+    "query": "vineyard model"
+  },
+  {
+    "id": "crop-apple",
+    "query": "apple tree model"
+  },
+  {
+    "id": "crop-fruit-tree",
+    "query": "fruit tree model"
+  },
+  {
+    "id": "crop-orchard",
+    "query": "orchard model"
+  },
+  {
+    "id": "crop-citrus",
+    "query": "citrus model"
+  },
+  {
+    "id": "crop-olive",
+    "query": "olive tree model"
+  },
+  {
+    "id": "crop-coffee",
+    "query": "coffee crop model"
+  },
+  {
+    "id": "crop-coffee-growth",
+    "query": "coffee plant growth"
+  },
+  {
+    "id": "crop-cocoa",
+    "query": "cocoa model"
+  },
+  {
+    "id": "crop-cacao",
+    "query": "cacao model"
+  },
+  {
+    "id": "crop-tea",
+    "query": "tea plant model"
+  },
+  {
+    "id": "crop-oil-palm",
+    "query": "\"oil palm\""
+  },
+  {
+    "id": "crop-banana",
+    "query": "banana growth"
+  },
+  {
+    "id": "crop-grassland",
+    "query": "grassland model"
+  },
+  {
+    "id": "crop-pasture-model",
+    "query": "pasture model"
+  },
+  {
+    "id": "crop-pasture-growth",
+    "query": "pasture growth"
+  },
+  {
+    "id": "crop-grass-growth",
+    "query": "grass growth model"
+  },
+  {
+    "id": "crop-forage",
+    "query": "forage model"
+  },
+  {
+    "id": "crop-alfalfa",
+    "query": "alfalfa model"
+  },
+  {
+    "id": "crop-grazing",
+    "query": "grazing model"
+  },
+  {
+    "id": "crop-miscanthus",
+    "query": "miscanthus"
+  },
+  {
+    "id": "crop-switchgrass",
+    "query": "switchgrass"
+  },
+  {
+    "id": "crop-bioenergy",
+    "query": "bioenergy crop model"
+  },
+  {
+    "id": "crop-hemp",
+    "query": "hemp growth model"
+  },
+  {
+    "id": "crop-onion",
+    "query": "onion crop model"
+  },
+  {
+    "id": "crop-sweet-potato",
+    "query": "sweet potato model"
+  },
+  {
+    "id": "dd-crop-yield",
+    "query": "\"crop yield\""
+  },
+  {
+    "id": "dd-crop-yield-prediction",
+    "query": "crop yield prediction"
+  },
+  {
+    "id": "dd-crop-yield-forecast",
+    "query": "crop yield forecast"
+  },
+  {
+    "id": "dd-crop-yield-forecasting",
+    "query": "crop yield forecasting"
+  },
+  {
+    "id": "dd-crop-yield-estimation",
+    "query": "crop yield estimation"
+  },
+  {
+    "id": "dd-yield-prediction-crop",
+    "query": "\"yield prediction\" crop"
+  },
+  {
+    "id": "dd-yield-prediction-agri",
+    "query": "\"yield prediction\" agriculture"
+  },
+  {
+    "id": "dd-yield-forecasting-agri",
+    "query": "\"yield forecasting\""
+  },
+  {
+    "id": "dd-yield-estimation",
+    "query": "\"yield estimation\""
+  },
+  {
+    "id": "dd-crop-production-prediction",
+    "query": "crop production prediction"
+  },
+  {
+    "id": "dd-agricultural-yield",
+    "query": "agricultural yield prediction"
+  },
+  {
+    "id": "dd-harvest-prediction",
+    "query": "harvest prediction"
+  },
+  {
+    "id": "dd-rice-yield",
+    "query": "rice yield"
+  },
+  {
+    "id": "dd-wheat-yield",
+    "query": "wheat yield"
+  },
+  {
+    "id": "dd-maize-yield",
+    "query": "maize yield"
+  },
+  {
+    "id": "dd-corn-yield",
+    "query": "corn yield"
+  },
+  {
+    "id": "dd-soybean-yield",
+    "query": "soybean yield"
+  },
+  {
+    "id": "dd-potato-yield",
+    "query": "potato yield"
+  },
+  {
+    "id": "dd-cotton-yield",
+    "query": "cotton yield"
+  },
+  {
+    "id": "dd-sugarcane-yield",
+    "query": "sugarcane yield"
+  },
+  {
+    "id": "dd-coffee-yield",
+    "query": "coffee yield"
+  },
+  {
+    "id": "dd-crop-growth-prediction",
+    "query": "crop growth prediction"
+  },
+  {
+    "id": "dd-plant-growth-prediction",
+    "query": "plant growth prediction"
+  },
+  {
+    "id": "dd-phenology-prediction",
+    "query": "phenology prediction"
+  },
+  {
+    "id": "dd-soil-moisture-prediction",
+    "query": "soil moisture prediction"
+  },
+  {
+    "id": "dd-soil-moisture-forecast",
+    "query": "soil moisture forecasting"
+  },
+  {
+    "id": "dd-et-prediction",
+    "query": "evapotranspiration prediction"
+  },
+  {
+    "id": "dd-et-ml",
+    "query": "evapotranspiration machine learning"
+  },
+  {
+    "id": "dd-et0-estimation",
+    "query": "ET0 estimation"
+  },
+  {
+    "id": "dd-biomass-estimation",
+    "query": "crop biomass estimation"
+  },
+  {
+    "id": "dd-lai-estimation",
+    "query": "\"leaf area index\" estimation"
+  },
+  {
+    "id": "dd-hybrid-crop",
+    "query": "hybrid crop model machine learning"
+  },
+  {
+    "id": "dd-physics-informed-crop",
+    "query": "physics-informed crop"
+  },
+  {
+    "id": "dd-crop-emulator",
+    "query": "crop model emulator"
+  },
+  {
+    "id": "dd-surrogate-crop",
+    "query": "surrogate crop model"
+  },
+  {
+    "id": "mdl-apsimx",
+    "query": "ApsimX in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-cropgro",
+    "query": "CROPGRO in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-pcse",
+    "query": "PCSE in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-lingra",
+    "query": "LINGRA in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-sucros",
+    "query": "SUCROS in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-simriw",
+    "query": "SIMRIW in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-ricegrow",
+    "query": "RiceGrow in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-wheatgrow",
+    "query": "WheatGrow in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-infocrop",
+    "query": "InfoCrop in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-siriusquality",
+    "query": "SiriusQuality in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-nwheat",
+    "query": "NWHEAT in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-maizsim",
+    "query": "MAIZSIM in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-glycim",
+    "query": "GLYCIM in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-gossym",
+    "query": "GOSSYM in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-spudsim",
+    "query": "SPUDSIM in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-substor",
+    "query": "SUBSTOR in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-canegro",
+    "query": "CANEGRO in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-mosicas",
+    "query": "MOSICAS in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-simplace",
+    "query": "SIMPLACE in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-expert-n",
+    "query": "\"Expert-N\" in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-cropwat",
+    "query": "CROPWAT in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-saltmed",
+    "query": "SALTMED in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-hydrus",
+    "query": "HYDRUS in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-dndc",
+    "query": "DNDC in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-daycent",
+    "query": "DayCent in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-yasso",
+    "query": "Yasso in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-lpjml",
+    "query": "LPJmL in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-lpj-guess",
+    "query": "\"LPJ-GUESS\" in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-orchidee",
+    "query": "ORCHIDEE in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-agro-ibis",
+    "query": "\"Agro-IBIS\" in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-pdssat",
+    "query": "pDSSAT in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-psims",
+    "query": "pSIMS in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-mcwla",
+    "query": "MCWLA in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-gepic",
+    "query": "GEPIC in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-biome-bgc",
+    "query": "\"Biome-BGC\" in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-groimp",
+    "query": "GroIMP in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-openalea",
+    "query": "OpenAlea in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-cplantbox",
+    "query": "CPlantBox in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-opensimroot",
+    "query": "OpenSimRoot in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-crootbox",
+    "query": "CRootBox in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-archisimple",
+    "query": "ArchiSimple in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-r-swms",
+    "query": "\"R-SWMS\" in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-maespa",
+    "query": "MAESPA in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-canveg",
+    "query": "CANVEG in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-plantecophys",
+    "query": "plantecophys in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-tomgro",
+    "query": "TOMGRO in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-tomsim",
+    "query": "TOMSIM in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-kaspro",
+    "query": "KASPRO in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-modvege",
+    "query": "ModVege in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-grazplan",
+    "query": "GRAZPLAN in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-grassgro",
+    "query": "GrassGro in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-basgra",
+    "query": "BASGRA in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-cropbox",
+    "query": "Cropbox in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-plantsimengine",
+    "query": "PlantSimEngine in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-xpalm",
+    "query": "XPalm in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-palmsim",
+    "query": "PALMSIM in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-cropsim",
+    "query": "CROPSIM in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-marksim",
+    "query": "MarkSim in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-lars-wg",
+    "query": "\"LARS-WG\" in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-cligen",
+    "query": "CLIGEN in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-gaez",
+    "query": "GAEZ in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-pyfao56",
+    "query": "pyfao56 in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-pyeto",
+    "query": "PyETo in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-stemmus",
+    "query": "STEMMUS in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-chillr",
+    "query": "chillR in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-pyphenology",
+    "query": "pyPhenology in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-crop2ml",
+    "query": "Crop2ML in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-cyml",
+    "query": "CyML in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-gecros",
+    "query": "GECROS in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-afrcwheat",
+    "query": "AFRCWHEAT in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-wanulcas",
+    "query": "WaNuLCAS in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-vegsyst",
+    "query": "VegSyst in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-agrotool",
+    "query": "Agrotool in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-croptimizr",
+    "query": "CroptimizR in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-agmip",
+    "query": "AgMIP in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-icasa",
+    "query": "ICASA in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-ggcmi",
+    "query": "GGCMI in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-ssebop",
+    "query": "SSEBop in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-sebal",
+    "query": "SEBAL in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-swatplus",
+    "query": "swatplus in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-oryza2000",
+    "query": "ORYZA2000 in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-ceres-maize",
+    "query": "CERES-Maize in:name,description,topics,readme"
+  },
+  {
+    "id": "mdl-ceres",
+    "query": "CERES crop"
+  },
+  {
+    "id": "mdl-ceres-wheat",
+    "query": "\"CERES-Wheat\""
+  },
+  {
+    "id": "mdl-ceres-rice",
+    "query": "\"CERES-Rice\""
+  },
+  {
+    "id": "mdl-swap",
+    "query": "SWAP soil water"
+  },
+  {
+    "id": "mdl-stics",
+    "query": "STICS crop"
+  },
+  {
+    "id": "mdl-monica",
+    "query": "MONICA crop"
+  },
+  {
+    "id": "mdl-daisy",
+    "query": "Daisy soil"
+  },
+  {
+    "id": "mdl-epic",
+    "query": "EPIC crop"
+  },
+  {
+    "id": "mdl-epic-readme",
+    "query": "\"EPIC model\" crop in:readme"
+  },
+  {
+    "id": "mdl-apex",
+    "query": "APEX agricultural"
+  },
+  {
+    "id": "mdl-oryza",
+    "query": "ORYZA rice"
+  },
+  {
+    "id": "mdl-cropgrow",
+    "query": "CropGrow crop"
+  },
+  {
+    "id": "mdl-sirius",
+    "query": "Sirius wheat"
+  },
+  {
+    "id": "mdl-hybrid-maize",
+    "query": "\"Hybrid-Maize\""
+  },
+  {
+    "id": "mdl-samara",
+    "query": "SAMARA crop"
+  },
+  {
+    "id": "mdl-hermes",
+    "query": "HERMES crop"
+  },
+  {
+    "id": "mdl-agroc",
+    "query": "AgroC soil"
+  },
+  {
+    "id": "mdl-salus",
+    "query": "SALUS crop"
+  },
+  {
+    "id": "mdl-cycles",
+    "query": "Cycles agroecosystem"
+  },
+  {
+    "id": "mdl-century",
+    "query": "CENTURY soil"
+  },
+  {
+    "id": "mdl-mimics",
+    "query": "MIMICS soil"
+  },
+  {
+    "id": "mdl-millennial",
+    "query": "Millennial soil carbon"
+  },
+  {
+    "id": "mdl-ctsm",
+    "query": "CTSM crop"
+  },
+  {
+    "id": "mdl-clm-crop",
+    "query": "CLM crop"
+  },
+  {
+    "id": "mdl-jules",
+    "query": "JULES crop"
+  },
+  {
+    "id": "mdl-pegasus",
+    "query": "PEGASUS crop"
+  },
+  {
+    "id": "mdl-glam",
+    "query": "GLAM crop"
+  },
+  {
+    "id": "mdl-greenlab",
+    "query": "GreenLab plant"
+  },
+  {
+    "id": "mdl-lpy",
+    "query": "\"L-Py\""
+  },
+  {
+    "id": "mdl-rootbox",
+    "query": "RootBox root"
+  },
+  {
+    "id": "mdl-maestra",
+    "query": "MAESTRA canopy"
+  },
+  {
+    "id": "mdl-scope",
+    "query": "SCOPE canopy"
+  },
+  {
+    "id": "mdl-greenlight",
+    "query": "GreenLight greenhouse"
+  },
+  {
+    "id": "mdl-pasim",
+    "query": "PaSim grassland"
+  },
+  {
+    "id": "mdl-wgen",
+    "query": "WGEN weather"
+  },
+  {
+    "id": "mdl-aez",
+    "query": "\"agro-ecological zoning\""
+  },
+  {
+    "id": "mdl-pt-jpl",
+    "query": "\"PT-JPL\""
+  },
+  {
+    "id": "mdl-noahmp-crop",
+    "query": "\"Noah-MP\" crop"
+  },
+  {
+    "id": "mdl-simple-crop",
+    "query": "\"SIMPLE\" crop model"
+  },
+  {
+    "id": "mdl-phenor",
+    "query": "phenor phenology"
+  },
+  {
+    "id": "mdl-pythia",
+    "query": "pythia DSSAT"
+  },
+  {
+    "id": "mdl-cgms",
+    "query": "CGMS crop"
+  },
+  {
+    "id": "mdl-candy",
+    "query": "CANDY soil"
+  },
+  {
+    "id": "mdl-almanac",
+    "query": "ALMANAC crop"
+  },
+  {
+    "id": "mdl-tseb",
+    "query": "TSEB evapotranspiration"
+  },
+  {
+    "id": "mdl-wepp",
+    "query": "WEPP erosion"
+  },
+  {
+    "id": "mdl-rusle",
+    "query": "RUSLE"
+  },
+  {
+    "id": "mdl-swat",
+    "query": "SWAT model"
+  },
+  {
+    "id": "mdl-pcse-readme",
+    "query": "PCSE crop in:readme"
+  },
+  {
+    "id": "mdl-daycent-readme",
+    "query": "DayCent in:readme"
+  },
+  {
+    "id": "mdl-lpjml-readme",
+    "query": "LPJmL in:readme"
+  },
+  {
+    "id": "mdl-swat-readme",
+    "query": "SWAT watershed in:readme"
+  },
+  {
+    "id": "rd-crop-simulation-model",
+    "query": "\"crop simulation model\" in:readme"
+  },
+  {
+    "id": "rd-crop-growth-model",
+    "query": "\"crop growth model\" in:readme"
+  },
+  {
+    "id": "rd-crop-modelling",
+    "query": "\"crop modelling\" in:readme"
+  },
+  {
+    "id": "rd-crop-modeling",
+    "query": "\"crop modeling\" in:readme"
+  },
+  {
+    "id": "rd-cropping-system-model",
+    "query": "\"cropping system model\" in:readme"
+  },
+  {
+    "id": "rd-functional-structural",
+    "query": "\"functional-structural plant\" in:readme"
+  },
+  {
+    "id": "rd-soil-water-balance",
+    "query": "\"soil water balance\" in:readme"
+  },
+  {
+    "id": "rd-soil-carbon-model",
+    "query": "\"soil carbon model\" in:readme"
+  },
+  {
+    "id": "rd-plant-growth-model",
+    "query": "\"plant growth model\" in:readme"
+  },
+  {
+    "id": "topic-crop-models",
+    "query": "topic:crop-models"
+  },
+  {
+    "id": "topic-crop-modelling",
+    "query": "topic:crop-modelling"
+  },
+  {
+    "id": "topic-crop-simulation-model",
+    "query": "topic:crop-simulation-model"
+  },
+  {
+    "id": "topic-crop-growth",
+    "query": "topic:crop-growth"
+  },
+  {
+    "id": "topic-crop-growth-model",
+    "query": "topic:crop-growth-model"
+  },
+  {
+    "id": "topic-crop-yield",
+    "query": "topic:crop-yield"
+  },
+  {
+    "id": "topic-crop-yield-prediction",
+    "query": "topic:crop-yield-prediction"
+  },
+  {
+    "id": "topic-yield-prediction",
+    "query": "topic:yield-prediction"
+  },
+  {
+    "id": "topic-yield-forecasting",
+    "query": "topic:yield-forecasting"
+  },
+  {
+    "id": "topic-crop-yield-forecasting",
+    "query": "topic:crop-yield-forecasting"
+  },
+  {
+    "id": "topic-agricultural-modeling",
+    "query": "topic:agricultural-modeling"
+  },
+  {
+    "id": "topic-agricultural-modelling",
+    "query": "topic:agricultural-modelling"
+  },
+  {
+    "id": "topic-agriculture-modeling",
+    "query": "topic:agriculture-modeling"
+  },
+  {
+    "id": "topic-agronomy",
+    "query": "topic:agronomy"
+  },
+  {
+    "id": "topic-agroecosystem",
+    "query": "topic:agroecosystem"
+  },
+  {
+    "id": "topic-functional-structural-plant-models",
+    "query": "topic:functional-structural-plant-models"
+  },
+  {
+    "id": "topic-plant-modeling",
+    "query": "topic:plant-modeling"
+  },
+  {
+    "id": "topic-plant-modelling",
+    "query": "topic:plant-modelling"
+  },
+  {
+    "id": "topic-plant-growth",
+    "query": "topic:plant-growth"
+  },
+  {
+    "id": "topic-plant-growth-model",
+    "query": "topic:plant-growth-model"
+  },
+  {
+    "id": "topic-plant-growth-simulation",
+    "query": "topic:plant-growth-simulation"
+  },
+  {
+    "id": "topic-phenology",
+    "query": "topic:phenology"
+  },
+  {
+    "id": "topic-photosynthesis",
+    "query": "topic:photosynthesis"
+  },
+  {
+    "id": "topic-evapotranspiration",
+    "query": "topic:evapotranspiration"
+  },
+  {
+    "id": "topic-soil-carbon",
+    "query": "topic:soil-carbon"
+  },
+  {
+    "id": "topic-soil-organic-carbon",
+    "query": "topic:soil-organic-carbon"
+  },
+  {
+    "id": "topic-soil-water",
+    "query": "topic:soil-water"
+  },
+  {
+    "id": "topic-soil-hydrology",
+    "query": "topic:soil-hydrology"
+  },
+  {
+    "id": "topic-soil-physics",
+    "query": "topic:soil-physics"
+  },
+  {
+    "id": "topic-irrigation-scheduling",
+    "query": "topic:irrigation-scheduling"
+  },
+  {
+    "id": "topic-apsim",
+    "query": "topic:apsim"
+  },
+  {
+    "id": "topic-apsimx",
+    "query": "topic:apsimx"
+  },
+  {
+    "id": "topic-dssat",
+    "query": "topic:dssat"
+  },
+  {
+    "id": "topic-wofost",
+    "query": "topic:wofost"
+  },
+  {
+    "id": "topic-pcse",
+    "query": "topic:pcse"
+  },
+  {
+    "id": "topic-stics",
+    "query": "topic:stics"
+  },
+  {
+    "id": "topic-swat",
+    "query": "topic:swat"
+  },
+  {
+    "id": "topic-swat-model",
+    "query": "topic:swat-model"
+  },
+  {
+    "id": "topic-lpjml",
+    "query": "topic:lpjml"
+  },
+  {
+    "id": "topic-dndc",
+    "query": "topic:dndc"
+  },
+  {
+    "id": "topic-rothc",
+    "query": "topic:rothc"
+  },
+  {
+    "id": "topic-biocro",
+    "query": "topic:biocro"
+  },
+  {
+    "id": "topic-cropbox",
+    "query": "topic:cropbox"
+  },
+  {
+    "id": "topic-openalea",
+    "query": "topic:openalea"
+  },
+  {
+    "id": "topic-crop2ml",
+    "query": "topic:crop2ml"
+  },
+  {
+    "id": "topic-agmip",
+    "query": "topic:agmip"
+  },
+  {
+    "id": "topic-ecophysiology",
+    "query": "topic:ecophysiology"
+  },
+  {
+    "id": "topic-plant-physiology",
+    "query": "topic:plant-physiology"
+  },
+  {
+    "id": "topic-crop-science",
+    "query": "topic:crop-science"
+  },
+  {
+    "id": "topic-digital-agriculture",
+    "query": "topic:digital-agriculture"
+  },
+  {
+    "id": "topic-agricultural-science",
+    "query": "topic:agricultural-science"
+  },
+  {
+    "id": "topic-soil-moisture-prediction",
+    "query": "topic:soil-moisture-prediction"
+  },
+  {
+    "id": "topic-evapotranspiration-estimation",
+    "query": "topic:evapotranspiration-estimation"
+  },
+  {
+    "id": "topic-crop-model-calibration",
+    "query": "topic:crop-model-calibration"
+  },
+  {
+    "id": "topic-process-based-model",
+    "query": "topic:process-based-model"
+  },
+  {
+    "id": "zh-crop-growth-model",
+    "query": "作物生长模型"
+  },
+  {
+    "id": "zh-crop-growth",
+    "query": "作物生长"
+  },
+  {
+    "id": "zh-crop-sim",
+    "query": "作物模拟"
+  },
+  {
+    "id": "zh-crop-model-name",
+    "query": "作物模型"
+  },
+  {
+    "id": "zh-crop-coefficient",
+    "query": "作物系数"
+  },
+  {
+    "id": "zh-rice-model",
+    "query": "水稻模型"
+  },
+  {
+    "id": "zh-rice-growth",
+    "query": "水稻生长"
+  },
+  {
+    "id": "zh-wheat-model",
+    "query": "小麦模型"
+  },
+  {
+    "id": "zh-wheat-growth",
+    "query": "小麦生长"
+  },
+  {
+    "id": "zh-maize-model",
+    "query": "玉米模型"
+  },
+  {
+    "id": "zh-maize-growth",
+    "query": "玉米生长"
+  },
+  {
+    "id": "zh-soy-growth",
+    "query": "大豆生长"
+  },
+  {
+    "id": "zh-cotton-growth",
+    "query": "棉花生长"
+  },
+  {
+    "id": "zh-yield-prediction",
+    "query": "产量预测"
+  },
+  {
+    "id": "zh-crop-yield",
+    "query": "作物产量"
+  },
+  {
+    "id": "zh-yield-estimation",
+    "query": "估产"
+  },
+  {
+    "id": "zh-soil-moisture",
+    "query": "土壤水分 模型"
+  },
+  {
+    "id": "zh-soil-carbon",
+    "query": "土壤碳"
+  },
+  {
+    "id": "zh-et",
+    "query": "蒸散"
+  },
+  {
+    "id": "zh-et2",
+    "query": "蒸散发"
+  },
+  {
+    "id": "zh-photosynthesis",
+    "query": "光合 模型"
+  },
+  {
+    "id": "zh-phenology",
+    "query": "物候 模型"
+  },
+  {
+    "id": "zh-root",
+    "query": "根系 模型"
+  },
+  {
+    "id": "zh-plant-growth",
+    "query": "植物生长 模拟"
+  },
+  {
+    "id": "zh-virtual-plant",
+    "query": "虚拟植物"
+  },
+  {
+    "id": "zh-fspm",
+    "query": "功能结构 植物"
+  },
+  {
+    "id": "zh-greenhouse",
+    "query": "温室 模型"
+  },
+  {
+    "id": "zh-irrigation",
+    "query": "灌溉 模型"
+  },
+  {
+    "id": "zh-agri-model",
+    "query": "农业模型"
+  },
+  {
+    "id": "zh-agri-sim",
+    "query": "农业 模拟"
+  },
+  {
+    "id": "zh-growth-period",
+    "query": "生育期 模型"
+  },
+  {
+    "id": "ja-crop-model",
+    "query": "作物モデル"
+  },
+  {
+    "id": "ja-growth-model",
+    "query": "生育モデル"
+  },
+  {
+    "id": "ja-growth-sim",
+    "query": "生育シミュレーション"
+  },
+  {
+    "id": "ja-yield-prediction",
+    "query": "収量予測"
+  },
+  {
+    "id": "ko-crop-model",
+    "query": "작물 모델"
+  },
+  {
+    "id": "ko-crop-model2",
+    "query": "작물모델"
+  },
+  {
+    "id": "ko-growth-model",
+    "query": "생육 모델"
+  },
+  {
+    "id": "ko-yield-prediction",
+    "query": "수확량 예측"
+  },
+  {
+    "id": "es-modelo-cultivo",
+    "query": "\"modelo de cultivo\""
+  },
+  {
+    "id": "es-modelos-cultivo",
+    "query": "\"modelos de cultivo\""
+  },
+  {
+    "id": "es-simulacion-cultivos",
+    "query": "\"simulación de cultivos\""
+  },
+  {
+    "id": "es-crecimiento-cultivos",
+    "query": "\"crecimiento de cultivos\""
+  },
+  {
+    "id": "es-rendimiento-cultivos",
+    "query": "\"rendimiento de cultivos\""
+  },
+  {
+    "id": "es-prediccion-rendimiento",
+    "query": "\"predicción de rendimiento\""
+  },
+  {
+    "id": "pt-modelo-cultura",
+    "query": "\"modelo de cultura\""
+  },
+  {
+    "id": "pt-modelagem-agricola",
+    "query": "\"modelagem agrícola\""
+  },
+  {
+    "id": "pt-simulacao-culturas",
+    "query": "\"simulação de culturas\""
+  },
+  {
+    "id": "pt-crescimento-culturas",
+    "query": "\"crescimento de culturas\""
+  },
+  {
+    "id": "pt-previsao-produtividade",
+    "query": "\"previsão de produtividade\""
+  },
+  {
+    "id": "pt-produtividade-agricola",
+    "query": "\"produtividade agrícola\""
+  },
+  {
+    "id": "fr-modele-croissance",
+    "query": "\"modèle de croissance\""
+  },
+  {
+    "id": "fr-rendement-cultures",
+    "query": "\"rendement des cultures\""
+  },
+  {
+    "id": "de-pflanzenwachstum",
+    "query": "Pflanzenwachstum"
+  },
+  {
+    "id": "de-ertragsmodell",
+    "query": "Ertragsmodell"
+  },
+  {
+    "id": "de-ertragsprognose",
+    "query": "Ertragsprognose"
+  },
+  {
+    "id": "ru-model-rosta",
+    "query": "\"модель роста\""
+  },
+  {
+    "id": "ru-urozhainost",
+    "query": "урожайность"
+  },
+  {
+    "id": "it-modello-colturale",
+    "query": "\"modello colturale\""
+  },
+  {
+    "id": "id-prediksi-panen",
+    "query": "\"prediksi hasil panen\""
+  },
+  {
+    "id": "id-prediksi-panen2",
+    "query": "\"prediksi panen\""
+  },
+  {
+    "id": "id-pertumbuhan-tanaman",
+    "query": "\"pertumbuhan tanaman\""
+  },
+  {
+    "id": "vi-nang-suat",
+    "query": "\"dự đoán năng suất\""
+  },
+  {
+    "id": "tr-verim-tahmini",
+    "query": "\"verim tahmini\""
+  }
+]

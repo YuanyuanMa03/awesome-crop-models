@@ -1,0 +1,65 @@
+name: Collect crop model repositories
+
+on:
+  schedule:
+    - cron: '17 3 * * *' # 03:17 UTC; avoids the start of the hour.
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+env:
+  PYTHONPATH: src
+
+concurrency:
+  group: catalogue-update
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Check out the default branch
+        id: checkout
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+      - name: Set up Python
+        id: python
+        uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
+        with:
+          python-version: '3.12'
+      - name: Run a bounded collection
+        id: update
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python scripts/catalog.py update --max-requests 160 --discovery-pages 80 --refresh-limit 40
+      - name: Validate results before publishing
+        id: verify
+        if: ${{ always() && steps.checkout.outcome == 'success' && steps.python.outcome == 'success' }}
+        run: |
+          python scripts/catalog.py validate
+          python -m unittest discover -s tests -v
+          python scripts/catalog.py render
+      - name: Publish validated catalogue and health records
+        if: ${{ always() && steps.verify.outcome == 'success' }}
+        env:
+          DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
+        run: |
+          : "${DEFAULT_BRANCH:?Missing default branch metadata}"
+          git add -A -- catalog/repositories.json state/discovery.json state/refresh.json state/health.json README.md docs
+          if git diff --cached --quiet; then
+            echo "No catalogue or health changes to publish."
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'chore: update crop model catalogue and collection health'
+          git push origin "HEAD:refs/heads/${DEFAULT_BRANCH}"
+      - name: Preserve a failed collection outcome
+        if: ${{ always() && steps.update.outcome == 'failure' }}
+        run: |
+          echo 'Collection failed. Any valid failure record was retained; inspect the collection logs.'
+          exit 1

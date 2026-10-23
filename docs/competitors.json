@@ -1,0 +1,202 @@
+{
+  "checked_at_utc": "2026-10-22T10:24:20Z",
+  "checked_at_local": "2026-10-22T18:24:20+08:00",
+  "timezone": "Asia/Singapore",
+  "method": "Public GitHub connector repository metadata, latest default-branch commit, recursive source tree, and selected source files; public official websites via web tool.",
+  "repositories": [
+    {
+      "repository": "EDSEL-skoltech/awesome_crop_models",
+      "stars": 63,
+      "archived": true,
+      "fork": false,
+      "parent": null,
+      "source": null,
+      "detected_license": "CC0-1.0",
+      "latest_default_branch_commit_at": "2021-11-04T19:18:34Z",
+      "latest_commit_url": "https://github.com/EDSEL-skoltech/awesome_crop_models/commit/f0467d3f18682baff9c552bcd70d21b47c3ef3ad",
+      "workflow_files": [],
+      "tree_truncated": false,
+      "sources": {
+        "metadata": "https://api.github.com/repos/EDSEL-skoltech/awesome_crop_models",
+        "commits": "https://api.github.com/repos/EDSEL-skoltech/awesome_crop_models/commits?per_page=1",
+        "recursive_tree": "https://api.github.com/repos/EDSEL-skoltech/awesome_crop_models/git/trees/main?recursive=1"
+      }
+    },
+    {
+      "repository": "CropModelingPlatform/awesome_crop_models",
+      "stars": 0,
+      "archived": false,
+      "fork": true,
+      "parent": "EDSEL-skoltech/awesome_crop_models",
+      "source": "EDSEL-skoltech/awesome_crop_models",
+      "detected_license": "CC0-1.0",
+      "latest_default_branch_commit_at": "2021-11-04T19:18:34Z",
+      "latest_commit_url": "https://github.com/CropModelingPlatform/awesome_crop_models/commit/f0467d3f18682baff9c552bcd70d21b47c3ef3ad",
+      "workflow_files": [],
+      "tree_truncated": false,
+      "sources": {
+        "metadata": "https://api.github.com/repos/CropModelingPlatform/awesome_crop_models",
+        "commits": "https://api.github.com/repos/CropModelingPlatform/awesome_crop_models/commits?per_page=1",
+        "recursive_tree": "https://api.github.com/repos/CropModelingPlatform/awesome_crop_models/git/trees/main?recursive=1"
+      }
+    },
+    {
+      "repository": "weathergit/awesome_crop_modeling_development",
+      "stars": 0,
+      "archived": false,
+      "fork": false,
+      "parent": null,
+      "source": null,
+      "detected_license": null,
+      "latest_default_branch_commit_at": "2024-11-23T08:19:57Z",
+      "latest_commit_url": "https://github.com/weathergit/awesome_crop_modeling_development/commit/f98eefaece5924c203fe8e90a5449d0419dd53f4",
+      "workflow_files": [],
+      "tree_truncated": false,
+      "sources": {
+        "metadata": "https://api.github.com/repos/weathergit/awesome_crop_modeling_development",
+        "commits": "https://api.github.com/repos/weathergit/awesome_crop_modeling_development/commits?per_page=1",
+        "recursive_tree": "https://api.github.com/repos/weathergit/awesome_crop_modeling_development/git/trees/main?recursive=1"
+      }
+    },
+    {
+      "repository": "brycejohnston/awesome-agriculture",
+      "stars": 1911,
+      "archived": false,
+      "fork": false,
+      "parent": null,
+      "source": null,
+      "detected_license": "NOASSERTION",
+      "latest_default_branch_commit_at": "2026-01-05T18:48:15Z",
+      "latest_commit_url": "https://github.com/brycejohnston/awesome-agriculture/commit/592ed8bc11f4f6cdb3e325a7f51b0d728aea7e56",
+      "workflow_files": [],
+      "tree_truncated": false,
+      "sources": {
+        "metadata": "https://api.github.com/repos/brycejohnston/awesome-agriculture",
+        "commits": "https://api.github.com/repos/brycejohnston/awesome-agriculture/commits?per_page=1",
+        "recursive_tree": "https://api.github.com/repos/brycejohnston/awesome-agriculture/git/trees/master?recursive=1"
+      }
+    },
+    {
+      "repository": "model-library-pps/.github",
+      "stars": 0,
+      "archived": false,
+      "fork": false,
+      "parent": null,
+      "source": null,
+      "detected_license": null,
+      "latest_default_branch_commit_at": "2026-10-20T09:48:14Z",
+      "latest_commit_url": "https://github.com/model-library-pps/.github/commit/4873f01a6a510e595eeb3848bf76a5110625391e",
+      "workflow_files": [],
+      "tree_truncated": false,
+      "sources": {
+        "metadata": "https://api.github.com/repos/model-library-pps/.github",
+        "commits": "https://api.github.com/repos/model-library-pps/.github/commits?per_page=1",
+        "recursive_tree": "https://api.github.com/repos/model-library-pps/.github/git/trees/main?recursive=1"
+      }
+    },
+    {
+      "repository": "AgriculturalModelExchangeInitiative/Crop2ML",
+      "stars": 12,
+      "archived": false,
+      "fork": false,
+      "parent": null,
+      "source": null,
+      "detected_license": null,
+      "latest_default_branch_commit_at": "2024-10-04T08:05:26Z",
+      "latest_commit_url": "https://github.com/AgriculturalModelExchangeInitiative/Crop2ML/commit/5b8c15ec182e238739e8aa0c215eaeee49fbe610",
+      "workflow_files": [],
+      "tree_truncated": false,
+      "sources": {
+        "metadata": "https://api.github.com/repos/AgriculturalModelExchangeInitiative/Crop2ML",
+        "commits": "https://api.github.com/repos/AgriculturalModelExchangeInitiative/Crop2ML/commits?per_page=1",
+        "recursive_tree": "https://api.github.com/repos/AgriculturalModelExchangeInitiative/Crop2ML/git/trees/master?recursive=1"
+      }
+    },
+    {
+      "repository": "AgriculturalModelExchangeInitiative/PyCrop2ML",
+      "stars": 21,
+      "archived": false,
+      "fork": false,
+      "parent": null,
+      "source": null,
+      "detected_license": "NOASSERTION",
+      "latest_default_branch_commit_at": "2026-09-11T05:23:06Z",
+      "latest_commit_url": "https://github.com/AgriculturalModelExchangeInitiative/PyCrop2ML/commit/c25014acf80b9165559f09bb48e73ac806e4dbb9",
+      "workflow_files": [
+        ".github/workflows/codeql-analysis.yml",
+        ".github/workflows/conda-package-build.yml",
+        ".github/workflows/tests.yml"
+      ],
+      "tree_truncated": false,
+      "sources": {
+        "metadata": "https://api.github.com/repos/AgriculturalModelExchangeInitiative/PyCrop2ML",
+        "commits": "https://api.github.com/repos/AgriculturalModelExchangeInitiative/PyCrop2ML/commits?per_page=1",
+        "recursive_tree": "https://api.github.com/repos/AgriculturalModelExchangeInitiative/PyCrop2ML/git/trees/master?recursive=1"
+      }
+    },
+    {
+      "repository": "best-of-lists/best-of-generator",
+      "stars": 112,
+      "archived": false,
+      "fork": false,
+      "parent": null,
+      "source": null,
+      "detected_license": "GPL-3.0",
+      "latest_default_branch_commit_at": "2025-08-31T10:46:16Z",
+      "latest_commit_url": "https://github.com/best-of-lists/best-of-generator/commit/27eda3ed6fe802152bce3ca254b920958dd4b724",
+      "workflow_files": [
+        ".github/workflows/build-pipeline.yml",
+        ".github/workflows/close-stale-issues.yml",
+        ".github/workflows/pr-labeler.yml",
+        ".github/workflows/release-pipeline.yml"
+      ],
+      "tree_truncated": false,
+      "sources": {
+        "metadata": "https://api.github.com/repos/best-of-lists/best-of-generator",
+        "commits": "https://api.github.com/repos/best-of-lists/best-of-generator/commits?per_page=1",
+        "recursive_tree": "https://api.github.com/repos/best-of-lists/best-of-generator/git/trees/main?recursive=1"
+      }
+    },
+    {
+      "repository": "knmcguire/best-of-robot-simulators",
+      "stars": 1491,
+      "archived": false,
+      "fork": false,
+      "parent": null,
+      "source": null,
+      "detected_license": "CC-BY-SA-4.0",
+      "latest_default_branch_commit_at": "2026-10-21T20:20:53Z",
+      "latest_commit_url": "https://github.com/knmcguire/best-of-robot-simulators/commit/375549534052e0d6d1a6e4d54ab4d7c2f276e081",
+      "workflow_files": [
+        ".github/workflows/test-project-yaml.yml",
+        ".github/workflows/update-best-of-list.yml"
+      ],
+      "tree_truncated": false,
+      "sources": {
+        "metadata": "https://api.github.com/repos/knmcguire/best-of-robot-simulators",
+        "commits": "https://api.github.com/repos/knmcguire/best-of-robot-simulators/commits?per_page=1",
+        "recursive_tree": "https://api.github.com/repos/knmcguire/best-of-robot-simulators/git/trees/main?recursive=1"
+      }
+    }
+  ],
+  "license_notes": {
+    "brycejohnston/awesome-agriculture": "API reports NOASSERTION; actual LICENSE.md is CC0.",
+    "AgriculturalModelExchangeInitiative/PyCrop2ML": "API reports NOASSERTION; LICENSE contains an MIT-style permission grant with generator markers.",
+    "best-of-lists/best-of-generator": "API and LICENSE are GPL-3.0; README footer says MIT. Conflict unresolved."
+  },
+  "unknowns": [
+    "Not an exhaustive global search of every competing list.",
+    "Current successful workflow runs were not verified. GitHub connector rejected /actions/workflows/update-best-of-list.yml/runs?per_page=1.",
+    "CropMRepository live HTML requires JavaScript; its full current model catalogue was not enumerated.",
+    "PPS constituent model licenses were not audited.",
+    "The evolutionary relationship of mishagrol's crop-specific content and EDSEL's repository was not established.",
+    "Repository metadata updated_at was not used as a content-update timestamp."
+  ],
+  "official_references": [
+    "https://crop2ml.org/",
+    "https://github.com/model-library-pps/.github/blob/main/profile/README.md",
+    "https://agmip.org/ag-grid-2/",
+    "https://agmip.org/wheat-2/",
+    "https://docs.github.com/en/actions/how-tos/manage-workflow-runs/disable-and-enable-workflows"
+  ]
+}

@@ -1,0 +1,134 @@
+[
+  {
+    "login": "DSSAT",
+    "kind": "org"
+  },
+  {
+    "login": "APSIMInitiative",
+    "kind": "org"
+  },
+  {
+    "login": "ajwdewit",
+    "kind": "user"
+  },
+  {
+    "login": "aquacropos",
+    "kind": "org"
+  },
+  {
+    "login": "KUL-RSDA",
+    "kind": "user"
+  },
+  {
+    "login": "zalf-rpm",
+    "kind": "org"
+  },
+  {
+    "login": "perabrahamsen",
+    "kind": "user"
+  },
+  {
+    "login": "model-library-pps",
+    "kind": "org"
+  },
+  {
+    "login": "USDA-ARS-ACSL",
+    "kind": "org"
+  },
+  {
+    "login": "cropbox",
+    "kind": "org"
+  },
+  {
+    "login": "PalmStudio",
+    "kind": "org"
+  },
+  {
+    "login": "VEZY",
+    "kind": "user"
+  },
+  {
+    "login": "openalea",
+    "kind": "org"
+  },
+  {
+    "login": "Plant-Root-Soil-Interactions-Modelling",
+    "kind": "org"
+  },
+  {
+    "login": "biocro",
+    "kind": "org"
+  },
+  {
+    "login": "PIK-LPJmL",
+    "kind": "org"
+  },
+  {
+    "login": "PSUmodeling",
+    "kind": "org"
+  },
+  {
+    "login": "swat-model",
+    "kind": "org"
+  },
+  {
+    "login": "pyet-org",
+    "kind": "org"
+  },
+  {
+    "login": "Rothamsted-Models",
+    "kind": "org"
+  },
+  {
+    "login": "VirtualPlantLab",
+    "kind": "org"
+  },
+  {
+    "login": "AgriculturalModelExchangeInitiative",
+    "kind": "org"
+  },
+  {
+    "login": "SticsRPacks",
+    "kind": "org"
+  },
+  {
+    "login": "gicait",
+    "kind": "org"
+  },
+  {
+    "login": "hectornieto",
+    "kind": "user"
+  },
+  {
+    "login": "Open-ET",
+    "kind": "org"
+  },
+  {
+    "login": "WSWUP",
+    "kind": "org"
+  },
+  {
+    "login": "cropmodels",
+    "kind": "org"
+  },
+  {
+    "login": "YASSOmodel",
+    "kind": "org"
+  },
+  {
+    "login": "AgMIP",
+    "kind": "org"
+  },
+  {
+    "login": "Crop2ML-Catalog",
+    "kind": "org"
+  },
+  {
+    "login": "SiriusQuality",
+    "kind": "org"
+  },
+  {
+    "login": "openalea-incubator",
+    "kind": "org"
+  }
+]

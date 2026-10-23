@@ -1,0 +1,38 @@
+name: Validate catalogue
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+env:
+  PYTHONPATH: src
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    strategy:
+      fail-fast: false
+      matrix:
+        python-version: ['3.12', '3.13']
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Run offline tests
+        run: python -m unittest discover -s tests -v
+      - name: Validate catalogue and search state
+        run: python scripts/catalog.py validate
+      - name: Check generated lists are current
+        run: |
+          python scripts/catalog.py render
+          # Long pages continue on numbered pages, so also catch added or deleted files.
+          git status --porcelain -- README.md docs
+          test -z "$(git status --porcelain -- README.md docs)"

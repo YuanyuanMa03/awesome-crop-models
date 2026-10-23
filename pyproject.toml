@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "awesome-crop-models"
+version = "0.1.0"
+description = "A living Awesome list and resumable public crop-model repository discovery tool"
+requires-python = ">=3.11"
+license = {text = "MIT"}
+dependencies = []
+
+[project.scripts]
+awesome-crop-models = "cropmodels.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

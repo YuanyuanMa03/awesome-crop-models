@@ -1,0 +1,499 @@
+{
+  "last_owner_scan": {
+    "cycle": 2,
+    "new_repositories": 405,
+    "observed_at": "2026-10-22T19:52:45Z",
+    "pages": 35,
+    "remaining_accounts_or_pages": 0
+  },
+  "last_refresh": {
+    "checked_repositories": 20,
+    "known_identities": 28149,
+    "new_repositories": 10,
+    "observed_at": "2026-10-22T19:59:05Z",
+    "seed_count": 10
+  },
+  "owner_cycle": 2,
+  "owner_plan": [
+    {
+      "kind": "org",
+      "login": "DSSAT"
+    },
+    {
+      "kind": "org",
+      "login": "APSIMInitiative"
+    },
+    {
+      "kind": "user",
+      "login": "ajwdewit"
+    },
+    {
+      "kind": "org",
+      "login": "aquacropos"
+    },
+    {
+      "kind": "user",
+      "login": "KUL-RSDA"
+    },
+    {
+      "kind": "org",
+      "login": "zalf-rpm"
+    },
+    {
+      "kind": "user",
+      "login": "perabrahamsen"
+    },
+    {
+      "kind": "org",
+      "login": "model-library-pps"
+    },
+    {
+      "kind": "org",
+      "login": "USDA-ARS-ACSL"
+    },
+    {
+      "kind": "org",
+      "login": "cropbox"
+    },
+    {
+      "kind": "org",
+      "login": "PalmStudio"
+    },
+    {
+      "kind": "user",
+      "login": "VEZY"
+    },
+    {
+      "kind": "org",
+      "login": "openalea"
+    },
+    {
+      "kind": "org",
+      "login": "Plant-Root-Soil-Interactions-Modelling"
+    },
+    {
+      "kind": "org",
+      "login": "biocro"
+    },
+    {
+      "kind": "org",
+      "login": "PIK-LPJmL"
+    },
+    {
+      "kind": "org",
+      "login": "PSUmodeling"
+    },
+    {
+      "kind": "org",
+      "login": "swat-model"
+    },
+    {
+      "kind": "org",
+      "login": "pyet-org"
+    },
+    {
+      "kind": "org",
+      "login": "Rothamsted-Models"
+    },
+    {
+      "kind": "org",
+      "login": "VirtualPlantLab"
+    },
+    {
+      "kind": "org",
+      "login": "AgriculturalModelExchangeInitiative"
+    },
+    {
+      "kind": "org",
+      "login": "SticsRPacks"
+    },
+    {
+      "kind": "org",
+      "login": "gicait"
+    },
+    {
+      "kind": "user",
+      "login": "hectornieto"
+    },
+    {
+      "kind": "org",
+      "login": "Open-ET"
+    },
+    {
+      "kind": "org",
+      "login": "WSWUP"
+    },
+    {
+      "kind": "org",
+      "login": "cropmodels"
+    },
+    {
+      "kind": "org",
+      "login": "YASSOmodel"
+    },
+    {
+      "kind": "org",
+      "login": "AgMIP"
+    },
+    {
+      "kind": "org",
+      "login": "Crop2ML-Catalog"
+    },
+    {
+      "kind": "org",
+      "login": "SiriusQuality"
+    },
+    {
+      "kind": "org",
+      "login": "openalea-incubator"
+    }
+  ],
+  "owner_queue": [],
+  "seed_checks": {
+    "APSIMInitiative/APSIM710": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "APSIMInitiative/ApsimX": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "AgriculturalModelExchangeInitiative/PyCrop2ML": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "DSSAT/dssat-csm-os": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "DanilaEremenko/Agrotool": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "ESCOMP/CTSM": {
+      "checked_at": "2026-10-22T19:57:41Z",
+      "outcome": "public_metadata_checked"
+    },
+    "Jyggafey/django-image-cropper": {
+      "checked_at": "2026-10-22T19:57:55Z",
+      "outcome": "public_metadata_checked"
+    },
+    "KUL-RSDA/AquaCrop": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "MengZhang/acebgen": {
+      "checked_at": "2026-10-22T19:59:05Z",
+      "outcome": "public_metadata_checked"
+    },
+    "MengZhang/acmoui": {
+      "checked_at": "2026-10-22T19:59:05Z",
+      "outcome": "public_metadata_checked"
+    },
+    "MengZhang/survey-divider": {
+      "checked_at": "2026-10-22T19:59:05Z",
+      "outcome": "public_metadata_checked"
+    },
+    "MengZhang/translator-quickdownload": {
+      "checked_at": "2026-10-22T19:59:05Z",
+      "outcome": "public_metadata_checked"
+    },
+    "PIK-LPJmL/LPJmL": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "PSUmodeling/Cycles": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "PalmStudio/PlantMeteo.jl": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "PalmStudio/XPalm.jl": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "Plant-Root-Soil-Interactions-Modelling/CPlantBox": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "Plant-Root-Soil-Interactions-Modelling/dumux-rosi": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "RemkoDuursma/plantecophys": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "Rothamsted-Models/RothC_Code": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "SticsRPacks/CroptimizR": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "TonyCohen/pecan": {
+      "checked_at": "2026-10-22T19:57:41Z",
+      "outcome": "public_metadata_checked"
+    },
+    "USDA-ARS-ACSL/2DGLYCIM": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "USDA-ARS-ACSL/GOSSYM_Orig": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "USDA-ARS-ACSL/MAIZSIM": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "USDA-ARS-ACSL/PhotoSynthesisModule": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "USDA-ARS-ACSL/RYESIM": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "USDA-ARS-ACSL/SPUDSIM": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "VEZY/PlantBiophysics.jl": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "VirtualPlantLab/PlantSimEngine.jl": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "ajwdewit/WOFOST": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "ajwdewit/pcse": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "aquacropos/aquacrop": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "azeizat/pecan": {
+      "checked_at": "2026-10-22T19:59:05Z",
+      "outcome": "public_metadata_checked"
+    },
+    "biocro/biocro": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "braczka/pecan": {
+      "checked_at": "2026-10-22T19:59:05Z",
+      "outcome": "public_metadata_checked"
+    },
+    "cdmuir/photosynthesis": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "chporter/Pivot-ACMO": {
+      "checked_at": "2026-10-22T19:59:05Z",
+      "outcome": "public_metadata_checked"
+    },
+    "cropbox/Cropbox.jl": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "cropbox/Garlic.jl": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "daquinterop/Py_DSSATTools": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "daugaard/abundance": {
+      "checked_at": "2026-10-22T19:57:41Z",
+      "outcome": "public_metadata_checked"
+    },
+    "dwng/pecan": {
+      "checked_at": "2026-10-22T19:59:05Z",
+      "outcome": "public_metadata_checked"
+    },
+    "femiguez/apsimx": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "frostbytten/translator-excel-spreadsheet": {
+      "checked_at": "2026-10-22T19:59:05Z",
+      "outcome": "public_metadata_checked"
+    },
+    "gicait/PyAEZ": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "hectornieto/pyTSEB": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "jcufi/agmip-common-functions": {
+      "checked_at": "2026-10-22T19:57:55Z",
+      "outcome": "public_metadata_checked"
+    },
+    "jingxia/pecan": {
+      "checked_at": "2026-10-22T19:59:05Z",
+      "outcome": "public_metadata_checked"
+    },
+    "jinyun1tang/EcoSIM": {
+      "checked_at": "2026-10-22T19:57:41Z",
+      "outcome": "public_metadata_checked"
+    },
+    "jschen3/pecan": {
+      "checked_at": "2026-10-22T19:59:05Z",
+      "outcome": "public_metadata_checked"
+    },
+    "kemball/pecan": {
+      "checked_at": "2026-10-22T19:59:05Z",
+      "outcome": "public_metadata_checked"
+    },
+    "kthorp/pyfao56": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "lily2/pecan": {
+      "checked_at": "2026-10-22T19:59:05Z",
+      "outcome": "public_metadata_checked"
+    },
+    "model-library-pps/LINGRA_archive": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "model-library-pps/LINTUL": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "model-library-pps/LINTUL_Cassava_NPK_archive": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "model-library-pps/LINTUL_banana_archive": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "model-library-pps/NPOTATO_archive": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "model-library-pps/NWHEAT_archive": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "model-library-pps/PALMSIM": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "model-library-pps/QUEFTS": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "model-library-pps/SUCROS_archive": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "openalea/ArchiCrop": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "openalea/Root-CyNAPS": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "openalea/adel": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "openalea/caribu": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "openalea/cnwgrass": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "openalea/hydroshoot": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "openalea/metafspm": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "openalea/plantgl": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "openalea/rhizodep": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "perabrahamsen/daisy-model": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "pyet-org/pyet": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "qiuxiaolei/agmip-common-functions": {
+      "checked_at": "2026-10-22T19:59:05Z",
+      "outcome": "public_metadata_checked"
+    },
+    "robknapen/agmip-common-functions": {
+      "checked_at": "2026-10-22T19:59:05Z",
+      "outcome": "public_metadata_checked"
+    },
+    "ropensci/nasapower": {
+      "checked_at": "2026-10-22T19:57:55Z",
+      "outcome": "public_metadata_checked"
+    },
+    "swat-model/swatplus": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "weixiong8848/CTWN": {
+      "checked_at": "2026-10-22T19:59:05Z",
+      "outcome": "public_metadata_checked"
+    },
+    "weixiong8848/HisCDF": {
+      "checked_at": "2026-10-22T19:59:05Z",
+      "outcome": "public_metadata_checked"
+    },
+    "woodcrafty/PyETo": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "ycjung/ace-ui": {
+      "checked_at": "2026-10-22T19:59:05Z",
+      "outcome": "public_metadata_checked"
+    },
+    "yihua2/pecan": {
+      "checked_at": "2026-10-22T19:59:05Z",
+      "outcome": "public_metadata_checked"
+    },
+    "zalf-rpm/monica": {
+      "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "zawadzkim/pySWAP": {
+      "checked_at": "2026-10-22T19:57:55Z",
+      "outcome": "public_metadata_checked"
+    },
+    "zjti/ROTOR": {
+      "checked_at": "2026-10-22T19:59:05Z",
+      "outcome": "public_metadata_checked"
+    }
+  },
+  "single_refresh_group": "known"
+}
