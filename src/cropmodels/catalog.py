@@ -5,6 +5,7 @@ import os
 import re
 import tempfile
 from pathlib import Path
+from urllib.parse import quote
 
 
 CROPS = {
@@ -155,22 +156,30 @@ def text(value):
     return re.sub(r"[\r\n\t]+", " ", str(value)).replace("|", "&#124;").replace("<", "&lt;").replace(">", "&gt;").replace("[", "&#91;").replace("]", "&#93;").strip()
 
 
-def describe(row):
+def describe(row, limit=200):
     value = " ".join(str(row["selection"].get("description") or row.get("description") or "").split())
-    if len(value) > 200:
-        value = value[:199].rsplit(" ", 1)[0].rstrip(",;:") + "…"
+    if len(value) > limit:
+        value = value[:limit - 1].rsplit(" ", 1)[0].rstrip(",;:") + "…"
     if value and value[-1] not in ".!?…":
         value += "."
     return text(value) or "No description provided."
 
 
+def stars(count):
+    """A GitHub-style star count: 950, 1.6k, 12k."""
+    if count < 1000:
+        return str(count)
+    return f"{count / 1000:.1f}".rstrip("0").rstrip(".") + "k" if count < 10000 else f"{count // 1000}k"
+
+
 def entry(row):
     licence = row.get("license_spdx")
-    flags = [f"★{row.get('stars') or 0}", licence if licence and licence != "NOASSERTION" else "custom licence" if licence else "no licence"]
+    flags = [f"★ {stars(row['stars'])}"] if row.get("stars") else []
+    flags.append(licence if licence and licence != "NOASSERTION" else "custom licence" if licence else "no licence")
     flags += [label for label in ("fork", "archived") if row[label]]
     if row["availability"] != "available":
         flags.append(row["availability"].replace("_", " "))
-    return f"- [{row['full_name']}]({row['html_url']}) - {describe(row)} `{text(' · '.join(flags))}`"
+    return f"- [{row['full_name']}]({row['html_url']}) - {describe(row)} " + " ".join(f"`{text(flag)}`" for flag in flags)
 
 
 def branches(entries, groups):
@@ -187,13 +196,14 @@ def branches(entries, groups):
     return parts
 
 
-def paginate(parts, budget=None):
-    """Body pages of the tree. A page that would pass budget bytes continues on the next page,
-    which first repeats the headings still open."""
+def paginate(parts, budget=None, notes=None):
+    """Body pages of the tree, with an optional note under each group heading. A page that would
+    pass budget bytes continues on the next page, which first repeats the headings still open."""
     pages, size, headings, previous = [[]], 0, [], (None, None)
     for title, subject, name, rows in parts:
         level = 1 if title != previous[0] else 2 if subject != previous[1] else 3
         opening = [f"## {title}", ""] if level == 1 else []
+        opening += [(notes or {})[title], ""] if level == 1 and title in (notes or {}) else []
         opening += [f'<a id="{subject}"></a>', "", f"### {SUBJECTS[subject]}", ""] if level < 3 else []
         opening += [f'<a id="{language_anchor(subject, name)}"></a>', "", f"#### {name}", ""]
         # Each block opens headings from its level: 1 group, 2 subject, 3 language, 4 none.
@@ -223,8 +233,8 @@ def sections(pages):
     return where
 
 
-def contents(parts, link, depth=3, grouped=True):
-    """Contents lines; link(anchor) addresses a section. Depth 2 stops at subjects; ungrouped lists start at subjects."""
+def contents(parts, link, grouped=True):
+    """Contents lines; link(anchor) addresses a section. An ungrouped list starts at subjects."""
     lines, indent = [], "  " if grouped else ""
     for title in dict.fromkeys(part[0] for part in parts):
         group = [part for part in parts if part[0] == title]
@@ -233,9 +243,23 @@ def contents(parts, link, depth=3, grouped=True):
         for subject in dict.fromkeys(part[1] for part in group):
             branch = [part for part in group if part[1] == subject]
             lines.append(f"{indent}- [{SUBJECTS[subject]}]({link(subject)}) ({sum(len(part[3]) for part in branch)})")
-            if depth > 2:
-                lines.extend(f"{indent}  - [{name}]({link(language_anchor(subject, name))}) ({len(rows)})" for _, _, name, rows in branch)
+            lines.extend(f"{indent}  - [{name}]({link(language_anchor(subject, name))}) ({len(rows)})" for _, _, name, rows in branch)
     return lines
+
+
+def most_starred(curated, limit=20):
+    """Table of the most-starred process-based models and tools."""
+    rows = sorted((row for row in curated if row["selection"]["type"] in ("model", "tool")),
+                  key=lambda row: (-(row.get("stars") or 0), row["full_name"].casefold()))[:limit]
+    lines = ["| # | Repository | Description | Language | ★ |", "|---:|---|---|---|---:|"]
+    lines += [f"| {rank} | [{row['full_name']}]({row['html_url']}) | {describe(row, 120)} | {text(language(row))} | {stars(row.get('stars') or 0)} |"
+              for rank, row in enumerate(rows, 1)]
+    return lines if rows else []
+
+
+def badge(label, message, colour, link):
+    escape = lambda value: quote(str(value).replace("-", "--").replace("_", "__").replace(" ", "_"))
+    return f"[![{label}](https://img.shields.io/badge/{escape(label)}-{escape(message)}-{colour}?style=flat-square)]({link})"
 
 
 # GitHub stops rendering a Markdown file after 500 KiB, so a longer page continues on numbered pages.
@@ -258,7 +282,7 @@ PAGES = {
 
 
 def write_pages(root, path, title, arrangement, intro, groups, curated):
-    """Write one page of the tree, continued on numbered pages; return its README contents lines."""
+    """Write one page of the tree, continued on numbered pages; return its README contents line."""
     parts = branches(curated, groups)
     pages = paginate(parts, PAGE_BYTES)
     where = sections(pages)
@@ -269,7 +293,7 @@ def write_pages(root, path, title, arrangement, intro, groups, curated):
         if number == 0:
             more = f" The list continues on {len(pages) - 1} more page{'s' if len(pages) > 2 else ''}." if len(pages) > 1 else ""
             local = lambda target: ("" if where[target] == 0 else names[where[target]]) + f"#{target}"
-            lines = [f"# {title}", "", intro, "", f"**{total} repositories**, arranged by {arrangement}, then programming language.{more} {back}", "",
+            lines = [f"# {title}", "", intro, "", f"**{total:,} repositories**, arranged by {arrangement}, then programming language.{more} {back}", "",
                      "## Contents", "", *contents(parts, local, grouped=len(groups) > 1), "", *body]
         else:
             lines = [f"# {title} (page {number + 1} of {len(pages)})", "",
@@ -282,8 +306,11 @@ def write_pages(root, path, title, arrangement, intro, groups, curated):
         suffix = stale.stem[len(Path(path).stem) + 1:]
         if suffix.isdecimal() and int(suffix) > len(pages):
             stale.unlink()
+    if len(groups) > 1:  # crops and processes: too many subjects for one README line
+        return f"- [{title}]({path}) ({total:,}), arranged by {arrangement}"
     folder = Path(path).parent.as_posix()
-    return [f"- [{title}]({path}) ({total})", *("  " + line for line in contents(parts, lambda target: f"{folder}/{names[where[target]]}#{target}", depth=2, grouped=False))]
+    subjects = " · ".join(f"[{SUBJECTS[subject]}]({folder}/{names[where[subject]]}#{subject})" for subject in dict.fromkeys(part[1] for part in parts))
+    return f"- [{title}]({path}) ({total:,})" + (f": {subjects}" if subjects else "")
 
 
 def render(root):
@@ -291,36 +318,53 @@ def render(root):
     seeds = read_json(root / "config/seeds.json", [])
     excluded = read_json(root / "config/excluded.json", {})
     queries = read_json(root / "config/queries.json", [])
+    owners = read_json(root / "config/owners.json", [])
     health = read_json(root / "state/health.json", {})
     curated = selected(registry, seeds)
     counts = {kind: sum(row["selection"]["type"] == kind for row in curated) for kind in TYPES}
     tracked = len(set(registry) | set(excluded))
     crop_models = branches(curated, [("Crop models", "model", CROPS)])
-    toc = contents(crop_models, lambda target: f"#{target}")
-    for path, (title, arrangement, intro, groups) in PAGES.items():
-        toc.extend(write_pages(root, path, title, arrangement, intro, groups, curated))
-    header = f"""# Awesome Crop Models [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+    crops = sum(len(part[3]) for part in crop_models)
+    starred = most_starred(curated)
+    toc = ["- [Most starred](#most-starred)"] if starred else []
+    toc.append(f"- [Crop models](#crop-models) ({crops:,})")
+    for subject in dict.fromkeys(part[1] for part in crop_models):
+        branch = [part for part in crop_models if part[1] == subject]
+        languages = " · ".join(f"[{name}](#{language_anchor(subject, name)})" for _, _, name, _ in branch)
+        toc.append(f"  - [{SUBJECTS[subject]}](#{subject}) ({sum(len(part[3]) for part in branch):,}): {languages}")
+    toc += [write_pages(root, path, title, arrangement, intro, groups, curated) for path, (title, arrangement, intro, groups) in PAGES.items()]
+    toc += ["- [Contributing](#contributing)", "- [How this list is built](#how-this-list-is-built)"]
+    badges = [badge("repositories", f"{len(curated):,}", "2ea44f", "#contents")]
+    if health.get("last_healthy_at"):
+        badges.append(badge("last collection", health["last_healthy_at"][:10], "informational", "docs/status.md"))
+    badges += [badge("licence", "MIT", "blue", "LICENSE"), badge("PRs", "welcome", "brightgreen", "CONTRIBUTING.md")]
+    badge_line = " ".join(badges)
+    header = f"""<div align="center">
 
-> Open-source crop models on GitHub, arranged as a tree: **crop or agricultural process → programming language → repository**. It covers process-based crop, soil, water and environment models, the tools around them, studies that apply them, and data-driven models.
+# Awesome Crop Models [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-**{len(curated)} repositories:** {counts['model']} process-based models · {counts['tool']} frameworks and tools · {counts['application']} applications · {counts['data-driven']} data-driven models. Screened from {tracked} GitHub repositories found by {len(queries)} searches and maintainer accounts.
+**A curated map of open-source crop and agricultural process models on GitHub**<br>crop or process → programming language → repository
 
-[中文说明](docs/README.zh-CN.md) · [Contributing](CONTRIBUTING.md) · [Review queue](docs/discovered.md) · [Collection status](docs/status.md)
+{badge_line}
 
-Each repository appears once, under its main crop or process and its main programming language (GitHub's primary language unless curated). Within a language, entries are ordered by GitHub stars. Stars, licence tags and archive status are refreshed automatically. Being listed is not a scientific endorsement, and a public repository is not necessarily open source: check each licence before reuse.
+[English](README.md) · [简体中文](docs/README.zh-CN.md) · [Review queue](docs/discovered.md) · [Collection status](docs/status.md)
 
-Crop models are listed on this page. Process models, frameworks and tools, applications and data-driven models each have their own page, linked from the contents below.
+</div>
+
+Crop growth simulators; soil, water, nutrient and climate process models; the frameworks and tools that run them; studies that apply them; and data-driven yield and process models. Each repository appears once, under its main crop or process and its main programming language, ordered by stars. Crop models are listed below, and the other branches have their own pages. Listing is not a scientific endorsement: check each project's licence before reuse.
+
+> **{len(curated):,} repositories** · {crops:,} crop models · {counts['model'] - crops:,} process models · {counts['tool']:,} frameworks and tools · {counts['application']:,} applications · {counts['data-driven']:,} data-driven models. Screened from {tracked:,} GitHub repositories found by {len(queries)} searches and {len(owners)} maintainer accounts.
 
 ## Contents
 
 """
     footer = f"""## Contributing
 
-Additions and corrections are welcome. Add a repository to `config/seeds.json` with its type, crop or process, and (if needed) a language or description override; see [CONTRIBUTING.md](CONTRIBUTING.md). Unclassified search results wait in the [review queue](docs/discovered.md).
+Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) first. To add a repository, give it a type and a crop or process in `config/seeds.json`. Unclassified search results wait in the [review queue](docs/discovered.md).
 
 ## How this list is built
 
-A dependency-free Python collector searches GitHub with {len(queries)} queries (model names, process terms, crops, several languages and topics), enumerates the accounts of model maintainers, and refreshes metadata of known repositories. A scheduled workflow runs it daily at 03:17 UTC and commits only data, health records and generated pages. Search results are only candidates; a person decides what is listed.
+A dependency-free Python collector searches GitHub with {len(queries)} queries (model names, process terms, crops, several languages and topics), enumerates the accounts of model maintainers, and refreshes metadata of known repositories. A scheduled workflow runs it daily at 03:17 UTC and commits only data, health records and generated pages. Search results are only candidates; a repository is listed only by a recorded decision in `config/seeds.json`.
 
 ```bash
 python scripts/catalog.py validate
@@ -338,7 +382,10 @@ Set `GH_TOKEN` or `GITHUB_TOKEN` for GitHub's authenticated quota; never commit 
 
 This project's code and original writing use the [MIT licence](LICENSE). Repository metadata comes from GitHub; listed projects keep their own licences and authorship.
 """
-    readme = [header + "\n".join(toc), "- [Contributing](#contributing)", "- [How this list is built](#how-this-list-is-built)", "", *paginate(crop_models)[0], footer]
+    readme = [header + "\n".join(toc), ""]
+    if starred:
+        readme += ["## Most starred", "", "The most-starred process-based models and tools on the list. Each also appears in its branch of the tree.", "", *starred, ""]
+    readme += [*paginate(crop_models, notes={"Crop models": "*Whole-crop and cropping-system models, and process models built for one crop.*"})[0], footer]
     (root / "README.md").write_text("\n".join(readme), encoding="utf-8")
     status = ["# Collection status", "", "Machine-generated operational evidence; this is not a scientific review.", "", "```json", json.dumps(health, ensure_ascii=False, indent=2, sort_keys=True), "```", "", "A partial run resumes on the next attempt. Failed attempts preserve the last healthy timestamp. See state/discovery.json for exact pending time windows and disclosed coverage gaps.", ""]
     (root / "docs/status.md").write_text("\n".join(status), encoding="utf-8")

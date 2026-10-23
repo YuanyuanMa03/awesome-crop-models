@@ -4224,6 +4224,7 @@
     "type": "model"
   },
   {
+    "description": "Agroclimatic model for rice.",
     "github_id": 786237751,
     "repo": "agrocompuepidemlab/Rice-agroclimatic-model",
     "subject": "rice",
@@ -12352,6 +12353,7 @@
     "type": "data-driven"
   },
   {
+    "description": "Rice growth simulation and trajectory prediction with PCSE/WOFOST and an ORYZA interface.",
     "github_id": 1425044359,
     "repo": "atoz03/rice_growth",
     "subject": "rice",
@@ -12781,6 +12783,7 @@
     "type": "data-driven"
   },
   {
+    "description": "Analysis pipeline for a GroIMP functional-structural model of mustard greens.",
     "github_id": 1402368697,
     "repo": "Ayanoinlab/Mustard-Greens-FSPM",
     "subject": "vegetables",
@@ -13328,6 +13331,7 @@
     "type": "data-driven"
   },
   {
+    "description": "Model of organically bound tritium in wheat organs after exposure to atmospheric HTO.",
     "github_id": 1246678508,
     "repo": "baiyileilei/wheat-tritium-model",
     "subject": "wheat",
@@ -15042,6 +15046,7 @@
     "type": "data-driven"
   },
   {
+    "description": "Agrivoltaic simulation with the PASE framework: photovoltaic and crop outputs.",
     "github_id": 1295269902,
     "repo": "bigborras/Agrieli",
     "subject": "general-crop",
@@ -16853,12 +16858,14 @@
     "type": "application"
   },
   {
+    "description": "Cucumber model adapted from Garlic.jl on the Cropbox framework.",
     "github_id": 449775666,
     "repo": "cariso27001/Garcumber",
     "subject": "vegetables",
     "type": "model"
   },
   {
+    "description": "Lettuce model adapted from the Cropbox garlic model.",
     "github_id": 468440013,
     "repo": "cariso27001/Garttuce",
     "subject": "vegetables",
@@ -18717,6 +18724,7 @@
     "type": "tool"
   },
   {
+    "description": "Web version of the SIMPLE crop model.",
     "github_id": 1142068659,
     "repo": "claudio9russo7/SIMPLE-Crop-simulation-on-web",
     "subject": "general-crop",
@@ -18831,6 +18839,7 @@
     "type": "data-driven"
   },
   {
+    "description": "Phenology models for olive trees.",
     "github_id": 432179413,
     "repo": "CMCC-Foundation/Olive-phenology-models",
     "subject": "fruit-vine",
@@ -19827,6 +19836,7 @@
     "type": "model"
   },
   {
+    "description": "R package for the LINTUL-CASSAVA crop growth model.",
     "github_id": 1126442501,
     "repo": "cropmodels/LINTULcassava",
     "subject": "roots-tubers",
@@ -19845,12 +19855,14 @@
     "type": "model"
   },
   {
+    "description": "R package implementing the LINTUL crop growth model.",
     "github_id": 136850134,
     "repo": "cropmodels/Rlintul",
     "subject": "general-crop",
     "type": "model"
   },
   {
+    "description": "R package for the ORYZA2000 rice growth model.",
     "github_id": 136852860,
     "repo": "cropmodels/Roryza",
     "subject": "rice",
@@ -19863,6 +19875,7 @@
     "type": "model"
   },
   {
+    "description": "C++ implementation of the WOFOST crop growth model with an R interface.",
     "github_id": 136847487,
     "repo": "cropmodels/Rwofost",
     "subject": "general-crop",
@@ -19900,6 +19913,7 @@
     "type": "model"
   },
   {
+    "description": "Soybean version of the BioCro crop growth model, now part of BioCro.",
     "github_id": 353226250,
     "repo": "cropsinsilico/Soybean-BioCro",
     "subject": "soybean",
@@ -20124,12 +20138,6 @@
     "type": "tool"
   },
   {
-    "github_id": 1224717939,
-    "repo": "curryleo/simple-crop-model-demo",
-    "subject": "general-crop",
-    "type": "model"
-  },
-  {
     "github_id": 117011832,
     "repo": "curtiscrandall/RemoteSensing_Evapotranspiration",
     "subject": "evapotranspiration",
@@ -20319,6 +20327,7 @@
     "type": "data-driven"
   },
   {
+    "description": "Agent-based GAMA simulation of bee pollination of greenhouse strawberries.",
     "github_id": 789761249,
     "repo": "czh16/Greenhouse_Strawberry_Bee_Simulation",
     "subject": "vegetables",
@@ -21988,12 +21997,14 @@
     "type": "data-driven"
   },
   {
+    "description": "Tomato production simulation for greenhouse KPIs in the AGROSOFC project.",
     "github_id": 563337838,
     "repo": "DeustoTech/KPI-Simulation-AGROSOFC",
     "subject": "vegetables",
     "type": "model"
   },
   {
+    "description": "Crop growth simulation driven by weather and soil moisture, with a simple GUI.",
     "github_id": 834642658,
     "repo": "Dev-Abs/crop-growth-simulation",
     "subject": "general-crop",
@@ -23093,6 +23104,7 @@
     "type": "data-driven"
   },
   {
+    "description": "Agrivoltaic system simulator computing photovoltaic and crop outputs.",
     "github_id": 1352426662,
     "repo": "Digital-Energy-and-Agriculture-Lab/PASE",
     "subject": "general-crop",
@@ -24388,6 +24400,7 @@
     "type": "model"
   },
   {
+    "description": "Exercise implementing the simple maize model of Wallach et al. (2014).",
     "github_id": 950263394,
     "repo": "drshaymac/Maize_model",
     "subject": "maize",
@@ -24467,6 +24480,7 @@
     "type": "tool"
   },
   {
+    "description": "Virtual Riesling: GroIMP functional-structural grapevine model (development version).",
     "github_id": 792218698,
     "repo": "dschmidt-hgu/ViRi-dev",
     "subject": "fruit-vine",
@@ -25129,6 +25143,7 @@
     "type": "model"
   },
   {
+    "description": "Yin et al. (1995) nonlinear model for estimating rice heading dates.",
     "github_id": 801342657,
     "repo": "EcoInfoLab/YIN",
     "subject": "rice",
@@ -25263,6 +25278,7 @@
     "type": "model"
   },
   {
+    "description": "Crop growth modelling code in MATLAB.",
     "github_id": 920021299,
     "repo": "EdgarStevenC/Crop-Growth-Modelling",
     "subject": "general-crop",
@@ -26697,6 +26713,7 @@
     "type": "tool"
   },
   {
+    "description": "Process-based cabbage growth model in Python.",
     "github_id": 587316556,
     "repo": "EthanSeok/Cabbage_PBM",
     "subject": "vegetables",
@@ -26721,6 +26738,7 @@
     "type": "model"
   },
   {
+    "description": "Process-based lettuce growth model in Python for greenhouse control.",
     "github_id": 553420795,
     "repo": "EthanSeok/lettuce_PBM",
     "subject": "vegetables",
@@ -28188,6 +28206,7 @@
     "type": "data-driven"
   },
   {
+    "description": "Simulation and design optimisation of agrivoltaics: solar generation and crop yields.",
     "github_id": 782257102,
     "repo": "fpant1/AgrivoltaicsDP5Model",
     "subject": "general-crop",
@@ -30242,6 +30261,7 @@
     "type": "data-driven"
   },
   {
+    "description": "GLAM-Parti crop model combined with machine learning to predict biomass, yield and phenology.",
     "github_id": 424637245,
     "repo": "GLAM-Leeds/GLAM-Parti-ML",
     "subject": "general-crop",
@@ -31335,6 +31355,7 @@
     "type": "data-driven"
   },
   {
+    "description": "Reduced TOMGRO tomato growth model.",
     "github_id": 200990648,
     "repo": "gyosit/Reduced_TOMGRO.Lab_2019",
     "subject": "vegetables",
@@ -34237,6 +34258,7 @@
     "type": "data-driven"
   },
   {
+    "description": "R Shiny decision-support app estimating future crop yields under climate change.",
     "github_id": 1107787642,
     "repo": "hortibonn/Climate_Impact_on_Crop_Yield",
     "subject": "vegetables",
@@ -34434,6 +34456,7 @@
     "type": "application"
   },
   {
+    "description": "Oil palm growth stages and evapotranspiration (Penman–Monteith, Priestley–Taylor).",
     "github_id": 584079057,
     "repo": "Huichi17/Oil-Palm-Growth-Stage-and-Evapotranspiration",
     "subject": "plantation",
@@ -34772,6 +34795,7 @@
     "type": "tool"
   },
   {
+    "description": "Development of CLM-Palm, an oil palm version of the Community Land Model.",
     "github_id": 1241338188,
     "repo": "i-Ecoclimatology-lab/clm-palm-dev",
     "subject": "plantation",
@@ -36153,6 +36177,7 @@
     "type": "data-driven"
   },
   {
+    "description": "Interactive season model of grapevine physiology: carbon, nitrogen, BBCH phenology and berry sugar and acidity.",
     "github_id": 1404090338,
     "repo": "ismi9/grapevine-model",
     "subject": "fruit-vine",
@@ -36232,6 +36257,7 @@
     "type": "tool"
   },
   {
+    "description": "WOFOST crop model in C.",
     "github_id": 79727635,
     "repo": "isupit/wofost_c",
     "subject": "general-crop",
@@ -36326,6 +36352,7 @@
     "type": "data-driven"
   },
   {
+    "description": "Python implementation of the CROPGRO-Strawberry model adapted from DSSAT.",
     "github_id": 997464799,
     "repo": "itsjameshan/CN-strawberryDSSAT",
     "subject": "vegetables",
@@ -37812,6 +37839,7 @@
     "type": "data-driven"
   },
   {
+    "description": "Whole-season tomato growth model with photosynthesis and dry-matter partitioning.",
     "github_id": 190379158,
     "repo": "jayed008/tomato_growth_model",
     "subject": "vegetables",
@@ -37837,6 +37865,7 @@
     "type": "data-driven"
   },
   {
+    "description": "Physics-guided differentiable agricultural model for county-level maize and soybean.",
     "github_id": 1282966802,
     "repo": "Jaysaly-cn/AgriWorld",
     "subject": "general-crop",
@@ -38532,6 +38561,7 @@
     "type": "application"
   },
   {
+    "description": "Web implementation of the BASGRA grass growth model.",
     "github_id": 1077849923,
     "repo": "jframirez161/BASGRA",
     "subject": "grassland",
@@ -38865,6 +38895,7 @@
     "type": "data-driven"
   },
   {
+    "description": "Fits the Choler–Hufkens grassland phenology model to observed vegetation cover.",
     "github_id": 421235428,
     "repo": "Jinyan-Yang/empirical_grassland_pheno_model",
     "subject": "grassland",
@@ -40529,6 +40560,7 @@
     "type": "data-driven"
   },
   {
+    "description": "APSIM Next Generation copy used to develop a grapevine model.",
     "github_id": 99281706,
     "repo": "junqi108/APSIM_Grapevine",
     "subject": "fruit-vine",
@@ -40681,6 +40713,7 @@
     "type": "model"
   },
   {
+    "description": "Refactored implementation of the MAppleT/StocaTree apple tree architecture model.",
     "github_id": 479327076,
     "repo": "jvail/vmapplet",
     "subject": "fruit-vine",
@@ -43898,6 +43931,7 @@
     "type": "data-driven"
   },
   {
+    "description": "Web decision-support system for rice simulation with DSSAT run through R.",
     "github_id": 1143623606,
     "repo": "Krish962/PRISM",
     "subject": "rice",
@@ -44271,6 +44305,7 @@
     "type": "model"
   },
   {
+    "description": "Simple grass growth model in Python.",
     "github_id": 1024199574,
     "repo": "ksaurabh95/Grass_growth_model",
     "subject": "grassland",
@@ -46788,12 +46823,14 @@
     "type": "model"
   },
   {
+    "description": "Python implementation of the Nebraska CropSim model, version 8.",
     "github_id": 885610425,
     "repo": "Longitude103/pyCropSim",
     "subject": "general-crop",
     "type": "model"
   },
   {
+    "description": "Science code of the RZWQM2 Root Zone Water Quality Model, version 4.5.",
     "github_id": 388611999,
     "repo": "Longitude103/rzwqm_science",
     "subject": "general-crop",
@@ -47359,6 +47396,7 @@
     "type": "data-driven"
   },
   {
+    "description": "Source code of the SIMPLE crop model (Zhao et al., 2019).",
     "github_id": 491480528,
     "repo": "luxkwang/SimpleCropModel",
     "subject": "general-crop",
@@ -47377,6 +47415,7 @@
     "type": "application"
   },
   {
+    "description": "Experimental cropping-system simulator (climate, soil and crop) for Sombrerete, Zacatecas, Mexico.",
     "github_id": 1412603726,
     "repo": "lv215244-oss/SAS_Simulator_Agronomico",
     "subject": "general-crop",
@@ -47461,6 +47500,7 @@
     "type": "model"
   },
   {
+    "description": "Parallel, distributed framework for RZ-SHAW model calibration and multi-site simulations of seasonal frost in croplands.",
     "github_id": 631963870,
     "repo": "lzwei196/RS-DPCF",
     "subject": "gridded",
@@ -50121,6 +50161,7 @@
     "type": "tool"
   },
   {
+    "description": "BioCro module library from the Matthews Research Group.",
     "github_id": 1005652696,
     "repo": "Matthews-Research-Group/BioCroWP",
     "subject": "bioenergy-other",
@@ -50145,6 +50186,7 @@
     "type": "tool"
   },
   {
+    "description": "BioCro module library with partitioning and senescence modules for miscanthus.",
     "github_id": 1095432156,
     "repo": "Matthews-Research-Group/MiscanthusBML",
     "subject": "bioenergy-other",
@@ -50157,6 +50199,7 @@
     "type": "application"
   },
   {
+    "description": "BioCro module library with a Thornley utilization–transport–resistance model for soybean.",
     "github_id": 757523440,
     "repo": "Matthews-Research-Group/UTRSoybeanBML",
     "subject": "soybean",
@@ -50175,6 +50218,7 @@
     "type": "data-driven"
   },
   {
+    "description": "Flux balance analysis model of rice growth under normal and stress conditions.",
     "github_id": 367289223,
     "repo": "mauriceccy/rice-crop-fba-model",
     "subject": "rice",
@@ -51049,6 +51093,7 @@
     "type": "model"
   },
   {
+    "description": "Crop growth model coupled with whole-genome prediction of flowering time.",
     "github_id": 1259575550,
     "repo": "melycg2001/CGM-WGP",
     "subject": "general-crop",
@@ -51883,6 +51928,7 @@
     "type": "data-driven"
   },
   {
+    "description": "CropSyst cropping-systems model in a micro-basin setting.",
     "github_id": 520688887,
     "repo": "mingliangwsu/CropSyst_MicroBasin",
     "subject": "general-crop",
@@ -51956,12 +52002,14 @@
     "type": "data-driven"
   },
   {
+    "description": "Functional-structural radish model built with OpenAlea.",
     "github_id": 966003322,
     "repo": "MinjiShin/radish-fspm-openalea",
     "subject": "vegetables",
     "type": "model"
   },
   {
+    "description": "Radish growth model built on the Cropbox framework.",
     "github_id": 462894766,
     "repo": "MinjiShin/Radish.jl",
     "subject": "vegetables",
@@ -56115,6 +56163,7 @@
     "type": "data-driven"
   },
   {
+    "description": "BioCro module library (BioCroWP).",
     "github_id": 962857457,
     "repo": "NatalieRosenberg/BioCroWP_1",
     "subject": "general-crop",
@@ -57030,6 +57079,7 @@
     "type": "model"
   },
   {
+    "description": "Functional-structural model of auxin transport in growing pepper (Capsicum) plants, in Rust.",
     "github_id": 1314221485,
     "repo": "Nick-lt/Simulation-of-Environmental-Capsicum-Kinetics-and-Structure",
     "subject": "vegetables",
@@ -58214,6 +58264,7 @@
     "type": "data-driven"
   },
   {
+    "description": "Phenology module of the RiceGrow rice model.",
     "github_id": 1009613221,
     "repo": "NJAU-ZJH/RiceGrow_phenology",
     "subject": "rice",
@@ -59653,6 +59704,7 @@
     "type": "model"
   },
   {
+    "description": "Functional-structural model of carbon and nitrogen distribution in wheat culms.",
     "github_id": 248514400,
     "repo": "openalea-incubator/cn-wheat",
     "subject": "wheat",
@@ -59671,24 +59723,28 @@
     "type": "tool"
   },
   {
+    "description": "Wheat canopy simulations from the OpenAlea Echap project.",
     "github_id": 349115206,
     "repo": "openalea-incubator/echap",
     "subject": "wheat",
     "type": "model"
   },
   {
+    "description": "Leaf elongation model for wheat that accounts for carbon and nitrogen status.",
     "github_id": 248519660,
     "repo": "openalea-incubator/elong-wheat",
     "subject": "wheat",
     "type": "model"
   },
   {
+    "description": "Farquhar photosynthesis model for wheat, a component of FSPM-Wheat.",
     "github_id": 248539126,
     "repo": "openalea-incubator/farquhar-wheat",
     "subject": "wheat",
     "type": "model"
   },
   {
+    "description": "Coupled functional-structural plant model of wheat.",
     "github_id": 248521352,
     "repo": "openalea-incubator/fspm-wheat",
     "subject": "wheat",
@@ -59713,6 +59769,7 @@
     "type": "tool"
   },
   {
+    "description": "Mechanistic model of wheat growth, a component of FSPM-Wheat.",
     "github_id": 248483876,
     "repo": "openalea-incubator/growth-wheat",
     "subject": "wheat",
@@ -59773,6 +59830,7 @@
     "type": "model"
   },
   {
+    "description": "Respiration model for wheat, a component of FSPM-Wheat.",
     "github_id": 248480599,
     "repo": "openalea-incubator/respi-wheat",
     "subject": "wheat",
@@ -59785,6 +59843,7 @@
     "type": "model"
   },
   {
+    "description": "Senescence model for wheat, a component of FSPM-Wheat.",
     "github_id": 248513238,
     "repo": "openalea-incubator/senesc-wheat",
     "subject": "wheat",
@@ -59803,6 +59862,7 @@
     "type": "model"
   },
   {
+    "description": "3D statistical reconstruction of grapevine canopy structure by cultivar and training system.",
     "github_id": 608833339,
     "repo": "openalea-incubator/topvine",
     "subject": "fruit-vine",
@@ -59821,6 +59881,7 @@
     "type": "model"
   },
   {
+    "description": "Virtual Berry: grapevine berry growth and development model.",
     "github_id": 592868737,
     "repo": "openalea-incubator/VirtualBerry",
     "subject": "fruit-vine",
@@ -61338,12 +61399,14 @@
     "type": "data-driven"
   },
   {
+    "description": "Grid-based simulation of polyculture crop growth.",
     "github_id": 894817987,
     "repo": "PascalKlH/Grid-Based-Polycultural-Simulation",
     "subject": "general-crop",
     "type": "model"
   },
   {
+    "description": "Simulation of crop growth and weed management.",
     "github_id": 795450758,
     "repo": "PascalKlH/NRSimulation",
     "subject": "general-crop",
@@ -62500,6 +62563,7 @@
     "type": "model"
   },
   {
+    "description": "Simple crop growth model in Python.",
     "github_id": 1009187335,
     "repo": "PLACE-at-Berkeley/Simple_Crop_Model",
     "subject": "general-crop",
@@ -65055,6 +65119,7 @@
     "type": "application"
   },
   {
+    "description": "Landscape-scale agroecosystem and hydrology model coupling Flux-PIHM with Cycles.",
     "github_id": 641558349,
     "repo": "PSUmodeling/Cycles-L",
     "subject": "general-crop",
@@ -70508,6 +70573,7 @@
     "type": "data-driven"
   },
   {
+    "description": "Crop simulation component for LUMENS land-use planning.",
     "github_id": 67023498,
     "repo": "rrizkipd/LUMENS-Crop-Simulation",
     "subject": "general-crop",
@@ -70576,6 +70642,7 @@
     "type": "data-driven"
   },
   {
+    "description": "Tritium transfer through air, soil and crops, coupled with WOFOST via PCSE.",
     "github_id": 788215856,
     "repo": "rsk-ff/Dmitte",
     "subject": "general-crop",
@@ -70791,6 +70858,7 @@
     "type": "model"
   },
   {
+    "description": "Five-parameter growth curve simulation for cotton.",
     "github_id": 995821449,
     "repo": "ruilibuaa/Cotton_Growth_-Curve_Simulation",
     "subject": "cotton",
@@ -70879,6 +70947,7 @@
     "type": "data-driven"
   },
   {
+    "description": "WOFOST crop model set up for daily simulations.",
     "github_id": 935635088,
     "repo": "RuolingTang996/WOFOST_daily",
     "subject": "general-crop",
@@ -71394,6 +71463,7 @@
     "type": "data-driven"
   },
   {
+    "description": "Lightweight digital twin of potato growth in greenhouses and other controlled environments.",
     "github_id": 1071132988,
     "repo": "saanvikakde/potato-dt",
     "subject": "potato",
@@ -74327,6 +74397,7 @@
     "type": "model"
   },
   {
+    "description": "Python crop model from the SARRA family (SARRA-H, SARRA-O).",
     "github_id": 506953850,
     "repo": "SARRA-cropmodels/SARRA-Py",
     "subject": "general-crop",
@@ -75276,6 +75347,7 @@
     "type": "data-driven"
   },
   {
+    "description": "Python implementations of grassland productivity and phenology models.",
     "github_id": 223046324,
     "repo": "sdtaylor/GrasslandModels",
     "subject": "grassland",
@@ -79320,6 +79392,7 @@
     "type": "tool"
   },
   {
+    "description": "Backend of the TGRAINS crop modelling tool.",
     "github_id": 1151350323,
     "repo": "sjmf/tgrains-crop-model",
     "subject": "general-crop",
@@ -79414,6 +79487,7 @@
     "type": "data-driven"
   },
   {
+    "description": "Process-based cucumber growth model: canopy photosynthesis, biomass and partitioning.",
     "github_id": 990733638,
     "repo": "skkim76/Cucumber",
     "subject": "vegetables",
@@ -79501,6 +79575,7 @@
     "type": "tool"
   },
   {
+    "description": "Rice phenology prediction with learned corrections to photothermal response models.",
     "github_id": 1239630380,
     "repo": "SmartAG-NWAFU/rice_phenology_hypernet",
     "subject": "rice",
@@ -80459,6 +80534,7 @@
     "type": "model"
   },
   {
+    "description": "Modified version of the AquaCrop crop water productivity model in MATLAB.",
     "github_id": 354057047,
     "repo": "SobhyMahmoud/AquaCrop_Modifications",
     "subject": "general-crop",
@@ -82382,6 +82458,7 @@
     "type": "data-driven"
   },
   {
+    "description": "Simplified TOMGRO tomato growth and yield model.",
     "github_id": 793365166,
     "repo": "statbiscuit/simgro",
     "subject": "vegetables",
@@ -87163,6 +87240,7 @@
     "type": "model"
   },
   {
+    "description": "Tomato crop growth model in Fortran.",
     "github_id": 765415308,
     "repo": "TM-Abir-Ahsan/Tomato-Crop-Growth-Model",
     "subject": "vegetables",
@@ -90526,6 +90604,7 @@
     "type": "data-driven"
   },
   {
+    "description": "Greenhouse tomato digital twin built on Reduced TOMGRO, TOMSIM photosynthesis and fruit growth models.",
     "github_id": 1184553130,
     "repo": "viakisun/bioengine",
     "subject": "vegetables",
@@ -92920,6 +92999,7 @@
     "type": "tool"
   },
   {
+    "description": "Grape phenology models (Keller, Washington State University) in WOFOST8/PCSE.",
     "github_id": 888152356,
     "repo": "wsolow/grape_model",
     "subject": "fruit-vine",
@@ -93463,6 +93543,7 @@
     "type": "application"
   },
   {
+    "description": "AHC v2.1R, a one-dimensional agro-hydrological, chemical and crop systems simulator.",
     "github_id": 1066830261,
     "repo": "Xuxu2233/AHC-model-v2.1R",
     "subject": "general-crop",
@@ -94489,6 +94570,7 @@
     "type": "model"
   },
   {
+    "description": "GroIMP functional-structural model of wheat growth for a domestication study.",
     "github_id": 1203671366,
     "repo": "YixiangShan/FSP_wheat_domestication",
     "subject": "wheat",
@@ -94501,6 +94583,7 @@
     "type": "model"
   },
   {
+    "description": "WOFOST crop model variant without nutrient limitation.",
     "github_id": 1009588533,
     "repo": "yixuan953/WOFOST-noNutrientLimit",
     "subject": "general-crop",
@@ -94774,6 +94857,7 @@
     "type": "application"
   },
   {
+    "description": "Python implementation of the SIMPLE process-based crop model.",
     "github_id": 1120810304,
     "repo": "YuanyuanMa03/a-simple-crop-model",
     "subject": "general-crop",
@@ -94834,6 +94918,7 @@
     "type": "tool"
   },
   {
+    "description": "Minimal setup for running a miscanthus version of BioCro.",
     "github_id": 439978682,
     "repo": "yufenghe22/Miscanthus_R_version",
     "subject": "bioenergy-other",
@@ -96139,6 +96224,7 @@
     "type": "tool"
   },
   {
+    "description": "WOFOST enhanced for extreme weather (WOFOST-EW v1).",
     "github_id": 905524662,
     "repo": "zheng-jinhui/WOFOST-EW",
     "subject": "general-crop",
@@ -96351,6 +96437,7 @@
     "type": "data-driven"
   },
   {
+    "description": "ROTOR crop rotation generator for agricultural land-use planning.",
     "github_id": 860848520,
     "repo": "zjti/ROTOR",
     "subject": "general-crop",

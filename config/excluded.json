@@ -68403,6 +68403,10 @@
     "reason": "remote sensing classification or mapping",
     "repo": "wsmyc/MCTNet-crop-mapping-Pytorch"
   },
+  "1224717939": {
+    "reason": "copy of another repository",
+    "repo": "curryleo/simple-crop-model-demo"
+  },
   "1224722032": {
     "reason": "off-topic",
     "repo": "raylanlin/album-pipeline"

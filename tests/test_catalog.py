@@ -102,7 +102,7 @@ class CatalogueTests(unittest.TestCase):
         render(self.root)
         readme = (self.root / "README.md").read_text()
         discovered = (self.root / "docs/discovered.md").read_text()
-        self.assertIn("**0 repositories:**", readme)
+        self.assertIn("> **0 repositories** ·", readme)
         self.assertNotIn("[test/model]", readme)
         self.assertIn("| [test/model](https://github.com/test/model) |", discovered)
         self.assertIn("**1 awaiting review**", discovered)
@@ -175,7 +175,7 @@ class CatalogueTests(unittest.TestCase):
         readme = (self.root / "README.md").read_text()
         applications = (self.root / "docs/applications.md").read_text()
         data_driven = (self.root / "docs/data-driven.md").read_text()
-        self.assertIn("- [Applications and case studies](docs/applications.md) (1)\n  - [Rice](docs/applications.md#rice) (1)", readme)
+        self.assertIn("- [Applications and case studies](docs/applications.md) (1), arranged by crop or process", readme)
         self.assertNotIn("[study/rice-runs]", readme)
         self.assertIn('<a id="rice-python"></a>', applications)
         self.assertIn("[study/rice-runs](https://github.com/study/rice-runs)", applications)
@@ -193,14 +193,28 @@ class CatalogueTests(unittest.TestCase):
         processes = (self.root / "docs/process-models.md").read_text()
         tools = (self.root / "docs/tools.md").read_text()
         self.assertIn("[test/model](https://github.com/test/model)", readme)
-        self.assertIn("- [Process models](docs/process-models.md) (1)\n  - [Soil water and heat](docs/process-models.md#soil-water) (1)", readme)
-        self.assertIn("- [Frameworks and tools](docs/tools.md) (1)\n  - [Model interfaces and wrappers](docs/tools.md#interfaces) (1)", readme)
+        self.assertIn("- [Process models](docs/process-models.md) (1): [Soil water and heat](docs/process-models.md#soil-water)", readme)
+        self.assertIn("- [Frameworks and tools](docs/tools.md) (1): [Model interfaces and wrappers](docs/tools.md#interfaces)", readme)
         for name in ("soil/water", "run/wrapper"):
-            self.assertNotIn(f"[{name}]", readme)
+            self.assertNotIn(f"- [{name}](", readme)
         self.assertIn("- [Soil water and heat](#soil-water) (1)\n  - [Python](#soil-water-python) (1)", processes)
         self.assertIn("[soil/water](https://github.com/soil/water)", processes)
         self.assertIn('<a id="interfaces-python"></a>', tools)
         self.assertIn("[run/wrapper](https://github.com/run/wrapper)", tools)
+
+    def test_most_starred_table_ranks_models_and_tools_by_stars(self):
+        self.seeds += [seed("big/tool", 50, type="tool", subject="interfaces"), seed("ml/popular", 51, type="data-driven", subject="maize")]
+        upsert(self.registry, metadata(50, "big/tool", stargazers_count=1530), FIRST, self.seeds)
+        upsert(self.registry, metadata(51, "ml/popular", stargazers_count=9000), FIRST, self.seeds)
+        upsert(self.registry, metadata(stargazers_count=7), FIRST, self.seeds)
+        self.save_registry()
+        save_json(self.root / "config/seeds.json", self.seeds)
+        render(self.root)
+        readme = (self.root / "README.md").read_text()
+        table = readme.split("## Most starred", 1)[1].split("## Crop models", 1)[0]
+        self.assertIn("| 1 | [big/tool](https://github.com/big/tool) | A process-based crop simulation model. | Python | 1.5k |\n| 2 | [test/model](https://github.com/test/model) |", table)
+        self.assertNotIn("ml/popular", table)
+        self.assertIn("- [test/model](https://github.com/test/model) - A process-based crop simulation model. `★ 7` `MIT`", readme)
 
     def test_long_page_continues_on_numbered_pages_and_contents_follow_each_section(self):
         names = [f"ml/maize-{number}" for number in range(6)] + ["ml/soil"]
@@ -224,7 +238,7 @@ class CatalogueTests(unittest.TestCase):
         for page, target in links:
             self.assertIn(f'<a id="{target}"></a>', pages[page or "data-driven.md"])
         readme = (self.root / "README.md").read_text()
-        self.assertRegex(readme, r"  - \[Soil water and heat\]\(docs/data-driven(-\d+)?\.md#soil-water\) \(1\)")
+        self.assertIn("- [Data-driven models](docs/data-driven.md) (7), arranged by crop or process", readme)
         render(self.root)
         self.assertEqual(sorted(path.name for path in (self.root / "docs").glob("data-driven*.md")), ["data-driven.md"])
 

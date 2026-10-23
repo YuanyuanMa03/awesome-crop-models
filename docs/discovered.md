@@ -2,7 +2,7 @@
 
 Repositories found by discovery that nobody has classified yet. To list one, add it to `config/seeds.json`; to reject one, record it with a reason in `config/excluded.json`. Forks are not listed unless curated.
 
-106974 tracked · 15292 listed · 78835 excluded · 795 forks · **12052 awaiting review**
+106974 tracked · 15291 listed · 78836 excluded · 795 forks · **12052 awaiting review**
 
 | Repository | ★ | Language | Description | Found by |
 |---|---|---|---|---|
