@@ -247,7 +247,7 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 - [openalea-incubator/lightvegemanager](https://github.com/openalea-incubator/lightvegemanager) - Light management tool for plant modelling. `★ 4` `custom licence`
 - [openalea-incubator/plantfusion](https://github.com/openalea-incubator/plantfusion) - API for mixed crop modelling. `★ 4` `custom licence`
 - [openalea/core](https://github.com/openalea/core) - Core functionality of openalea. `★ 4` `custom licence`
-- [openalea/metafspm](https://github.com/openalea/metafspm) - Components and coupling infrastructure for functional-structural plant models. `★ 3` `custom licence`
+- [openalea/metafspm](https://github.com/openalea/metafspm) - Components and coupling infrastructure for functional-structural plant models. `★ 4` `custom licence`
 - [AgriculturalModelExchangeInitiative/LLM4Crop](https://github.com/AgriculturalModelExchangeInitiative/LLM4Crop) - LLM4Crop is a Python workflow to transform crop model components from any languages/platforms to any languages/platforms supported by Crop2ML. To perform the transformation, LLM4Crop documents and… `★ 2` `MIT`
 - [APSIMInitiative/CropGen](https://github.com/APSIMInitiative/CropGen) - Crop design optimisation platform coupling the APSIM sorghum model with an optimiser to quantify trade-offs of cropping strategies. `★ 2` `no licence`
 - [prakau/PyCIAT](https://github.com/prakau/PyCIAT) - Python Crop Impact Assessment Tool (PyCIAT): A framework for climate change impact assessment on crop production. `★ 2` `custom licence`

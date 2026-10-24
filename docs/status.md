@@ -5,54 +5,54 @@ Machine-generated operational evidence; this is not a scientific review.
 ```json
 {
   "all_github_coverage_verified": false,
-  "attempted_at": "2026-10-23T07:22:54Z",
+  "attempted_at": "2026-10-24T08:06:24Z",
   "coverage_gaps": {
     "historical": 28,
     "recent": 0
   },
-  "finished_at": "2026-10-23T07:27:26Z",
-  "last_healthy_at": "2026-10-23T07:22:54Z",
+  "finished_at": "2026-10-24T08:10:07Z",
+  "last_healthy_at": "2026-10-24T08:06:24Z",
   "last_historical_pass_at": null,
   "maintainer_accounts": {
     "cycle": 3,
-    "new_repositories": 68,
-    "observed_at": "2026-10-23T07:22:54Z",
+    "new_repositories": 97,
+    "observed_at": "2026-10-24T08:06:24Z",
     "pages": 10,
-    "remaining_accounts_or_pages": 24
+    "remaining_accounts_or_pages": 14
   },
-  "new_repository_identities": 5,
+  "new_repository_identities": 2,
   "owner_listing_gaps": 0,
   "pending_search_jobs": {
-    "historical": 521,
-    "recent": 374
+    "historical": 487,
+    "recent": 354
   },
-  "previous_healthy_at": "2026-10-22T14:43:10Z",
+  "previous_healthy_at": "2026-10-23T07:22:54Z",
   "recent_search": {
-    "completed_windows": 152,
+    "completed_windows": 172,
     "coverage_gaps": [],
     "coverage_note": "Completion means this query plan was traversed. GitHub search is mutable, may omit repositories, and does not prove coverage of all GitHub.",
     "cycle": 2,
     "cycle_end": "2026-10-22T11:09:10Z",
     "cycle_start": "2026-09-22T11:09:10Z",
     "cycle_started_at": "2026-10-22T11:09:10Z",
-    "discovered_repositories": 53,
-    "observed_at": "2026-10-23T07:22:54Z",
+    "discovered_repositories": 126,
+    "observed_at": "2026-10-24T08:06:24Z",
     "plan_completed": false,
-    "remaining_jobs": 374,
+    "remaining_jobs": 354,
     "requests": 20,
     "status": "partial",
     "unresolved_gap_count": 0
   },
   "refresh": {
     "checked_repositories": 40,
-    "known_identities": 28138,
+    "known_identities": 28143,
     "new_repositories": 0,
-    "observed_at": "2026-10-23T07:22:54Z",
+    "observed_at": "2026-10-24T08:06:24Z",
     "seed_count": 15291
   },
   "requests": 160,
   "status": "partial_budget",
-  "tracked_repositories": 28143
+  "tracked_repositories": 28145
 }
 ```
 

@@ -2,15 +2,17 @@
 
 Repositories found by discovery that nobody has classified yet. To list one, add it to `config/seeds.json`; to reject one, record it with a reason in `config/excluded.json`. Forks are not listed unless curated.
 
-106979 tracked · 15291 listed · 78836 excluded · 795 forks · **12057 awaiting review**
+106981 tracked · 15291 listed · 78836 excluded · 795 forks · **12059 awaiting review**
 
 | Repository | ★ | Language | Description | Found by |
 |---|---|---|---|---|
+| [PlantSimulationLab/Helios](https://github.com/PlantSimulationLab/Helios) | 110 | C++ | Open-source 3D simulator of plants and their environment: functional-structural plant modeling (FSPM), dynamic plant mod | proc-stomatal |
 | [WangHaomao/GeoSpider](https://github.com/WangHaomao/GeoSpider) | 7 | Roff | 项目暂时完成，日后继续完善 | cn-crop-model |
 | [zezhix/distributed-crawler](https://github.com/zezhix/distributed-crawler) | 7 | Roff | 第六届中软杯赛题 - 分布式爬虫系统（经纬度团队作品） | cn-crop-model |
 | [YellFunGit/IndoorunSDKIosDemo](https://github.com/YellFunGit/IndoorunSDKIosDemo) | 6 | Objective-C | IndoorunSDK IOS端demo | cn-crop-model |
 | [cassiel-cai/vchart](https://github.com/cassiel-cai/vchart) | 1 | TypeScript | 最新前端技术栈 ：Vue3.5 、 Electron、TS、 Vite、Pinia、Radix Vue、IndexedDB、 Dexie.js ，与多种知名AI大模型（文心一言/通义千问/ Claude ／Deepseek），手把手带你开发 | cn-photosynthesis |
 | [gnz-b/interviewNotice](https://github.com/gnz-b/interviewNotice) | 1 |  | 前端面试 常见知识点整理 | cn-crop-model |
+| [weijinxing204/Rice-quality-model](https://github.com/weijinxing204/Rice-quality-model) | 1 | MATLAB |  | crop-rice-model |
 | [002y/nlw-expert-notes](https://github.com/002y/nlw-expert-notes) | 0 | TypeScript |  | mdl-expert-n |
 | [00MOREIRA00/nlw-expert-notes](https://github.com/00MOREIRA00/nlw-expert-notes) | 0 | TypeScript | Repositório destinado a criação da aplicação proposta pela Rocketseat no evento NLW Expert | mdl-expert-n |
 | [00tamilarasan00-code/crop-yield-analysis](https://github.com/00tamilarasan00-code/crop-yield-analysis) | 0 |  |  | dd-crop-yield |
@@ -1004,7 +1006,5 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [andmb20/Crop-Yield-Projeto](https://github.com/andmb20/Crop-Yield-Projeto) | 0 | Jupyter Notebook |  | dd-crop-yield |
 | [andorfc/HostPPI](https://github.com/andorfc/HostPPI) | 0 |  |  | mechanistic-crop |
 | [andpatrig/rain-or-shine](https://github.com/andpatrig/rain-or-shine) | 0 | HTML | An introduction to soil physical properties and processes | rd-soil-water-balance |
-| [Andr3sArteaga/agritrack](https://github.com/Andr3sArteaga/agritrack) | 0 | TypeScript | AgriTrack. Sistema de registro y gestión de parcelas, utilizando sus datos para poder estimar producción. | es-crop-model |
-| [Andre0306/Predictive-API](https://github.com/Andre0306/Predictive-API) | 0 | Python |  | es-crop-model |
 
-The 11057 remaining candidates, with fewer stars, are in `catalog/repositories.json`.
+The 11059 remaining candidates, with fewer stars, are in `catalog/repositories.json`.
