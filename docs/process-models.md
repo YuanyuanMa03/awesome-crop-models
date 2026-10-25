@@ -1250,10 +1250,10 @@ Process-based models of soil, water, climate, pests and other agricultural proce
 
 #### Other
 
+- [ehfmsilva/rCTOOL](https://github.com/ehfmsilva/rCTOOL) - rCTOOL documentation: soil organic carbon modelling in R, tutorials and function reference. `★ 1` `no licence`
 - [KevColeman/RothC_Win2_1](https://github.com/KevColeman/RothC_Win2_1) - windows zip files for RothC (win2.1). `★ 1` `no licence`
 - [BereketAssa714/scaling-octo-umbrella](https://github.com/BereketAssa714/scaling-octo-umbrella) - Computational modeling framework for rainfall-driven nitrate transport dynamics in agricultural watersheds using geospatial analysis and symbolic hydrological systems. `no licence`
 - [cbiondo84/Yasso.c](https://github.com/cbiondo84/Yasso.c) - Yasso - Soil Carbon Model package in C language. `no licence`
-- [ehfmsilva/rCTOOL](https://github.com/ehfmsilva/rCTOOL) - rCTOOL documentation: soil organic carbon modelling in R, tutorials and function reference. `no licence`
 - [fenfold/SOMPROF](https://github.com/fenfold/SOMPROF) - SOMPROF vertically explicit soil organic matter model. `MIT`
 - [ghr0705/-the-source-labelled-soil-wheat-nitrogen-model](https://github.com/ghr0705/-the-source-labelled-soil-wheat-nitrogen-model) - `wheatNrobust` is the archived analysis package for the source-labelled soil–wheat nitrogen model used in *Guaranteeing wheat nitrogen acquisition to improve yield in a warming climate*. `no licence`
 - [kovanhuissteden/Peatland-3.1](https://github.com/kovanhuissteden/Peatland-3.1) - Peatland is a soil carbon cycle model specifically developed for modelling peat carbon loss by peat drainage. It includes also CH4 emission to calculate trade-off betweeen rewetting of peat soils… `no licence`
@@ -1544,7 +1544,7 @@ Process-based models of soil, water, climate, pests and other agricultural proce
 - [kaust-halo/geeet](https://github.com/kaust-halo/geeet) - Evapotranspiration (ET) models for use in python and with integration into Google Earth Engine. `★ 68` `MIT`
 - [Open-ET/openet-ssebop](https://github.com/Open-ET/openet-ssebop) - Earth Engine SSEBop ET Model. `★ 58` `Apache-2.0`
 - [NASA-DEVELOP/METRIC](https://github.com/NASA-DEVELOP/METRIC) - For estimating daily evapotranspiration from Landsat data. `★ 55` `custom licence`
-- [never-dry/NeverDry](https://github.com/never-dry/NeverDry) - Smart irrigation for Home Assistant — scientific water balance model with per-zone crop coefficients. `★ 54` `MIT`
+- [never-dry/NeverDry](https://github.com/never-dry/NeverDry) - Smart irrigation for Home Assistant — scientific water balance model with per-zone crop coefficients. `★ 55` `MIT`
 - [sherzodr/penmon](https://github.com/sherzodr/penmon) - Implements weather station class in Python that calculates ETo (reference crop's evapotranspiration) based on UN-FAO Irrigation and Drainage Paper 56. `★ 41` `MIT`
 - [jvdkwast/PySEBS](https://github.com/jvdkwast/PySEBS) - The Surface Energy Balance System (SEBS) in Python. `★ 39` `no licence`
 - [WSWUP/pymetric](https://github.com/WSWUP/pymetric) - Python implementation of the METRIC model. `★ 37` `Apache-2.0`
@@ -1559,8 +1559,8 @@ Process-based models of soil, water, climate, pests and other agricultural proce
 - [xlsadai/Potential-Evapotranspiration](https://github.com/xlsadai/Potential-Evapotranspiration) - 应用Penman-Monteith公式计算气象站的潜在蒸散发（PET）. `★ 19` `no licence`
 - [JPL-Evapotranspiration-Algorithms/PT-JPL](https://github.com/JPL-Evapotranspiration-Algorithms/PT-JPL) - Priestley Taylor Jet Propulsion Laboratory (PT-JPL) Evapotranspiration Model Python Implementation. `★ 18` `Apache-2.0`
 - [aquacropos/aquacrop-eto](https://github.com/aquacropos/aquacrop-eto) - Python package for calculating reference/potential evapotranspiration (ETo). `★ 17` `BSD-3-Clause`
+- [avalero92/CropWater-RS](https://github.com/avalero92/CropWater-RS) - Remote Sensing-based Crop Water Requirement and Phenology Toolkit. `★ 15` `GPL-3.0`
 - [et-brasil/openet-geesebal](https://github.com/et-brasil/openet-geesebal) - A new open source model based on the SEBAL (Surface Energy Balance Algorithm for Land) to estimate actual daily and monthly evapotranspiration using historical and recent Landsat images and global… `★ 15` `MIT`
-- [avalero92/CropWater-RS](https://github.com/avalero92/CropWater-RS) - Remote Sensing-based Crop Water Requirement and Phenology Toolkit. `★ 14` `GPL-3.0`
 - [Evapotranspiration/ETo](https://github.com/Evapotranspiration/ETo) - A Python package for calculating reference evapotranspiration. `★ 14` `Apache-2.0`
 - [sciencebyAJ/PTJPL-1D](https://github.com/sciencebyAJ/PTJPL-1D) - Priestley-Taylor Jet Propulsion Laboratory Evapotranspiration Code for 1-dimensional implementation. `★ 14` `MIT`
 - [JPL-Evapotranspiration-Algorithms/PT-JPL-SM](https://github.com/JPL-Evapotranspiration-Algorithms/PT-JPL-SM) - Priestley Taylor Jet Propulsion Laboratory Soil Moisture (PT-JPL-SM) Evapotranspiration Model Python Implementation. `★ 13` `Apache-2.0`

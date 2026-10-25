@@ -2,7 +2,7 @@
 
 Repositories found by discovery that nobody has classified yet. To list one, add it to `config/seeds.json`; to reject one, record it with a reason in `config/excluded.json`. Forks are not listed unless curated.
 
-106981 tracked · 15291 listed · 78836 excluded · 795 forks · **12059 awaiting review**
+106985 tracked · 15291 listed · 78836 excluded · 795 forks · **12063 awaiting review**
 
 | Repository | ★ | Language | Description | Found by |
 |---|---|---|---|---|
@@ -1007,4 +1007,4 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [andorfc/HostPPI](https://github.com/andorfc/HostPPI) | 0 |  |  | mechanistic-crop |
 | [andpatrig/rain-or-shine](https://github.com/andpatrig/rain-or-shine) | 0 | HTML | An introduction to soil physical properties and processes | rd-soil-water-balance |
 
-The 11059 remaining candidates, with fewer stars, are in `catalog/repositories.json`.
+The 11063 remaining candidates, with fewer stars, are in `catalog/repositories.json`.
