@@ -4,7 +4,7 @@
 
 **A curated map of open-source crop and agricultural process models on GitHub**<br>crop or process → programming language → repository
 
-[![repositories](https://img.shields.io/badge/repositories-15%2C291-2ea44f?style=flat-square)](#contents) [![last collection](https://img.shields.io/badge/last_collection-2026--10--25-informational?style=flat-square)](docs/status.md) [![licence](https://img.shields.io/badge/licence-MIT-blue?style=flat-square)](LICENSE) [![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
+[![repositories](https://img.shields.io/badge/repositories-15%2C291-2ea44f?style=flat-square)](#contents) [![last collection](https://img.shields.io/badge/last_collection-2026--10--26-informational?style=flat-square)](docs/status.md) [![licence](https://img.shields.io/badge/licence-MIT-blue?style=flat-square)](LICENSE) [![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 
 [English](README.md) · [简体中文](docs/README.zh-CN.md) · [Review queue](docs/discovered.md) · [Collection status](docs/status.md)
 
@@ -12,7 +12,7 @@
 
 Crop growth simulators; soil, water, nutrient and climate process models; the frameworks and tools that run them; studies that apply them; and data-driven yield and process models. Each repository appears once, under its main crop or process and its main programming language, ordered by stars. Crop models are listed below, and the other branches have their own pages. Listing is not a scientific endorsement: check each project's licence before reuse.
 
-> **15,291 repositories** · 437 crop models · 1,675 process models · 1,584 frameworks and tools · 769 applications · 10,826 data-driven models. Screened from 106,985 GitHub repositories found by 525 searches and 33 maintainer accounts.
+> **15,291 repositories** · 437 crop models · 1,675 process models · 1,584 frameworks and tools · 769 applications · 10,826 data-driven models. Screened from 106,986 GitHub repositories found by 525 searches and 33 maintainer accounts.
 
 ## Contents
 
