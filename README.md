@@ -12,7 +12,7 @@
 
 Crop growth simulators; soil, water, nutrient and climate process models; the frameworks and tools that run them; studies that apply them; and data-driven yield and process models. Each repository appears once, under its main crop or process and its main programming language, ordered by stars. Crop models are listed below, and the other branches have their own pages. Listing is not a scientific endorsement: check each project's licence before reuse.
 
-> **15,291 repositories** · 437 crop models · 1,675 process models · 1,584 frameworks and tools · 769 applications · 10,826 data-driven models. Screened from 106,986 GitHub repositories found by 525 searches and 33 maintainer accounts.
+> **15,291 repositories** · 437 crop models · 1,675 process models · 1,584 frameworks and tools · 769 applications · 10,826 data-driven models. Screened from 106,988 GitHub repositories found by 525 searches and 33 maintainer accounts.
 
 ## Contents
 
@@ -49,7 +49,7 @@ The most-starred process-based models and tools on the list. Each also appears i
 |---:|---|---|---|---:|
 | 1 | [altmenorg/HAsmartirrigation](https://github.com/altmenorg/HAsmartirrigation) | Smart Irrigation custom component for Home Assistant. | Python | 564 |
 | 2 | [ESCOMP/CTSM](https://github.com/ESCOMP/CTSM) | Community Terrestrial Systems Model (includes the Community Land Model of CESM). | Fortran | 352 |
-| 3 | [ajwdewit/pcse](https://github.com/ajwdewit/pcse) | Python environment for running crop growth and production models. | Python | 292 |
+| 3 | [ajwdewit/pcse](https://github.com/ajwdewit/pcse) | Python environment for running crop growth and production models. | Python | 293 |
 | 4 | [PecanProject/pecan](https://github.com/PecanProject/pecan) | The Predictive Ecosystem Analyzer (PEcAn) is an integrated ecological bioinformatics toolbox. | R | 248 |
 | 5 | [DSSAT/dssat-csm-os](https://github.com/DSSAT/dssat-csm-os) | Cropping-system simulations across crop species, soils, weather, and management. | Fortran | 239 |
 | 6 | [APSIMInitiative/ApsimX](https://github.com/APSIMInitiative/ApsimX) | Next-generation APSIM framework for agricultural system simulations. | C# | 218 |
@@ -116,7 +116,7 @@ The most-starred process-based models and tools on the list. Each also appears i
 #### Fortran
 
 - [DSSAT/dssat-csm-os](https://github.com/DSSAT/dssat-csm-os) - Cropping-system simulations across crop species, soils, weather, and management. `★ 239` `BSD-3-Clause`
-- [KUL-RSDA/AquaCrop](https://github.com/KUL-RSDA/AquaCrop) - FAO-endorsed AquaCrop source for crop response to water availability. `★ 84` `custom licence`
+- [KUL-RSDA/AquaCrop](https://github.com/KUL-RSDA/AquaCrop) - FAO-endorsed AquaCrop source for crop response to water availability. `★ 83` `custom licence`
 - [ajwdewit/WOFOST](https://github.com/ajwdewit/WOFOST) - Fortran implementation of WOFOST crop production simulations. `★ 75` `custom licence`
 - [chporter/SimpleCrop](https://github.com/chporter/SimpleCrop) - Ricardo Braga's Simple Crop model. Used as a simple example of a modular crop model in the style of DSSAT-CSM. `★ 12` `no licence`
 - [ltsb-etsmtl/crop-model](https://github.com/ltsb-etsmtl/crop-model) - This project includes crop models used in various studied that were published by members of LTSB. The crops model. `★ 5` `no licence`
@@ -216,7 +216,7 @@ The most-starred process-based models and tools on the list. Each also appears i
 
 #### Python
 
-- [ajwdewit/pcse](https://github.com/ajwdewit/pcse) - Python environment for running crop growth and production models. `★ 292` `custom licence`
+- [ajwdewit/pcse](https://github.com/ajwdewit/pcse) - Python environment for running crop growth and production models. `★ 293` `custom licence`
 - [aquacropos/aquacrop](https://github.com/aquacropos/aquacrop) - Python implementation of AquaCrop-OS for crop growth and water use. `★ 173` `Apache-2.0`
 - [gicait/PyAEZ](https://github.com/gicait/PyAEZ) - Python implementation of FAO's agro-ecological zoning (GAEZ) for climate, soil and crop suitability and potential yield. `★ 105` `MIT`
 - [BerkeleyAutomation/AlphaGarden](https://github.com/BerkeleyAutomation/AlphaGarden) - A fast, first order open-access simulator that integrates single plant growth models with inter-plant competition for sun light and water. `★ 94` `no licence`

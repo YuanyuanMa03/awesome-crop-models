@@ -912,6 +912,7 @@ Continued from [page 3](data-driven-3.md). See the [contents](data-driven.md#con
 - [rayyanposwal5678-lgtm/Crop-Yield-prediction-Plants-disease-dectection](https://github.com/rayyanposwal5678-lgtm/Crop-Yield-prediction-Plants-disease-dectection) - Crop yield prediction. `★ 1` `no licence`
 - [saad2134/apex-harvest](https://github.com/saad2134/apex-harvest) - 🛠️ Prototype for Hack Revolution 2025. PS: AI-Powered Crop Yield Prediction & Optimization. Apex Harvest — A web-based AI platform that empowers farmers with data-driven crop yield predictions &… `★ 1` `no licence`
 - [sajjadahmad-dev/AI-Based-Crop-Yield-Prediction](https://github.com/sajjadahmad-dev/AI-Based-Crop-Yield-Prediction) - Crop yield prediction with machine learning. `★ 1` `no licence`
+- [Samarth731/smart-crop-protect](https://github.com/Samarth731/smart-crop-protect) - On-device AI field assistant for Indian farmers: crop doctor, FAO-56 irrigation, district yield & price forecasts in 4 languages. `★ 1` `custom licence`
 - [shabareesh390/CropLens](https://github.com/shabareesh390/CropLens) - AI-powered satellite assessment platform for SBI Agri Credit that replaces manual KCC farm surveys with NDVI crop health analysis, yield estimation, and automated credit scoring. React + Leaflet… `★ 1` `no licence`
 - [surajjss05/Smart-Farming-Assistant-for-Farmers](https://github.com/surajjss05/Smart-Farming-Assistant-for-Farmers) - 🌱 AI-powered smart farming platform that combines soil, weather, market trends, and predictive analytics to recommend crops, forecast yields, detect pests and diseases, optimize farm profitability… `★ 1` `no licence`
 - [woobly-bop/AI-Assisted-Farming-for-Crop-Recommendation-and-yield-Prediction](https://github.com/woobly-bop/AI-Assisted-Farming-for-Crop-Recommendation-and-yield-Prediction) - AI-powered farming assistant for crop recommendation and yield prediction. `★ 1` `MIT`
@@ -1052,7 +1053,6 @@ Continued from [page 3](data-driven-3.md). See the [contents](data-driven.md#con
 - [SachinWhoCodes/fasalsaathi](https://github.com/SachinWhoCodes/fasalsaathi) - Crop yield prediction with machine learning. `no licence`
 - [saiem1209/crop-yield-prediction-frontend](https://github.com/saiem1209/crop-yield-prediction-frontend) - Crop yield prediction. `no licence`
 - [Saketbishnu/krishidost-crop-yield](https://github.com/Saketbishnu/krishidost-crop-yield) - Crop yield prediction with machine learning. `no licence`
-- [Samarth731/smart-crop-protect](https://github.com/Samarth731/smart-crop-protect) - On-device AI field assistant for Indian farmers: crop doctor, FAO-56 irrigation, district yield & price forecasts in 4 languages. `custom licence`
 - [samiksharajesh5-stack/crop-yield-prediction](https://github.com/samiksharajesh5-stack/crop-yield-prediction) - Crop yield prediction. `no licence`
 - [Sandeep0806/CROP-YIELD-PREDICTION-USING-ML-](https://github.com/Sandeep0806/CROP-YIELD-PREDICTION-USING-ML-) - Crop yield prediction with machine learning. `no licence`
 - [sandypro2005/-AI-crop-yield-prediction](https://github.com/sandypro2005/-AI-crop-yield-prediction) - Crop yield prediction with machine learning. `no licence`

@@ -2,7 +2,7 @@
 
 Repositories found by discovery that nobody has classified yet. To list one, add it to `config/seeds.json`; to reject one, record it with a reason in `config/excluded.json`. Forks are not listed unless curated.
 
-106986 tracked · 15291 listed · 78836 excluded · 795 forks · **12064 awaiting review**
+106988 tracked · 15291 listed · 78836 excluded · 795 forks · **12066 awaiting review**
 
 | Repository | ★ | Language | Description | Found by |
 |---|---|---|---|---|
@@ -12,6 +12,7 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [YellFunGit/IndoorunSDKIosDemo](https://github.com/YellFunGit/IndoorunSDKIosDemo) | 6 | Objective-C | IndoorunSDK IOS端demo | cn-crop-model |
 | [cassiel-cai/vchart](https://github.com/cassiel-cai/vchart) | 1 | TypeScript | 最新前端技术栈 ：Vue3.5 、 Electron、TS、 Vite、Pinia、Radix Vue、IndexedDB、 Dexie.js ，与多种知名AI大模型（文心一言/通义千问/ Claude ／Deepseek），手把手带你开发 | cn-photosynthesis |
 | [gnz-b/interviewNotice](https://github.com/gnz-b/interviewNotice) | 1 |  | 前端面试 常见知识点整理 | cn-crop-model |
+| [parthvarute09/Rice-Crop-Forecasting](https://github.com/parthvarute09/Rice-Crop-Forecasting) | 1 |  | A machine learning-based Rice Crop Yield Forecasting System that analyzes agricultural and environmental factors to pred | dd-crop-yield-forecast, dd-crop-yield-forecasting |
 | [weijinxing204/Rice-quality-model](https://github.com/weijinxing204/Rice-quality-model) | 1 | MATLAB |  | crop-rice-model |
 | [002y/nlw-expert-notes](https://github.com/002y/nlw-expert-notes) | 0 | TypeScript |  | mdl-expert-n |
 | [00MOREIRA00/nlw-expert-notes](https://github.com/00MOREIRA00/nlw-expert-notes) | 0 | TypeScript | Repositório destinado a criação da aplicação proposta pela Rocketseat no evento NLW Expert | mdl-expert-n |
@@ -1005,6 +1006,5 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [andiswa-phewa/ChatAppPart1](https://github.com/andiswa-phewa/ChatAppPart1) | 0 | Java |  | mdl-icasa |
 | [andmb20/Crop-Yield-Projeto](https://github.com/andmb20/Crop-Yield-Projeto) | 0 | Jupyter Notebook |  | dd-crop-yield |
 | [andorfc/HostPPI](https://github.com/andorfc/HostPPI) | 0 |  |  | mechanistic-crop |
-| [andpatrig/rain-or-shine](https://github.com/andpatrig/rain-or-shine) | 0 | HTML | An introduction to soil physical properties and processes | rd-soil-water-balance |
 
-The 11064 remaining candidates, with fewer stars, are in `catalog/repositories.json`.
+The 11066 remaining candidates, with fewer stars, are in `catalog/repositories.json`.

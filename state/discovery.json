@@ -124623,9 +124623,164 @@
         "reported_total": 20,
         "start": "2026-09-22T11:09:10Z",
         "unique_repositories": 20
+      },
+      {
+        "end": "2026-10-22T11:09:10Z",
+        "fetched_items": 0,
+        "pages": 1,
+        "query_id": "crop-alfalfa",
+        "reported_total": 1,
+        "start": "2026-09-22T11:09:10Z",
+        "unique_repositories": 0
+      },
+      {
+        "end": "2026-10-22T11:09:10Z",
+        "fetched_items": 3,
+        "pages": 1,
+        "query_id": "crop-grazing",
+        "reported_total": 3,
+        "start": "2026-09-22T11:09:10Z",
+        "unique_repositories": 3
+      },
+      {
+        "end": "2026-10-22T11:09:10Z",
+        "fetched_items": 1,
+        "pages": 1,
+        "query_id": "crop-miscanthus",
+        "reported_total": 1,
+        "start": "2026-09-22T11:09:10Z",
+        "unique_repositories": 1
+      },
+      {
+        "end": "2026-10-22T11:09:10Z",
+        "fetched_items": 0,
+        "pages": 1,
+        "query_id": "crop-switchgrass",
+        "reported_total": 0,
+        "start": "2026-09-22T11:09:10Z",
+        "unique_repositories": 0
+      },
+      {
+        "end": "2026-10-22T11:09:10Z",
+        "fetched_items": 0,
+        "pages": 1,
+        "query_id": "crop-bioenergy",
+        "reported_total": 0,
+        "start": "2026-09-22T11:09:10Z",
+        "unique_repositories": 0
+      },
+      {
+        "end": "2026-10-22T11:09:10Z",
+        "fetched_items": 0,
+        "pages": 1,
+        "query_id": "crop-hemp",
+        "reported_total": 0,
+        "start": "2026-09-22T11:09:10Z",
+        "unique_repositories": 0
+      },
+      {
+        "end": "2026-10-22T11:09:10Z",
+        "fetched_items": 0,
+        "pages": 1,
+        "query_id": "crop-onion",
+        "reported_total": 0,
+        "start": "2026-09-22T11:09:10Z",
+        "unique_repositories": 0
+      },
+      {
+        "end": "2026-10-22T11:09:10Z",
+        "fetched_items": 0,
+        "pages": 1,
+        "query_id": "crop-sweet-potato",
+        "reported_total": 0,
+        "start": "2026-09-22T11:09:10Z",
+        "unique_repositories": 0
+      },
+      {
+        "end": "2026-10-22T11:09:10Z",
+        "fetched_items": 38,
+        "pages": 1,
+        "query_id": "dd-crop-yield-forecast",
+        "reported_total": 38,
+        "start": "2026-09-22T11:09:10Z",
+        "unique_repositories": 38
+      },
+      {
+        "end": "2026-10-22T11:09:10Z",
+        "fetched_items": 39,
+        "pages": 1,
+        "query_id": "dd-crop-yield-forecasting",
+        "reported_total": 39,
+        "start": "2026-09-22T11:09:10Z",
+        "unique_repositories": 39
+      },
+      {
+        "end": "2026-10-22T11:09:10Z",
+        "fetched_items": 16,
+        "pages": 1,
+        "query_id": "dd-crop-yield-estimation",
+        "reported_total": 16,
+        "start": "2026-09-22T11:09:10Z",
+        "unique_repositories": 16
+      },
+      {
+        "end": "2026-10-22T11:09:10Z",
+        "fetched_items": 40,
+        "pages": 1,
+        "query_id": "dd-yield-forecasting-agri",
+        "reported_total": 40,
+        "start": "2026-09-22T11:09:10Z",
+        "unique_repositories": 40
+      },
+      {
+        "end": "2026-10-22T11:09:10Z",
+        "fetched_items": 29,
+        "pages": 1,
+        "query_id": "dd-yield-estimation",
+        "reported_total": 29,
+        "start": "2026-09-22T11:09:10Z",
+        "unique_repositories": 29
+      },
+      {
+        "end": "2026-10-22T11:09:10Z",
+        "fetched_items": 14,
+        "pages": 1,
+        "query_id": "dd-crop-production-prediction",
+        "reported_total": 14,
+        "start": "2026-09-22T11:09:10Z",
+        "unique_repositories": 14
       }
     ],
-    "coverage_gaps": [],
+    "coverage_gaps": [
+      {
+        "cycle": 2,
+        "end": "2026-10-22T11:09:10Z",
+        "page": 1,
+        "query_id": "crop-alfalfa",
+        "reason": "incomplete_results",
+        "reported_total": 1,
+        "start": "2026-09-22T11:09:10Z"
+      },
+      {
+        "cycle": 2,
+        "end": "2026-10-22T11:09:10Z",
+        "page": 1,
+        "query_id": "crop-alfalfa",
+        "reason": "short_page_before_reported_total",
+        "reported_total": 1,
+        "returned": 0,
+        "start": "2026-09-22T11:09:10Z"
+      },
+      {
+        "cycle": 2,
+        "end": "2026-10-22T11:09:10Z",
+        "page": 1,
+        "query_id": "dd-crop-yield-prediction",
+        "reason": "incomplete_results",
+        "reported_total": 239,
+        "start": "2026-09-22T11:09:10Z"
+      }
+    ],
     "cycle": 2,
     "cycle_end": "2026-10-22T11:09:10Z",
     "cycle_history": [
@@ -124639,22 +124794,51 @@
     ],
     "cycle_start": "2026-09-22T11:09:10Z",
     "cycle_started_at": "2026-10-22T11:09:10Z",
-    "last_query_id": "crop-forage",
+    "last_query_id": "dd-agricultural-yield",
     "last_run": {
-      "completed_windows": 212,
-      "coverage_gaps": [],
+      "completed_windows": 226,
+      "coverage_gaps": [
+        {
+          "cycle": 2,
+          "end": "2026-10-22T11:09:10Z",
+          "page": 1,
+          "query_id": "crop-alfalfa",
+          "reason": "incomplete_results",
+          "reported_total": 1,
+          "start": "2026-09-22T11:09:10Z"
+        },
+        {
+          "cycle": 2,
+          "end": "2026-10-22T11:09:10Z",
+          "page": 1,
+          "query_id": "crop-alfalfa",
+          "reason": "short_page_before_reported_total",
+          "reported_total": 1,
+          "returned": 0,
+          "start": "2026-09-22T11:09:10Z"
+        },
+        {
+          "cycle": 2,
+          "end": "2026-10-22T11:09:10Z",
+          "page": 1,
+          "query_id": "dd-crop-yield-prediction",
+          "reason": "incomplete_results",
+          "reported_total": 239,
+          "start": "2026-09-22T11:09:10Z"
+        }
+      ],
       "coverage_note": "Completion means this query plan was traversed. GitHub search is mutable, may omit repositories, and does not prove coverage of all GitHub.",
       "cycle": 2,
       "cycle_end": "2026-10-22T11:09:10Z",
       "cycle_start": "2026-09-22T11:09:10Z",
       "cycle_started_at": "2026-10-22T11:09:10Z",
-      "discovered_repositories": 59,
-      "observed_at": "2026-10-26T08:53:10Z",
+      "discovered_repositories": 317,
+      "observed_at": "2026-10-27T08:57:51Z",
       "plan_completed": false,
-      "remaining_jobs": 314,
+      "remaining_jobs": 300,
       "requests": 20,
-      "status": "partial",
-      "unresolved_gap_count": 0
+      "status": "interrupted",
+      "unresolved_gap_count": 3
     },
     "pending_repositories": [],
     "plan_completed": false,
@@ -127561,192 +127745,557 @@
       },
       {
         "end": "2026-10-22T11:09:10Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "alfalfa model",
-        "query_id": "crop-alfalfa",
-        "seen_ids": [],
-        "start": "2026-09-22T11:09:10Z"
-      },
-      {
-        "end": "2026-10-22T11:09:10Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "grazing model",
-        "query_id": "crop-grazing",
-        "seen_ids": [],
-        "start": "2026-09-22T11:09:10Z"
-      },
-      {
-        "end": "2026-10-22T11:09:10Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "miscanthus",
-        "query_id": "crop-miscanthus",
-        "seen_ids": [],
-        "start": "2026-09-22T11:09:10Z"
-      },
-      {
-        "end": "2026-10-22T11:09:10Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "switchgrass",
-        "query_id": "crop-switchgrass",
-        "seen_ids": [],
-        "start": "2026-09-22T11:09:10Z"
-      },
-      {
-        "end": "2026-10-22T11:09:10Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "bioenergy crop model",
-        "query_id": "crop-bioenergy",
-        "seen_ids": [],
-        "start": "2026-09-22T11:09:10Z"
-      },
-      {
-        "end": "2026-10-22T11:09:10Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "hemp growth model",
-        "query_id": "crop-hemp",
-        "seen_ids": [],
-        "start": "2026-09-22T11:09:10Z"
-      },
-      {
-        "end": "2026-10-22T11:09:10Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "onion crop model",
-        "query_id": "crop-onion",
-        "seen_ids": [],
-        "start": "2026-09-22T11:09:10Z"
-      },
-      {
-        "end": "2026-10-22T11:09:10Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "sweet potato model",
-        "query_id": "crop-sweet-potato",
-        "seen_ids": [],
-        "start": "2026-09-22T11:09:10Z"
-      },
-      {
-        "end": "2026-10-22T11:09:10Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
+        "fetched_items": 100,
+        "last_total": 416,
+        "page": 2,
         "query": "\"crop yield\"",
         "query_id": "dd-crop-yield",
-        "seen_ids": [],
+        "seen_ids": [
+          1381436997,
+          1381531672,
+          1381575387,
+          1381712820,
+          1381718569,
+          1381934341,
+          1381936501,
+          1382000085,
+          1382269359,
+          1382697064,
+          1382779054,
+          1382791198,
+          1382827652,
+          1382828444,
+          1382997136,
+          1383269957,
+          1383323747,
+          1383502354,
+          1383517575,
+          1383559011,
+          1383559535,
+          1383667744,
+          1383687384,
+          1383719865,
+          1383765540,
+          1383767578,
+          1383815240,
+          1383946781,
+          1384017055,
+          1384740809,
+          1384752470,
+          1384779643,
+          1384858690,
+          1384964360,
+          1385066696,
+          1385104172,
+          1385109804,
+          1385161965,
+          1385192762,
+          1385227250,
+          1385502895,
+          1385562956,
+          1385944556,
+          1386048233,
+          1386154275,
+          1386319841,
+          1386426648,
+          1386440882,
+          1387022771,
+          1387149188,
+          1387237001,
+          1387517290,
+          1387745773,
+          1387774513,
+          1387910483,
+          1388049658,
+          1388226632,
+          1388267124,
+          1388416731,
+          1388607964,
+          1388683631,
+          1389022486,
+          1389043226,
+          1389224543,
+          1389371548,
+          1389652917,
+          1390180579,
+          1390359614,
+          1390547760,
+          1390683470,
+          1390894820,
+          1390995586,
+          1391071956,
+          1391201067,
+          1391245837,
+          1391379828,
+          1391502114,
+          1391959371,
+          1392227316,
+          1392375342,
+          1392403905,
+          1392476648,
+          1393345841,
+          1393525683,
+          1393856929,
+          1393873867,
+          1394039262,
+          1394320718,
+          1394332868,
+          1394567967,
+          1394791904,
+          1394962306,
+          1395481994,
+          1395548684,
+          1395563594,
+          1395583329,
+          1395599897,
+          1395783910,
+          1395872428,
+          1396042401
+        ],
         "start": "2026-09-22T11:09:10Z"
       },
       {
         "end": "2026-10-22T11:09:10Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
+        "fetched_items": 100,
+        "last_total": 239,
+        "page": 2,
         "query": "crop yield prediction",
         "query_id": "dd-crop-yield-prediction",
-        "seen_ids": [],
+        "seen_ids": [
+          1381531672,
+          1381575387,
+          1381712820,
+          1381934341,
+          1381936501,
+          1382000085,
+          1382462249,
+          1382791198,
+          1382997136,
+          1383502354,
+          1383517575,
+          1383559011,
+          1383667744,
+          1383767578,
+          1383815240,
+          1383994520,
+          1384017055,
+          1384740809,
+          1384741503,
+          1384964360,
+          1384996547,
+          1385066696,
+          1385104172,
+          1385109804,
+          1385161965,
+          1385562956,
+          1385975314,
+          1385984202,
+          1386426648,
+          1386440882,
+          1387149188,
+          1387745773,
+          1387910483,
+          1388049658,
+          1388226632,
+          1388651208,
+          1388999032,
+          1389224543,
+          1389521404,
+          1390359614,
+          1390683470,
+          1390894820,
+          1390995586,
+          1391245837,
+          1391860433,
+          1391959371,
+          1392327523,
+          1392375342,
+          1392476648,
+          1393344509,
+          1393345841,
+          1393525683,
+          1393873867,
+          1394039262,
+          1394320718,
+          1394729214,
+          1394791904,
+          1394962306,
+          1395548684,
+          1395563594,
+          1395583329,
+          1395674746,
+          1395783910,
+          1395872428,
+          1396159769,
+          1396165683,
+          1396195164,
+          1396573648,
+          1397012450,
+          1397066566,
+          1397441130,
+          1398118334,
+          1398175622,
+          1399148776,
+          1399172117,
+          1399369603,
+          1399737295,
+          1399773349,
+          1399874784,
+          1399879161,
+          1399909398,
+          1400196196,
+          1400263237,
+          1400476175,
+          1400679872,
+          1401049369,
+          1401364717,
+          1401623768,
+          1401681769,
+          1402029356,
+          1402225278,
+          1402952628,
+          1402975814,
+          1403122512,
+          1403195998,
+          1403444086,
+          1404273763,
+          1404525783,
+          1405200874,
+          1405203037
+        ],
         "start": "2026-09-22T11:09:10Z"
       },
       {
         "end": "2026-10-22T11:09:10Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "crop yield forecast",
-        "query_id": "dd-crop-yield-forecast",
-        "seen_ids": [],
-        "start": "2026-09-22T11:09:10Z"
-      },
-      {
-        "end": "2026-10-22T11:09:10Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "crop yield forecasting",
-        "query_id": "dd-crop-yield-forecasting",
-        "seen_ids": [],
-        "start": "2026-09-22T11:09:10Z"
-      },
-      {
-        "end": "2026-10-22T11:09:10Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "crop yield estimation",
-        "query_id": "dd-crop-yield-estimation",
-        "seen_ids": [],
-        "start": "2026-09-22T11:09:10Z"
-      },
-      {
-        "end": "2026-10-22T11:09:10Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
+        "fetched_items": 100,
+        "last_total": 243,
+        "page": 2,
         "query": "\"yield prediction\" crop",
         "query_id": "dd-yield-prediction-crop",
-        "seen_ids": [],
+        "seen_ids": [
+          1381531672,
+          1381575387,
+          1381712820,
+          1381934341,
+          1381936501,
+          1382000085,
+          1382269359,
+          1382462249,
+          1382791198,
+          1382997136,
+          1383502354,
+          1383517575,
+          1383559011,
+          1383667744,
+          1383767578,
+          1383815240,
+          1384017055,
+          1384740809,
+          1384964360,
+          1384996547,
+          1385066696,
+          1385109804,
+          1385161965,
+          1385502895,
+          1385975314,
+          1385984202,
+          1386426648,
+          1386440882,
+          1387149188,
+          1387745773,
+          1387910483,
+          1388049658,
+          1388226632,
+          1388416731,
+          1388651208,
+          1388999032,
+          1389224543,
+          1389521404,
+          1390180579,
+          1390359614,
+          1390683470,
+          1390894820,
+          1391046936,
+          1391071956,
+          1391245837,
+          1391860433,
+          1391959371,
+          1392327523,
+          1392375342,
+          1392476648,
+          1393344509,
+          1393345841,
+          1393525683,
+          1393873867,
+          1394039262,
+          1394320718,
+          1394729214,
+          1394962306,
+          1395548684,
+          1395563594,
+          1395583329,
+          1395674746,
+          1395783910,
+          1395872428,
+          1396165683,
+          1396195164,
+          1396573648,
+          1397012450,
+          1397066566,
+          1397441130,
+          1397461547,
+          1398118334,
+          1398175622,
+          1399148776,
+          1399172117,
+          1399369603,
+          1399737295,
+          1399773349,
+          1399874784,
+          1399879161,
+          1399909398,
+          1400196196,
+          1400263237,
+          1400476175,
+          1400679872,
+          1401049369,
+          1401364717,
+          1401623768,
+          1401681769,
+          1402029356,
+          1402225278,
+          1402952628,
+          1402975814,
+          1403122512,
+          1403195998,
+          1403444086,
+          1404273763,
+          1404289592,
+          1404525783,
+          1404672795
+        ],
         "start": "2026-09-22T11:09:10Z"
       },
       {
         "end": "2026-10-22T11:09:10Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
+        "fetched_items": 100,
+        "last_total": 107,
+        "page": 2,
         "query": "\"yield prediction\" agriculture",
         "query_id": "dd-yield-prediction-agri",
-        "seen_ids": [],
+        "seen_ids": [
+          1381712820,
+          1382000085,
+          1382269359,
+          1382429078,
+          1382462249,
+          1382791198,
+          1384740809,
+          1385066696,
+          1385984202,
+          1386426648,
+          1386440882,
+          1387149188,
+          1388651208,
+          1390286990,
+          1390359614,
+          1390894820,
+          1391046936,
+          1391499742,
+          1392476648,
+          1393344509,
+          1394320718,
+          1395563594,
+          1396165683,
+          1396195164,
+          1397441130,
+          1398118334,
+          1398146879,
+          1399369603,
+          1399773349,
+          1399879161,
+          1400196196,
+          1400476175,
+          1401049369,
+          1401339401,
+          1401623768,
+          1401759605,
+          1402225278,
+          1402674344,
+          1403122512,
+          1403195998,
+          1403467838,
+          1404525783,
+          1404704236,
+          1404952591,
+          1405200874,
+          1405636266,
+          1406236688,
+          1407166709,
+          1407864196,
+          1407935636,
+          1408200682,
+          1408678602,
+          1408765352,
+          1408942487,
+          1409142562,
+          1409382662,
+          1409420057,
+          1409758006,
+          1409848832,
+          1409952768,
+          1409966664,
+          1410912279,
+          1411441467,
+          1411470903,
+          1411859979,
+          1412032074,
+          1412611141,
+          1413837505,
+          1414087956,
+          1414381333,
+          1415032642,
+          1415033788,
+          1415036342,
+          1415663801,
+          1415908287,
+          1415995840,
+          1416002246,
+          1416062962,
+          1416571102,
+          1416576725,
+          1417081919,
+          1417377107,
+          1417627117,
+          1418277773,
+          1418320771,
+          1418501481,
+          1418638173,
+          1418638708,
+          1418642888,
+          1418823997,
+          1419596612,
+          1421660172,
+          1422949753,
+          1423481627,
+          1424092048,
+          1425132969,
+          1425781994,
+          1425802868,
+          1426386927,
+          1426790127
+        ],
         "start": "2026-09-22T11:09:10Z"
       },
       {
         "end": "2026-10-22T11:09:10Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "\"yield forecasting\"",
-        "query_id": "dd-yield-forecasting-agri",
-        "seen_ids": [],
-        "start": "2026-09-22T11:09:10Z"
-      },
-      {
-        "end": "2026-10-22T11:09:10Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "\"yield estimation\"",
-        "query_id": "dd-yield-estimation",
-        "seen_ids": [],
-        "start": "2026-09-22T11:09:10Z"
-      },
-      {
-        "end": "2026-10-22T11:09:10Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "crop production prediction",
-        "query_id": "dd-crop-production-prediction",
-        "seen_ids": [],
-        "start": "2026-09-22T11:09:10Z"
-      },
-      {
-        "end": "2026-10-22T11:09:10Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
+        "fetched_items": 100,
+        "last_total": 113,
+        "page": 2,
         "query": "agricultural yield prediction",
         "query_id": "dd-agricultural-yield",
-        "seen_ids": [],
+        "seen_ids": [
+          1381712820,
+          1382000085,
+          1382269359,
+          1382429078,
+          1382462249,
+          1382791198,
+          1383994520,
+          1384322911,
+          1384740809,
+          1385066696,
+          1385984202,
+          1386426648,
+          1386440882,
+          1387149188,
+          1388651208,
+          1390286990,
+          1390359614,
+          1390894820,
+          1391046936,
+          1391499742,
+          1392476648,
+          1393344509,
+          1395563594,
+          1395872428,
+          1396159769,
+          1396165683,
+          1396195164,
+          1397441130,
+          1398118334,
+          1399369603,
+          1399773349,
+          1399879161,
+          1400196196,
+          1400476175,
+          1401049369,
+          1401339401,
+          1401623768,
+          1401759605,
+          1402225278,
+          1402674344,
+          1403122512,
+          1403169425,
+          1403195998,
+          1403467838,
+          1404525783,
+          1404704236,
+          1405200874,
+          1405636266,
+          1406236688,
+          1407166709,
+          1407864196,
+          1407935636,
+          1408200682,
+          1408678602,
+          1408765352,
+          1408942487,
+          1409142562,
+          1409382662,
+          1409420057,
+          1409758006,
+          1409848832,
+          1409952768,
+          1409966664,
+          1410659625,
+          1410912279,
+          1411423113,
+          1411441467,
+          1411470903,
+          1411859979,
+          1412032074,
+          1412611141,
+          1413837505,
+          1414087956,
+          1414381333,
+          1414623399,
+          1415032642,
+          1415033788,
+          1415036342,
+          1415578163,
+          1415663801,
+          1415908287,
+          1416062962,
+          1416571102,
+          1416576725,
+          1417377107,
+          1417627117,
+          1418277773,
+          1418320771,
+          1418501481,
+          1418638173,
+          1418638708,
+          1418642888,
+          1418823997,
+          1419596612,
+          1421660172,
+          1422949753,
+          1423481627,
+          1425132969,
+          1425781994,
+          1425802868
+        ],
         "start": "2026-09-22T11:09:10Z"
       },
       {
@@ -130615,11 +131164,21 @@
         "crop-model",
         "crop-growth"
       ],
+      "1381436997": [
+        "dd-crop-yield"
+      ],
       "1381501097": [
-        "proc-disease-forecast"
+        "proc-disease-forecast",
+        "dd-crop-yield-forecast",
+        "dd-crop-yield-forecasting"
       ],
       "1381524103": [
         "crop-growth"
+      ],
+      "1381531672": [
+        "dd-crop-yield",
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop"
       ],
       "1381595813": [
         "crop-model",
@@ -130628,6 +131187,13 @@
       ],
       "1381619037": [
         "crop-maize-model"
+      ],
+      "1381712820": [
+        "dd-crop-yield",
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop",
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
       ],
       "1381778778": [
         "proc-irrigation-model"
@@ -130638,9 +131204,24 @@
       "1381928123": [
         "proc-irrigation-model"
       ],
+      "1381934341": [
+        "dd-crop-yield",
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop"
+      ],
+      "1381936501": [
+        "dd-crop-yield",
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop"
+      ],
       "1382000085": [
         "gen-crop-simulation",
-        "gen-crop-yield-simulation"
+        "gen-crop-yield-simulation",
+        "dd-crop-yield",
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop",
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
       ],
       "1382084524": [
         "crop-model"
@@ -130664,8 +131245,24 @@
       "1382223864": [
         "proc-agrometeorology"
       ],
+      "1382269359": [
+        "dd-crop-yield",
+        "dd-yield-prediction-crop",
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
+      ],
       "1382411789": [
         "proc-stomatal"
+      ],
+      "1382429078": [
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
+      ],
+      "1382462249": [
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop",
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
       ],
       "1382541983": [
         "proc-irrigation-scheduling"
@@ -130674,11 +131271,32 @@
         "cropping-systems",
         "proc-evapotranspiration"
       ],
+      "1382779054": [
+        "dd-crop-yield"
+      ],
       "1382779639": [
         "crop-oil-palm"
       ],
+      "1382791198": [
+        "dd-crop-yield",
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop",
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
+      ],
       "1382823039": [
         "soil-carbon-crop"
+      ],
+      "1382827652": [
+        "dd-crop-yield"
+      ],
+      "1382828444": [
+        "dd-crop-yield"
+      ],
+      "1382997136": [
+        "dd-crop-yield",
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop"
       ],
       "1383054623": [
         "cropping-systems"
@@ -130686,25 +131304,77 @@
       "1383245912": [
         "soil-carbon-crop"
       ],
+      "1383323747": [
+        "dd-crop-yield"
+      ],
       "1383440286": [
         "proc-watershed-agri"
       ],
       "1383500658": [
         "soil-carbon-crop"
       ],
+      "1383502354": [
+        "dd-crop-yield",
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop"
+      ],
+      "1383517575": [
+        "dd-crop-yield",
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop"
+      ],
       "1383559011": [
         "crop-model",
         "crop-nitrogen",
-        "soil-carbon-crop"
+        "soil-carbon-crop",
+        "dd-crop-yield",
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop"
+      ],
+      "1383559535": [
+        "dd-crop-yield"
+      ],
+      "1383667744": [
+        "dd-crop-yield",
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop"
+      ],
+      "1383687384": [
+        "dd-crop-yield"
       ],
       "1383693462": [
         "gen-crop-growth"
       ],
+      "1383719865": [
+        "dd-crop-yield"
+      ],
       "1383742096": [
         "crop-simulation"
       ],
+      "1383743529": [
+        "dd-crop-production-prediction"
+      ],
+      "1383765540": [
+        "dd-crop-yield",
+        "dd-crop-yield-forecast",
+        "dd-crop-yield-forecasting",
+        "dd-yield-forecasting-agri"
+      ],
+      "1383767578": [
+        "dd-crop-yield",
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop"
+      ],
       "1383799139": [
         "crop-growth"
+      ],
+      "1383811630": [
+        "dd-crop-production-prediction"
+      ],
+      "1383815240": [
+        "dd-crop-yield",
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop"
       ],
       "1383848381": [
         "crop-phenology"
@@ -130722,6 +131392,18 @@
         "model-wofost",
         "model-lintul",
         "gen-crop-simulation"
+      ],
+      "1383946781": [
+        "dd-crop-yield"
+      ],
+      "1383994520": [
+        "dd-crop-yield-prediction",
+        "dd-agricultural-yield"
+      ],
+      "1384017055": [
+        "dd-crop-yield",
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop"
       ],
       "1384037384": [
         "crop-model",
@@ -130785,6 +131467,9 @@
       "1384196409": [
         "crop-growth"
       ],
+      "1384322911": [
+        "dd-agricultural-yield"
+      ],
       "1384395585": [
         "proc-soil-moisture-model"
       ],
@@ -130809,14 +131494,68 @@
       "1384734962": [
         "es-crop-model"
       ],
+      "1384740809": [
+        "dd-crop-yield",
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop",
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
+      ],
+      "1384752470": [
+        "dd-crop-yield"
+      ],
+      "1384779643": [
+        "dd-crop-yield"
+      ],
+      "1384858690": [
+        "dd-crop-yield"
+      ],
       "1384878719": [
         "soil-carbon-crop"
       ],
+      "1384964360": [
+        "dd-crop-yield",
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop"
+      ],
+      "1385066696": [
+        "dd-crop-yield",
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop",
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
+      ],
+      "1385075591": [
+        "dd-crop-yield-estimation",
+        "dd-yield-estimation"
+      ],
       "1385104172": [
-        "soil-carbon-crop"
+        "soil-carbon-crop",
+        "dd-crop-yield",
+        "dd-crop-yield-prediction"
+      ],
+      "1385109804": [
+        "dd-crop-yield",
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop"
       ],
       "1385161965": [
-        "fr-crop-model"
+        "fr-crop-model",
+        "dd-crop-yield",
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop"
+      ],
+      "1385178743": [
+        "dd-yield-forecasting-agri"
+      ],
+      "1385192762": [
+        "dd-crop-yield"
+      ],
+      "1385227250": [
+        "dd-crop-yield",
+        "dd-crop-yield-forecast",
+        "dd-crop-yield-forecasting",
+        "dd-yield-forecasting-agri"
       ],
       "1385402419": [
         "gen-crop-growth"
@@ -130824,10 +131563,18 @@
       "1385454541": [
         "soil-carbon-crop"
       ],
+      "1385502895": [
+        "dd-crop-yield",
+        "dd-yield-prediction-crop"
+      ],
       "1385531334": [
         "crop-model",
         "crop-simulation",
         "cropping-systems"
+      ],
+      "1385562956": [
+        "dd-crop-yield",
+        "dd-crop-yield-prediction"
       ],
       "1385592603": [
         "es-crop-model"
@@ -130850,6 +131597,16 @@
       "1385970753": [
         "crop-growth"
       ],
+      "1385975314": [
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop"
+      ],
+      "1385984202": [
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop",
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
+      ],
       "1385994442": [
         "es-crop-model"
       ],
@@ -130865,11 +131622,31 @@
       "1386096035": [
         "es-crop-model"
       ],
+      "1386154275": [
+        "dd-crop-yield"
+      ],
       "1386181906": [
         "fr-crop-model"
       ],
       "1386223195": [
         "proc-soil-temperature"
+      ],
+      "1386319841": [
+        "dd-crop-yield"
+      ],
+      "1386426648": [
+        "dd-crop-yield",
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop",
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
+      ],
+      "1386440882": [
+        "dd-crop-yield",
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop",
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
       ],
       "1386495190": [
         "gen-agricultural-model",
@@ -130905,6 +131682,12 @@
       "1386977218": [
         "crop-model"
       ],
+      "1387022771": [
+        "dd-crop-yield",
+        "dd-crop-yield-forecast",
+        "dd-crop-yield-forecasting",
+        "dd-yield-forecasting-agri"
+      ],
       "1387044831": [
         "crop-growth"
       ],
@@ -130914,8 +131697,18 @@
       "1387118951": [
         "proc-soil-water-model"
       ],
+      "1387149188": [
+        "dd-crop-yield",
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop",
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
+      ],
       "1387188730": [
         "crop-wheat-model"
+      ],
+      "1387237001": [
+        "dd-crop-yield"
       ],
       "1387335120": [
         "proc-soil-moisture-model"
@@ -130934,8 +131727,14 @@
       "1387690857": [
         "crop-growth"
       ],
+      "1387745773": [
+        "dd-crop-yield",
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop"
+      ],
       "1387774513": [
-        "crop-phenology"
+        "crop-phenology",
+        "dd-crop-yield"
       ],
       "1387834437": [
         "model-aquacrop"
@@ -130945,6 +131744,11 @@
       ],
       "1387880088": [
         "proc-disease-forecast"
+      ],
+      "1387910483": [
+        "dd-crop-yield",
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop"
       ],
       "1387945624": [
         "soil-carbon-crop"
@@ -130974,6 +131778,14 @@
       "1388206569": [
         "crop-nitrogen"
       ],
+      "1388226632": [
+        "dd-crop-yield",
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop"
+      ],
+      "1388267124": [
+        "dd-crop-yield"
+      ],
       "1388274475": [
         "crop-growth"
       ],
@@ -130997,6 +131809,10 @@
       "1388407771": [
         "crop-growth"
       ],
+      "1388416731": [
+        "dd-crop-yield",
+        "dd-yield-prediction-crop"
+      ],
       "1388468318": [
         "soil-carbon-crop"
       ],
@@ -131008,8 +131824,17 @@
       "1388630182": [
         "crop-growth"
       ],
+      "1388651208": [
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop",
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
+      ],
       "1388678243": [
         "soil-carbon-crop"
+      ],
+      "1388683631": [
+        "dd-crop-yield"
       ],
       "1388750332": [
         "crop-model",
@@ -131028,17 +131853,30 @@
       "1388982653": [
         "soil-carbon-crop"
       ],
+      "1388999032": [
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop"
+      ],
       "1389075391": [
         "gen-crop-growth"
       ],
       "1389085390": [
         "proc-fao56"
       ],
+      "1389224543": [
+        "dd-crop-yield",
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop"
+      ],
       "1389304639": [
         "fr-crop-model"
       ],
       "1389311965": [
         "soil-carbon-crop"
+      ],
+      "1389521404": [
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop"
       ],
       "1389521885": [
         "gen-agricultural-model"
@@ -131055,6 +131893,9 @@
       "1389573772": [
         "proc-irrigation-model"
       ],
+      "1389652917": [
+        "dd-crop-yield"
+      ],
       "1389890117": [
         "es-crop-model"
       ],
@@ -131064,14 +131905,30 @@
       "1389943197": [
         "model-rothc"
       ],
+      "1390180579": [
+        "dd-crop-yield",
+        "dd-yield-prediction-crop"
+      ],
       "1390211851": [
         "soil-carbon-crop"
       ],
       "1390229383": [
         "crop-model"
       ],
+      "1390286990": [
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
+      ],
+      "1390359614": [
+        "dd-crop-yield",
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop",
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
+      ],
       "1390547760": [
-        "soil-carbon-crop"
+        "soil-carbon-crop",
+        "dd-crop-yield"
       ],
       "1390549159": [
         "crop-growth"
@@ -131089,11 +131946,23 @@
       "1390675232": [
         "soil-carbon-crop"
       ],
+      "1390683470": [
+        "dd-crop-yield",
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop"
+      ],
       "1390809001": [
         "soil-carbon-crop"
       ],
       "1390821232": [
         "crop-simulation"
+      ],
+      "1390894820": [
+        "dd-crop-yield",
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop",
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
       ],
       "1390935190": [
         "crop-growth",
@@ -131105,15 +131974,46 @@
       "1390963504": [
         "crop-growth"
       ],
+      "1390995586": [
+        "dd-crop-yield",
+        "dd-crop-yield-prediction"
+      ],
+      "1391046936": [
+        "dd-yield-prediction-crop",
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
+      ],
+      "1391071956": [
+        "dd-crop-yield",
+        "dd-yield-prediction-crop"
+      ],
       "1391142140": [
         "proc-fao56",
         "proc-water-balance-crop"
       ],
+      "1391201067": [
+        "dd-crop-yield"
+      ],
+      "1391245837": [
+        "dd-crop-yield",
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop"
+      ],
       "1391360164": [
         "gen-crop-growth"
       ],
+      "1391365900": [
+        "dd-yield-estimation"
+      ],
+      "1391379828": [
+        "dd-crop-yield"
+      ],
       "1391458131": [
         "es-crop-model"
+      ],
+      "1391499742": [
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
       ],
       "1391519342": [
         "model-dssat"
@@ -131131,6 +132031,11 @@
         "soil-carbon-crop",
         "model-rothc"
       ],
+      "1391959371": [
+        "dd-crop-yield",
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop"
+      ],
       "1392138263": [
         "proc-soil-water-balance"
       ],
@@ -131138,16 +132043,34 @@
         "crop-simulation",
         "canopy-photosynthesis"
       ],
+      "1392227316": [
+        "dd-crop-yield"
+      ],
+      "1392375342": [
+        "dd-crop-yield",
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop"
+      ],
       "1392377827": [
         "crop-model",
         "crop-nitrogen",
         "soil-carbon-crop"
+      ],
+      "1392403905": [
+        "dd-crop-yield"
       ],
       "1392404800": [
         "gen-crop-growth"
       ],
       "1392410951": [
         "fr-crop-model"
+      ],
+      "1392476648": [
+        "dd-crop-yield",
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop",
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
       ],
       "1392529230": [
         "proc-root-architecture"
@@ -131170,8 +132093,24 @@
       "1393323083": [
         "gen-farm-model"
       ],
+      "1393344509": [
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop",
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
+      ],
+      "1393345841": [
+        "dd-crop-yield",
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop"
+      ],
       "1393355510": [
         "soil-carbon-crop"
+      ],
+      "1393525683": [
+        "dd-crop-yield",
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop"
       ],
       "1393615643": [
         "process-based-crop",
@@ -131184,13 +132123,27 @@
         "cropping-systems"
       ],
       "1393856929": [
-        "crop-model"
+        "crop-model",
+        "dd-crop-yield"
+      ],
+      "1393873867": [
+        "dd-crop-yield",
+        "dd-crop-yield-prediction",
+        "dd-crop-yield-forecast",
+        "dd-crop-yield-forecasting",
+        "dd-yield-prediction-crop",
+        "dd-yield-forecasting-agri"
       ],
       "1393942991": [
         "soil-carbon-crop"
       ],
       "1394022942": [
         "proc-crop-disease-model"
+      ],
+      "1394039262": [
+        "dd-crop-yield",
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop"
       ],
       "1394046740": [
         "es-crop-model"
@@ -131202,7 +132155,8 @@
         "crop-model"
       ],
       "1394332868": [
-        "crop-model"
+        "crop-model",
+        "dd-crop-yield"
       ],
       "1394382762": [
         "cropping-systems"
@@ -131210,17 +132164,38 @@
       "1394512738": [
         "crop-rice-growth"
       ],
+      "1394567967": [
+        "dd-crop-yield"
+      ],
       "1394637786": [
         "crop-model"
       ],
+      "1394729214": [
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop"
+      ],
       "1394742626": [
         "soil-carbon-crop"
+      ],
+      "1394776817": [
+        "dd-crop-yield-forecast",
+        "dd-crop-yield-forecasting",
+        "dd-yield-forecasting-agri"
+      ],
+      "1394791904": [
+        "dd-crop-yield",
+        "dd-crop-yield-prediction"
       ],
       "1394906013": [
         "cropping-systems"
       ],
       "1394929178": [
         "crop-growth"
+      ],
+      "1394962306": [
+        "dd-crop-yield",
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop"
       ],
       "1394963729": [
         "crop-grassland"
@@ -131242,15 +132217,51 @@
         "crop-model",
         "crop-growth"
       ],
+      "1395481994": [
+        "dd-crop-yield"
+      ],
+      "1395548684": [
+        "dd-crop-yield",
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop"
+      ],
+      "1395563594": [
+        "dd-crop-yield",
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop",
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
+      ],
       "1395583329": [
         "crop-simulation",
-        "gen-digital-twin-crop"
+        "gen-digital-twin-crop",
+        "dd-crop-yield",
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop"
+      ],
+      "1395674746": [
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop"
       ],
       "1395703407": [
         "crop-growth"
       ],
       "1395722667": [
         "soil-carbon-crop"
+      ],
+      "1395783910": [
+        "dd-crop-yield",
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop"
+      ],
+      "1395872428": [
+        "dd-crop-yield",
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop",
+        "dd-agricultural-yield"
+      ],
+      "1396042401": [
+        "dd-crop-yield"
       ],
       "1396071464": [
         "soil-carbon-crop"
@@ -131259,7 +132270,15 @@
         "crop-growth"
       ],
       "1396159769": [
-        "proc-crop-disease-model"
+        "proc-crop-disease-model",
+        "dd-crop-yield-prediction",
+        "dd-agricultural-yield"
+      ],
+      "1396195164": [
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop",
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
       ],
       "1396239395": [
         "crop-growth"
@@ -131273,6 +132292,10 @@
       "1396544542": [
         "crop-rice-model"
       ],
+      "1396573648": [
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop"
+      ],
       "1396684713": [
         "fr-crop-model"
       ],
@@ -131284,6 +132307,10 @@
       "1396994631": [
         "soil-carbon-crop"
       ],
+      "1397012450": [
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop"
+      ],
       "1397043255": [
         "soil-carbon-crop"
       ],
@@ -131291,6 +132318,10 @@
         "soil-carbon-crop",
         "proc-methane-rice",
         "crop-rice-model"
+      ],
+      "1397066566": [
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop"
       ],
       "1397074385": [
         "soil-carbon-crop"
@@ -131312,6 +132343,19 @@
       ],
       "1397406397": [
         "model-sucros"
+      ],
+      "1397441130": [
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop",
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
+      ],
+      "1397461547": [
+        "dd-yield-prediction-crop"
+      ],
+      "1397496444": [
+        "dd-crop-yield-forecast",
+        "dd-crop-yield-forecasting"
       ],
       "1397546931": [
         "crop-model"
@@ -131346,14 +132390,33 @@
       "1397987287": [
         "crop-growth"
       ],
+      "1398118334": [
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop",
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
+      ],
+      "1398146879": [
+        "dd-yield-prediction-agri"
+      ],
+      "1398175622": [
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop"
+      ],
       "1398287993": [
         "crop-model"
       ],
       "1398316280": [
         "crop-forage"
       ],
+      "1398339994": [
+        "dd-crop-production-prediction"
+      ],
       "1398371430": [
         "crop-model"
+      ],
+      "1398499576": [
+        "dd-yield-forecasting-agri"
       ],
       "1398548370": [
         "proc-crop-disease-model"
@@ -131392,8 +132455,27 @@
       "1398957428": [
         "crop-growth"
       ],
+      "1399115752": [
+        "dd-yield-forecasting-agri"
+      ],
+      "1399148776": [
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop"
+      ],
+      "1399172117": [
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop"
+      ],
       "1399309644": [
         "proc-virtual-plant"
+      ],
+      "1399369603": [
+        "dd-crop-yield-prediction",
+        "dd-crop-yield-estimation",
+        "dd-yield-prediction-crop",
+        "dd-yield-prediction-agri",
+        "dd-yield-estimation",
+        "dd-agricultural-yield"
       ],
       "1399560630": [
         "crop-potato-model"
@@ -131404,8 +132486,32 @@
       "1399715033": [
         "crop-model"
       ],
+      "1399737295": [
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop"
+      ],
+      "1399773349": [
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop",
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
+      ],
       "1399843951": [
         "proc-irrigation-model"
+      ],
+      "1399874784": [
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop"
+      ],
+      "1399879161": [
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop",
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
+      ],
+      "1399909398": [
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop"
       ],
       "1400016764": [
         "crop-oil-palm"
@@ -131414,14 +132520,34 @@
         "crop-rice-model",
         "crop-wheat-model"
       ],
+      "1400196196": [
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop",
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
+      ],
       "1400256524": [
         "crop-model"
+      ],
+      "1400263237": [
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop"
       ],
       "1400311311": [
         "es-crop-model"
       ],
+      "1400476175": [
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop",
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
+      ],
       "1400621844": [
         "model-monica"
+      ],
+      "1400679872": [
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop"
       ],
       "1400711239": [
         "topic-crop-modeling",
@@ -131440,14 +132566,29 @@
       "1400963524": [
         "crop-model"
       ],
+      "1401049369": [
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop",
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
+      ],
       "1401147146": [
         "gen-crop-growth"
+      ],
+      "1401339401": [
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
       ],
       "1401342174": [
         "crop-simulation"
       ],
       "1401355975": [
         "crop-model"
+      ],
+      "1401364717": [
+        "dd-crop-yield-prediction",
+        "dd-crop-yield-estimation",
+        "dd-yield-prediction-crop"
       ],
       "1401371327": [
         "crop-phenology"
@@ -131458,8 +132599,18 @@
       "1401529271": [
         "model-rothc"
       ],
+      "1401623768": [
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop",
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
+      ],
       "1401666210": [
         "fr-crop-model"
+      ],
+      "1401681769": [
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop"
       ],
       "1401720325": [
         "proc-fspm"
@@ -131471,8 +132622,20 @@
       "1401819121": [
         "crop-growth"
       ],
+      "1402029356": [
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop"
+      ],
       "1402076752": [
         "proc-irrigation-model"
+      ],
+      "1402225278": [
+        "dd-crop-yield-prediction",
+        "dd-crop-yield-forecast",
+        "dd-crop-yield-forecasting",
+        "dd-yield-prediction-crop",
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
       ],
       "1402251312": [
         "crop-growth"
@@ -131496,14 +132659,27 @@
       "1402606608": [
         "crop-growth"
       ],
+      "1402674344": [
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
+      ],
       "1402711936": [
         "crop-wheat-model"
       ],
       "1402836487": [
-        "proc-agroclimatic"
+        "proc-agroclimatic",
+        "dd-yield-forecasting-agri"
       ],
       "1402946025": [
         "proc-root-architecture"
+      ],
+      "1402952628": [
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop"
+      ],
+      "1402975814": [
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop"
       ],
       "1403019579": [
         "cn-photosynthesis"
@@ -131511,19 +132687,38 @@
       "1403045468": [
         "crop-wheat-model"
       ],
+      "1403122512": [
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop",
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
+      ],
       "1403168332": [
         "gen-crop-growth",
         "proc-irrigation-model",
         "proc-crop-disease-model"
       ],
+      "1403169425": [
+        "dd-agricultural-yield"
+      ],
       "1403179132": [
         "proc-root-architecture"
+      ],
+      "1403195998": [
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop",
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
       ],
       "1403388696": [
         "proc-stochastic-weather"
       ],
       "1403426669": [
         "proc-root-architecture"
+      ],
+      "1403444086": [
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop"
       ],
       "1403457794": [
         "crop-phenology",
@@ -131536,7 +132731,12 @@
       "1403467838": [
         "crop-phenology",
         "gen-crop-growth",
-        "crop-rice-growth"
+        "crop-rice-growth",
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
+      ],
+      "1403535536": [
+        "dd-crop-yield-estimation"
       ],
       "1403538728": [
         "proc-root-architecture"
@@ -131563,6 +132763,11 @@
       "1404017603": [
         "crop-simulation"
       ],
+      "1404076698": [
+        "dd-crop-yield-forecast",
+        "dd-crop-yield-forecasting",
+        "dd-yield-forecasting-agri"
+      ],
       "1404090338": [
         "crop-grapevine"
       ],
@@ -131572,13 +132777,22 @@
         "stomatal-processes"
       ],
       "1404173738": [
-        "proc-disease-forecast"
+        "proc-disease-forecast",
+        "dd-crop-yield-forecast",
+        "dd-crop-yield-forecasting"
       ],
       "1404245058": [
         "model-oryza"
       ],
       "1404254304": [
         "fr-crop-model"
+      ],
+      "1404273763": [
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop"
+      ],
+      "1404289592": [
+        "dd-yield-prediction-crop"
       ],
       "1404401591": [
         "cn-photosynthesis"
@@ -131595,11 +132809,30 @@
       "1404523526": [
         "proc-soil-water-model"
       ],
+      "1404525783": [
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-crop",
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
+      ],
+      "1404672795": [
+        "dd-yield-prediction-crop"
+      ],
+      "1404704236": [
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
+      ],
+      "1404812931": [
+        "dd-yield-estimation"
+      ],
       "1404868534": [
         "crop-simulation"
       ],
       "1404924568": [
         "model-aquacrop"
+      ],
+      "1404952591": [
+        "dd-yield-prediction-agri"
       ],
       "1404967913": [
         "crop-rice-growth"
@@ -131608,8 +132841,15 @@
         "model-aquacrop",
         "proc-irrigation-simulation"
       ],
+      "1405200874": [
+        "dd-crop-yield-prediction",
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
+      ],
       "1405203037": [
-        "proc-agroclimatic"
+        "proc-agroclimatic",
+        "dd-crop-yield-prediction",
+        "dd-crop-production-prediction"
       ],
       "1405234045": [
         "crop-phenology"
@@ -131623,6 +132863,10 @@
       "1405493918": [
         "crop-model",
         "crop-growth"
+      ],
+      "1405636266": [
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
       ],
       "1405666811": [
         "crop-phenology",
@@ -131639,11 +132883,20 @@
       "1405948958": [
         "proc-leaf-area"
       ],
+      "1406025331": [
+        "dd-crop-yield-forecast",
+        "dd-crop-yield-forecasting",
+        "dd-yield-forecasting-agri"
+      ],
       "1406034969": [
         "cropping-systems"
       ],
       "1406166890": [
         "es-crop-model"
+      ],
+      "1406236688": [
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
       ],
       "1406238380": [
         "proc-irrigation-scheduling",
@@ -131670,6 +132923,11 @@
       "1406452202": [
         "proc-agrometeorological"
       ],
+      "1406483586": [
+        "dd-crop-yield-forecast",
+        "dd-crop-yield-forecasting",
+        "dd-yield-forecasting-agri"
+      ],
       "1406506084": [
         "crop-simulation"
       ],
@@ -131685,6 +132943,10 @@
       "1406797483": [
         "proc-irrigation-model"
       ],
+      "1406873500": [
+        "dd-crop-yield-estimation",
+        "dd-yield-estimation"
+      ],
       "1406975104": [
         "crop-cotton-model"
       ],
@@ -131694,11 +132956,26 @@
       "1407044313": [
         "crop-phenology"
       ],
+      "1407107743": [
+        "dd-crop-yield-estimation"
+      ],
       "1407160881": [
         "crop-model"
       ],
+      "1407166709": [
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
+      ],
+      "1407416754": [
+        "dd-yield-estimation"
+      ],
       "1407495473": [
         "crop-wheat-model"
+      ],
+      "1407531335": [
+        "dd-crop-yield-forecast",
+        "dd-crop-yield-forecasting",
+        "dd-yield-forecasting-agri"
       ],
       "1407573147": [
         "model-rothc"
@@ -131722,6 +132999,16 @@
       "1407857417": [
         "crop-wheat-model"
       ],
+      "1407864196": [
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
+      ],
+      "1407935636": [
+        "dd-crop-yield-forecast",
+        "dd-crop-yield-forecasting",
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
+      ],
       "1407935638": [
         "proc-soil-water-model",
         "proc-soil-moisture-model",
@@ -131740,6 +133027,10 @@
       ],
       "1408182150": [
         "crop-cassava"
+      ],
+      "1408200682": [
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
       ],
       "1408263946": [
         "crop-model"
@@ -131765,6 +133056,14 @@
         "crop-simulation",
         "cropping-systems"
       ],
+      "1408678602": [
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
+      ],
+      "1408765352": [
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
+      ],
       "1408811975": [
         "crop-rice-model"
       ],
@@ -131773,6 +133072,10 @@
       ],
       "1408890317": [
         "proc-nitrogen-crop"
+      ],
+      "1408942487": [
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
       ],
       "1408990319": [
         "proc-evapotranspiration",
@@ -131788,11 +133091,19 @@
       "1409105408": [
         "crop-potato-model"
       ],
+      "1409142562": [
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
+      ],
       "1409152594": [
         "gen-crop-growth"
       ],
       "1409185750": [
         "proc-root-architecture"
+      ],
+      "1409227476": [
+        "dd-crop-yield-forecast",
+        "dd-crop-yield-forecasting"
       ],
       "1409260753": [
         "proc-disease-forecast"
@@ -131800,8 +133111,18 @@
       "1409291299": [
         "proc-virtual-plant"
       ],
+      "1409382662": [
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
+      ],
       "1409392316": [
         "model-aquacrop"
+      ],
+      "1409420057": [
+        "dd-crop-yield-forecast",
+        "dd-crop-yield-forecasting",
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
       ],
       "1409420065": [
         "proc-soil-water-model",
@@ -131829,6 +133150,17 @@
       "1409834862": [
         "cn-rice-wheat"
       ],
+      "1409844012": [
+        "dd-crop-yield-forecast",
+        "dd-crop-yield-forecasting",
+        "dd-yield-forecasting-agri"
+      ],
+      "1409848832": [
+        "dd-crop-yield-forecast",
+        "dd-crop-yield-forecasting",
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
+      ],
       "1409898115": [
         "crop-phenology",
         "cn-crop-growth"
@@ -131836,8 +133168,22 @@
       "1409914024": [
         "gen-crop-growth"
       ],
+      "1409945839": [
+        "dd-yield-forecasting-agri"
+      ],
+      "1409952768": [
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
+      ],
       "1409952934": [
         "crop-growth"
+      ],
+      "1409966664": [
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
+      ],
+      "1410072889": [
+        "dd-yield-estimation"
       ],
       "1410094967": [
         "crop-rice-model"
@@ -131860,6 +133206,9 @@
       "1410439786": [
         "crop-phenology"
       ],
+      "1410659625": [
+        "dd-agricultural-yield"
+      ],
       "1410694558": [
         "model-aquacrop"
       ],
@@ -131872,8 +133221,15 @@
       "1410766049": [
         "proc-irrigation-scheduling"
       ],
+      "1410912279": [
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
+      ],
       "1410927179": [
         "gen-climate-impact-crop"
+      ],
+      "1411060590": [
+        "dd-yield-estimation"
       ],
       "1411064051": [
         "cn-rice-wheat"
@@ -131896,18 +133252,45 @@
       "1411434756": [
         "crop-corn-model"
       ],
+      "1411441467": [
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
+      ],
+      "1411470903": [
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
+      ],
       "1411594504": [
         "cropping-systems"
       ],
       "1411623154": [
         "cn-crop-growth"
       ],
+      "1411650536": [
+        "dd-crop-production-prediction"
+      ],
       "1411830847": [
         "proc-evapotranspiration"
+      ],
+      "1411842453": [
+        "dd-crop-yield-forecast",
+        "dd-crop-yield-forecasting",
+        "dd-yield-forecasting-agri"
       ],
       "1411858212": [
         "model-aquacrop",
         "proc-deficit-irrigation"
+      ],
+      "1411859979": [
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
+      ],
+      "1412032074": [
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
+      ],
+      "1412175318": [
+        "dd-yield-estimation"
       ],
       "1412199563": [
         "crop-corn-model",
@@ -131928,6 +133311,10 @@
       ],
       "1412603726": [
         "model-apsim"
+      ],
+      "1412611141": [
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
       ],
       "1412754829": [
         "proc-soil-moisture-model"
@@ -131995,6 +133382,10 @@
         "gen-crop-simulation",
         "proc-greenhouse-simulation"
       ],
+      "1413837505": [
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
+      ],
       "1413862998": [
         "model-aquacrop"
       ],
@@ -132010,8 +133401,15 @@
       "1414066045": [
         "proc-irrigation-model"
       ],
+      "1414087956": [
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
+      ],
       "1414112399": [
         "proc-cea"
+      ],
+      "1414150991": [
+        "dd-crop-production-prediction"
       ],
       "1414162740": [
         "proc-crop-disease-model"
@@ -132022,6 +133420,14 @@
       "1414352327": [
         "cn-crop-growth"
       ],
+      "1414356173": [
+        "dd-crop-yield-forecast",
+        "dd-crop-yield-forecasting"
+      ],
+      "1414381333": [
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
+      ],
       "1414400046": [
         "cn-crop-model"
       ],
@@ -132030,6 +133436,9 @@
       ],
       "1414586536": [
         "proc-fao56"
+      ],
+      "1414623399": [
+        "dd-agricultural-yield"
       ],
       "1414672440": [
         "cropping-systems"
@@ -132046,6 +133455,18 @@
       "1414887027": [
         "cropping-systems"
       ],
+      "1415032642": [
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
+      ],
+      "1415033788": [
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
+      ],
+      "1415036342": [
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
+      ],
       "1415070180": [
         "crop-rice-model"
       ],
@@ -132060,6 +133481,9 @@
       ],
       "1415265414": [
         "cn-photosynthesis"
+      ],
+      "1415283366": [
+        "dd-crop-production-prediction"
       ],
       "1415286402": [
         "model-wofost"
@@ -132080,11 +133504,21 @@
       "1415482461": [
         "crop-cotton-growth"
       ],
+      "1415496921": [
+        "dd-yield-forecasting-agri"
+      ],
       "1415578163": [
-        "crop-wheat-model"
+        "crop-wheat-model",
+        "dd-agricultural-yield"
       ],
       "1415609865": [
         "crop-growth"
+      ],
+      "1415663801": [
+        "dd-crop-yield-forecast",
+        "dd-crop-yield-forecasting",
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
       ],
       "1415726976": [
         "crop-growth"
@@ -132096,10 +133530,28 @@
         "crop-rice-model"
       ],
       "1415906327": [
-        "crop-wheat-model"
+        "crop-wheat-model",
+        "dd-yield-forecasting-agri"
+      ],
+      "1415908287": [
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
+      ],
+      "1415995840": [
+        "dd-yield-prediction-agri"
+      ],
+      "1416002246": [
+        "dd-yield-prediction-agri"
       ],
       "1416012710": [
         "mechanistic-crop"
+      ],
+      "1416013720": [
+        "dd-yield-forecasting-agri"
+      ],
+      "1416062962": [
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
       ],
       "1416269741": [
         "proc-root-architecture"
@@ -132110,11 +133562,24 @@
       "1416565518": [
         "model-aquacrop"
       ],
+      "1416571102": [
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
+      ],
+      "1416576725": [
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
+      ],
       "1416685086": [
         "proc-3d-plant"
       ],
       "1416724590": [
         "crop-rice-model"
+      ],
+      "1416731189": [
+        "dd-crop-yield-forecast",
+        "dd-crop-yield-forecasting",
+        "dd-yield-forecasting-agri"
       ],
       "1416855612": [
         "crop-growth"
@@ -132128,6 +133593,15 @@
       "1417027487": [
         "model-apsim"
       ],
+      "1417081919": [
+        "dd-yield-prediction-agri"
+      ],
+      "1417151029": [
+        "dd-crop-yield-forecast",
+        "dd-crop-yield-forecasting",
+        "dd-crop-yield-estimation",
+        "dd-yield-estimation"
+      ],
       "1417222030": [
         "crop-rice-growth"
       ],
@@ -132137,8 +133611,17 @@
       "1417374433": [
         "crop-potato-model"
       ],
+      "1417377107": [
+        "dd-yield-prediction-agri",
+        "dd-crop-production-prediction",
+        "dd-agricultural-yield"
+      ],
       "1417437373": [
         "proc-irrigation-model"
+      ],
+      "1417627117": [
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
       ],
       "1417654192": [
         "proc-crop-coefficient"
@@ -132155,17 +133638,29 @@
       "1418255542": [
         "crop-wheat-model"
       ],
+      "1418277773": [
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
+      ],
       "1418291696": [
         "crop-oil-palm"
       ],
       "1418313409": [
         "crop-sugarcane-growth"
       ],
+      "1418320771": [
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
+      ],
       "1418400285": [
         "gen-crop-simulation",
         "gen-digital-twin-crop",
         "proc-soil-moisture-simulation",
         "proc-irrigation-simulation"
+      ],
+      "1418501481": [
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
       ],
       "1418505397": [
         "crop-nitrogen"
@@ -132176,17 +133671,29 @@
       "1418679540": [
         "gen-crop-growth"
       ],
+      "1418746546": [
+        "dd-crop-production-prediction"
+      ],
       "1418769103": [
         "gen-digital-twin-agri"
+      ],
+      "1418823997": [
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
       ],
       "1419041370": [
         "crop-potato-model"
       ],
       "1419084407": [
-        "proc-fao56"
+        "proc-fao56",
+        "dd-crop-yield-forecast",
+        "dd-crop-yield-forecasting"
       ],
       "1419172519": [
         "proc-evapotranspiration"
+      ],
+      "1419229786": [
+        "dd-yield-estimation"
       ],
       "1419327686": [
         "crop-model"
@@ -132201,6 +133708,14 @@
       "1419545282": [
         "cn-crop-growth",
         "cn-rice-wheat"
+      ],
+      "1419596612": [
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
+      ],
+      "1419636763": [
+        "dd-crop-yield-forecast",
+        "dd-crop-yield-forecasting"
       ],
       "1419844956": [
         "proc-heat-stress-crop"
@@ -132220,13 +133735,22 @@
         "model-stics"
       ],
       "1420159033": [
-        "gen-cover-crop"
+        "gen-cover-crop",
+        "dd-crop-yield-forecast",
+        "dd-crop-yield-forecasting",
+        "dd-yield-forecasting-agri"
       ],
       "1420320869": [
         "crop-sugarcane-growth"
       ],
       "1420393191": [
         "cn-photosynthesis"
+      ],
+      "1420505537": [
+        "crop-grazing"
+      ],
+      "1420549629": [
+        "crop-grazing"
       ],
       "1420587040": [
         "cn-photosynthesis"
@@ -132251,6 +133775,9 @@
         "proc-evapotranspiration",
         "proc-heat-stress-crop"
       ],
+      "1421164349": [
+        "dd-crop-production-prediction"
+      ],
       "1421382900": [
         "proc-irrigation-scheduling"
       ],
@@ -132260,9 +133787,16 @@
       "1421605237": [
         "cropping-systems"
       ],
+      "1421660172": [
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
+      ],
       "1421732340": [
         "model-dssat",
         "model-aquacrop"
+      ],
+      "1421743561": [
+        "dd-crop-production-prediction"
       ],
       "1421782392": [
         "crop-maize-model"
@@ -132296,11 +133830,17 @@
         "mechanistic-crop",
         "model-dssat"
       ],
+      "1422207547": [
+        "dd-crop-yield-forecasting"
+      ],
       "1422331048": [
         "crop-model"
       ],
       "1422332201": [
         "model-dssat"
+      ],
+      "1422337805": [
+        "dd-yield-estimation"
       ],
       "1422416324": [
         "crop-cocoa"
@@ -132313,6 +133853,10 @@
       ],
       "1422829343": [
         "proc-root-architecture"
+      ],
+      "1422949753": [
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
       ],
       "1422976946": [
         "proc-evapotranspiration"
@@ -132334,6 +133878,9 @@
       "1423232992": [
         "process-based-crop",
         "model-wofost"
+      ],
+      "1423291271": [
+        "dd-yield-forecasting-agri"
       ],
       "1423299713": [
         "crop-growth"
@@ -132376,6 +133923,9 @@
       "1423612519": [
         "crop-growth"
       ],
+      "1423624916": [
+        "dd-yield-forecasting-agri"
+      ],
       "1423672961": [
         "crop-potato-model"
       ],
@@ -132388,6 +133938,9 @@
       "1424052910": [
         "crop-sugarcane-model"
       ],
+      "1424092048": [
+        "dd-yield-prediction-agri"
+      ],
       "1424241192": [
         "proc-root-architecture"
       ],
@@ -132399,6 +133952,9 @@
       ],
       "1424376919": [
         "crop-simulation"
+      ],
+      "1424455165": [
+        "dd-yield-forecasting-agri"
       ],
       "1424575169": [
         "proc-root-architecture"
@@ -132419,6 +133975,17 @@
         "cn-crop-simulation",
         "model-wofost",
         "crop-rice-growth"
+      ],
+      "1425111017": [
+        "dd-crop-yield-forecast",
+        "dd-crop-yield-forecasting",
+        "dd-yield-forecasting-agri"
+      ],
+      "1425132969": [
+        "dd-crop-yield-forecast",
+        "dd-crop-yield-forecasting",
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
       ],
       "1425213258": [
         "crop-simulation"
@@ -132448,6 +134015,15 @@
         "stomatal-processes",
         "proc-photosynthesis-model"
       ],
+      "1425781994": [
+        "dd-yield-prediction-agri",
+        "dd-agricultural-yield"
+      ],
+      "1425802868": [
+        "dd-yield-prediction-agri",
+        "dd-crop-production-prediction",
+        "dd-agricultural-yield"
+      ],
       "1425898172": [
         "crop-model"
       ],
@@ -132467,11 +134043,22 @@
       "1426532947": [
         "crop-potato-model"
       ],
+      "1426587341": [
+        "dd-crop-yield-forecast",
+        "dd-crop-yield-forecasting",
+        "dd-yield-forecasting-agri"
+      ],
+      "1426684207": [
+        "dd-crop-production-prediction"
+      ],
       "1426734384": [
         "gen-digital-twin-crop"
       ],
       "1426770271": [
         "gen-digital-twin-agri"
+      ],
+      "1426790127": [
+        "dd-yield-prediction-agri"
       ],
       "1426843445": [
         "crop-model"
@@ -132484,6 +134071,9 @@
       ],
       "1427091506": [
         "cn-rice-wheat"
+      ],
+      "1427138202": [
+        "dd-yield-forecasting-agri"
       ],
       "1427145936": [
         "cropping-systems"
@@ -132515,11 +134105,19 @@
       "1428009199": [
         "model-dssat"
       ],
+      "1428033308": [
+        "dd-crop-yield-forecast",
+        "dd-crop-yield-forecasting",
+        "dd-yield-forecasting-agri"
+      ],
       "1428055613": [
         "proc-root-architecture"
       ],
       "1428101738": [
         "crop-model"
+      ],
+      "1428169053": [
+        "dd-yield-forecasting-agri"
       ],
       "1428205151": [
         "crop-oil-palm"
@@ -132537,6 +134135,9 @@
         "proc-soil-carbon-model",
         "proc-soc"
       ],
+      "1428359937": [
+        "dd-yield-forecasting-agri"
+      ],
       "1428412077": [
         "crop-simulation"
       ],
@@ -132546,11 +134147,18 @@
       "1428594528": [
         "proc-root-architecture"
       ],
+      "1428675136": [
+        "dd-crop-yield-estimation",
+        "dd-yield-estimation"
+      ],
       "1428686475": [
         "proc-irrigation-model"
       ],
       "1428766758": [
         "crop-rice-model"
+      ],
+      "1428768119": [
+        "dd-crop-yield-estimation"
       ],
       "1428777288": [
         "proc-heat-stress-crop"
@@ -132605,6 +134213,11 @@
       ],
       "1429460605": [
         "crop-model"
+      ],
+      "1429538268": [
+        "dd-crop-yield-forecast",
+        "dd-crop-yield-forecasting",
+        "dd-yield-forecasting-agri"
       ],
       "1429588330": [
         "crop-simulation",
