@@ -4,7 +4,7 @@
 
 **A curated map of open-source crop and agricultural process models on GitHub**<br>crop or process → programming language → repository
 
-[![repositories](https://img.shields.io/badge/repositories-15%2C291-2ea44f?style=flat-square)](#contents) [![last collection](https://img.shields.io/badge/last_collection-2026--10--26-informational?style=flat-square)](docs/status.md) [![licence](https://img.shields.io/badge/licence-MIT-blue?style=flat-square)](LICENSE) [![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
+[![repositories](https://img.shields.io/badge/repositories-15%2C291-2ea44f?style=flat-square)](#contents) [![last collection](https://img.shields.io/badge/last_collection-2026--10--28-informational?style=flat-square)](docs/status.md) [![licence](https://img.shields.io/badge/licence-MIT-blue?style=flat-square)](LICENSE) [![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 
 [English](README.md) · [简体中文](docs/README.zh-CN.md) · [Review queue](docs/discovered.md) · [Collection status](docs/status.md)
 
@@ -12,7 +12,7 @@
 
 Crop growth simulators; soil, water, nutrient and climate process models; the frameworks and tools that run them; studies that apply them; and data-driven yield and process models. Each repository appears once, under its main crop or process and its main programming language, ordered by stars. Crop models are listed below, and the other branches have their own pages. Listing is not a scientific endorsement: check each project's licence before reuse.
 
-> **15,291 repositories** · 437 crop models · 1,675 process models · 1,584 frameworks and tools · 769 applications · 10,826 data-driven models. Screened from 106,988 GitHub repositories found by 525 searches and 33 maintainer accounts.
+> **15,291 repositories** · 437 crop models · 1,675 process models · 1,584 frameworks and tools · 769 applications · 10,826 data-driven models. Screened from 106,993 GitHub repositories found by 525 searches and 33 maintainer accounts.
 
 ## Contents
 
@@ -64,7 +64,7 @@ The most-starred process-based models and tools on the list. Each also appears i
 | 15 | [lzwei196/RS-DPCF](https://github.com/lzwei196/RS-DPCF) | Parallel, distributed framework for RZ-SHAW model calibration and multi-site simulations of seasonal frost in croplands. | Python | 107 |
 | 16 | [Christiaanvandertol/SCOPE](https://github.com/Christiaanvandertol/SCOPE) | SCOPE is a simulation model for radiative transfer, photosynthesis and energy fluxes in vegetation and soil. | MATLAB | 105 |
 | 17 | [gicait/PyAEZ](https://github.com/gicait/PyAEZ) | Python implementation of FAO's agro-ecological zoning (GAEZ) for climate, soil and crop suitability and potential yield. | Python | 105 |
-| 18 | [openalea/lpy](https://github.com/openalea/lpy) | An open source python version of the Lindenmayer Systems. | C++ | 99 |
+| 18 | [openalea/lpy](https://github.com/openalea/lpy) | An open source python version of the Lindenmayer Systems. | C++ | 100 |
 | 19 | [PIK-LPJmL/LPJmL](https://github.com/PIK-LPJmL/LPJmL) | Managed-land and vegetation simulations linking carbon and water cycles. | C | 98 |
 | 20 | [kthorp/pyfao56](https://github.com/kthorp/pyfao56) | FAO-56 crop water use and irrigation calculations using dual coefficients. | Python | 97 |
 

@@ -5,39 +5,83 @@ Machine-generated operational evidence; this is not a scientific review.
 ```json
 {
   "all_github_coverage_verified": false,
-  "attempted_at": "2026-10-27T08:57:51Z",
+  "attempted_at": "2026-10-28T09:38:19Z",
   "coverage_gaps": {
     "historical": 30,
     "recent": 3
   },
-  "error": "GitHubError: GitHub returned HTTP 403 for /search/repositories",
-  "finished_at": "2026-10-27T08:59:19Z",
-  "last_healthy_at": "2026-10-26T08:53:10Z",
+  "finished_at": "2026-10-28T09:42:59Z",
+  "last_healthy_at": "2026-10-28T09:38:19Z",
   "last_historical_pass_at": null,
   "maintainer_accounts": {
     "cycle": 4,
-    "new_repositories": 68,
-    "observed_at": "2026-10-27T08:57:51Z",
+    "new_repositories": 98,
+    "observed_at": "2026-10-28T09:38:19Z",
     "pages": 10,
-    "remaining_accounts_or_pages": 24
+    "remaining_accounts_or_pages": 14
   },
-  "new_repository_identities": 2,
+  "new_repository_identities": 5,
   "owner_listing_gaps": 0,
   "pending_search_jobs": {
-    "historical": 411,
-    "recent": 300
+    "historical": 391,
+    "recent": 280
   },
   "previous_healthy_at": "2026-10-26T08:53:10Z",
+  "recent_search": {
+    "completed_windows": 246,
+    "coverage_gaps": [
+      {
+        "cycle": 2,
+        "end": "2026-10-22T11:09:10Z",
+        "page": 1,
+        "query_id": "crop-alfalfa",
+        "reason": "incomplete_results",
+        "reported_total": 1,
+        "start": "2026-09-22T11:09:10Z"
+      },
+      {
+        "cycle": 2,
+        "end": "2026-10-22T11:09:10Z",
+        "page": 1,
+        "query_id": "crop-alfalfa",
+        "reason": "short_page_before_reported_total",
+        "reported_total": 1,
+        "returned": 0,
+        "start": "2026-09-22T11:09:10Z"
+      },
+      {
+        "cycle": 2,
+        "end": "2026-10-22T11:09:10Z",
+        "page": 1,
+        "query_id": "dd-crop-yield-prediction",
+        "reason": "incomplete_results",
+        "reported_total": 239,
+        "start": "2026-09-22T11:09:10Z"
+      }
+    ],
+    "coverage_note": "Completion means this query plan was traversed. GitHub search is mutable, may omit repositories, and does not prove coverage of all GitHub.",
+    "cycle": 2,
+    "cycle_end": "2026-10-22T11:09:10Z",
+    "cycle_start": "2026-09-22T11:09:10Z",
+    "cycle_started_at": "2026-10-22T11:09:10Z",
+    "discovered_repositories": 181,
+    "observed_at": "2026-10-28T09:38:19Z",
+    "plan_completed": false,
+    "remaining_jobs": 280,
+    "requests": 20,
+    "status": "partial",
+    "unresolved_gap_count": 3
+  },
   "refresh": {
     "checked_repositories": 40,
-    "known_identities": 28150,
+    "known_identities": 28152,
     "new_repositories": 0,
-    "observed_at": "2026-10-27T08:57:51Z",
+    "observed_at": "2026-10-28T09:38:19Z",
     "seed_count": 15291
   },
-  "requests": 110,
-  "status": "failed",
-  "tracked_repositories": 28152
+  "requests": 160,
+  "status": "partial_budget",
+  "tracked_repositories": 28157
 }
 ```
 

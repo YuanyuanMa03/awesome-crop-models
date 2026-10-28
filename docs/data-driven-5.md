@@ -1124,7 +1124,7 @@ Continued from [page 4](data-driven-4.md). See the [contents](data-driven.md#con
 
 #### MATLAB
 
-- [rufernan/RicePAL](https://github.com/rufernan/RicePAL) - codes for RS paper: Rice-Yield Prediction with Multi-Temporal Sentinel-2 Data and 3D CNN: A Case Study in Nepal. `★ 32` `no licence`
+- [rufernan/RicePAL](https://github.com/rufernan/RicePAL) - codes for RS paper: Rice-Yield Prediction with Multi-Temporal Sentinel-2 Data and 3D CNN: A Case Study in Nepal. `★ 31` `no licence`
 - [siva263/Real-Time-Rice-Crop-Growth-Measurement](https://github.com/siva263/Real-Time-Rice-Crop-Growth-Measurement) - Rice yield prediction. `★ 2` `no licence`
 - [rootchang/WACNI-rice](https://github.com/rootchang/WACNI-rice) - Rice yield prediction. `GPL-3.0`
 
@@ -1719,12 +1719,13 @@ Continued from [page 4](data-driven-4.md). See the [contents](data-driven.md#con
 - [SeemaKanuri/Corn-Yield-and-Futures-Price-Prediction](https://github.com/SeemaKanuri/Corn-Yield-and-Futures-Price-Prediction) - Futures are contracts to buy and sell commodities on a future date at a specified price. Corporations can use futures to hedge against price increases and ensure access to limited goods, but… `★ 20` `no licence`
 - [mdanilevicz/maize_early_yield_prediction](https://github.com/mdanilevicz/maize_early_yield_prediction) - Repository with the code for predicting the yield of crop varieties using deep learning and early phenotype data. `★ 6` `MIT`
 - [Alex0420W/HarvestSight](https://github.com/Alex0420W/HarvestSight) - Geospatial-AI corn yield forecasting for the U.S. Corn Belt. Team project fine-tuning NASA/IBM Prithvi-EO-2.0-600M with LoRA, fused with weather/soil/drought features and calibrated uncertainty… `★ 5` `MIT`
+- [Oraegbuayomide10/CGIAR-Crop-Yield-Prediction-using-Sentinel--2-Imagery-Climate-Variables-and-Soil-Data](https://github.com/Oraegbuayomide10/CGIAR-Crop-Yield-Prediction-using-Sentinel--2-Imagery-Climate-Variables-and-Soil-Data) - This project entails applying deep learning algorithms on Sentinel-2 Imagery, Climate data (TERRACLIM), and Soil data from the ISRIC SoilGrids in predicting maize crop yield on Eastern African farms. `★ 5` `no licence`
 - [ksegaba/Genomes2Field_Competition](https://github.com/ksegaba/Genomes2Field_Competition) - Maize yield prediction from genotype, soil, and weather data. `★ 4` `no licence`
-- [Oraegbuayomide10/CGIAR-Crop-Yield-Prediction-using-Sentinel--2-Imagery-Climate-Variables-and-Soil-Data](https://github.com/Oraegbuayomide10/CGIAR-Crop-Yield-Prediction-using-Sentinel--2-Imagery-Climate-Variables-and-Soil-Data) - This project entails applying deep learning algorithms on Sentinel-2 Imagery, Climate data (TERRACLIM), and Soil data from the ISRIC SoilGrids in predicting maize crop yield on Eastern African farms. `★ 4` `no licence`
 - [anuragkj/Crop_Yield_Prediction](https://github.com/anuragkj/Crop_Yield_Prediction) - Corn Yield prediction as design project. `★ 3` `no licence`
 - [wxystudio/Att_MIL](https://github.com/wxystudio/Att_MIL) - The source code of paper "Learning county from pixels: Corn yield prediction with attention-weighted multiple instance learning". `★ 3` `no licence`
 - [attia3/maize-et-yield-hybrid-model](https://github.com/attia3/maize-et-yield-hybrid-model) - Hybrid crop modeling + machine learning workflow for predicting **maize grain yield (GY)** and **seasonal evapotranspiration (ET)** in arid environments by coupling **DSSAT–CERES-Maize** with ML… `★ 2` `no licence`
 - [bezawitalemyimer/Satellite_AgriTech_USGS_LIDAR](https://github.com/bezawitalemyimer/Satellite_AgriTech_USGS_LIDAR) - predict maize harvest using satellite analysis on The USGS recently released high resolution elevation data as a lidar point cloud called USGS 3DEP in a public dataset on Amazon. `★ 2` `no licence`
+- [Dudd3r/mlcas24](https://github.com/Dudd3r/mlcas24) - MLCAS24 - Maize yield prediction using satellite images. `★ 2` `MIT`
 - [gbarbosa99/satellite-ndvi-crop-yield-ml](https://github.com/gbarbosa99/satellite-ndvi-crop-yield-ml) - Using a random forest regression model to predict annual yield for corn crops using Google Earth Engine's satellite data. `★ 2` `no licence`
 - [GedikEngin/terra-corn-yield-forecasting](https://github.com/GedikEngin/terra-corn-yield-forecasting) - Terra — 1st place, CSU × USDA × NASA Geospatial AI Hackathon 2026. In-season county-level US corn-yield forecasting from NASA satellite data (HLS + MODIS NDVI). `★ 2` `no licence`
 - [igorkf/MLCAS2024](https://github.com/igorkf/MLCAS2024) - Prediction of corn yield in multi-locations using multi-spectral satellite images (1st-place solution for "MLCAS Corn Yield Prediction Using Satellite Data" competition). `★ 2` `no licence`
@@ -1743,7 +1744,6 @@ Continued from [page 4](data-driven-4.md). See the [contents](data-driven.md#con
 - [Ciampitti-Lab/MaizeEarSensing](https://github.com/Ciampitti-Lab/MaizeEarSensing) - Nondestructive depth sensing for maize ear yield prediction from RGB+depth images. `★ 1` `custom licence`
 - [Consolashodonou/maize_yield_prediction](https://github.com/Consolashodonou/maize_yield_prediction) - Maize is a critical staple crop. Inaccurate predictions hinder effective agricultural planning and resource management for millions. This project is created in the context of Women in Data Science… `★ 1` `no licence`
 - [david0811/BCSD_CornYields_UQ](https://github.com/david0811/BCSD_CornYields_UQ) - Statistically bias-corrected and downscaled climate models underestimate the adverse effects of extreme heat on U.S. maize yields. `★ 1` `MIT`
-- [Dudd3r/mlcas24](https://github.com/Dudd3r/mlcas24) - MLCAS24 - Maize yield prediction using satellite images. `★ 1` `MIT`
 - [eebutler/us_maize_trends](https://github.com/eebutler/us_maize_trends) - climate trends, adaptation, and U.S. maize yields. `★ 1` `no licence`
 - [FarhanHasabi/AgriYield](https://github.com/FarhanHasabi/AgriYield) - Forecast maize yield using soil, climate, and satellite data to help optimize agriculture planning. `★ 1` `no licence`
 - [forrestbicker/ClimateModeling](https://github.com/forrestbicker/ClimateModeling) - Machine Learning algorithms used to forecast impact of climate trends on agricultural maize production, part of a nationwide finalist paper for Modeling the Future. `★ 1` `no licence`

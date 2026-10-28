@@ -586,7 +586,7 @@ Process-based models of soil, water, climate, pests and other agricultural proce
 
 #### C++
 
-- [Plant-Root-Soil-Interactions-Modelling/CPlantBox](https://github.com/Plant-Root-Soil-Interactions-Modelling/CPlantBox) - Plant architecture with functional water and carbon process coupling. `★ 77` `GPL-3.0`
+- [Plant-Root-Soil-Interactions-Modelling/CPlantBox](https://github.com/Plant-Root-Soil-Interactions-Modelling/CPlantBox) - Plant architecture with functional water and carbon process coupling. `★ 78` `GPL-3.0`
 
 <a id="architecture-glsl"></a>
 
@@ -1158,7 +1158,7 @@ Process-based models of soil, water, climate, pests and other agricultural proce
 #### Python
 
 - [mishagrol/pyRothC](https://github.com/mishagrol/pyRothC) - python version of RothC 26.3 Soil Carbon Model. `★ 24` `CC0-1.0`
-- [Rothamsted-Models/RothC_Py](https://github.com/Rothamsted-Models/RothC_Py) - RothC code in Python language. `★ 17` `Apache-2.0`
+- [Rothamsted-Models/RothC_Py](https://github.com/Rothamsted-Models/RothC_Py) - RothC code in Python language. `★ 18` `Apache-2.0`
 - [DEMENT-Model/DEMENTpy](https://github.com/DEMENT-Model/DEMENTpy) - A spatially explicit trait- and individual-based microbial systems modelling framework. `★ 16` `MIT`
 - [MatteoBertagni/SMEW](https://github.com/MatteoBertagni/SMEW) - Soil Model for Enhanced Weathering (SMEW): a dynamic, depth-averaged ecohydrological and biogeochemical model for enhanced weathering dynamics in the upper soil layers. `★ 8` `AGPL-3.0`
 - [bsulman/CORPSE-N](https://github.com/bsulman/CORPSE-N) - Code for microbe/mineral/rhizosphere model of plant-mycorrhizal-soil interactions. `★ 5` `no licence`
@@ -1717,7 +1717,7 @@ Process-based models of soil, water, climate, pests and other agricultural proce
 - [hakanoguz/ET_for_Landsat_8_Python_Script](https://github.com/hakanoguz/ET_for_Landsat_8_Python_Script) - This python code calculates evapotranspiration (ET) from Landsat 8 imagery. `no licence`
 - [halilunaziru73-creator/NaCROP](https://github.com/halilunaziru73-creator/NaCROP) - A modular Python pipeline with a Tkinter desktop GUI for reference/crop evapotranspiration, soil-water balance, irrigation scheduling, and a 4-step crop-growth simulation (canopy, transpiration… `MIT`
 - [halilunaziru73-creator/Zaria-Crop-ET-and-Irrigation-DSS](https://github.com/halilunaziru73-creator/Zaria-Crop-ET-and-Irrigation-DSS) - A modular Python pipeline with a Tkinter desktop GUI for reference/crop evapotranspiration, soil-water balance, irrigation scheduling, and full farm-report generation for five crops grown around… `MIT`
-- [hamza-aziz-ai/Dubai-Irrigation-Advisor](https://github.com/hamza-aziz-ai/Dubai-Irrigation-Advisor) - The best-RMSE model is not the cheapest to run. Physics-first irrigation advisor for Dubai: FAO-56 evapotranspiration cross-validated against 30 years of NASA observations, a root-zone water… `no licence`
+- [hamza-aziz-ai/Dubai-Irrigation-Advisor](https://github.com/hamza-aziz-ai/Dubai-Irrigation-Advisor) - Physics-first irrigation advisor for Dubai: FAO-56 evapotranspiration cross-validated against 30 years of NASA observations, a root-zone water balance, and RF/XGBoost/LSTM predictors scored on… `no licence`
 - [happy-tomato-farm/kansui](https://github.com/happy-tomato-farm/kansui) - Streamlit tool estimating daily irrigation from physically computed transpiration driven by solar radiation forecasts (Japanese). `no licence`
 - [hckaraman/Hourly-POT-Calculation](https://github.com/hckaraman/Hourly-POT-Calculation) - Hourly Reference Evapotranspiration Calculation. `no licence`
 - [HeitererGarten/fao56_scheduler](https://github.com/HeitererGarten/fao56_scheduler) - A predictive irrigation scheduler based on AquaCrop crop simulation model. `no licence`
@@ -2369,7 +2369,7 @@ Process-based models of soil, water, climate, pests and other agricultural proce
 
 #### Fortran
 
-- [swat-model/swatplus](https://github.com/swat-model/swatplus) - Watershed soil, water, and agricultural management process simulations. `★ 85` `LGPL-2.1`
+- [swat-model/swatplus](https://github.com/swat-model/swatplus) - Watershed soil, water, and agricultural management process simulations. `★ 86` `LGPL-2.1`
 - [crazyzlj/SWAT](https://github.com/crazyzlj/SWAT) - An unofficial SWAT (Soil & Water Assessment Tool) code collection from official historical releases and the scientific community. `★ 80` `no licence`
 - [smwesten-usgs/swb](https://github.com/smwesten-usgs/swb) - Soil-Water-Balance: A Modified Thornthwaite-Mather Soil-Water-Balance Code for Estimating Groundwater Recharge. `★ 42` `custom licence`
 - [smwesten-usgs/swb2](https://github.com/smwesten-usgs/swb2) - SWB 2.0: a refactored version of the Soil-Water-Balance code. `★ 25` `custom licence`

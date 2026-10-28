@@ -1,16 +1,16 @@
 {
   "last_owner_scan": {
     "cycle": 4,
-    "new_repositories": 68,
-    "observed_at": "2026-10-27T08:57:51Z",
+    "new_repositories": 98,
+    "observed_at": "2026-10-28T09:38:19Z",
     "pages": 10,
-    "remaining_accounts_or_pages": 24
+    "remaining_accounts_or_pages": 14
   },
   "last_refresh": {
     "checked_repositories": 40,
-    "known_identities": 28150,
+    "known_identities": 28152,
     "new_repositories": 0,
-    "observed_at": "2026-10-27T08:57:51Z",
+    "observed_at": "2026-10-28T09:38:19Z",
     "seed_count": 15291
   },
   "owner_cycle": 4,
@@ -151,56 +151,6 @@
   "owner_queue": [
     {
       "kind": "org",
-      "login": "PalmStudio",
-      "page": 1
-    },
-    {
-      "kind": "user",
-      "login": "VEZY",
-      "page": 1
-    },
-    {
-      "kind": "org",
-      "login": "openalea",
-      "page": 1
-    },
-    {
-      "kind": "org",
-      "login": "Plant-Root-Soil-Interactions-Modelling",
-      "page": 1
-    },
-    {
-      "kind": "org",
-      "login": "biocro",
-      "page": 1
-    },
-    {
-      "kind": "org",
-      "login": "PIK-LPJmL",
-      "page": 1
-    },
-    {
-      "kind": "org",
-      "login": "PSUmodeling",
-      "page": 1
-    },
-    {
-      "kind": "org",
-      "login": "swat-model",
-      "page": 1
-    },
-    {
-      "kind": "org",
-      "login": "pyet-org",
-      "page": 1
-    },
-    {
-      "kind": "org",
-      "login": "Rothamsted-Models",
-      "page": 1
-    },
-    {
-      "kind": "org",
       "login": "VirtualPlantLab",
       "page": 1
     },
@@ -285,6 +235,10 @@
     },
     "APSIMInitiative/ApsimX": {
       "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "Ad5001/ImagicalMine-Windows": {
+      "checked_at": "2026-10-28T09:38:19Z",
       "outcome": "public_metadata_checked"
     },
     "AgriculturalModelExchangeInitiative/PyCrop2ML": {
@@ -399,6 +353,14 @@
       "checked_at": "2026-10-22T19:59:05Z",
       "outcome": "public_metadata_checked"
     },
+    "Milan-Innovincy/pcse": {
+      "checked_at": "2026-10-28T09:38:19Z",
+      "outcome": "public_metadata_checked"
+    },
+    "Mrjinx453/Survival-Industry": {
+      "checked_at": "2026-10-28T09:38:19Z",
+      "outcome": "public_metadata_checked"
+    },
     "OleksiiYurchuk/awesome-python": {
       "checked_at": "2026-10-24T08:06:24Z",
       "outcome": "public_metadata_checked"
@@ -449,6 +411,10 @@
     },
     "SamNosliw/GlowstonePlusPlus": {
       "checked_at": "2026-10-26T08:53:10Z",
+      "outcome": "public_metadata_checked"
+    },
+    "Searge-DP/WAILAPlugins": {
+      "checked_at": "2026-10-28T09:38:19Z",
       "outcome": "public_metadata_checked"
     },
     "SimonGoring/pecan": {
@@ -579,8 +545,20 @@
       "checked_at": "2026-10-26T08:53:10Z",
       "outcome": "public_metadata_checked"
     },
+    "andreschettino/pecan": {
+      "checked_at": "2026-10-28T09:38:19Z",
+      "outcome": "public_metadata_checked"
+    },
     "andrewsmedina/awesome-python": {
       "checked_at": "2026-10-23T07:22:54Z",
+      "outcome": "public_metadata_checked"
+    },
+    "andrewsoong/pcse": {
+      "checked_at": "2026-10-28T09:38:19Z",
+      "outcome": "public_metadata_checked"
+    },
+    "anubis187/abundance": {
+      "checked_at": "2026-10-28T09:38:19Z",
       "outcome": "public_metadata_checked"
     },
     "aorzh/awesome-python": {
@@ -631,6 +609,10 @@
       "checked_at": "2026-10-23T07:22:54Z",
       "outcome": "public_metadata_checked"
     },
+    "bmedlyn/GDAY": {
+      "checked_at": "2026-10-28T09:38:19Z",
+      "outcome": "public_metadata_checked"
+    },
     "bogdanov1609/awesome-python": {
       "checked_at": "2026-10-24T08:06:24Z",
       "outcome": "public_metadata_checked"
@@ -643,12 +625,20 @@
       "checked_at": "2026-10-24T08:06:24Z",
       "outcome": "public_metadata_checked"
     },
+    "bquillin12/pecan": {
+      "checked_at": "2026-10-28T09:38:19Z",
+      "outcome": "public_metadata_checked"
+    },
     "braczka/pecan": {
       "checked_at": "2026-10-22T19:59:05Z",
       "outcome": "public_metadata_checked"
     },
     "buuren/awesome-python": {
       "checked_at": "2026-10-24T08:06:24Z",
+      "outcome": "public_metadata_checked"
+    },
+    "campbellpotter/PocketMine-Windows-x86-PHP7-launcher": {
+      "checked_at": "2026-10-28T09:38:19Z",
       "outcome": "public_metadata_checked"
     },
     "cbchisanga/SimpleCrop": {
@@ -679,8 +669,16 @@
       "checked_at": "2026-10-27T08:57:51Z",
       "outcome": "public_metadata_checked"
     },
+    "clienthax/WAILAPlugins": {
+      "checked_at": "2026-10-28T09:38:19Z",
+      "outcome": "public_metadata_checked"
+    },
     "cltucker/pecan": {
       "checked_at": "2026-10-23T07:22:54Z",
+      "outcome": "public_metadata_checked"
+    },
+    "condontd/pecan": {
+      "checked_at": "2026-10-28T09:38:19Z",
       "outcome": "public_metadata_checked"
     },
     "craig5/awesome-python": {
@@ -787,6 +785,10 @@
       "checked_at": "2026-10-22T19:59:05Z",
       "outcome": "public_metadata_checked"
     },
+    "gavg712/pecan": {
+      "checked_at": "2026-10-28T09:38:19Z",
+      "outcome": "public_metadata_checked"
+    },
     "gbromley/pecan": {
       "checked_at": "2026-10-26T08:53:10Z",
       "outcome": "public_metadata_checked"
@@ -797,6 +799,10 @@
     },
     "gitter-badger/GlowstonePlusPlus": {
       "checked_at": "2026-10-26T08:53:10Z",
+      "outcome": "public_metadata_checked"
+    },
+    "gitter-badger/ImagicalMine-Windows": {
+      "checked_at": "2026-10-28T09:38:19Z",
       "outcome": "public_metadata_checked"
     },
     "gitter-badger/pecan": {
@@ -825,6 +831,10 @@
     },
     "hardimanb/pecan-1": {
       "checked_at": "2026-10-23T07:22:54Z",
+      "outcome": "public_metadata_checked"
+    },
+    "harshalgalgale/FinalProject_CarFar": {
+      "checked_at": "2026-10-28T09:38:19Z",
       "outcome": "public_metadata_checked"
     },
     "hasantayyar/awesome-python": {
@@ -883,6 +893,10 @@
       "checked_at": "2026-10-25T08:23:33Z",
       "outcome": "public_metadata_checked"
     },
+    "ivan-shumilov/django-image-cropper": {
+      "checked_at": "2026-10-28T09:38:19Z",
+      "outcome": "public_metadata_checked"
+    },
     "jake-soloff/MAIZSIM": {
       "checked_at": "2026-10-25T08:23:33Z",
       "outcome": "public_metadata_checked"
@@ -893,6 +907,18 @@
     },
     "jcufi/agmip-common-functions": {
       "checked_at": "2026-10-22T19:57:55Z",
+      "outcome": "public_metadata_checked"
+    },
+    "jdot-r/PocketMine-Windows-x86-PHP7-launcher": {
+      "checked_at": "2026-10-28T09:38:19Z",
+      "outcome": "public_metadata_checked"
+    },
+    "jennhsiao/MAIZSIM": {
+      "checked_at": "2026-10-28T09:38:19Z",
+      "outcome": "public_metadata_checked"
+    },
+    "jesselau/PocketMine-Windows-x86-PHP7-launcher": {
+      "checked_at": "2026-10-28T09:38:19Z",
       "outcome": "public_metadata_checked"
     },
     "jhmatthes/pecan": {
@@ -955,6 +981,10 @@
       "checked_at": "2026-10-22T10:39:16Z",
       "outcome": "public_metadata_checked"
     },
+    "ktraxler/XSEDE16": {
+      "checked_at": "2026-10-28T09:38:19Z",
+      "outcome": "public_metadata_checked"
+    },
     "kvser/awesome-python": {
       "checked_at": "2026-10-24T08:06:24Z",
       "outcome": "public_metadata_checked"
@@ -995,6 +1025,10 @@
       "checked_at": "2026-10-23T07:22:54Z",
       "outcome": "public_metadata_checked"
     },
+    "ltw123/biocro_regional": {
+      "checked_at": "2026-10-28T09:38:19Z",
+      "outcome": "public_metadata_checked"
+    },
     "mac2040/WAILAPlugins": {
       "checked_at": "2026-10-26T08:53:10Z",
       "outcome": "public_metadata_checked"
@@ -1023,8 +1057,20 @@
       "checked_at": "2026-10-26T08:53:10Z",
       "outcome": "public_metadata_checked"
     },
+    "mdekauwe/pecan": {
+      "checked_at": "2026-10-28T09:38:19Z",
+      "outcome": "public_metadata_checked"
+    },
+    "mdietze/pecan.book": {
+      "checked_at": "2026-10-28T09:38:19Z",
+      "outcome": "public_metadata_checked"
+    },
     "milapbhojak/awesome-python": {
       "checked_at": "2026-10-27T08:57:51Z",
+      "outcome": "public_metadata_checked"
+    },
+    "mjwang1010/pecan": {
+      "checked_at": "2026-10-28T09:38:19Z",
       "outcome": "public_metadata_checked"
     },
     "model-library-pps/LINGRA_archive": {
@@ -1067,6 +1113,10 @@
       "checked_at": "2026-10-25T08:23:33Z",
       "outcome": "public_metadata_checked"
     },
+    "mqin4/biocro_regional": {
+      "checked_at": "2026-10-28T09:38:19Z",
+      "outcome": "public_metadata_checked"
+    },
     "mtmarsh2/pecan": {
       "checked_at": "2026-10-23T07:22:54Z",
       "outcome": "public_metadata_checked"
@@ -1085,6 +1135,14 @@
     },
     "nicodee/awesome-python": {
       "checked_at": "2026-10-25T08:23:33Z",
+      "outcome": "public_metadata_checked"
+    },
+    "npp97-field/GDAY": {
+      "checked_at": "2026-10-28T09:38:19Z",
+      "outcome": "public_metadata_checked"
+    },
+    "npp97-field/soyface_daycent": {
+      "checked_at": "2026-10-28T09:38:19Z",
       "outcome": "public_metadata_checked"
     },
     "npp97/pecan": {
@@ -1129,6 +1187,14 @@
     },
     "openalea/rhizodep": {
       "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "pEapod516/ImagicalMine-Windows": {
+      "checked_at": "2026-10-28T09:38:19Z",
+      "outcome": "public_metadata_checked"
+    },
+    "pengbinpeluo/pecan": {
+      "checked_at": "2026-10-28T09:38:19Z",
       "outcome": "public_metadata_checked"
     },
     "perabrahamsen/daisy-model": {
@@ -1179,6 +1245,10 @@
       "checked_at": "2026-10-27T08:57:51Z",
       "outcome": "public_metadata_checked"
     },
+    "rhyswhitley/GDAY": {
+      "checked_at": "2026-10-28T09:38:19Z",
+      "outcome": "public_metadata_checked"
+    },
     "ritviksahajpal/apsimRegions": {
       "checked_at": "2026-10-27T08:57:51Z",
       "outcome": "public_metadata_checked"
@@ -1211,6 +1281,10 @@
       "checked_at": "2026-10-23T07:22:54Z",
       "outcome": "public_metadata_checked"
     },
+    "sandeepsingh/awesome-python": {
+      "checked_at": "2026-10-28T09:38:19Z",
+      "outcome": "public_metadata_checked"
+    },
     "sandercdevries/pcse": {
       "checked_at": "2026-10-27T08:57:51Z",
       "outcome": "public_metadata_checked"
@@ -1227,12 +1301,28 @@
       "checked_at": "2026-10-27T08:57:51Z",
       "outcome": "public_metadata_checked"
     },
+    "sativa/Oryza2kWeb": {
+      "checked_at": "2026-10-28T09:38:19Z",
+      "outcome": "public_metadata_checked"
+    },
+    "sativa/PhotoSynthesisModule": {
+      "checked_at": "2026-10-28T09:38:19Z",
+      "outcome": "public_metadata_checked"
+    },
     "sativa/biocro": {
       "checked_at": "2026-10-27T08:57:51Z",
       "outcome": "public_metadata_checked"
     },
     "sativa/pcse": {
       "checked_at": "2026-10-26T08:53:10Z",
+      "outcome": "public_metadata_checked"
+    },
+    "sativa/psims": {
+      "checked_at": "2026-10-28T09:38:19Z",
+      "outcome": "public_metadata_checked"
+    },
+    "sativa/pyDSSAT": {
+      "checked_at": "2026-10-28T09:38:19Z",
       "outcome": "public_metadata_checked"
     },
     "saumishr/django-image-cropper": {
@@ -1245,6 +1335,10 @@
     },
     "selif00/jitimage": {
       "checked_at": "2026-10-23T07:22:54Z",
+      "outcome": "public_metadata_checked"
+    },
+    "serbinsh/GDAY": {
+      "checked_at": "2026-10-28T09:38:19Z",
       "outcome": "public_metadata_checked"
     },
     "shafeeknaidoo/awesome-python": {
@@ -1323,6 +1417,10 @@
       "checked_at": "2026-10-25T08:23:33Z",
       "outcome": "public_metadata_checked"
     },
+    "tonygardella/GDAY": {
+      "checked_at": "2026-10-28T09:38:19Z",
+      "outcome": "public_metadata_checked"
+    },
     "twistedmove/awesome-python": {
       "checked_at": "2026-10-25T08:23:33Z",
       "outcome": "public_metadata_checked"
@@ -1367,6 +1465,10 @@
       "checked_at": "2026-10-27T08:57:51Z",
       "outcome": "public_metadata_checked"
     },
+    "wk1984/psims": {
+      "checked_at": "2026-10-28T09:38:19Z",
+      "outcome": "public_metadata_checked"
+    },
     "woodcrafty/PyETo": {
       "checked_at": "2026-10-22T10:39:16Z",
       "outcome": "public_metadata_checked"
@@ -1391,6 +1493,10 @@
       "checked_at": "2026-10-22T19:59:05Z",
       "outcome": "public_metadata_checked"
     },
+    "ykhorzon/pcse": {
+      "checked_at": "2026-10-28T09:38:19Z",
+      "outcome": "public_metadata_checked"
+    },
     "yuanshankongmeng/awesome-python": {
       "checked_at": "2026-10-24T08:06:24Z",
       "outcome": "public_metadata_checked"
@@ -1413,6 +1519,10 @@
     },
     "zsteinmetz/pcse": {
       "checked_at": "2026-10-27T08:57:51Z",
+      "outcome": "public_metadata_checked"
+    },
+    "zxskzxsk/MAIZSIM": {
+      "checked_at": "2026-10-28T09:38:19Z",
       "outcome": "public_metadata_checked"
     }
   },
