@@ -501,7 +501,7 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 
 #### Python
 
-- [daquinterop/Py_DSSATTools](https://github.com/daquinterop/Py_DSSATTools) - Python tools for setting up and working with DSSAT simulations. `★ 93` `GPL-3.0`
+- [daquinterop/Py_DSSATTools](https://github.com/daquinterop/Py_DSSATTools) - Python tools for setting up and working with DSSAT simulations. `★ 94` `GPL-3.0`
 - [swat-model/pySWATPlus](https://github.com/swat-model/pySWATPlus) - pySWATPlus is a Python library tailored for seamless interaction with the Soil and Water Assessment Tool Plus (SWAT+), empowering users to efficiently manage input and output files within Python… `★ 61` `GPL-3.0`
 - [XiaogangHe/pyDSSAT](https://github.com/XiaogangHe/pyDSSAT) - Python Interface for Crop Model DSSAT. `★ 54` `custom licence`
 - [spark-hydro/QSWATMOD2-plugin](https://github.com/spark-hydro/QSWATMOD2-plugin) - This repository contains materials for the QSWATMOD2 that helps link SWAT with MODFLOW model on QGIS3. `★ 39` `no licence`

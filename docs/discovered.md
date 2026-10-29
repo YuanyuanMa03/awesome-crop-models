@@ -2,7 +2,7 @@
 
 Repositories found by discovery that nobody has classified yet. To list one, add it to `config/seeds.json`; to reject one, record it with a reason in `config/excluded.json`. Forks are not listed unless curated.
 
-106993 tracked · 15291 listed · 78836 excluded · 795 forks · **12071 awaiting review**
+106997 tracked · 15291 listed · 78836 excluded · 795 forks · **12075 awaiting review**
 
 | Repository | ★ | Language | Description | Found by |
 |---|---|---|---|---|
@@ -10,8 +10,10 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [WangHaomao/GeoSpider](https://github.com/WangHaomao/GeoSpider) | 7 | Roff | 项目暂时完成，日后继续完善 | cn-crop-model |
 | [zezhix/distributed-crawler](https://github.com/zezhix/distributed-crawler) | 7 | Roff | 第六届中软杯赛题 - 分布式爬虫系统（经纬度团队作品） | cn-crop-model |
 | [YellFunGit/IndoorunSDKIosDemo](https://github.com/YellFunGit/IndoorunSDKIosDemo) | 6 | Objective-C | IndoorunSDK IOS端demo | cn-crop-model |
+| [YuanyuanMa03/awesome-crop-models](https://github.com/YuanyuanMa03/awesome-crop-models) | 4 | Python | Curated, auto-refreshed list of open-source crop and agricultural process models on GitHub | agroecosystem-ghg, functional-structural |
 | [cassiel-cai/vchart](https://github.com/cassiel-cai/vchart) | 1 | TypeScript | 最新前端技术栈 ：Vue3.5 、 Electron、TS、 Vite、Pinia、Radix Vue、IndexedDB、 Dexie.js ，与多种知名AI大模型（文心一言/通义千问/ Claude ／Deepseek），手把手带你开发 | cn-photosynthesis |
 | [gnz-b/interviewNotice](https://github.com/gnz-b/interviewNotice) | 1 |  | 前端面试 常见知识点整理 | cn-crop-model |
+| [lexiloughlin/pig-city](https://github.com/lexiloughlin/pig-city) | 1 | HTML |  | mdl-pcse |
 | [parthvarute09/Rice-Crop-Forecasting](https://github.com/parthvarute09/Rice-Crop-Forecasting) | 1 | Jupyter Notebook | A machine learning-based Rice Crop Yield Forecasting System that analyzes agricultural and environmental factors to pred | dd-crop-yield-forecast, dd-crop-yield-forecasting |
 | [weijinxing204/Rice-quality-model](https://github.com/weijinxing204/Rice-quality-model) | 1 | MATLAB |  | crop-rice-model |
 | [002y/nlw-expert-notes](https://github.com/002y/nlw-expert-notes) | 0 | TypeScript |  | mdl-expert-n |
@@ -1004,7 +1006,5 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [andhikaahitama/booksynopsis48](https://github.com/andhikaahitama/booksynopsis48) | 0 | HTML | booksynopsis48 - Book Reviews | mdl-swat-readme |
 | [andhikaahitama/booksynopsis5](https://github.com/andhikaahitama/booksynopsis5) | 0 | HTML | booksynopsis5 - Book Reviews | model-monica, process-based-crop |
 | [andiswa-phewa/ChatAppPart1](https://github.com/andiswa-phewa/ChatAppPart1) | 0 | Java |  | mdl-icasa |
-| [andmb20/Crop-Yield-Projeto](https://github.com/andmb20/Crop-Yield-Projeto) | 0 | Jupyter Notebook |  | dd-crop-yield |
-| [andorfc/HostPPI](https://github.com/andorfc/HostPPI) | 0 |  |  | mechanistic-crop |
 
-The 11071 remaining candidates, with fewer stars, are in `catalog/repositories.json`.
+The 11075 remaining candidates, with fewer stars, are in `catalog/repositories.json`.

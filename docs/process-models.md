@@ -586,7 +586,7 @@ Process-based models of soil, water, climate, pests and other agricultural proce
 
 #### C++
 
-- [Plant-Root-Soil-Interactions-Modelling/CPlantBox](https://github.com/Plant-Root-Soil-Interactions-Modelling/CPlantBox) - Plant architecture with functional water and carbon process coupling. `★ 78` `GPL-3.0`
+- [Plant-Root-Soil-Interactions-Modelling/CPlantBox](https://github.com/Plant-Root-Soil-Interactions-Modelling/CPlantBox) - Plant architecture with functional water and carbon process coupling. `★ 79` `GPL-3.0`
 
 <a id="architecture-glsl"></a>
 
@@ -712,6 +712,7 @@ Process-based models of soil, water, climate, pests and other agricultural proce
 - [junqi108/Root-architecture-generator](https://github.com/junqi108/Root-architecture-generator) - During the summer student internship of James Bristow, we developed a generic methods for generating root architecture based on simple rules and could optimize the parameters to match the field… `★ 2` `GPL-3.0`
 - [openalea/hydroroot](https://github.com/openalea/hydroroot) - Simulation of hydraulic root architecture. `★ 2` `custom licence`
 - [openalea/Root-CyNAPS](https://github.com/openalea/Root-CyNAPS) - Root nitrogen cycling represented across plant scales. `★ 2` `custom licence`
+- [Plant-Food-Research-Open/deep-root-gen](https://github.com/Plant-Food-Research-Open/deep-root-gen) - No description provided. `★ 2` `GPL-3.0`
 - [gcamargo1/WaterUptakeModels](https://github.com/gcamargo1/WaterUptakeModels) - This repo is part of the supplemental material of a crop water uptake models comparison. `★ 1` `MIT`
 - [GeraultTr/Root_BRIDGES](https://github.com/GeraultTr/Root_BRIDGES) - No description provided. `★ 1` `no licence`
 - [HydraulicViper/HydraulicViper](https://github.com/HydraulicViper/HydraulicViper) - No description provided. `★ 1` `GPL-3.0`
@@ -719,7 +720,6 @@ Process-based models of soil, water, climate, pests and other agricultural proce
 - [MDagostino1/TRoot](https://github.com/MDagostino1/TRoot) - No description provided. `★ 1` `no licence`
 - [openalea-incubator/GRANAP-dev](https://github.com/openalea-incubator/GRANAP-dev) - No description provided. `★ 1` `GPL-3.0`
 - [openalea-incubator/MECHA-dev](https://github.com/openalea-incubator/MECHA-dev) - No description provided. `★ 1` `GPL-3.0`
-- [Plant-Food-Research-Open/deep-root-gen](https://github.com/Plant-Food-Research-Open/deep-root-gen) - No description provided. `★ 1` `GPL-3.0`
 - [andrewmair1994/rhizodeposits_code_and_data](https://github.com/andrewmair1994/rhizodeposits_code_and_data) - Code and data associated with the manuscript "Modelling the influence of rhizodeposits on root water uptake". `no licence`
 - [GreenSmart-DSS/RootWaterSim](https://github.com/GreenSmart-DSS/RootWaterSim) - Interactive simulator of 1D soil water flow and root water uptake. `MIT`
 - [Jannetty/ARORA](https://github.com/Jannetty/ARORA) - ARORA: Agent-based representation of root architecture. `no licence`
@@ -1569,11 +1569,11 @@ Process-based models of soil, water, climate, pests and other agricultural proce
 - [arthur-e/MOD16](https://github.com/arthur-e/MOD16) - A Python implementation of the MOD16 terrestrial evapotranspiration algorithm. `★ 10` `custom licence`
 - [Open-ET/openet-disalexi](https://github.com/Open-ET/openet-disalexi) - Earth Engine DisALEXI ET Model. `★ 10` `Apache-2.0`
 - [montimaj/pyCropWat](https://github.com/montimaj/pyCropWat) - A Python Package for Computing Effective Precipitation Using Google Earth Engine Climate Data. `★ 8` `MIT`
+- [Open-ET/openet-core](https://github.com/Open-ET/openet-core) - OpenET Core Components. `★ 8` `Apache-2.0`
 - [WSWUP/WREVAP](https://github.com/WSWUP/WREVAP) - Operational Estimates of Areal Evapotranspiration and Lake Evaporation. `★ 8` `no licence`
 - [Yilkalg3/SEBALIGEEpy](https://github.com/Yilkalg3/SEBALIGEEpy) - A python implementation of the open source Google Earth Engine based Surface Energy Balance Algorithm for Land (SEBALIGEE) model with improved high resolution land use and land cover data for… `★ 8` `no licence`
 - [adrHuerta/Evaporation](https://github.com/adrHuerta/Evaporation) - collect code(s) to compute evaporation/evapotranspiration. `★ 7` `no licence`
 - [FloEll/QWaterModel](https://github.com/FloEll/QWaterModel) - QWaterModel is a simple QGis plugin tool to calculate Evapotranspiration from thermal images. `★ 7` `GPL-3.0`
-- [Open-ET/openet-core](https://github.com/Open-ET/openet-core) - OpenET Core Components. `★ 7` `Apache-2.0`
 - [rslab-ntua/senet](https://github.com/rslab-ntua/senet) - Energy Balance model approach for crop water demand estimation. `★ 7` `GPL-3.0`
 - [sbg-tir/SBG-TIR-L4-JET](https://github.com/sbg-tir/SBG-TIR-L4-JET) - Level 4 evapotranspiration (ET), evaporative stress index (ESI) and water use efficiency (WUE). `★ 6` `Apache-2.0`
 - [akorkovelos/agrodem](https://github.com/akorkovelos/agrodem) - agrodem - a GIS based model on water and electricity requirements for ground and/or surface water irrigation. `★ 5` `MIT`
@@ -1844,6 +1844,7 @@ Process-based models of soil, water, climate, pests and other agricultural proce
 - [hydrosolutions/IrrigationCalc_NCP_EDSS](https://github.com/hydrosolutions/IrrigationCalc_NCP_EDSS) - Heilonggang Irrigation Calculator for deployment with the EDSS framework. `★ 1` `MIT`
 - [Manish-met/cropwatMUL](https://github.com/Manish-met/cropwatMUL) - An R package for multi-location crop water requirement estimation, irrigation scheduling, and FAO-56 based crop evapotranspiration modelling. `★ 1` `GPL-3.0`
 - [pruettm/cropsyst](https://github.com/pruettm/cropsyst) - CropSyst Crop Evapotranspiration Modeling Framework. `★ 1` `custom licence`
+- [samirigfri/ET0RadModels](https://github.com/samirigfri/ET0RadModels) - Evapotranspiration Estimation Using Radiation-Based Models. `★ 1` `no licence`
 - [XiaoxiangGuanGFZ/PET_models](https://github.com/XiaoxiangGuanGFZ/PET_models) - potential evapotranspiration models in hydrology. `★ 1` `no licence`
 - [AthiraNG/FAO-56-PM](https://github.com/AthiraNG/FAO-56-PM) - The FAO-56 Penman-Monteith is considered the standard technique to calculate ETo. Penman technique yields a precise output with minimal error. The radiation approach is commonly in the area where… `no licence`
 - [AthiraNG/Metric-Sebal](https://github.com/AthiraNG/Metric-Sebal) - Space-based technology, especially remote sensing of the land surface, has revolutionized surface energy flux studies. It has enabled the study of energy fluxes over a larger area, beyond the limits… `no licence`
@@ -1867,7 +1868,6 @@ Process-based models of soil, water, climate, pests and other agricultural proce
 - [Rapha7021/cawet](https://github.com/Rapha7021/cawet) - No description provided. `AGPL-3.0`
 - [rsibajam-max/evapotranspiracion-metric](https://github.com/rsibajam-max/evapotranspiracion-metric) - Balance de energía satelital (METRIC) para estimación de evapotranspiración de cultivos a partir de imágenes Landsat 8. `no licence`
 - [samirigfri/ET0MassModels](https://github.com/samirigfri/ET0MassModels) - Evapotranspiration Estimation Using Mass Transfer-Based Models. `no licence`
-- [samirigfri/ET0RadModels](https://github.com/samirigfri/ET0RadModels) - Evapotranspiration Estimation Using Radiation-Based Models. `no licence`
 - [samirigfri/ET0TempModels](https://github.com/samirigfri/ET0TempModels) - Evapotranspiration Estimation Using Temperature-Based Models. `no licence`
 - [Tim2110/Codes_wateravailabilityconstraints_PML](https://github.com/Tim2110/Codes_wateravailabilityconstraints_PML) - Contains the codes used to optimize and evaluate water availability constraint functions integrated into the Penman-Monteith-Leuning model. Functions were applied microsite-specifically (sub-canopy… `MIT`
 - [TPMarques/EvapoR](https://github.com/TPMarques/EvapoR) - R package to estimate ETo using FAO56 Penman-Monteith equation. (Currently a test version). `no licence`

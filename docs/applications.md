@@ -1259,6 +1259,7 @@ Repositories that apply a crop, soil or environmental model to a particular stud
 - [MonaMaze/Evapotranspiration](https://github.com/MonaMaze/Evapotranspiration) - Calculating the actual crop Evapotranspiration by using high resolution satellite images. `★ 1` `no licence`
 - [MTDNRC-WRD/openet](https://github.com/MTDNRC-WRD/openet) - Analysis of modern remote sensing-based ET and comparison with existing DNRC methodology. `★ 1` `no licence`
 - [Open-ET/CRAU-Review](https://github.com/Open-ET/CRAU-Review) - No description provided. `★ 1` `no licence`
+- [Open-ET/openet-bias-correction-comment-afm](https://github.com/Open-ET/openet-bias-correction-comment-afm) - No description provided. `★ 1` `custom licence`
 - [Peteroyanoghafo/irrigation_efficiency_analysis_for_maize_using_python](https://github.com/Peteroyanoghafo/irrigation_efficiency_analysis_for_maize_using_python) - A Python hands-on on Applied NumPy numerical analytics and precision agriculture modeling for daily irrigation and heat stress management. `★ 1` `no licence`
 - [RAD-ET/radet-analysis](https://github.com/RAD-ET/radet-analysis) - Analysis scripts and outputs for the RADET model (Radiation Advection Diffusivity-independent Evapotranspiration), a Google Earth Engine-based approach for estimating actual evapotranspiration (ET). `★ 1` `Apache-2.0`
 - [SanaCheema123/-SEBAL-Irrigation-Planning-Dashboard-](https://github.com/SanaCheema123/-SEBAL-Irrigation-Planning-Dashboard-) - No description provided. `★ 1` `no licence`
@@ -1293,7 +1294,6 @@ Repositories that apply a crop, soil or environmental model to a particular stud
 - [montimaj/iwv-bcm-et-eval](https://github.com/montimaj/iwv-bcm-et-eval) - Actual ET assessments over the Indian Wells Valley, CA in the Great Basin. `MIT`
 - [mph21/CCDC-and-SSEBop-Integration](https://github.com/mph21/CCDC-and-SSEBop-Integration) - No description provided. `no licence`
 - [okkevaneck/ai_based_irrigation](https://github.com/okkevaneck/ai_based_irrigation) - No description provided. `GPL-3.0`
-- [Open-ET/openet-bias-correction-comment-afm](https://github.com/Open-ET/openet-bias-correction-comment-afm) - No description provided. `custom licence`
 - [peterphamsd/urban-ag-optimizer](https://github.com/peterphamsd/urban-ag-optimizer) - Probabilistic urban agriculture site optimizer using FAO-56 Penman-Monteith evapotranspiration modeling and Monte Carlo simulation. `MIT`
 - [rafiachmadfr/Evapotranspiration-Analysis](https://github.com/rafiachmadfr/Evapotranspiration-Analysis) - SKRIPSI - Evaluasi Metode Blaney-criddle, Hargreaves-samani, dan Penman-monteith Dalam Menentukan Evapotranspirasi Tanaman Alpukat. `no licence`
 - [RamiALBASHA/energy_balance_model_paper](https://github.com/RamiALBASHA/energy_balance_model_paper) - Project of the paper that describes the energy balance model. `no licence`
