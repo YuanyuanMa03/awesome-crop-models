@@ -1701,6 +1701,420 @@
         "reported_total": 10,
         "start": "2007-01-01T00:00:00Z",
         "unique_repositories": 10
+      },
+      {
+        "end": "2026-10-23T07:22:54Z",
+        "fetched_items": 41,
+        "pages": 1,
+        "query_id": "mdl-maespa",
+        "reported_total": 41,
+        "start": "2007-01-01T00:00:00Z",
+        "unique_repositories": 41
+      },
+      {
+        "end": "2026-10-23T07:22:54Z",
+        "fetched_items": 12,
+        "pages": 1,
+        "query_id": "mdl-canveg",
+        "reported_total": 12,
+        "start": "2007-01-01T00:00:00Z",
+        "unique_repositories": 12
+      },
+      {
+        "end": "2026-10-23T07:22:54Z",
+        "fetched_items": 30,
+        "pages": 1,
+        "query_id": "mdl-plantecophys",
+        "reported_total": 30,
+        "start": "2007-01-01T00:00:00Z",
+        "unique_repositories": 30
+      },
+      {
+        "end": "2026-10-23T07:22:54Z",
+        "fetched_items": 40,
+        "pages": 1,
+        "query_id": "mdl-tomgro",
+        "reported_total": 40,
+        "start": "2007-01-01T00:00:00Z",
+        "unique_repositories": 40
+      },
+      {
+        "end": "2026-10-23T07:22:54Z",
+        "fetched_items": 30,
+        "pages": 1,
+        "query_id": "mdl-tomsim",
+        "reported_total": 30,
+        "start": "2007-01-01T00:00:00Z",
+        "unique_repositories": 30
+      },
+      {
+        "end": "2026-10-23T07:22:54Z",
+        "fetched_items": 76,
+        "pages": 1,
+        "query_id": "mdl-kaspro",
+        "reported_total": 76,
+        "start": "2007-01-01T00:00:00Z",
+        "unique_repositories": 76
+      },
+      {
+        "end": "2026-10-23T07:22:54Z",
+        "fetched_items": 5,
+        "pages": 1,
+        "query_id": "mdl-modvege",
+        "reported_total": 5,
+        "start": "2007-01-01T00:00:00Z",
+        "unique_repositories": 5
+      },
+      {
+        "end": "2026-10-23T07:22:54Z",
+        "fetched_items": 3,
+        "pages": 1,
+        "query_id": "mdl-grazplan",
+        "reported_total": 3,
+        "start": "2007-01-01T00:00:00Z",
+        "unique_repositories": 3
+      },
+      {
+        "end": "2026-10-23T07:22:54Z",
+        "fetched_items": 20,
+        "pages": 1,
+        "query_id": "mdl-grassgro",
+        "reported_total": 20,
+        "start": "2007-01-01T00:00:00Z",
+        "unique_repositories": 20
+      },
+      {
+        "end": "2026-10-23T07:22:54Z",
+        "fetched_items": 14,
+        "pages": 1,
+        "query_id": "mdl-basgra",
+        "reported_total": 14,
+        "start": "2007-01-01T00:00:00Z",
+        "unique_repositories": 14
+      },
+      {
+        "end": "2026-10-23T07:22:54Z",
+        "fetched_items": 6,
+        "pages": 1,
+        "query_id": "mdl-plantsimengine",
+        "reported_total": 6,
+        "start": "2007-01-01T00:00:00Z",
+        "unique_repositories": 6
+      },
+      {
+        "end": "2026-10-23T07:22:54Z",
+        "fetched_items": 21,
+        "pages": 1,
+        "query_id": "mdl-xpalm",
+        "reported_total": 21,
+        "start": "2007-01-01T00:00:00Z",
+        "unique_repositories": 21
+      },
+      {
+        "end": "2026-10-23T07:22:54Z",
+        "fetched_items": 5,
+        "pages": 1,
+        "query_id": "mdl-palmsim",
+        "reported_total": 5,
+        "start": "2007-01-01T00:00:00Z",
+        "unique_repositories": 5
+      },
+      {
+        "end": "2026-10-23T07:22:54Z",
+        "fetched_items": 29,
+        "pages": 1,
+        "query_id": "mdl-cropsim",
+        "reported_total": 29,
+        "start": "2007-01-01T00:00:00Z",
+        "unique_repositories": 29
+      },
+      {
+        "end": "2026-10-23T07:22:54Z",
+        "fetched_items": 58,
+        "pages": 1,
+        "query_id": "mdl-marksim",
+        "reported_total": 58,
+        "start": "2007-01-01T00:00:00Z",
+        "unique_repositories": 58
+      },
+      {
+        "end": "2026-10-23T07:22:54Z",
+        "fetched_items": 12,
+        "pages": 1,
+        "query_id": "mdl-lars-wg",
+        "reported_total": 12,
+        "start": "2007-01-01T00:00:00Z",
+        "unique_repositories": 12
+      },
+      {
+        "end": "2026-10-23T07:22:54Z",
+        "fetched_items": 32,
+        "pages": 1,
+        "query_id": "mdl-pyfao56",
+        "reported_total": 32,
+        "start": "2007-01-01T00:00:00Z",
+        "unique_repositories": 32
+      },
+      {
+        "end": "2026-10-23T07:22:54Z",
+        "fetched_items": 62,
+        "pages": 1,
+        "query_id": "mdl-pyeto",
+        "reported_total": 62,
+        "start": "2007-01-01T00:00:00Z",
+        "unique_repositories": 62
+      },
+      {
+        "end": "2026-10-23T07:22:54Z",
+        "fetched_items": 18,
+        "pages": 1,
+        "query_id": "mdl-stemmus",
+        "reported_total": 18,
+        "start": "2007-01-01T00:00:00Z",
+        "unique_repositories": 18
+      },
+      {
+        "end": "2026-10-23T07:22:54Z",
+        "fetched_items": 6,
+        "pages": 1,
+        "query_id": "mdl-pyphenology",
+        "reported_total": 6,
+        "start": "2007-01-01T00:00:00Z",
+        "unique_repositories": 6
+      },
+      {
+        "end": "2026-10-23T07:22:54Z",
+        "fetched_items": 26,
+        "pages": 1,
+        "query_id": "mdl-crop2ml",
+        "reported_total": 26,
+        "start": "2007-01-01T00:00:00Z",
+        "unique_repositories": 26
+      },
+      {
+        "end": "2026-10-23T07:22:54Z",
+        "fetched_items": 10,
+        "pages": 1,
+        "query_id": "mdl-gecros",
+        "reported_total": 10,
+        "start": "2007-01-01T00:00:00Z",
+        "unique_repositories": 10
+      },
+      {
+        "end": "2026-10-23T07:22:54Z",
+        "fetched_items": 0,
+        "pages": 1,
+        "query_id": "mdl-afrcwheat",
+        "reported_total": 0,
+        "start": "2007-01-01T00:00:00Z",
+        "unique_repositories": 0
+      },
+      {
+        "end": "2026-10-23T07:22:54Z",
+        "fetched_items": 3,
+        "pages": 1,
+        "query_id": "mdl-wanulcas",
+        "reported_total": 3,
+        "start": "2007-01-01T00:00:00Z",
+        "unique_repositories": 3
+      },
+      {
+        "end": "2026-10-23T07:22:54Z",
+        "fetched_items": 6,
+        "pages": 1,
+        "query_id": "mdl-vegsyst",
+        "reported_total": 6,
+        "start": "2007-01-01T00:00:00Z",
+        "unique_repositories": 6
+      },
+      {
+        "end": "2026-10-23T07:22:54Z",
+        "fetched_items": 85,
+        "pages": 1,
+        "query_id": "mdl-agrotool",
+        "reported_total": 85,
+        "start": "2007-01-01T00:00:00Z",
+        "unique_repositories": 85
+      },
+      {
+        "end": "2026-10-23T07:22:54Z",
+        "fetched_items": 13,
+        "pages": 1,
+        "query_id": "mdl-croptimizr",
+        "reported_total": 13,
+        "start": "2007-01-01T00:00:00Z",
+        "unique_repositories": 13
+      },
+      {
+        "end": "2026-10-23T07:22:54Z",
+        "fetched_items": 56,
+        "pages": 1,
+        "query_id": "mdl-ggcmi",
+        "reported_total": 56,
+        "start": "2007-01-01T00:00:00Z",
+        "unique_repositories": 56
+      },
+      {
+        "end": "2026-10-23T07:22:54Z",
+        "fetched_items": 94,
+        "pages": 1,
+        "query_id": "mdl-ssebop",
+        "reported_total": 94,
+        "start": "2007-01-01T00:00:00Z",
+        "unique_repositories": 94
+      },
+      {
+        "end": "2026-10-23T07:22:54Z",
+        "fetched_items": 18,
+        "pages": 1,
+        "query_id": "mdl-oryza2000",
+        "reported_total": 18,
+        "start": "2007-01-01T00:00:00Z",
+        "unique_repositories": 18
+      },
+      {
+        "end": "2026-10-23T07:22:54Z",
+        "fetched_items": 43,
+        "pages": 1,
+        "query_id": "mdl-ceres-maize",
+        "reported_total": 43,
+        "start": "2007-01-01T00:00:00Z",
+        "unique_repositories": 43
+      },
+      {
+        "end": "2026-10-23T07:22:54Z",
+        "fetched_items": 14,
+        "pages": 1,
+        "query_id": "mdl-ceres",
+        "reported_total": 14,
+        "start": "2007-01-01T00:00:00Z",
+        "unique_repositories": 14
+      },
+      {
+        "end": "2026-10-23T07:22:54Z",
+        "fetched_items": 6,
+        "pages": 1,
+        "query_id": "mdl-ceres-wheat",
+        "reported_total": 6,
+        "start": "2007-01-01T00:00:00Z",
+        "unique_repositories": 6
+      },
+      {
+        "end": "2026-10-23T07:22:54Z",
+        "fetched_items": 1,
+        "pages": 1,
+        "query_id": "mdl-ceres-rice",
+        "reported_total": 1,
+        "start": "2007-01-01T00:00:00Z",
+        "unique_repositories": 1
+      },
+      {
+        "end": "2026-10-23T07:22:54Z",
+        "fetched_items": 4,
+        "pages": 1,
+        "query_id": "mdl-swap",
+        "reported_total": 4,
+        "start": "2007-01-01T00:00:00Z",
+        "unique_repositories": 4
+      },
+      {
+        "end": "2026-10-23T07:22:54Z",
+        "fetched_items": 11,
+        "pages": 1,
+        "query_id": "mdl-stics",
+        "reported_total": 11,
+        "start": "2007-01-01T00:00:00Z",
+        "unique_repositories": 11
+      },
+      {
+        "end": "2026-10-23T07:22:54Z",
+        "fetched_items": 4,
+        "pages": 1,
+        "query_id": "mdl-monica",
+        "reported_total": 4,
+        "start": "2007-01-01T00:00:00Z",
+        "unique_repositories": 4
+      },
+      {
+        "end": "2026-10-23T07:22:54Z",
+        "fetched_items": 1,
+        "pages": 1,
+        "query_id": "mdl-daisy",
+        "reported_total": 1,
+        "start": "2007-01-01T00:00:00Z",
+        "unique_repositories": 1
+      },
+      {
+        "end": "2026-10-23T07:22:54Z",
+        "fetched_items": 26,
+        "pages": 1,
+        "query_id": "mdl-epic",
+        "reported_total": 26,
+        "start": "2007-01-01T00:00:00Z",
+        "unique_repositories": 26
+      },
+      {
+        "end": "2026-10-23T07:22:54Z",
+        "fetched_items": 24,
+        "pages": 1,
+        "query_id": "mdl-epic-readme",
+        "reported_total": 24,
+        "start": "2007-01-01T00:00:00Z",
+        "unique_repositories": 24
+      },
+      {
+        "end": "2026-10-23T07:22:54Z",
+        "fetched_items": 15,
+        "pages": 1,
+        "query_id": "mdl-apex",
+        "reported_total": 15,
+        "start": "2007-01-01T00:00:00Z",
+        "unique_repositories": 15
+      },
+      {
+        "end": "2026-10-23T07:22:54Z",
+        "fetched_items": 55,
+        "pages": 1,
+        "query_id": "mdl-oryza",
+        "reported_total": 55,
+        "start": "2007-01-01T00:00:00Z",
+        "unique_repositories": 55
+      },
+      {
+        "end": "2026-10-23T07:22:54Z",
+        "fetched_items": 33,
+        "pages": 1,
+        "query_id": "mdl-cropgrow",
+        "reported_total": 33,
+        "start": "2007-01-01T00:00:00Z",
+        "unique_repositories": 33
+      },
+      {
+        "end": "2026-10-23T07:22:54Z",
+        "fetched_items": 1,
+        "pages": 1,
+        "query_id": "mdl-sirius",
+        "reported_total": 1,
+        "start": "2007-01-01T00:00:00Z",
+        "unique_repositories": 1
+      },
+      {
+        "end": "2026-10-23T07:22:54Z",
+        "fetched_items": 9,
+        "pages": 1,
+        "query_id": "mdl-hybrid-maize",
+        "reported_total": 9,
+        "start": "2007-01-01T00:00:00Z",
+        "unique_repositories": 9
+      },
+      {
+        "end": "2026-10-23T07:22:54Z",
+        "fetched_items": 1,
+        "pages": 1,
+        "query_id": "mdl-samara",
+        "reported_total": 1,
+        "start": "2007-01-01T00:00:00Z",
+        "unique_repositories": 1
       }
     ],
     "coverage_gaps": [
@@ -2015,9 +2429,9 @@
     ],
     "cycle_start": "2007-01-01T00:00:00Z",
     "cycle_started_at": "2026-10-23T07:22:54Z",
-    "last_query_id": "mdl-r-swms",
+    "last_query_id": "mdl-samara",
     "last_run": {
-      "completed_windows": 189,
+      "completed_windows": 235,
       "coverage_gaps": [
         {
           "cycle": 3,
@@ -2044,11 +2458,11 @@
       "cycle_end": "2026-10-23T07:22:54Z",
       "cycle_start": "2007-01-01T00:00:00Z",
       "cycle_started_at": "2026-10-23T07:22:54Z",
-      "discovered_repositories": 2126,
-      "observed_at": "2026-10-29T09:56:28Z",
+      "discovered_repositories": 1922,
+      "observed_at": "2026-10-30T09:59:02Z",
       "plan_completed": false,
-      "remaining_jobs": 359,
-      "requests": 51,
+      "remaining_jobs": 314,
+      "requests": 56,
       "status": "interrupted",
       "unresolved_gap_count": 30
     },
@@ -14942,107 +15356,7 @@
         "start": "2007-01-01T00:00:00Z"
       },
       {
-        "end": "2026-10-23T07:22:54Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "MAESPA in:name,description,topics,readme",
-        "query_id": "mdl-maespa",
-        "seen_ids": [],
-        "start": "2007-01-01T00:00:00Z"
-      },
-      {
-        "end": "2026-10-23T07:22:54Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "CANVEG in:name,description,topics,readme",
-        "query_id": "mdl-canveg",
-        "seen_ids": [],
-        "start": "2007-01-01T00:00:00Z"
-      },
-      {
-        "end": "2026-10-23T07:22:54Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "plantecophys in:name,description,topics,readme",
-        "query_id": "mdl-plantecophys",
-        "seen_ids": [],
-        "start": "2007-01-01T00:00:00Z"
-      },
-      {
-        "end": "2026-10-23T07:22:54Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "TOMGRO in:name,description,topics,readme",
-        "query_id": "mdl-tomgro",
-        "seen_ids": [],
-        "start": "2007-01-01T00:00:00Z"
-      },
-      {
-        "end": "2026-10-23T07:22:54Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "TOMSIM in:name,description,topics,readme",
-        "query_id": "mdl-tomsim",
-        "seen_ids": [],
-        "start": "2007-01-01T00:00:00Z"
-      },
-      {
-        "end": "2026-10-23T07:22:54Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "KASPRO in:name,description,topics,readme",
-        "query_id": "mdl-kaspro",
-        "seen_ids": [],
-        "start": "2007-01-01T00:00:00Z"
-      },
-      {
-        "end": "2026-10-23T07:22:54Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "ModVege in:name,description,topics,readme",
-        "query_id": "mdl-modvege",
-        "seen_ids": [],
-        "start": "2007-01-01T00:00:00Z"
-      },
-      {
-        "end": "2026-10-23T07:22:54Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "GRAZPLAN in:name,description,topics,readme",
-        "query_id": "mdl-grazplan",
-        "seen_ids": [],
-        "start": "2007-01-01T00:00:00Z"
-      },
-      {
-        "end": "2026-10-23T07:22:54Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "GrassGro in:name,description,topics,readme",
-        "query_id": "mdl-grassgro",
-        "seen_ids": [],
-        "start": "2007-01-01T00:00:00Z"
-      },
-      {
-        "end": "2026-10-23T07:22:54Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "BASGRA in:name,description,topics,readme",
-        "query_id": "mdl-basgra",
-        "seen_ids": [],
-        "start": "2007-01-01T00:00:00Z"
-      },
-      {
-        "end": "2026-10-23T07:22:54Z",
+        "end": "2016-11-26T15:41:27Z",
         "fetched_items": 0,
         "last_total": null,
         "page": 1,
@@ -15056,439 +15370,897 @@
         "fetched_items": 0,
         "last_total": null,
         "page": 1,
-        "query": "PlantSimEngine in:name,description,topics,readme",
-        "query_id": "mdl-plantsimengine",
+        "query": "Cropbox in:name,description,topics,readme",
+        "query_id": "mdl-cropbox",
         "seen_ids": [],
-        "start": "2007-01-01T00:00:00Z"
+        "start": "2016-11-26T15:41:28Z"
       },
       {
         "end": "2026-10-23T07:22:54Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "XPalm in:name,description,topics,readme",
-        "query_id": "mdl-xpalm",
-        "seen_ids": [],
-        "start": "2007-01-01T00:00:00Z"
-      },
-      {
-        "end": "2026-10-23T07:22:54Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "PALMSIM in:name,description,topics,readme",
-        "query_id": "mdl-palmsim",
-        "seen_ids": [],
-        "start": "2007-01-01T00:00:00Z"
-      },
-      {
-        "end": "2026-10-23T07:22:54Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "CROPSIM in:name,description,topics,readme",
-        "query_id": "mdl-cropsim",
-        "seen_ids": [],
-        "start": "2007-01-01T00:00:00Z"
-      },
-      {
-        "end": "2026-10-23T07:22:54Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "MarkSim in:name,description,topics,readme",
-        "query_id": "mdl-marksim",
-        "seen_ids": [],
-        "start": "2007-01-01T00:00:00Z"
-      },
-      {
-        "end": "2026-10-23T07:22:54Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "\"LARS-WG\" in:name,description,topics,readme",
-        "query_id": "mdl-lars-wg",
-        "seen_ids": [],
-        "start": "2007-01-01T00:00:00Z"
-      },
-      {
-        "end": "2026-10-23T07:22:54Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
+        "fetched_items": 100,
+        "last_total": 307,
+        "page": 2,
         "query": "CLIGEN in:name,description,topics,readme",
         "query_id": "mdl-cligen",
-        "seen_ids": [],
+        "seen_ids": [
+          13030865,
+          20020888,
+          21626346,
+          21922858,
+          30856541,
+          33796282,
+          40194619,
+          45191129,
+          64768649,
+          66782210,
+          73615338,
+          78498506,
+          89745240,
+          104912265,
+          111122602,
+          128544596,
+          129347032,
+          134912535,
+          138688851,
+          153184303,
+          157843392,
+          165790825,
+          168079944,
+          173723138,
+          188470085,
+          194842809,
+          197041767,
+          205993551,
+          207463572,
+          212823063,
+          216614032,
+          217230138,
+          218396402,
+          223924550,
+          232437346,
+          232441804,
+          234772198,
+          237836754,
+          246530315,
+          248134314,
+          248281310,
+          255660146,
+          261614800,
+          268018349,
+          273785363,
+          281044121,
+          284061693,
+          292282644,
+          303188735,
+          319711350,
+          330188401,
+          332217217,
+          360986347,
+          366820241,
+          369304207,
+          370463558,
+          370635913,
+          372988839,
+          376373015,
+          382655073,
+          386289358,
+          386294986,
+          386296202,
+          386308095,
+          386310295,
+          398264604,
+          404736176,
+          413046052,
+          413124415,
+          415353565,
+          415354268,
+          419114299,
+          424985324,
+          425889988,
+          437279660,
+          447385245,
+          450929621,
+          456355822,
+          467865674,
+          468390744,
+          468774950,
+          468975862,
+          478062365,
+          479154953,
+          485309920,
+          492040561,
+          499129780,
+          501751005,
+          508847320,
+          509204586,
+          515110069,
+          516094846,
+          518471530,
+          520401490,
+          522970499,
+          524050475,
+          529875228,
+          537521081,
+          574801127,
+          578510610
+        ],
         "start": "2007-01-01T00:00:00Z"
       },
       {
         "end": "2026-10-23T07:22:54Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
+        "fetched_items": 100,
+        "last_total": 225,
+        "page": 2,
         "query": "GAEZ in:name,description,topics,readme",
         "query_id": "mdl-gaez",
-        "seen_ids": [],
+        "seen_ids": [
+          15873496,
+          15873945,
+          92313026,
+          98034096,
+          100183678,
+          100495689,
+          132521994,
+          134027586,
+          134373085,
+          135704322,
+          222184713,
+          237951267,
+          257117389,
+          289476441,
+          317344384,
+          317445537,
+          335708183,
+          379118632,
+          382144255,
+          389376982,
+          416442705,
+          427494171,
+          437969564,
+          442561736,
+          448145750,
+          449317465,
+          475213683,
+          478057662,
+          480732458,
+          488147385,
+          513163085,
+          560877808,
+          568132533,
+          569262615,
+          574616836,
+          578283109,
+          580278453,
+          595638708,
+          595645237,
+          608994936,
+          615742909,
+          620047965,
+          623370994,
+          627233111,
+          647518353,
+          657733700,
+          662829174,
+          665717130,
+          673634952,
+          687212256,
+          688314546,
+          692907991,
+          733225811,
+          746965039,
+          751024306,
+          767082954,
+          772293462,
+          776593745,
+          781617274,
+          782764950,
+          784749357,
+          787945117,
+          789178252,
+          809976102,
+          822149348,
+          824946247,
+          828961047,
+          856036741,
+          877228298,
+          878119219,
+          878895220,
+          881259379,
+          882725764,
+          888738589,
+          894681471,
+          907768734,
+          922480121,
+          931511197,
+          933014412,
+          939573154,
+          939849922,
+          946847444,
+          953608193,
+          954553515,
+          963508049,
+          967917813,
+          974227605,
+          986683863,
+          997958859,
+          1024864206,
+          1025708176,
+          1035572240,
+          1092148885,
+          1115407580,
+          1115423665,
+          1115433756,
+          1115440708,
+          1115451130,
+          1115486077,
+          1115524667
+        ],
         "start": "2007-01-01T00:00:00Z"
       },
       {
         "end": "2026-10-23T07:22:54Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "pyfao56 in:name,description,topics,readme",
-        "query_id": "mdl-pyfao56",
-        "seen_ids": [],
-        "start": "2007-01-01T00:00:00Z"
-      },
-      {
-        "end": "2026-10-23T07:22:54Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "PyETo in:name,description,topics,readme",
-        "query_id": "mdl-pyeto",
-        "seen_ids": [],
-        "start": "2007-01-01T00:00:00Z"
-      },
-      {
-        "end": "2026-10-23T07:22:54Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "STEMMUS in:name,description,topics,readme",
-        "query_id": "mdl-stemmus",
-        "seen_ids": [],
-        "start": "2007-01-01T00:00:00Z"
-      },
-      {
-        "end": "2026-10-23T07:22:54Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
+        "fetched_items": 100,
+        "last_total": 210,
+        "page": 2,
         "query": "chillR in:name,description,topics,readme",
         "query_id": "mdl-chillr",
-        "seen_ids": [],
+        "seen_ids": [
+          18142451,
+          18801611,
+          25945091,
+          26423313,
+          28686494,
+          28686825,
+          29070859,
+          29849178,
+          34775647,
+          52254182,
+          60329155,
+          60331602,
+          63165123,
+          64476591,
+          69807540,
+          69959269,
+          71906524,
+          81056533,
+          86779839,
+          90730943,
+          92307484,
+          94401171,
+          104337068,
+          128657648,
+          129454680,
+          134801458,
+          142047421,
+          143169610,
+          170140657,
+          171703972,
+          204818663,
+          214374767,
+          221903726,
+          222282685,
+          258133129,
+          267687836,
+          293333065,
+          293638379,
+          303186945,
+          304429120,
+          312481210,
+          317774732,
+          337216625,
+          339688957,
+          362514613,
+          375046021,
+          378378856,
+          390150432,
+          404795865,
+          409055540,
+          409645707,
+          411826272,
+          412861839,
+          412905843,
+          419379461,
+          432878763,
+          442171752,
+          445731591,
+          446219397,
+          449014037,
+          503380676,
+          509798684,
+          511174262,
+          514693752,
+          516415960,
+          518862351,
+          536196461,
+          542384412,
+          546685483,
+          546739766,
+          549043618,
+          550681751,
+          550681782,
+          550681844,
+          550953569,
+          554483053,
+          556635179,
+          559026853,
+          589740418,
+          598194462,
+          605597625,
+          611943973,
+          631053688,
+          638007697,
+          642755204,
+          656064089,
+          663454356,
+          664062576,
+          707101789,
+          710629900,
+          778099853,
+          782690980,
+          835625386,
+          858940149,
+          872079086,
+          908256713,
+          930995219,
+          932303436,
+          941218784,
+          957728804
+        ],
         "start": "2007-01-01T00:00:00Z"
       },
       {
         "end": "2026-10-23T07:22:54Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "pyPhenology in:name,description,topics,readme",
-        "query_id": "mdl-pyphenology",
-        "seen_ids": [],
-        "start": "2007-01-01T00:00:00Z"
-      },
-      {
-        "end": "2026-10-23T07:22:54Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "Crop2ML in:name,description,topics,readme",
-        "query_id": "mdl-crop2ml",
-        "seen_ids": [],
-        "start": "2007-01-01T00:00:00Z"
-      },
-      {
-        "end": "2026-10-23T07:22:54Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
+        "fetched_items": 100,
+        "last_total": 133,
+        "page": 2,
         "query": "CyML in:name,description,topics,readme",
         "query_id": "mdl-cyml",
-        "seen_ids": [],
+        "seen_ids": [
+          40916304,
+          41064796,
+          57429720,
+          65335722,
+          127017002,
+          142074738,
+          164172607,
+          198446678,
+          256382765,
+          273940054,
+          275792344,
+          292781860,
+          408508289,
+          414430541,
+          570222978,
+          573231719,
+          573315406,
+          574321943,
+          682732525,
+          769942909,
+          847025636,
+          859036420,
+          882086240,
+          882087590,
+          889567012,
+          891129161,
+          984091482,
+          988366896,
+          1110798310,
+          1126730161,
+          1129816592,
+          1177564868,
+          1183040128,
+          1183175417,
+          1185359133,
+          1185956819,
+          1187062869,
+          1187794222,
+          1188059956,
+          1188462819,
+          1188487892,
+          1188980850,
+          1189331431,
+          1191224236,
+          1192673088,
+          1192989104,
+          1193889606,
+          1194071127,
+          1194079093,
+          1194079693,
+          1194090010,
+          1194572347,
+          1194848193,
+          1197750157,
+          1197876911,
+          1197918201,
+          1197991864,
+          1198245387,
+          1199781267,
+          1199950509,
+          1200226653,
+          1200289899,
+          1201077818,
+          1201097484,
+          1204709565,
+          1205336486,
+          1214046733,
+          1221863177,
+          1224973258,
+          1225002669,
+          1231503210,
+          1232003384,
+          1232371838,
+          1232933020,
+          1240296156,
+          1240302031,
+          1243892046,
+          1243893209,
+          1247434855,
+          1247823520,
+          1247836225,
+          1248561420,
+          1263664518,
+          1267573307,
+          1273685621,
+          1279592800,
+          1284427619,
+          1289600929,
+          1291233161,
+          1293188414,
+          1295895819,
+          1303545622,
+          1335452766,
+          1343979772,
+          1343979780,
+          1343979789,
+          1373355734,
+          1388541812,
+          1391334592,
+          1406807922
+        ],
         "start": "2007-01-01T00:00:00Z"
       },
       {
         "end": "2026-10-23T07:22:54Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "GECROS in:name,description,topics,readme",
-        "query_id": "mdl-gecros",
-        "seen_ids": [],
-        "start": "2007-01-01T00:00:00Z"
-      },
-      {
-        "end": "2026-10-23T07:22:54Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "AFRCWHEAT in:name,description,topics,readme",
-        "query_id": "mdl-afrcwheat",
-        "seen_ids": [],
-        "start": "2007-01-01T00:00:00Z"
-      },
-      {
-        "end": "2026-10-23T07:22:54Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "WaNuLCAS in:name,description,topics,readme",
-        "query_id": "mdl-wanulcas",
-        "seen_ids": [],
-        "start": "2007-01-01T00:00:00Z"
-      },
-      {
-        "end": "2026-10-23T07:22:54Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "VegSyst in:name,description,topics,readme",
-        "query_id": "mdl-vegsyst",
-        "seen_ids": [],
-        "start": "2007-01-01T00:00:00Z"
-      },
-      {
-        "end": "2026-10-23T07:22:54Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "Agrotool in:name,description,topics,readme",
-        "query_id": "mdl-agrotool",
-        "seen_ids": [],
-        "start": "2007-01-01T00:00:00Z"
-      },
-      {
-        "end": "2026-10-23T07:22:54Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "CroptimizR in:name,description,topics,readme",
-        "query_id": "mdl-croptimizr",
-        "seen_ids": [],
-        "start": "2007-01-01T00:00:00Z"
-      },
-      {
-        "end": "2026-10-23T07:22:54Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
+        "fetched_items": 100,
+        "last_total": 190,
+        "page": 2,
         "query": "AgMIP in:name,description,topics,readme",
         "query_id": "mdl-agmip",
-        "seen_ids": [],
+        "seen_ids": [
+          2401782,
+          2483102,
+          2722395,
+          3159723,
+          3174098,
+          3492022,
+          3500999,
+          3510574,
+          3530807,
+          3531000,
+          3858824,
+          3918530,
+          4153609,
+          4153682,
+          4187555,
+          4602439,
+          4768178,
+          4777484,
+          4961127,
+          4961677,
+          4962444,
+          5097978,
+          5386740,
+          5498849,
+          5631982,
+          6354096,
+          6707345,
+          8016729,
+          8036770,
+          8060354,
+          8186471,
+          8846044,
+          10085490,
+          10843660,
+          10843693,
+          11903718,
+          11904200,
+          12092319,
+          12111134,
+          12838089,
+          12869760,
+          13037768,
+          13774496,
+          13961197,
+          16585672,
+          17748747,
+          19586893,
+          19956218,
+          23930749,
+          24192588,
+          27230781,
+          30761307,
+          31973050,
+          34951980,
+          35586056,
+          38842091,
+          38898367,
+          39053997,
+          40322217,
+          40680022,
+          40680321,
+          41483196,
+          43816902,
+          45923327,
+          49457016,
+          49457122,
+          49457223,
+          49457431,
+          49619113,
+          52184572,
+          57995285,
+          63948387,
+          64132599,
+          74458794,
+          122505477,
+          124445906,
+          124447578,
+          139153246,
+          156642970,
+          162172781,
+          165366745,
+          167591669,
+          193952037,
+          195073867,
+          220251440,
+          243343951,
+          248352830,
+          280526792,
+          284804727,
+          288511403,
+          302076195,
+          305687770,
+          307417769,
+          328997193,
+          335778092,
+          360884515,
+          368883387,
+          375292877,
+          385657323,
+          406818221
+        ],
         "start": "2007-01-01T00:00:00Z"
       },
       {
         "end": "2026-10-23T07:22:54Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
+        "fetched_items": 100,
+        "last_total": 232,
+        "page": 2,
         "query": "ICASA in:name,description,topics,readme",
         "query_id": "mdl-icasa",
-        "seen_ids": [],
+        "seen_ids": [
+          6887620,
+          9203469,
+          9259502,
+          13693758,
+          19541018,
+          49939862,
+          50335014,
+          59479098,
+          60348770,
+          63600065,
+          69116915,
+          75737379,
+          77049800,
+          77217987,
+          79338183,
+          79338249,
+          79472757,
+          86984531,
+          92146075,
+          93138897,
+          106715849,
+          106716917,
+          106717523,
+          111042909,
+          116854430,
+          117095577,
+          117436626,
+          119510710,
+          133621758,
+          136255196,
+          149656941,
+          157592036,
+          158685747,
+          159661837,
+          161540350,
+          162000142,
+          162172781,
+          167971673,
+          171435971,
+          171510530,
+          190172839,
+          192931628,
+          194715390,
+          196542168,
+          210956463,
+          214575145,
+          224657904,
+          233452100,
+          237060254,
+          237753696,
+          251585519,
+          254459630,
+          258319317,
+          260053549,
+          264085125,
+          265861251,
+          270842057,
+          276280413,
+          282292702,
+          290565584,
+          294437425,
+          296664200,
+          299214051,
+          311722740,
+          355355545,
+          355563501,
+          371830812,
+          422645114,
+          426187131,
+          460885106,
+          470406076,
+          478713008,
+          480965890,
+          508876039,
+          521872306,
+          524504196,
+          528297203,
+          541419311,
+          596022290,
+          600814481,
+          600816594,
+          623495104,
+          635474958,
+          655950082,
+          659068046,
+          679551572,
+          691660792,
+          692662595,
+          697037970,
+          734642950,
+          735747560,
+          746250148,
+          753233300,
+          777211617,
+          784846807,
+          794039988,
+          794063398,
+          824588385,
+          852442733,
+          868481874
+        ],
         "start": "2007-01-01T00:00:00Z"
       },
       {
         "end": "2026-10-23T07:22:54Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "GGCMI in:name,description,topics,readme",
-        "query_id": "mdl-ggcmi",
-        "seen_ids": [],
-        "start": "2007-01-01T00:00:00Z"
-      },
-      {
-        "end": "2026-10-23T07:22:54Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "SSEBop in:name,description,topics,readme",
-        "query_id": "mdl-ssebop",
-        "seen_ids": [],
-        "start": "2007-01-01T00:00:00Z"
-      },
-      {
-        "end": "2026-10-23T07:22:54Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
+        "fetched_items": 100,
+        "last_total": 354,
+        "page": 2,
         "query": "SEBAL in:name,description,topics,readme",
         "query_id": "mdl-sebal",
-        "seen_ids": [],
+        "seen_ids": [
+          30841717,
+          40121095,
+          40121251,
+          43073998,
+          44150431,
+          45216633,
+          51544764,
+          58963745,
+          69047892,
+          69696932,
+          69895759,
+          70728884,
+          74065762,
+          80116179,
+          82979526,
+          86455158,
+          88082422,
+          99898722,
+          112386250,
+          114825735,
+          120603578,
+          120725603,
+          150704253,
+          150775989,
+          150822222,
+          154212299,
+          155285422,
+          163875650,
+          172695320,
+          177163307,
+          197051665,
+          197449786,
+          198154026,
+          225817902,
+          228926468,
+          242193116,
+          244053747,
+          248042176,
+          250880932,
+          252383613,
+          252540239,
+          255427899,
+          257291641,
+          259536660,
+          262049956,
+          264148181,
+          265055902,
+          266118867,
+          266224306,
+          268173627,
+          274702329,
+          276716477,
+          301850245,
+          303535254,
+          307029991,
+          311145451,
+          314833888,
+          330007708,
+          330008090,
+          331980071,
+          332320695,
+          348018755,
+          353351781,
+          353700362,
+          372428605,
+          372610117,
+          373600962,
+          377157104,
+          378597772,
+          384958303,
+          386071033,
+          387488069,
+          390410886,
+          391561626,
+          404323183,
+          407090355,
+          413195722,
+          414974419,
+          423984245,
+          429761843,
+          433769665,
+          441080377,
+          442317651,
+          446469797,
+          452226672,
+          467049722,
+          470373829,
+          473361928,
+          474614260,
+          475949965,
+          480832352,
+          483644163,
+          483661028,
+          484252241,
+          486366171,
+          489095782,
+          490039016,
+          490070320,
+          490350067,
+          499602316
+        ],
         "start": "2007-01-01T00:00:00Z"
       },
       {
         "end": "2026-10-23T07:22:54Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
+        "fetched_items": 100,
+        "last_total": 143,
+        "page": 2,
         "query": "swatplus in:name,description,topics,readme",
         "query_id": "mdl-swatplus",
-        "seen_ids": [],
-        "start": "2007-01-01T00:00:00Z"
-      },
-      {
-        "end": "2026-10-23T07:22:54Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "ORYZA2000 in:name,description,topics,readme",
-        "query_id": "mdl-oryza2000",
-        "seen_ids": [],
-        "start": "2007-01-01T00:00:00Z"
-      },
-      {
-        "end": "2026-10-23T07:22:54Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "CERES-Maize in:name,description,topics,readme",
-        "query_id": "mdl-ceres-maize",
-        "seen_ids": [],
-        "start": "2007-01-01T00:00:00Z"
-      },
-      {
-        "end": "2026-10-23T07:22:54Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "CERES crop",
-        "query_id": "mdl-ceres",
-        "seen_ids": [],
-        "start": "2007-01-01T00:00:00Z"
-      },
-      {
-        "end": "2026-10-23T07:22:54Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "\"CERES-Wheat\"",
-        "query_id": "mdl-ceres-wheat",
-        "seen_ids": [],
-        "start": "2007-01-01T00:00:00Z"
-      },
-      {
-        "end": "2026-10-23T07:22:54Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "\"CERES-Rice\"",
-        "query_id": "mdl-ceres-rice",
-        "seen_ids": [],
-        "start": "2007-01-01T00:00:00Z"
-      },
-      {
-        "end": "2026-10-23T07:22:54Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "SWAP soil water",
-        "query_id": "mdl-swap",
-        "seen_ids": [],
-        "start": "2007-01-01T00:00:00Z"
-      },
-      {
-        "end": "2026-10-23T07:22:54Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "STICS crop",
-        "query_id": "mdl-stics",
-        "seen_ids": [],
-        "start": "2007-01-01T00:00:00Z"
-      },
-      {
-        "end": "2026-10-23T07:22:54Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "MONICA crop",
-        "query_id": "mdl-monica",
-        "seen_ids": [],
-        "start": "2007-01-01T00:00:00Z"
-      },
-      {
-        "end": "2026-10-23T07:22:54Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "Daisy soil",
-        "query_id": "mdl-daisy",
-        "seen_ids": [],
-        "start": "2007-01-01T00:00:00Z"
-      },
-      {
-        "end": "2026-10-23T07:22:54Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "EPIC crop",
-        "query_id": "mdl-epic",
-        "seen_ids": [],
-        "start": "2007-01-01T00:00:00Z"
-      },
-      {
-        "end": "2026-10-23T07:22:54Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "\"EPIC model\" crop in:readme",
-        "query_id": "mdl-epic-readme",
-        "seen_ids": [],
-        "start": "2007-01-01T00:00:00Z"
-      },
-      {
-        "end": "2026-10-23T07:22:54Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "APEX agricultural",
-        "query_id": "mdl-apex",
-        "seen_ids": [],
-        "start": "2007-01-01T00:00:00Z"
-      },
-      {
-        "end": "2026-10-23T07:22:54Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "ORYZA rice",
-        "query_id": "mdl-oryza",
-        "seen_ids": [],
-        "start": "2007-01-01T00:00:00Z"
-      },
-      {
-        "end": "2026-10-23T07:22:54Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "CropGrow crop",
-        "query_id": "mdl-cropgrow",
-        "seen_ids": [],
-        "start": "2007-01-01T00:00:00Z"
-      },
-      {
-        "end": "2026-10-23T07:22:54Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "Sirius wheat",
-        "query_id": "mdl-sirius",
-        "seen_ids": [],
-        "start": "2007-01-01T00:00:00Z"
-      },
-      {
-        "end": "2026-10-23T07:22:54Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "\"Hybrid-Maize\"",
-        "query_id": "mdl-hybrid-maize",
-        "seen_ids": [],
-        "start": "2007-01-01T00:00:00Z"
-      },
-      {
-        "end": "2026-10-23T07:22:54Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "SAMARA crop",
-        "query_id": "mdl-samara",
-        "seen_ids": [],
+        "seen_ids": [
+          39634658,
+          39641265,
+          145028284,
+          245363552,
+          248785912,
+          262472281,
+          263083130,
+          271774923,
+          280418402,
+          304281995,
+          304294118,
+          307776865,
+          310377271,
+          323150291,
+          327743879,
+          328055851,
+          330639946,
+          335663428,
+          337477338,
+          352421434,
+          366742346,
+          389915403,
+          395131800,
+          411808356,
+          456545759,
+          490614982,
+          523744406,
+          525466728,
+          525904047,
+          569726100,
+          603812787,
+          608383594,
+          640222054,
+          640787216,
+          693865662,
+          732436369,
+          740426157,
+          741449304,
+          744873108,
+          765840846,
+          792845365,
+          798927054,
+          807542659,
+          810432584,
+          818163047,
+          821581666,
+          858108853,
+          858176696,
+          866392974,
+          867467042,
+          878934118,
+          880847556,
+          892674497,
+          892994572,
+          897360989,
+          901993510,
+          905015786,
+          907478386,
+          908338068,
+          913969658,
+          923850240,
+          947476875,
+          947507119,
+          951741235,
+          962466168,
+          962478146,
+          975555406,
+          994691521,
+          1007235505,
+          1017052096,
+          1020437104,
+          1053531817,
+          1071125198,
+          1087262852,
+          1095515906,
+          1109528209,
+          1110068907,
+          1114807627,
+          1148718275,
+          1164853643,
+          1172166280,
+          1174825151,
+          1184385386,
+          1186539009,
+          1187602079,
+          1200838420,
+          1206300978,
+          1212857782,
+          1223507851,
+          1228701172,
+          1238697789,
+          1243815168,
+          1248239694,
+          1275059880,
+          1278764100,
+          1285269935,
+          1297335842,
+          1306810165,
+          1324104014,
+          1329154034
+        ],
         "start": "2007-01-01T00:00:00Z"
       },
       {
@@ -18438,6 +19210,9 @@
       "1010665728": [
         "gen-plant-growth-simulation",
         "rd-plant-growth-model"
+      ],
+      "1010703010": [
+        "mdl-pyeto"
       ],
       "1010716801": [
         "dd-crop-yield"
@@ -44829,6 +45604,9 @@
         "dd-yield-prediction-agri",
         "dd-agricultural-yield"
       ],
+      "1199950509": [
+        "mdl-cyml"
+      ],
       "1199959013": [
         "proc-disease-forecast",
         "dd-crop-yield-forecast",
@@ -46998,6 +47776,9 @@
       ],
       "1213263567": [
         "es-crop-model"
+      ],
+      "1213285712": [
+        "mdl-ggcmi"
       ],
       "121338560": [
         "proc-growing-degree"
@@ -60451,6 +61232,9 @@
         "rd-crop-modelling",
         "rd-crop-modeling",
         "crop-model"
+      ],
+      "129347032": [
+        "mdl-cligen"
       ],
       "1293472158": [
         "dd-yield-prediction-crop",
@@ -80453,8 +81237,17 @@
       "1430093236": [
         "proc-water-balance-crop"
       ],
+      "1430095452": [
+        "mdl-ggcmi"
+      ],
       "1430334054": [
         "crop-orchard"
+      ],
+      "1430397233": [
+        "mdl-marksim"
+      ],
+      "1430484765": [
+        "mdl-ceres-maize"
       ],
       "1430656755": [
         "model-cplantbox",
@@ -80485,7 +81278,23 @@
         "mdl-simplace",
         "mdl-lpjml",
         "mdl-biome-bgc",
-        "mdl-groimp"
+        "mdl-groimp",
+        "mdl-tomgro",
+        "mdl-tomsim",
+        "mdl-modvege",
+        "mdl-basgra",
+        "mdl-xpalm",
+        "mdl-palmsim",
+        "mdl-cropsim",
+        "mdl-pyfao56",
+        "mdl-pyeto",
+        "mdl-stemmus",
+        "mdl-gecros",
+        "mdl-wanulcas",
+        "mdl-agrotool",
+        "mdl-oryza2000",
+        "mdl-ceres-maize",
+        "mdl-epic-readme"
       ],
       "143113849": [
         "cn-crop-model"
@@ -89122,7 +89931,8 @@
       "379599577": [
         "proc-growing-degree",
         "proc-agrometeorological",
-        "mdl-cropgro"
+        "mdl-cropgro",
+        "mdl-cropgrow"
       ],
       "379866340": [
         "dd-crop-yield-prediction",
@@ -123087,7 +123897,8 @@
         "rd-crop-modelling",
         "rd-crop-modeling",
         "crop-model",
-        "crop-growth"
+        "crop-growth",
+        "mdl-tomgro"
       ],
       "974176755": [
         "dd-crop-yield"
@@ -128204,6 +129015,186 @@
         "reported_total": 9,
         "start": "2026-09-22T11:09:10Z",
         "unique_repositories": 9
+      },
+      {
+        "end": "2026-10-22T11:09:10Z",
+        "fetched_items": 0,
+        "pages": 1,
+        "query_id": "mdl-canegro",
+        "reported_total": 0,
+        "start": "2026-09-22T11:09:10Z",
+        "unique_repositories": 0
+      },
+      {
+        "end": "2026-10-22T11:09:10Z",
+        "fetched_items": 0,
+        "pages": 1,
+        "query_id": "mdl-mosicas",
+        "reported_total": 0,
+        "start": "2026-09-22T11:09:10Z",
+        "unique_repositories": 0
+      },
+      {
+        "end": "2026-10-22T11:09:10Z",
+        "fetched_items": 0,
+        "pages": 1,
+        "query_id": "mdl-simplace",
+        "reported_total": 0,
+        "start": "2026-09-22T11:09:10Z",
+        "unique_repositories": 0
+      },
+      {
+        "end": "2026-10-22T11:09:10Z",
+        "fetched_items": 76,
+        "pages": 1,
+        "query_id": "mdl-expert-n",
+        "reported_total": 76,
+        "start": "2026-09-22T11:09:10Z",
+        "unique_repositories": 76
+      },
+      {
+        "end": "2026-10-22T11:09:10Z",
+        "fetched_items": 10,
+        "pages": 1,
+        "query_id": "mdl-cropwat",
+        "reported_total": 10,
+        "start": "2026-09-22T11:09:10Z",
+        "unique_repositories": 10
+      },
+      {
+        "end": "2026-10-22T11:09:10Z",
+        "fetched_items": 1,
+        "pages": 1,
+        "query_id": "mdl-saltmed",
+        "reported_total": 1,
+        "start": "2026-09-22T11:09:10Z",
+        "unique_repositories": 1
+      },
+      {
+        "end": "2026-10-22T11:09:10Z",
+        "fetched_items": 38,
+        "pages": 1,
+        "query_id": "mdl-hydrus",
+        "reported_total": 38,
+        "start": "2026-09-22T11:09:10Z",
+        "unique_repositories": 38
+      },
+      {
+        "end": "2026-10-22T11:09:10Z",
+        "fetched_items": 35,
+        "pages": 1,
+        "query_id": "mdl-dndc",
+        "reported_total": 35,
+        "start": "2026-09-22T11:09:10Z",
+        "unique_repositories": 35
+      },
+      {
+        "end": "2026-10-22T11:09:10Z",
+        "fetched_items": 2,
+        "pages": 1,
+        "query_id": "mdl-daycent",
+        "reported_total": 2,
+        "start": "2026-09-22T11:09:10Z",
+        "unique_repositories": 2
+      },
+      {
+        "end": "2026-10-22T11:09:10Z",
+        "fetched_items": 18,
+        "pages": 1,
+        "query_id": "mdl-yasso",
+        "reported_total": 18,
+        "start": "2026-09-22T11:09:10Z",
+        "unique_repositories": 18
+      },
+      {
+        "end": "2026-10-22T11:09:10Z",
+        "fetched_items": 2,
+        "pages": 1,
+        "query_id": "mdl-lpjml",
+        "reported_total": 2,
+        "start": "2026-09-22T11:09:10Z",
+        "unique_repositories": 2
+      },
+      {
+        "end": "2026-10-22T11:09:10Z",
+        "fetched_items": 4,
+        "pages": 1,
+        "query_id": "mdl-lpj-guess",
+        "reported_total": 4,
+        "start": "2026-09-22T11:09:10Z",
+        "unique_repositories": 4
+      },
+      {
+        "end": "2026-10-22T11:09:10Z",
+        "fetched_items": 29,
+        "pages": 1,
+        "query_id": "mdl-orchidee",
+        "reported_total": 29,
+        "start": "2026-09-22T11:09:10Z",
+        "unique_repositories": 29
+      },
+      {
+        "end": "2026-10-22T11:09:10Z",
+        "fetched_items": 0,
+        "pages": 1,
+        "query_id": "mdl-agro-ibis",
+        "reported_total": 0,
+        "start": "2026-09-22T11:09:10Z",
+        "unique_repositories": 0
+      },
+      {
+        "end": "2026-10-22T11:09:10Z",
+        "fetched_items": 0,
+        "pages": 1,
+        "query_id": "mdl-pdssat",
+        "reported_total": 0,
+        "start": "2026-09-22T11:09:10Z",
+        "unique_repositories": 0
+      },
+      {
+        "end": "2026-10-22T11:09:10Z",
+        "fetched_items": 54,
+        "pages": 1,
+        "query_id": "mdl-psims",
+        "reported_total": 54,
+        "start": "2026-09-22T11:09:10Z",
+        "unique_repositories": 54
+      },
+      {
+        "end": "2026-10-22T11:09:10Z",
+        "fetched_items": 2,
+        "pages": 1,
+        "query_id": "mdl-mcwla",
+        "reported_total": 2,
+        "start": "2026-09-22T11:09:10Z",
+        "unique_repositories": 2
+      },
+      {
+        "end": "2026-10-22T11:09:10Z",
+        "fetched_items": 2,
+        "pages": 1,
+        "query_id": "mdl-gepic",
+        "reported_total": 2,
+        "start": "2026-09-22T11:09:10Z",
+        "unique_repositories": 2
+      },
+      {
+        "end": "2026-10-22T11:09:10Z",
+        "fetched_items": 0,
+        "pages": 1,
+        "query_id": "mdl-biome-bgc",
+        "reported_total": 0,
+        "start": "2026-09-22T11:09:10Z",
+        "unique_repositories": 0
+      },
+      {
+        "end": "2026-10-22T11:09:10Z",
+        "fetched_items": 3,
+        "pages": 1,
+        "query_id": "mdl-groimp",
+        "reported_total": 3,
+        "start": "2026-09-22T11:09:10Z",
+        "unique_repositories": 3
       }
     ],
     "coverage_gaps": [
@@ -128249,9 +129240,9 @@
     ],
     "cycle_start": "2026-09-22T11:09:10Z",
     "cycle_started_at": "2026-10-22T11:09:10Z",
-    "last_query_id": "mdl-substor",
+    "last_query_id": "mdl-groimp",
     "last_run": {
-      "completed_windows": 266,
+      "completed_windows": 286,
       "coverage_gaps": [
         {
           "cycle": 2,
@@ -128287,10 +129278,10 @@
       "cycle_end": "2026-10-22T11:09:10Z",
       "cycle_start": "2026-09-22T11:09:10Z",
       "cycle_started_at": "2026-10-22T11:09:10Z",
-      "discovered_repositories": 83,
-      "observed_at": "2026-10-29T09:56:28Z",
+      "discovered_repositories": 272,
+      "observed_at": "2026-10-30T09:59:02Z",
       "plan_completed": false,
-      "remaining_jobs": 260,
+      "remaining_jobs": 240,
       "requests": 20,
       "status": "partial",
       "unresolved_gap_count": 3
@@ -131758,206 +132749,6 @@
         "fetched_items": 0,
         "last_total": null,
         "page": 1,
-        "query": "CANEGRO in:name,description,topics,readme",
-        "query_id": "mdl-canegro",
-        "seen_ids": [],
-        "start": "2026-09-22T11:09:10Z"
-      },
-      {
-        "end": "2026-10-22T11:09:10Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "MOSICAS in:name,description,topics,readme",
-        "query_id": "mdl-mosicas",
-        "seen_ids": [],
-        "start": "2026-09-22T11:09:10Z"
-      },
-      {
-        "end": "2026-10-22T11:09:10Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "SIMPLACE in:name,description,topics,readme",
-        "query_id": "mdl-simplace",
-        "seen_ids": [],
-        "start": "2026-09-22T11:09:10Z"
-      },
-      {
-        "end": "2026-10-22T11:09:10Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "\"Expert-N\" in:name,description,topics,readme",
-        "query_id": "mdl-expert-n",
-        "seen_ids": [],
-        "start": "2026-09-22T11:09:10Z"
-      },
-      {
-        "end": "2026-10-22T11:09:10Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "CROPWAT in:name,description,topics,readme",
-        "query_id": "mdl-cropwat",
-        "seen_ids": [],
-        "start": "2026-09-22T11:09:10Z"
-      },
-      {
-        "end": "2026-10-22T11:09:10Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "SALTMED in:name,description,topics,readme",
-        "query_id": "mdl-saltmed",
-        "seen_ids": [],
-        "start": "2026-09-22T11:09:10Z"
-      },
-      {
-        "end": "2026-10-22T11:09:10Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "HYDRUS in:name,description,topics,readme",
-        "query_id": "mdl-hydrus",
-        "seen_ids": [],
-        "start": "2026-09-22T11:09:10Z"
-      },
-      {
-        "end": "2026-10-22T11:09:10Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "DNDC in:name,description,topics,readme",
-        "query_id": "mdl-dndc",
-        "seen_ids": [],
-        "start": "2026-09-22T11:09:10Z"
-      },
-      {
-        "end": "2026-10-22T11:09:10Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "DayCent in:name,description,topics,readme",
-        "query_id": "mdl-daycent",
-        "seen_ids": [],
-        "start": "2026-09-22T11:09:10Z"
-      },
-      {
-        "end": "2026-10-22T11:09:10Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "Yasso in:name,description,topics,readme",
-        "query_id": "mdl-yasso",
-        "seen_ids": [],
-        "start": "2026-09-22T11:09:10Z"
-      },
-      {
-        "end": "2026-10-22T11:09:10Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "LPJmL in:name,description,topics,readme",
-        "query_id": "mdl-lpjml",
-        "seen_ids": [],
-        "start": "2026-09-22T11:09:10Z"
-      },
-      {
-        "end": "2026-10-22T11:09:10Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "\"LPJ-GUESS\" in:name,description,topics,readme",
-        "query_id": "mdl-lpj-guess",
-        "seen_ids": [],
-        "start": "2026-09-22T11:09:10Z"
-      },
-      {
-        "end": "2026-10-22T11:09:10Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "ORCHIDEE in:name,description,topics,readme",
-        "query_id": "mdl-orchidee",
-        "seen_ids": [],
-        "start": "2026-09-22T11:09:10Z"
-      },
-      {
-        "end": "2026-10-22T11:09:10Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "\"Agro-IBIS\" in:name,description,topics,readme",
-        "query_id": "mdl-agro-ibis",
-        "seen_ids": [],
-        "start": "2026-09-22T11:09:10Z"
-      },
-      {
-        "end": "2026-10-22T11:09:10Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "pDSSAT in:name,description,topics,readme",
-        "query_id": "mdl-pdssat",
-        "seen_ids": [],
-        "start": "2026-09-22T11:09:10Z"
-      },
-      {
-        "end": "2026-10-22T11:09:10Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "pSIMS in:name,description,topics,readme",
-        "query_id": "mdl-psims",
-        "seen_ids": [],
-        "start": "2026-09-22T11:09:10Z"
-      },
-      {
-        "end": "2026-10-22T11:09:10Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "MCWLA in:name,description,topics,readme",
-        "query_id": "mdl-mcwla",
-        "seen_ids": [],
-        "start": "2026-09-22T11:09:10Z"
-      },
-      {
-        "end": "2026-10-22T11:09:10Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "GEPIC in:name,description,topics,readme",
-        "query_id": "mdl-gepic",
-        "seen_ids": [],
-        "start": "2026-09-22T11:09:10Z"
-      },
-      {
-        "end": "2026-10-22T11:09:10Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "\"Biome-BGC\" in:name,description,topics,readme",
-        "query_id": "mdl-biome-bgc",
-        "seen_ids": [],
-        "start": "2026-09-22T11:09:10Z"
-      },
-      {
-        "end": "2026-10-22T11:09:10Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
-        "query": "GroIMP in:name,description,topics,readme",
-        "query_id": "mdl-groimp",
-        "seen_ids": [],
-        "start": "2026-09-22T11:09:10Z"
-      },
-      {
-        "end": "2026-10-22T11:09:10Z",
-        "fetched_items": 0,
-        "last_total": null,
-        "page": 1,
         "query": "OpenAlea in:name,description,topics,readme",
         "query_id": "mdl-openalea",
         "seen_ids": [],
@@ -134378,6 +135169,9 @@
       "1383323747": [
         "dd-crop-yield"
       ],
+      "1383365453": [
+        "mdl-expert-n"
+      ],
       "1383440286": [
         "proc-watershed-agri"
       ],
@@ -134451,7 +135245,8 @@
         "crop-phenology"
       ],
       "1383852428": [
-        "crop-model"
+        "crop-model",
+        "mdl-lpjml"
       ],
       "1383898456": [
         "proc-irrigation-model",
@@ -134474,6 +135269,9 @@
         "dd-crop-yield-prediction",
         "dd-agricultural-yield",
         "dd-rice-yield"
+      ],
+      "1384002540": [
+        "mdl-expert-n"
       ],
       "1384017055": [
         "dd-crop-yield",
@@ -134555,6 +135353,9 @@
       "1384465095": [
         "es-crop-model"
       ],
+      "1384476841": [
+        "mdl-expert-n"
+      ],
       "1384514596": [
         "es-crop-model"
       ],
@@ -134592,6 +135393,12 @@
       ],
       "1384878719": [
         "soil-carbon-crop"
+      ],
+      "1384893294": [
+        "mdl-mcwla"
+      ],
+      "1384946563": [
+        "mdl-expert-n"
       ],
       "1384964360": [
         "dd-crop-yield",
@@ -134887,7 +135694,8 @@
         "fr-crop-model"
       ],
       "1388292968": [
-        "model-rothc"
+        "model-rothc",
+        "mdl-lpj-guess"
       ],
       "1388299719": [
         "crop-model"
@@ -134911,10 +135719,16 @@
       "1388468318": [
         "soil-carbon-crop"
       ],
+      "1388517005": [
+        "mdl-psims"
+      ],
       "1388540633": [
         "gen-crop-growth",
         "crop-wheat-model",
         "crop-wheat-growth"
+      ],
+      "1388625441": [
+        "mdl-cropwat"
       ],
       "1388630182": [
         "crop-growth"
@@ -134997,6 +135811,9 @@
       ],
       "1389723291": [
         "dd-plant-growth-prediction"
+      ],
+      "1389764288": [
+        "mdl-expert-n"
       ],
       "1389890117": [
         "es-crop-model"
@@ -135124,6 +135941,9 @@
       "1391519342": [
         "model-dssat"
       ],
+      "1391546590": [
+        "mdl-orchidee"
+      ],
       "1391562877": [
         "proc-fao56"
       ],
@@ -135147,7 +135967,8 @@
       ],
       "1392212346": [
         "crop-simulation",
-        "canopy-photosynthesis"
+        "canopy-photosynthesis",
+        "mdl-cropwat"
       ],
       "1392227316": [
         "dd-crop-yield"
@@ -135190,6 +136011,9 @@
       "1392854849": [
         "dd-rice-yield"
       ],
+      "1392878443": [
+        "mdl-hydrus"
+      ],
       "1392951933": [
         "crop-forage"
       ],
@@ -135216,6 +136040,9 @@
       "1393355510": [
         "soil-carbon-crop"
       ],
+      "1393504283": [
+        "mdl-cropwat"
+      ],
       "1393525683": [
         "dd-crop-yield",
         "dd-crop-yield-prediction",
@@ -135225,7 +136052,9 @@
         "process-based-crop",
         "model-aquacrop",
         "proc-nitrate-leaching",
-        "proc-irrigation-simulation"
+        "proc-irrigation-simulation",
+        "mdl-cropwat",
+        "mdl-hydrus"
       ],
       "1393785173": [
         "crop-simulation",
@@ -135302,6 +136131,9 @@
         "dd-crop-yield",
         "dd-crop-yield-prediction"
       ],
+      "1394856923": [
+        "mdl-expert-n"
+      ],
       "1394906013": [
         "cropping-systems"
       ],
@@ -135325,6 +136157,9 @@
       ],
       "1395155305": [
         "cn-soil-nitrogen"
+      ],
+      "1395167938": [
+        "mdl-expert-n"
       ],
       "1395215186": [
         "cropping-systems"
@@ -135568,6 +136403,9 @@
       "1398784841": [
         "proc-irrigation-scheduling"
       ],
+      "1398802436": [
+        "mdl-yasso"
+      ],
       "1398894271": [
         "crop-growth"
       ],
@@ -135604,6 +136442,9 @@
         "dd-yield-prediction-agri",
         "dd-yield-estimation",
         "dd-agricultural-yield"
+      ],
+      "1399491938": [
+        "mdl-dndc"
       ],
       "1399560630": [
         "crop-potato-model"
@@ -135705,6 +136546,9 @@
         "dd-yield-prediction-agri",
         "dd-agricultural-yield"
       ],
+      "1401071305": [
+        "mdl-expert-n"
+      ],
       "1401095008": [
         "dd-wheat-yield"
       ],
@@ -135787,7 +136631,8 @@
       ],
       "1402368697": [
         "functional-structural",
-        "proc-fspm"
+        "proc-fspm",
+        "mdl-groimp"
       ],
       "1402410278": [
         "crop-model"
@@ -135823,6 +136668,9 @@
       "1402975814": [
         "dd-crop-yield-prediction",
         "dd-yield-prediction-crop"
+      ],
+      "1403005212": [
+        "mdl-expert-n"
       ],
       "1403019579": [
         "cn-photosynthesis"
@@ -135882,6 +136730,10 @@
         "dd-agricultural-yield",
         "dd-rice-yield",
         "dd-crop-growth-prediction"
+      ],
+      "1403469830": [
+        "mdl-dndc",
+        "mdl-lpj-guess"
       ],
       "1403535536": [
         "dd-crop-yield-estimation"
@@ -136109,6 +136961,9 @@
       "1406390844": [
         "cn-crop-growth"
       ],
+      "1406440467": [
+        "mdl-hydrus"
+      ],
       "1406452202": [
         "proc-agrometeorological"
       ],
@@ -136136,6 +136991,9 @@
         "dd-crop-yield-estimation",
         "dd-yield-estimation"
       ],
+      "1406968178": [
+        "mdl-orchidee"
+      ],
       "1406975104": [
         "crop-cotton-model"
       ],
@@ -136161,6 +137019,9 @@
       ],
       "1407416754": [
         "dd-yield-estimation"
+      ],
+      "1407422211": [
+        "mdl-orchidee"
       ],
       "1407431652": [
         "dd-harvest-prediction"
@@ -136191,6 +137052,9 @@
       ],
       "1407767754": [
         "model-rothc"
+      ],
+      "1407803229": [
+        "mdl-orchidee"
       ],
       "1407854060": [
         "crop-energy-balance"
@@ -136251,6 +137115,9 @@
       "1408469392": [
         "crop-simulation"
       ],
+      "1408520919": [
+        "mdl-cropwat"
+      ],
       "1408526172": [
         "proc-fao56",
         "proc-irrigation-scheduling"
@@ -136275,6 +137142,9 @@
       ],
       "1408811975": [
         "crop-rice-model"
+      ],
+      "1408832684": [
+        "mdl-yasso"
       ],
       "1408852078": [
         "proc-irrigation-scheduling"
@@ -136450,7 +137320,9 @@
         "mechanistic-crop",
         "canopy-photosynthesis",
         "crop-energy-balance",
-        "model-dndc"
+        "model-dndc",
+        "mdl-dndc",
+        "mdl-daycent"
       ],
       "1410766049": [
         "proc-irrigation-scheduling"
@@ -136562,6 +137434,9 @@
       "1412611141": [
         "dd-yield-prediction-agri",
         "dd-agricultural-yield"
+      ],
+      "1412740684": [
+        "mdl-expert-n"
       ],
       "1412754829": [
         "proc-soil-moisture-model"
@@ -136679,6 +137554,9 @@
       "1414162740": [
         "proc-crop-disease-model"
       ],
+      "1414233610": [
+        "mdl-expert-n"
+      ],
       "1414323827": [
         "crop-growth"
       ],
@@ -136778,6 +137656,9 @@
       "1415380173": [
         "crop-growth"
       ],
+      "1415396320": [
+        "mdl-orchidee"
+      ],
       "1415400178": [
         "proc-evapotranspiration",
         "proc-penman",
@@ -136848,6 +137729,9 @@
       "1416459175": [
         "crop-rice-model"
       ],
+      "1416520964": [
+        "mdl-expert-n"
+      ],
       "1416565518": [
         "model-aquacrop"
       ],
@@ -136881,6 +137765,9 @@
       ],
       "1416858845": [
         "crop-sugarcane-model"
+      ],
+      "1416884720": [
+        "mdl-orchidee"
       ],
       "1416948903": [
         "crop-cocoa"
@@ -136917,6 +137804,9 @@
       ],
       "1417437373": [
         "proc-irrigation-model"
+      ],
+      "1417583241": [
+        "mdl-expert-n"
       ],
       "1417627117": [
         "dd-yield-prediction-agri",
@@ -136958,6 +137848,9 @@
         "proc-soil-moisture-simulation",
         "proc-irrigation-simulation",
         "dd-soil-moisture-forecast"
+      ],
+      "1418447323": [
+        "mdl-expert-n"
       ],
       "1418501481": [
         "dd-yield-prediction-agri",
@@ -137191,6 +138084,9 @@
       "1422829343": [
         "proc-root-architecture"
       ],
+      "1422871531": [
+        "mdl-cropwat"
+      ],
       "1422949753": [
         "dd-yield-prediction-agri",
         "dd-agricultural-yield"
@@ -137251,6 +138147,9 @@
         "crop-wheat-model",
         "dd-wheat-yield"
       ],
+      "1423482701": [
+        "mdl-orchidee"
+      ],
       "1423498172": [
         "crop-simulation"
       ],
@@ -137272,6 +138171,9 @@
       "1423691911": [
         "dd-harvest-prediction"
       ],
+      "1423692265": [
+        "mdl-gepic"
+      ],
       "1423900678": [
         "crop-model"
       ],
@@ -137289,6 +138191,9 @@
       ],
       "1424092048": [
         "dd-yield-prediction-agri"
+      ],
+      "1424161283": [
+        "mdl-expert-n"
       ],
       "1424241192": [
         "proc-root-architecture"
@@ -137367,11 +138272,15 @@
       "1425336186": [
         "crop-model"
       ],
+      "1425345202": [
+        "mdl-orchidee"
+      ],
       "1425517211": [
         "crop-rice-model"
       ],
       "1425558129": [
-        "functional-structural"
+        "functional-structural",
+        "mdl-groimp"
       ],
       "1425647773": [
         "dd-sugarcane-yield"
@@ -137392,6 +138301,9 @@
         "dd-crop-production-prediction",
         "dd-agricultural-yield"
       ],
+      "1425858513": [
+        "mdl-hydrus"
+      ],
       "1425898172": [
         "crop-model"
       ],
@@ -137403,6 +138315,9 @@
       ],
       "1425951838": [
         "dd-wheat-yield"
+      ],
+      "1426025977": [
+        "mdl-expert-n"
       ],
       "1426038807": [
         "crop-wheat-model"
@@ -137453,6 +138368,9 @@
       ],
       "1427013739": [
         "dd-rice-yield"
+      ],
+      "1427089448": [
+        "mdl-hydrus"
       ],
       "1427091506": [
         "cn-rice-wheat"
@@ -137525,6 +138443,9 @@
       ],
       "1428205151": [
         "crop-oil-palm"
+      ],
+      "1428233152": [
+        "mdl-expert-n"
       ],
       "1428237003": [
         "model-dssat"
@@ -137610,6 +138531,9 @@
         "proc-photosynthesis-model",
         "proc-farquhar"
       ],
+      "1429349235": [
+        "mdl-orchidee"
+      ],
       "1429420414": [
         "proc-soil-carbon-model"
       ],
@@ -137624,6 +138548,9 @@
       ],
       "1429478752": [
         "dd-cotton-yield"
+      ],
+      "1429491490": [
+        "mdl-expert-n"
       ],
       "1429538268": [
         "dd-crop-yield-forecast",

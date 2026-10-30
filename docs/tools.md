@@ -515,9 +515,9 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 - [jshernandezs/swat-pytools](https://github.com/jshernandezs/swat-pytools) - A Python wrapper for executing and calibrating the Soil and Water Assessment Tool (SWAT) in Unix/macOS systems. `★ 20` `GPL-3.0`
 - [VUB-HYDR/SWATPlus-AW](https://github.com/VUB-HYDR/SWATPlus-AW) - No description provided. `★ 19` `MIT`
 - [kora-labs/cyclesgym](https://github.com/kora-labs/cyclesgym) - CyclesGym: an OpenAI gym interface to the Cycles agricultural simulator. `★ 18` `BSD-3-Clause`
+- [celray/swatplus-automatic-workflow](https://github.com/celray/swatplus-automatic-workflow) - This software uses a config file (config.py), which is a settings file, to build and run SWAT+ models. Users can share the config along with their published works to promote transparency as all… `★ 17` `MIT`
 - [DHI-GRAS/qgis-processing-swat](https://github.com/DHI-GRAS/qgis-processing-swat) - QGIS Processing provider for SWAT based hydrological modelling. `★ 17` `GPL-3.0`
 - [aquacropos/aquacrop-gym](https://github.com/aquacropos/aquacrop-gym) - Environment to train and compare irrigation scheduling strategies with AquaCrop-OSPy. `★ 16` `no licence`
-- [celray/swatplus-automatic-workflow](https://github.com/celray/swatplus-automatic-workflow) - This software uses a config file (config.py), which is a settings file, to build and run SWAT+ models. Users can share the config along with their published works to promote transparency as all… `★ 16` `MIT`
 - [Intelligent-Reliable-Autonomous-Systems/WOFOSTGym](https://github.com/Intelligent-Reliable-Autonomous-Systems/WOFOSTGym) - No description provided. `★ 15` `MIT`
 - [julienmalard/traDSSAT](https://github.com/julienmalard/traDSSAT) - A (friendly) DSSAT input and output file reader and writer. `★ 15` `MIT`
 - [IBM/SWATgym](https://github.com/IBM/SWATgym) - SWATgym: a reinforcement learning environment for crop management. `★ 14` `Apache-2.0`
@@ -611,6 +611,7 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 - [NASA-EarthRISE/earthrise-toolkit_DSSAT-Alabama](https://github.com/NASA-EarthRISE/earthrise-toolkit_DSSAT-Alabama) - No description provided. `★ 1` `GPL-3.0`
 - [quaoq/FAIRY](https://github.com/quaoq/FAIRY) - No description provided. `★ 1` `no licence`
 - [reaganames/pyfao56-AutoIrrigate-UI](https://github.com/reaganames/pyfao56-AutoIrrigate-UI) - A user interface created to visualize and customize a pyfao56 AutoIrrigate class. `★ 1` `no licence`
+- [rouhollahdavarpanah/swatplus-rev62-migrator](https://github.com/rouhollahdavarpanah/swatplus-rev62-migrator) - Migrate older SWAT+ projects to rev.62 — a standalone tool that updates input files so they load and run with a rev.62 executable. `★ 1` `MIT`
 - [SERVIR/dssat_service](https://github.com/SERVIR/dssat_service) - No description provided. `★ 1` `no licence`
 - [spark-hydro/swatmf_relink](https://github.com/spark-hydro/swatmf_relink) - The SWAT-MODFLOW Relink Editor is a “lightweight” executable for creating new linkage tables based on user-desired simulation areas from a full SWAT-MODFLOW model. `★ 1` `no licence`
 - [UCDglobalchange/AquaCrop_Python](https://github.com/UCDglobalchange/AquaCrop_Python) - No description provided. `★ 1` `no licence`
@@ -704,7 +705,6 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 - [QianyangWang/SWAT2WASP](https://github.com/QianyangWang/SWAT2WASP) - Python scripts to quickly establish a WASP 8 river model based on a SWAT model structure. `MIT`
 - [rhizobabel/rhizobabel](https://github.com/rhizobabel/rhizobabel) - No description provided. `custom licence`
 - [rodriquinteros9-cloud/dssat-web](https://github.com/rodriquinteros9-cloud/dssat-web) - No description provided. `no licence`
-- [rouhollahdavarpanah/swatplus-rev62-migrator](https://github.com/rouhollahdavarpanah/swatplus-rev62-migrator) - Migrate older SWAT+ projects to rev.62 — a standalone tool that updates input files so they load and run with a rev.62 executable. `MIT`
 - [Saira-Asghar05/Corn_Yield_Optimizer](https://github.com/Saira-Asghar05/Corn_Yield_Optimizer) - No description provided. `no licence`
 - [SCiO-systems/cmct_dssat](https://github.com/SCiO-systems/cmct_dssat) - No description provided. `no licence`
 - [SCiO-systems/dssat-mcp](https://github.com/SCiO-systems/dssat-mcp) - This project implements an MCP server that orchestrates the full workflow for agricultural modeling, from data gathering and preparation to simulation execution. It integrates with DSSAT and PYTHIA… `BSD-3-Clause`
@@ -1000,7 +1000,7 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 
 #### C#
 
-- [OpenWaterNetwork/SWATPlus-Toolbox](https://github.com/OpenWaterNetwork/SWATPlus-Toolbox) - No description provided. `★ 2` `no licence`
+- [OpenWaterNetwork/SWATPlus-Toolbox](https://github.com/OpenWaterNetwork/SWATPlus-Toolbox) - No description provided. `★ 3` `no licence`
 - [hie-dave/benchmarks](https://github.com/hie-dave/benchmarks) - Prototype web-based benchmarking system for lpj-guess dave. `no licence`
 - [hie-dave/lpjg-runner](https://github.com/hie-dave/lpjg-runner) - Run LPJ-Guess simulations with modified parameter values. `no licence` `archived`
 - [hol353/APSIM.Validation](https://github.com/hol353/APSIM.Validation) - No description provided. `no licence`
@@ -1445,7 +1445,7 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 - [celray/CoSWAT-Framework](https://github.com/celray/CoSWAT-Framework) - This is the code for setting up the Community SWAT+ Model. It is made to work with Docker so that if software get's updated, it still works. `★ 11` `MIT`
 - [smarsGroup/geo_epic_win](https://github.com/smarsGroup/geo_epic_win) - This package scales EPIC crop simulations across large regions using remote sensing and geospatial data, with a built-in calibration module for local parameter tuning. `★ 8` `BSD-3-Clause`
 - [daquinterop/spatialDSSAT](https://github.com/daquinterop/spatialDSSAT) - Just a set of modules and functions to run DSSAT in spatial mode. `★ 7` `no licence`
-- [josiasritter/aquacropgrid-preproc](https://github.com/josiasritter/aquacropgrid-preproc) - This repository is work-in-progress for developing code to retrieve and preprocess all necessary input data to run the Python library AquaCrop-OSPy in gridded format over large areas (e.g. countries… `★ 6` `MIT`
+- [josiasritter/aquacropgrid-preproc](https://github.com/josiasritter/aquacropgrid-preproc) - NOTE: This repo is out of date and has been integrated here: https://github.com/aquacropos/geoaquacrop. `★ 6` `MIT`
 - [aquacropos/geoaquacrop_preprocess](https://github.com/aquacropos/geoaquacrop_preprocess) - Automatic data download and preprocessing pipeline for global gridded datasets to serve as inputs to agricultural crop and irrigation models. This covers all necessary data to run FAO's AquaCrop… `★ 5` `Apache-2.0`
 - [aquacropos/geoaquacrop_simulate](https://github.com/aquacropos/geoaquacrop_simulate) - Gridded AquaCrop-OSPy simulation engine — parallel per-cell crop modelling with optional yield bias correction against observed statistics. `★ 5` `Apache-2.0`
 - [claudio9russo7/DSSAT-parallel-running](https://github.com/claudio9russo7/DSSAT-parallel-running) - The GitHub repository DSSAT-parallel-running contains a Python script designed to run simulations of the DSSAT model (Decision Support System for Agrotechnology Transfer) in parallel across multiple… `★ 5` `MIT`
@@ -1889,6 +1889,7 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 - [ionathan/plotclim](https://github.com/ionathan/plotclim) - AgMIP climate data visualization scripts (in R). `★ 1` `GPL-3.0`
 - [jrodriguez88/agroclimR](https://github.com/jrodriguez88/agroclimR) - agroclimR: A R-Toolkit for Agroclimatic Data Management and Crop Model File Creation. `★ 1` `custom licence`
 - [kelmendorf/Licor_6800_Pulling_Graphing_Cleaning](https://github.com/kelmendorf/Licor_6800_Pulling_Graphing_Cleaning) - No description provided. `★ 1` `no licence`
+- [MemoryDube807/LARS-WG-Climate-Analysis](https://github.com/MemoryDube807/LARS-WG-Climate-Analysis) - No description provided. `★ 1` `no licence`
 - [PIK-LPJmL/ISIMIP_non-climate_conversion](https://github.com/PIK-LPJmL/ISIMIP_non-climate_conversion) - This repository provides code to convert various types of non-climate inputs provided by the Inter-Sectoral Impact Model Intercomparison Project (https://www.isimip.org/) into inputs that can be… `★ 1` `AGPL-3.0`
 - [QuantGen/G2F_RESOURCES](https://github.com/QuantGen/G2F_RESOURCES) - No description provided. `★ 1` `no licence`
 - [RDCEP/hadisd](https://github.com/RDCEP/hadisd) - Convert the HasISD station data to pSIMS daily weather. `★ 1` `no licence`
@@ -1931,7 +1932,6 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 - [marpols/makeClimateFiles](https://github.com/marpols/makeClimateFiles) - generate climate data files from ECCC historical data, replace missing values with NASA POWER, create STICS crop model climate files. `no licence`
 - [Matthews-Research-Group/miscanthus-partitioning-files](https://github.com/Matthews-Research-Group/miscanthus-partitioning-files) - This repository contains the necessary files to use the most update to date version of BioCro, including the r script, necessary initial values, parameters, weather files, and observations. `no licence`
 - [melwey/sgdbe2swat](https://github.com/melwey/sgdbe2swat) - Preparation of SWAT.SOL input file based on the Soil Geographical Database of Eurasia (SGDBE). `GPL-3.0`
-- [MemoryDube807/LARS-WG-Climate-Analysis](https://github.com/MemoryDube807/LARS-WG-Climate-Analysis) - No description provided. `no licence`
 - [mnqoliveira/convert-agmip-files](https://github.com/mnqoliveira/convert-agmip-files) - Basic scripts to convert outputs from DSSAT files to the AgMIP template. `no licence`
 - [Murilodsv/dssat_sol](https://github.com/Murilodsv/dssat_sol) - No description provided. `no licence`
 - [Ogle-lab/Bayesian-mixture-model-for-imputing-missing-soil-water-data](https://github.com/Ogle-lab/Bayesian-mixture-model-for-imputing-missing-soil-water-data) - No description provided. `no licence`

@@ -1540,7 +1540,7 @@ Process-based models of soil, water, climate, pests and other agricultural proce
 - [woodcrafty/PyETo](https://github.com/woodcrafty/PyETo) - Reference and potential evapotranspiration calculation routines. `★ 179` `BSD-3-Clause`
 - [hectornieto/pyTSEB](https://github.com/hectornieto/pyTSEB) - Two-source energy balance calculations for vegetation evapotranspiration. `★ 172` `GPL-3.0`
 - [pyet-org/pyet](https://github.com/pyet-org/pyet) - Reference and potential evaporation estimation methods in Python. `★ 166` `MIT`
-- [kthorp/pyfao56](https://github.com/kthorp/pyfao56) - FAO-56 crop water use and irrigation calculations using dual coefficients. `★ 97` `custom licence`
+- [kthorp/pyfao56](https://github.com/kthorp/pyfao56) - FAO-56 crop water use and irrigation calculations using dual coefficients. `★ 98` `custom licence`
 - [kaust-halo/geeet](https://github.com/kaust-halo/geeet) - Evapotranspiration (ET) models for use in python and with integration into Google Earth Engine. `★ 68` `MIT`
 - [Open-ET/openet-ssebop](https://github.com/Open-ET/openet-ssebop) - Earth Engine SSEBop ET Model. `★ 58` `Apache-2.0`
 - [NASA-DEVELOP/METRIC](https://github.com/NASA-DEVELOP/METRIC) - For estimating daily evapotranspiration from Landsat data. `★ 55` `custom licence`

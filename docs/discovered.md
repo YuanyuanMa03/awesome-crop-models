@@ -2,7 +2,7 @@
 
 Repositories found by discovery that nobody has classified yet. To list one, add it to `config/seeds.json`; to reject one, record it with a reason in `config/excluded.json`. Forks are not listed unless curated.
 
-106997 tracked · 15291 listed · 78836 excluded · 795 forks · **12075 awaiting review**
+107018 tracked · 15291 listed · 78836 excluded · 795 forks · **12096 awaiting review**
 
 | Repository | ★ | Language | Description | Found by |
 |---|---|---|---|---|
@@ -11,10 +11,17 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [zezhix/distributed-crawler](https://github.com/zezhix/distributed-crawler) | 7 | Roff | 第六届中软杯赛题 - 分布式爬虫系统（经纬度团队作品） | cn-crop-model |
 | [YellFunGit/IndoorunSDKIosDemo](https://github.com/YellFunGit/IndoorunSDKIosDemo) | 6 | Objective-C | IndoorunSDK IOS端demo | cn-crop-model |
 | [YuanyuanMa03/awesome-crop-models](https://github.com/YuanyuanMa03/awesome-crop-models) | 4 | Python | Curated, auto-refreshed list of open-source crop and agricultural process models on GitHub | agroecosystem-ghg, functional-structural |
+| [siciliatech/visualizador-neuronas](https://github.com/siciliatech/visualizador-neuronas) | 3 | HTML | Visualizador local de activación neuronal de un transformer: mira qué neuronas se encienden mientras un modelo de lengua | mdl-expert-n |
+| [sigilante/lean-ski](https://github.com/sigilante/lean-ski) | 3 | Lean |  | mdl-psims |
+| [the-linux-nerd/expert-nerd-sysadmin](https://github.com/the-linux-nerd/expert-nerd-sysadmin) | 3 | Shell |  | mdl-expert-n |
+| [HaseebKhalid1507/Axon](https://github.com/HaseebKhalid1507/Axon) | 2 | Rust | Fast, cheap LLM inference engine written from scratch in Rust + CUDA. Runs GGUF models (Qwen, Llama, Gemma, Mistral, MoE | mdl-expert-n |
 | [cassiel-cai/vchart](https://github.com/cassiel-cai/vchart) | 1 | TypeScript | 最新前端技术栈 ：Vue3.5 、 Electron、TS、 Vite、Pinia、Radix Vue、IndexedDB、 Dexie.js ，与多种知名AI大模型（文心一言/通义千问/ Claude ／Deepseek），手把手带你开发 | cn-photosynthesis |
 | [gnz-b/interviewNotice](https://github.com/gnz-b/interviewNotice) | 1 |  | 前端面试 常见知识点整理 | cn-crop-model |
+| [GuillaumeBarreau/claude-config](https://github.com/GuillaumeBarreau/claude-config) | 1 | JavaScript |  | mdl-expert-n |
 | [lexiloughlin/pig-city](https://github.com/lexiloughlin/pig-city) | 1 | HTML |  | mdl-pcse |
 | [parthvarute09/Rice-Crop-Forecasting](https://github.com/parthvarute09/Rice-Crop-Forecasting) | 1 | Jupyter Notebook | A machine learning-based Rice Crop Yield Forecasting System that analyzes agricultural and environmental factors to pred | dd-crop-yield-forecast, dd-crop-yield-forecasting |
+| [sandeepmuttvarpu-png/Sandwich-cpp](https://github.com/sandeepmuttvarpu-png/Sandwich-cpp) | 1 | C++ | Unified high-performance LLM engine combining dynamic MoE expert staging, TurboQuant 4-bit KV compression, and auto-disp | mdl-expert-n |
+| [wangyk10086/LIS-VLA](https://github.com/wangyk10086/LIS-VLA) | 1 | Python | LIS-VLA: Latent Imagination Search VLA, built on RynVLA-002 | mdl-expert-n |
 | [weijinxing204/Rice-quality-model](https://github.com/weijinxing204/Rice-quality-model) | 1 | MATLAB |  | crop-rice-model |
 | [002y/nlw-expert-notes](https://github.com/002y/nlw-expert-notes) | 0 | TypeScript |  | mdl-expert-n |
 | [00MOREIRA00/nlw-expert-notes](https://github.com/00MOREIRA00/nlw-expert-notes) | 0 | TypeScript | Repositório destinado a criação da aplicação proposta pela Rocketseat no evento NLW Expert | mdl-expert-n |
@@ -485,7 +492,7 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [Agangwar14022023/CROP-PRODUCTION-INDIA](https://github.com/Agangwar14022023/CROP-PRODUCTION-INDIA) | 0 |  | This repository contains a crop production project focused on analyzing agricultural data. Using Power Bi and Excel, the | dd-crop-yield, gen-crop-growth |
 | [Agathedumont/optimal_landscape_cocoa_model](https://github.com/Agathedumont/optimal_landscape_cocoa_model) | 0 | R |  | crop-cocoa |
 | [agentukraine007/agroforestry-ar-model](https://github.com/agentukraine007/agroforestry-ar-model) | 0 |  |  | gen-agroforestry |
-| [AGFF-ADCF-APF/r-grassgrowth](https://github.com/AGFF-ADCF-APF/r-grassgrowth) | 0 | R | Estimate and visualize grass growth in Switzerland. Initiated by AGFF. | mdl-grassgro |
+| [AGFF-ADCF-APF/r-grassgrowth](https://github.com/AGFF-ADCF-APF/r-grassgrowth) | 0 | JavaScript | Estimate and visualize grass growth in Switzerland. Initiated by AGFF. | mdl-grassgro |
 | [AgMIP-GGCMI/phase3_processing_pipeline](https://github.com/AgMIP-GGCMI/phase3_processing_pipeline) | 0 | R | data processing for GGCMI phase 3 output data | mdl-agmip, mdl-ggcmi |
 | [AgMIP-GGCMI/processing_hwsd_for_GGCMI](https://github.com/AgMIP-GGCMI/processing_hwsd_for_GGCMI) | 0 | R | script for processing HWSD 1.2 data for GGCMI model input | mdl-agmip, mdl-ggcmi |
 | [agmip-ui/agmip](https://github.com/agmip-ui/agmip) | 0 | JavaScript |  | mdl-agmip |
@@ -999,12 +1006,5 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [andersonmenezesm/nlw-expert-notes](https://github.com/andersonmenezesm/nlw-expert-notes) | 0 | TypeScript | Projeto Realizado no 1º NLW de 2024 | mdl-expert-n |
 | [AndersonPGS/nlw-expert-notes](https://github.com/AndersonPGS/nlw-expert-notes) | 0 | TypeScript | NLW - Expert Notes - @Rocketseat | mdl-expert-n |
 | [andersonrodolfo/nlw-expert-notes](https://github.com/andersonrodolfo/nlw-expert-notes) | 0 | TypeScript |  | mdl-expert-n |
-| [andesdevroot/elqui-sensor-report](https://github.com/andesdevroot/elqui-sensor-report) | 0 | Go | CLI en Go para validar eficiencia hídrica de agricultores del Valle del Elqui. Open source, MIT. | es-crop-model |
-| [andhikaahitama/booksynopsis18](https://github.com/andhikaahitama/booksynopsis18) | 0 | HTML | booksynopsis18 - Book Reviews | model-monica, process-based-crop |
-| [andhikaahitama/booksynopsis27](https://github.com/andhikaahitama/booksynopsis27) | 0 | HTML | booksynopsis27 - Book Reviews | model-monica, soil-carbon-crop |
-| [andhikaahitama/booksynopsis29](https://github.com/andhikaahitama/booksynopsis29) | 0 | HTML | booksynopsis29 - Book Reviews | mechanistic-crop, model-stics |
-| [andhikaahitama/booksynopsis48](https://github.com/andhikaahitama/booksynopsis48) | 0 | HTML | booksynopsis48 - Book Reviews | mdl-swat-readme |
-| [andhikaahitama/booksynopsis5](https://github.com/andhikaahitama/booksynopsis5) | 0 | HTML | booksynopsis5 - Book Reviews | model-monica, process-based-crop |
-| [andiswa-phewa/ChatAppPart1](https://github.com/andiswa-phewa/ChatAppPart1) | 0 | Java |  | mdl-icasa |
 
-The 11075 remaining candidates, with fewer stars, are in `catalog/repositories.json`.
+The 11096 remaining candidates, with fewer stars, are in `catalog/repositories.json`.
