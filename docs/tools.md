@@ -508,7 +508,7 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 - [MAGALA-RICHARD/apsimNGpy](https://github.com/MAGALA-RICHARD/apsimNGpy) - ApsimNGpy is a Python library designed as an implementation of the APSIM Next Generation crop and environmental simulation model. This library is built upon the Pythonnet API, providing direct… `★ 37` `Apache-2.0`
 - [BartvLaatum/GreenLight-Gym2](https://github.com/BartvLaatum/GreenLight-Gym2) - Reinforcement learning environment for controlling greenhouse crop production systems. The greenhouse dynamics are based on GreenLight.. `★ 33` `AGPL-3.0`
 - [TwinYields/farmingpy](https://github.com/TwinYields/farmingpy) - Python library for Smart Farming data and modelling. Enables reading of ISOBUS task files, EO data from SentinelHub and interfacing APSIM simulation models. `★ 29` `MIT`
-- [VUB-HYDR/QSWAT_Automated_Workflow](https://github.com/VUB-HYDR/QSWAT_Automated_Workflow) - The automated workflow for setting up SWAT Models presented in Chawanda et al., 2019 EMS. `★ 28` `MIT`
+- [VUB-HYDR/QSWAT_Automated_Workflow](https://github.com/VUB-HYDR/QSWAT_Automated_Workflow) - The automated workflow for setting up SWAT Models presented in Chawanda et al., 2019 EMS. `★ 29` `MIT`
 - [WUR-AI/crop-gym](https://github.com/WUR-AI/crop-gym) - An OpenAI gym environment for crop management. `★ 25` `MIT`
 - [zawadzkim/pySWAP](https://github.com/zawadzkim/pySWAP) - Python wraper for SWAP hydrological model. `★ 25` `MIT`
 - [davidbispo/PySWAT](https://github.com/davidbispo/PySWAT) - A Python aplication for Input/Outpyut analysis for the soil and water assessment tool(SWAT). `★ 22` `no licence`
@@ -518,7 +518,7 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 - [celray/swatplus-automatic-workflow](https://github.com/celray/swatplus-automatic-workflow) - This software uses a config file (config.py), which is a settings file, to build and run SWAT+ models. Users can share the config along with their published works to promote transparency as all… `★ 17` `MIT`
 - [DHI-GRAS/qgis-processing-swat](https://github.com/DHI-GRAS/qgis-processing-swat) - QGIS Processing provider for SWAT based hydrological modelling. `★ 17` `GPL-3.0`
 - [aquacropos/aquacrop-gym](https://github.com/aquacropos/aquacrop-gym) - Environment to train and compare irrigation scheduling strategies with AquaCrop-OSPy. `★ 16` `no licence`
-- [Intelligent-Reliable-Autonomous-Systems/WOFOSTGym](https://github.com/Intelligent-Reliable-Autonomous-Systems/WOFOSTGym) - No description provided. `★ 15` `MIT`
+- [Intelligent-Reliable-Autonomous-Systems/WOFOSTGym](https://github.com/Intelligent-Reliable-Autonomous-Systems/WOFOSTGym) - No description provided. `★ 16` `MIT`
 - [julienmalard/traDSSAT](https://github.com/julienmalard/traDSSAT) - A (friendly) DSSAT input and output file reader and writer. `★ 15` `MIT`
 - [IBM/SWATgym](https://github.com/IBM/SWATgym) - SWATgym: a reinforcement learning environment for crop management. `★ 14` `Apache-2.0`
 - [swat-model/QSWATPlus](https://github.com/swat-model/QSWATPlus) - QGIS plugin for developing SWAT+ input data. `★ 13` `no licence`
@@ -566,6 +566,7 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 - [alkaffulm/aquacropgymnasium](https://github.com/alkaffulm/aquacropgymnasium) - AquaCrop based RL Environment using Gymnasium. `★ 2` `no licence`
 - [ansleybrown1337/Hydrus-1D-Python-Wrapper](https://github.com/ansleybrown1337/Hydrus-1D-Python-Wrapper) - This repository is dedicated to the ongoing project of using python to run Monte Carlo analysis on the soil physical and chemical model, Hydrus 1D. `★ 2` `MIT`
 - [backmind/autoRICEWQ](https://github.com/backmind/autoRICEWQ) - This project aims to be a handler for input creation and running of multiple RICEWQ simulations. `★ 2` `GPL-3.0`
+- [benbenbeatit912002/Greenlight-simulation](https://github.com/benbenbeatit912002/Greenlight-simulation) - The greenhouse simulation panel for greenlight model 2. `★ 2` `no licence`
 - [BioDT/uc-grassland](https://github.com/BioDT/uc-grassland) - pDT grassland main repository. `★ 2` `EUPL-1.2`
 - [BrianBGrant/DNDC](https://github.com/BrianBGrant/DNDC) - No description provided. `★ 2` `no licence`
 - [caburj/acresults](https://github.com/caburj/acresults) - A python library for post-processing AquaCrop simulation results. `★ 2` `no licence`
@@ -590,7 +591,6 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 - [WUR-AI/NUE_PCSE-Gym](https://github.com/WUR-AI/NUE_PCSE-Gym) - No description provided. `★ 2` `GPL-3.0`
 - [18757219260/pcse_llmagent](https://github.com/18757219260/pcse_llmagent) - PCSE Crop Simulation & LLM Agent Decision System for Agricultural Management. `★ 1` `no licence`
 - [Balazska/gym-dssat-setup](https://github.com/Balazska/gym-dssat-setup) - No description provided. `★ 1` `no licence`
-- [benbenbeatit912002/Greenlight-simulation](https://github.com/benbenbeatit912002/Greenlight-simulation) - The greenhouse simulation panel for greenlight model 2. `★ 1` `no licence`
 - [BenLatham/PcseWrapperDjango](https://github.com/BenLatham/PcseWrapperDjango) - An attempt to create a django app allowing Pcse to be used for FLOSS. `★ 1` `no licence`
 - [BeomseokForWork/dssat-mcp](https://github.com/BeomseokForWork/dssat-mcp) - MCP-based AI agent interface for DSSAT crop model calibration. `★ 1` `MIT`
 - [Briggs599/apsim-mcp](https://github.com/Briggs599/apsim-mcp) - An MCP server that lets an LLM drive the APSIM Next Gen farming-systems simulator with plain language. `★ 1` `Apache-2.0`
@@ -1435,7 +1435,7 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 #### Python
 
 - [lzwei196/RS-DPCF](https://github.com/lzwei196/RS-DPCF) - Parallel, distributed framework for RZ-SHAW model calibration and multi-site simulations of seasonal frost in croplands. `★ 107` `custom licence`
-- [aquacropos/geoaquacrop](https://github.com/aquacropos/geoaquacrop) - Run AquaCrop-OSPy over large regions in gridded format — preprocessing, simulation and visualisation behind one import. `★ 40` `Apache-2.0`
+- [aquacropos/geoaquacrop](https://github.com/aquacropos/geoaquacrop) - Run AquaCrop-OSPy over large regions in gridded format — preprocessing, simulation and visualisation behind one import. `★ 41` `Apache-2.0`
 - [RDCEP/psims](https://github.com/RDCEP/psims) - No description provided. `★ 33` `AGPL-3.0`
 - [DSSAT/pythia](https://github.com/DSSAT/pythia) - Another Gridded Modeling Framework. `★ 28` `no licence`
 - [davidstackio/apsimRegions](https://github.com/davidstackio/apsimRegions) - ApsimRegions is a one-way nested climate-crop modeling framework that links gridded weather data (rain, temperature, radiation, etc.) with the point-specific APSIM crop model. `★ 27` `MIT`

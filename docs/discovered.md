@@ -2,11 +2,11 @@
 
 Repositories found by discovery that nobody has classified yet. To list one, add it to `config/seeds.json`; to reject one, record it with a reason in `config/excluded.json`. Forks are not listed unless curated.
 
-107018 tracked · 15291 listed · 78836 excluded · 795 forks · **12096 awaiting review**
+107021 tracked · 15291 listed · 78836 excluded · 795 forks · **12099 awaiting review**
 
 | Repository | ★ | Language | Description | Found by |
 |---|---|---|---|---|
-| [PlantSimulationLab/Helios](https://github.com/PlantSimulationLab/Helios) | 110 | C++ | Open-source 3D simulator of plants and their environment: functional-structural plant modeling (FSPM), dynamic plant mod | proc-stomatal |
+| [PlantSimulationLab/Helios](https://github.com/PlantSimulationLab/Helios) | 111 | C++ | Open-source 3D simulator of plants and their environment: functional-structural plant modeling (FSPM), dynamic plant mod | proc-stomatal, topic-crop-modelling |
 | [WangHaomao/GeoSpider](https://github.com/WangHaomao/GeoSpider) | 7 | Roff | 项目暂时完成，日后继续完善 | cn-crop-model |
 | [zezhix/distributed-crawler](https://github.com/zezhix/distributed-crawler) | 7 | Roff | 第六届中软杯赛题 - 分布式爬虫系统（经纬度团队作品） | cn-crop-model |
 | [YellFunGit/IndoorunSDKIosDemo](https://github.com/YellFunGit/IndoorunSDKIosDemo) | 6 | Objective-C | IndoorunSDK IOS端demo | cn-crop-model |
@@ -1007,4 +1007,4 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [AndersonPGS/nlw-expert-notes](https://github.com/AndersonPGS/nlw-expert-notes) | 0 | TypeScript | NLW - Expert Notes - @Rocketseat | mdl-expert-n |
 | [andersonrodolfo/nlw-expert-notes](https://github.com/andersonrodolfo/nlw-expert-notes) | 0 | TypeScript |  | mdl-expert-n |
 
-The 11096 remaining candidates, with fewer stars, are in `catalog/repositories.json`.
+The 11099 remaining candidates, with fewer stars, are in `catalog/repositories.json`.
