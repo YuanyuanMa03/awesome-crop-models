@@ -551,6 +551,7 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 - [PlantandFoodResearch/APSIMTools](https://github.com/PlantandFoodResearch/APSIMTools) - Scripts for doing stuff pre and post apsim simulation. `★ 4` `no licence`
 - [USDA-ARS-ACSL/CLASSIM_Desktop](https://github.com/USDA-ARS-ACSL/CLASSIM_Desktop) - Desktop interface for running the USDA-ARS ACSL crop models. `★ 4` `no licence`
 - [AgroClimaticTools/pyDSSAT](https://github.com/AgroClimaticTools/pyDSSAT) - pyDSSAT is primarily developed to read the DSSAT outputs. It also support other functionality were also included like creating and modifying soil (*.SOL) file, creating batch file (DSSBatch.v4*) … `★ 3` `MIT`
+- [AI-Hydro/swatplus-builder](https://github.com/AI-Hydro/swatplus-builder) - Agent Operable end to end swat plus modelling. `★ 3` `MIT`
 - [dodge-ttu/crop-modeling-site](https://github.com/dodge-ttu/crop-modeling-site) - A Django driven crop modeling website. `★ 3` `no licence`
 - [erickpeirson/HydrusHelper](https://github.com/erickpeirson/HydrusHelper) - Python CLI tool for streamlining Hydrus simulations. `★ 3` `no licence`
 - [FabioSeixas/CassavaPy](https://github.com/FabioSeixas/CassavaPy) - A module to write, run and get outputs from DSSAT-Manihot model. `★ 3` `no licence`
@@ -562,7 +563,6 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 - [yuxi-research/apsimx-tool](https://github.com/yuxi-research/apsimx-tool) - This tool automates the batch configuration and execution of APSIMX simulations. `★ 3` `MIT`
 - [achtmalklug/pyApsim](https://github.com/achtmalklug/pyApsim) - No description provided. `★ 2` `no licence`
 - [Agro-Climate/ET_DSS_hist](https://github.com/Agro-Climate/ET_DSS_hist) - No description provided. `★ 2` `no licence`
-- [AI-Hydro/swatplus-builder](https://github.com/AI-Hydro/swatplus-builder) - Agent Operable end to end swat plus modelling. `★ 2` `MIT`
 - [alkaffulm/aquacropgymnasium](https://github.com/alkaffulm/aquacropgymnasium) - AquaCrop based RL Environment using Gymnasium. `★ 2` `no licence`
 - [ansleybrown1337/Hydrus-1D-Python-Wrapper](https://github.com/ansleybrown1337/Hydrus-1D-Python-Wrapper) - This repository is dedicated to the ongoing project of using python to run Monte Carlo analysis on the soil physical and chemical model, Hydrus 1D. `★ 2` `MIT`
 - [backmind/autoRICEWQ](https://github.com/backmind/autoRICEWQ) - This project aims to be a handler for input creation and running of multiple RICEWQ simulations. `★ 2` `GPL-3.0`
@@ -1661,7 +1661,7 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 
 #### Python
 
-- [AgriculturalSemantics/agro](https://github.com/AgriculturalSemantics/agro) - AgrO describes agronomic practices, techniques, and variables used in agronomic experiments. `★ 70` `CC-BY-4.0`
+- [AgriculturalSemantics/agro](https://github.com/AgriculturalSemantics/agro) - AgrO describes agronomic practices, techniques, and variables used in agronomic experiments. `★ 71` `CC-BY-4.0`
 - [Open-ET/flux-data-qaqc](https://github.com/Open-ET/flux-data-qaqc) - Energy Balance Closure Analysis and Eddy Flux Data Post-Processing. `★ 38` `BSD-3-Clause`
 - [earthobservations/phenodata](https://github.com/earthobservations/phenodata) - Acquire and process open access phenology data. `★ 29` `AGPL-3.0`
 - [WSWUP/agweather-qaqc](https://github.com/WSWUP/agweather-qaqc) - Visualized QA/QC of weather station data. `★ 25` `Apache-2.0`

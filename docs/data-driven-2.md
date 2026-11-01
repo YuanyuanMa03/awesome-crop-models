@@ -8,6 +8,8 @@ Continued from [page 1](data-driven.md). See the [contents](data-driven.md#conte
 
 #### Python (continued)
 
+- [AlaaLabban/Agricultural_AI](https://github.com/AlaaLabban/Agricultural_AI) - This project is a complete, end-to-end pipeline for agricultural forecasting. It leverages historical weather data to train a suite of machine learning models that can predict future crop yields.… `no licence`
+- [Alamodi123/Smart-Farming-and-Yield-Forecasting-using-IoT-Sensor-Data](https://github.com/Alamodi123/Smart-Farming-and-Yield-Forecasting-using-IoT-Sensor-Data) - Crop yield prediction. `no licence`
 - [AlbaArnauAlemany/BIA_Individual_Project](https://github.com/AlbaArnauAlemany/BIA_Individual_Project) - My individual assignment for the Business and Intelligence Analytics course. Implementation of regression and classification algorithms to : 1) Predict crop yields using data on weather and… `no licence`
 - [Albert-Einstein21-century/crop-yield-predictor](https://github.com/Albert-Einstein21-century/crop-yield-predictor) - Machine learning model for predicting crop yield based on farming conditions. `Apache-2.0`
 - [alechiny/crops_yield](https://github.com/alechiny/crops_yield) - Crop yield prediction with machine learning. `no licence`
@@ -689,7 +691,6 @@ Continued from [page 1](data-driven.md). See the [contents](data-driven.md#conte
 - [chithira67/Crop-Yield-Prediction-System-for-Sri-Lanka](https://github.com/chithira67/Crop-Yield-Prediction-System-for-Sri-Lanka) - Crop yield prediction. `MIT`
 - [ChitiNkhuwa/Crop_Yield_Prediction](https://github.com/ChitiNkhuwa/Crop_Yield_Prediction) - Crop yield prediction. `no licence`
 - [chitram-hp/AI-Crop-Yield-Production](https://github.com/chitram-hp/AI-Crop-Yield-Production) - AI Powered Crop Yield Prediction and Optimization is a machine learning-based project that predicts crop production using factors like rainfall, temperature, soil type, and fertilizer usage. The… `MIT`
-- [ChizkiyahuOhayon/axle-yieldsat](https://github.com/ChizkiyahuOhayon/axle-yieldsat) - AXLE: Acquisition-anchored label noise for robust high-resolution crop-yield regression on YieldSAT (CVPR-track reference implementation). `MIT`
 - [chogevincent/Farm_Products_Analysis_and_Prediction](https://github.com/chogevincent/Farm_Products_Analysis_and_Prediction) - This dataset provides insights into various aspects of agriculture, specifically focusing on farm-level details, crop types, irrigation methods, soil properties, and associated metrics such as… `no licence`
 - [ChristianFonseca/forecast_eu_yield](https://github.com/ChristianFonseca/forecast_eu_yield) - Crop yield prediction. `no licence`
 - [ChristianFonsecaRodriguez/forecast_eu_yield](https://github.com/ChristianFonsecaRodriguez/forecast_eu_yield) - Crop yield prediction. `no licence`
@@ -823,7 +824,7 @@ Continued from [page 1](data-driven.md). See the [contents](data-driven.md#conte
 - [deerajgr/Crop-Yield-Prediction-Per-Country](https://github.com/deerajgr/Crop-Yield-Prediction-Per-Country) - Crop yield prediction. `no licence`
 - [Deltajom/ECE697MLFinalProject-CropYieldPrediction](https://github.com/Deltajom/ECE697MLFinalProject-CropYieldPrediction) - This is a repository was created by a group of students at UMass Amherst to create a sample machine learning model to predict crop yields from an existing dataset of weather data. `MIT`
 - [DEN11223344/AgriInsight](https://github.com/DEN11223344/AgriInsight) - Crop yield prediction with machine learning. `no licence`
-- [Denis060/sierraleone-agri-ml](https://github.com/Denis060/sierraleone-agri-ml) - First ML framework for crop yield prediction and post-harvest loss reduction in Sierra Leone — Evidence from FAOSTAT 2000–2024. `no licence`
+- [Denis060/sierraleone-agri-ml](https://github.com/Denis060/sierraleone-agri-ml) - Rice-yield forecasting for Sierra Leone with FAOSTAT and satellite climate data; walk-forward validation vs. naive baselines. `MIT`
 - [Desai668/Mannina-Maga-Farmer-Crop-AI-Assist](https://github.com/Desai668/Mannina-Maga-Farmer-Crop-AI-Assist) - Mannina Maga is a farmer-friendly smart agriculture platform featuring ML-based yield prediction for 15 crops, real-time weather, soil health analysis, crop recommendations, PDF reports, and… `MIT`
 - [desdelgado/Rwanda_Crop_Yield](https://github.com/desdelgado/Rwanda_Crop_Yield) - Can we predict crop yield in Rwanda using machine learning? `no licence`
 - [desihacker111/Crop_yield_detection](https://github.com/desihacker111/Crop_yield_detection) - A machine learning project that predicts crop yield based on environmental factors like rainfall, temperature, and pesticide use. Built with Python, scikit-learn, and Flask, it includes a web… `no licence`
@@ -1160,7 +1161,6 @@ Continued from [page 1](data-driven.md). See the [contents](data-driven.md#conte
 - [geethanjaligeetha339-create/crop-health-and-yield-prediction](https://github.com/geethanjaligeetha339-create/crop-health-and-yield-prediction) - Crop yield prediction. `no licence`
 - [Geetharegu/crop-yeild-prediction](https://github.com/Geetharegu/crop-yeild-prediction) - Here's the case study about the crop yeild's prediction using supervised learning with the some factors like temperature, soil ph, soil moisture, fertilizer usage etc. `no licence`
 - [geethikalaxmi61-pixel/AI-Crop-Yield-Prediction-and-Agriculture-Productivity-Forecast-System_Geethika](https://github.com/geethikalaxmi61-pixel/AI-Crop-Yield-Prediction-and-Agriculture-Productivity-Forecast-System_Geethika) - Crop yield prediction with machine learning. `no licence`
-- [geonextgis/AgroForecast-DE](https://github.com/geonextgis/AgroForecast-DE) - District level seasonal crop yield forecast for Germany. `MIT`
 - [geonextgis/diffusion_crop_yield_prediction_ssa](https://github.com/geonextgis/diffusion_crop_yield_prediction_ssa) - Crop yield prediction. `no licence`
 - [geonextgis/tropentag-workshop](https://github.com/geonextgis/tropentag-workshop) - Crop yield prediction with machine learning. `no licence`
 - [geraldmungate06-boop/agric-advisory-system](https://github.com/geraldmungate06-boop/agric-advisory-system) - Agricultural Advisory System for crop recommendation, yield prediction, pest alerts, and optimal planting windows. `no licence`

@@ -1178,6 +1178,7 @@ Process-based models of soil, water, climate, pests and other agricultural proce
 - [JariLiski/yasso07ui](https://github.com/JariLiski/yasso07ui) - Automatically exported from code.google.com/p/yasso07ui. `★ 1` `no licence`
 - [mainearth/DLCM](https://github.com/mainearth/DLCM) - Codes for the process-oriented soil carbon model—Double Layer Carbon Model. `★ 1` `GPL-3.0`
 - [rasmuse/bnf-faostat](https://github.com/rasmuse/bnf-faostat) - No description provided. `★ 1` `MIT`
+- [SiyaShao/Myco-CORPSE](https://github.com/SiyaShao/Myco-CORPSE) - Myco-CORPSE: a soil carbon-nitrogen model with saprotrophs, ectomycorrhizal and arbuscular mycorrhizal fungi (Shao et al. 2023, Soil Biology and Biochemistry, doi:10.1016/j.soilbio.2023.109073). `★ 1` `MIT`
 - [andresf5/codigos_modelos_agronomico](https://github.com/andresf5/codigos_modelos_agronomico) - En este repositorio se encuentran los codigos desarrollados para el modelo agronomico para disponibilidad de nitrogeno en cultivos de cafe en colombia. `no licence`
 - [ArjunChakrawal/chemodiv-litter-model](https://github.com/ArjunChakrawal/chemodiv-litter-model) - Python codebase for simulating litter decomposition dynamics using molecular-level input traits, with support for flexible substrate and microbial representations. `MIT`
 - [BerheAA/Integrated-Crop-Legume-Livestock--N-balance-in-Ethiopia_v1](https://github.com/BerheAA/Integrated-Crop-Legume-Livestock--N-balance-in-Ethiopia_v1) - Crop-Legume-Livestock-Nitrogen Balance. `no licence`
@@ -1197,7 +1198,6 @@ Process-based models of soil, water, climate, pests and other agricultural proce
 - [ShashankAnand1996/SMEW_SS](https://github.com/ShashankAnand1996/SMEW_SS) - This repository contains SMEW_SS, an extension of the SMEW model that simulates enhanced weathering processes while accounting for soil structure and rock powder mixing. `custom licence`
 - [shenzhou1120/Zinc-enriched-rice-minimal](https://github.com/shenzhou1120/Zinc-enriched-rice-minimal) - No description provided. `no licence`
 - [ShibliSadik/T-dependence-of-Fe-redox](https://github.com/ShibliSadik/T-dependence-of-Fe-redox) - Quantifying temperature dependence of Fe reduction in humid tropical soils: a Bayesian model-data integration. `no licence`
-- [SiyaShao/Myco-CORPSE](https://github.com/SiyaShao/Myco-CORPSE) - Myco-CORPSE: a soil carbon-nitrogen model with saprotrophs, ectomycorrhizal and arbuscular mycorrhizal fungi (Shao et al. 2023, Soil Biology and Biochemistry, doi:10.1016/j.soilbio.2023.109073). `MIT`
 - [vcorcoro/EndoPotNitrogen](https://github.com/vcorcoro/EndoPotNitrogen) - plant growth model incorporating nitrogen dynamics and biological nitrogen fixation from endophytes. `no licence`
 - [voltAntonio/rothCStandAlone](https://github.com/voltAntonio/rothCStandAlone) - a stand alone version of RothC written in C++. `no licence`
 - [YASSOmodel/Yasso-GUI](https://github.com/YASSOmodel/Yasso-GUI) - Yasso07, Yasso15 and Yasso20 graphical UI for Windows. `no licence`

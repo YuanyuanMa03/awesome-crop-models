@@ -2,7 +2,7 @@
 
 Repositories found by discovery that nobody has classified yet. To list one, add it to `config/seeds.json`; to reject one, record it with a reason in `config/excluded.json`. Forks are not listed unless curated.
 
-107021 tracked · 15291 listed · 78836 excluded · 795 forks · **12099 awaiting review**
+107041 tracked · 15291 listed · 78836 excluded · 795 forks · **12119 awaiting review**
 
 | Repository | ★ | Language | Description | Found by |
 |---|---|---|---|---|
@@ -19,8 +19,11 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [gnz-b/interviewNotice](https://github.com/gnz-b/interviewNotice) | 1 |  | 前端面试 常见知识点整理 | cn-crop-model |
 | [GuillaumeBarreau/claude-config](https://github.com/GuillaumeBarreau/claude-config) | 1 | JavaScript |  | mdl-expert-n |
 | [lexiloughlin/pig-city](https://github.com/lexiloughlin/pig-city) | 1 | HTML |  | mdl-pcse |
+| [Miranics/Siphelele](https://github.com/Miranics/Siphelele) | 1 | HTML |  | mdl-icasa |
 | [parthvarute09/Rice-Crop-Forecasting](https://github.com/parthvarute09/Rice-Crop-Forecasting) | 1 | Jupyter Notebook | A machine learning-based Rice Crop Yield Forecasting System that analyzes agricultural and environmental factors to pred | dd-crop-yield-forecast, dd-crop-yield-forecasting |
+| [Samukashvili/VoiceReady](https://github.com/Samukashvili/VoiceReady) | 1 | C# | External voice command assistant for Ready or Not. Speak officer orders aloud and have them executed in-game via read-on | topic-swat |
 | [sandeepmuttvarpu-png/Sandwich-cpp](https://github.com/sandeepmuttvarpu-png/Sandwich-cpp) | 1 | C++ | Unified high-performance LLM engine combining dynamic MoE expert staging, TurboQuant 4-bit KV compression, and auto-disp | mdl-expert-n |
+| [sohel3shaikh/Polymathix](https://github.com/sohel3shaikh/Polymathix) | 1 | Python | “Universal Autonomous AI Discovery OS for Life Sciences & Materials Science: Plants, Animals, Human Therapeutics, Microb | topic-crop-science |
 | [wangyk10086/LIS-VLA](https://github.com/wangyk10086/LIS-VLA) | 1 | Python | LIS-VLA: Latent Imagination Search VLA, built on RynVLA-002 | mdl-expert-n |
 | [weijinxing204/Rice-quality-model](https://github.com/weijinxing204/Rice-quality-model) | 1 | MATLAB |  | crop-rice-model |
 | [002y/nlw-expert-notes](https://github.com/002y/nlw-expert-notes) | 0 | TypeScript |  | mdl-expert-n |
@@ -452,6 +455,7 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [Adriano-Martinez/ParcialMendoza](https://github.com/Adriano-Martinez/ParcialMendoza) | 0 | Python |  | es-crop-model |
 | [Adriano-Porto/nlw-expert-notes-react](https://github.com/Adriano-Porto/nlw-expert-notes-react) | 0 | TypeScript | Application Developed during the rocketseat's Next Level Week Event, Trilha ReactJs | mdl-expert-n |
 | [adrianomsn/analise_convergencia_espacial_agro](https://github.com/adrianomsn/analise_convergencia_espacial_agro) | 0 | R | Análise de convergência espacial, busca entender e incorporar a influência espacial sobre fatores como a produção e rend | es-crop-model |
+| [Adriele-Almeida/icasas-template](https://github.com/Adriele-Almeida/icasas-template) | 0 | TypeScript | Template da Imobiliária ICASAS para montar anúncios em 1080×1440. | mdl-icasa |
 | [AdrienCQR/AE_Hex_ls](https://github.com/AdrienCQR/AE_Hex_ls) | 0 | R | Agroecology landscape spatial indicators framework | soil-carbon-crop |
 | [adriwco/nlw-expert-notes](https://github.com/adriwco/nlw-expert-notes) | 0 | TypeScript | Converte automaticamente notas de áudio em texto &#124; API SpeechRecognition | mdl-expert-n |
 | [adryanmatador666/agrinho2025](https://github.com/adryanmatador666/agrinho2025) | 0 | HTML | Descrição do Site: Produção Agrícola Sustentável  Tema do Site  O site "Produção Agrícola Sustentável" é uma página web | pt-produtividade-agricola |
@@ -1002,9 +1006,5 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [ancientbrain/Smart-Hydroponic-Farm-Management-System](https://github.com/ancientbrain/Smart-Hydroponic-Farm-Management-System) | 0 | PLSQL | Using SQL queries, the system will generate reports on environmental parameters , inventory levels, sales transactions, | gen-crop-growth |
 | [andcamac/woli-farm](https://github.com/andcamac/woli-farm) | 0 | JavaScript | Cultiva · Cosecha · Gana Tokens Un juego Play-to-Earn de simulación de cultivo de cáñamo, respaldado por la marca Woli C | es-simulacion-cultivos |
 | [andergongora/HuertIA](https://github.com/andergongora/HuertIA) | 0 | TypeScript |  | es-crop-model |
-| [andersondev96/nlw-expert-notes](https://github.com/andersondev96/nlw-expert-notes) | 0 | TypeScript |  | mdl-expert-n |
-| [andersonmenezesm/nlw-expert-notes](https://github.com/andersonmenezesm/nlw-expert-notes) | 0 | TypeScript | Projeto Realizado no 1º NLW de 2024 | mdl-expert-n |
-| [AndersonPGS/nlw-expert-notes](https://github.com/AndersonPGS/nlw-expert-notes) | 0 | TypeScript | NLW - Expert Notes - @Rocketseat | mdl-expert-n |
-| [andersonrodolfo/nlw-expert-notes](https://github.com/andersonrodolfo/nlw-expert-notes) | 0 | TypeScript |  | mdl-expert-n |
 
-The 11099 remaining candidates, with fewer stars, are in `catalog/repositories.json`.
+The 11119 remaining candidates, with fewer stars, are in `catalog/repositories.json`.
