@@ -2,7 +2,7 @@
 
 Repositories found by discovery that nobody has classified yet. To list one, add it to `config/seeds.json`; to reject one, record it with a reason in `config/excluded.json`. Forks are not listed unless curated.
 
-107041 tracked · 15291 listed · 78836 excluded · 795 forks · **12119 awaiting review**
+107048 tracked · 15291 listed · 78836 excluded · 795 forks · **12126 awaiting review**
 
 | Repository | ★ | Language | Description | Found by |
 |---|---|---|---|---|
@@ -11,11 +11,14 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [zezhix/distributed-crawler](https://github.com/zezhix/distributed-crawler) | 7 | Roff | 第六届中软杯赛题 - 分布式爬虫系统（经纬度团队作品） | cn-crop-model |
 | [YellFunGit/IndoorunSDKIosDemo](https://github.com/YellFunGit/IndoorunSDKIosDemo) | 6 | Objective-C | IndoorunSDK IOS端demo | cn-crop-model |
 | [YuanyuanMa03/awesome-crop-models](https://github.com/YuanyuanMa03/awesome-crop-models) | 4 | Python | Curated, auto-refreshed list of open-source crop and agricultural process models on GitHub | agroecosystem-ghg, functional-structural |
+| [liiilhhh02/pvz_trans](https://github.com/liiilhhh02/pvz_trans) | 3 | Python | Mac / iPhone / Linux 上原生玩《植物大战僵尸杂交版 0.30》（PvZ Hybrid）：不用 CrossOver、虚拟机或串流。免安装 DMG（Intel/Apple Silicon 通用）、Linux x86_64 直 | zh-virtual-plant |
 | [siciliatech/visualizador-neuronas](https://github.com/siciliatech/visualizador-neuronas) | 3 | HTML | Visualizador local de activación neuronal de un transformer: mira qué neuronas se encienden mientras un modelo de lengua | mdl-expert-n |
 | [sigilante/lean-ski](https://github.com/sigilante/lean-ski) | 3 | Lean |  | mdl-psims |
 | [the-linux-nerd/expert-nerd-sysadmin](https://github.com/the-linux-nerd/expert-nerd-sysadmin) | 3 | Shell |  | mdl-expert-n |
 | [HaseebKhalid1507/Axon](https://github.com/HaseebKhalid1507/Axon) | 2 | Rust | Fast, cheap LLM inference engine written from scratch in Rust + CUDA. Runs GGUF models (Qwen, Llama, Gemma, Mistral, MoE | mdl-expert-n |
+| [767172261/Use-Python-and-combine-geospatial-data-analysis-libraries-geopandas-rasterio-matplotlib-etc-to-load-](https://github.com/767172261/Use-Python-and-combine-geospatial-data-analysis-libraries-geopandas-rasterio-matplotlib-etc-to-load-) | 1 |  | 使用Python，结合地理空间数据分析库`geopandas`, `rasterio`, `matplotlib`等如何加载、处理、分析以及可视化各地类地上地下碳密度和土壤有机碳密度 | zh-soil-carbon |
 | [cassiel-cai/vchart](https://github.com/cassiel-cai/vchart) | 1 | TypeScript | 最新前端技术栈 ：Vue3.5 、 Electron、TS、 Vite、Pinia、Radix Vue、IndexedDB、 Dexie.js ，与多种知名AI大模型（文心一言/通义千问/ Claude ／Deepseek），手把手带你开发 | cn-photosynthesis |
+| [diegofallas2204/PeakStroke](https://github.com/diegofallas2204/PeakStroke) | 1 | Python | PeakStroke — Sistema de Planificación y Predicción de Rendimiento para Natación | es-prediccion-rendimiento |
 | [gnz-b/interviewNotice](https://github.com/gnz-b/interviewNotice) | 1 |  | 前端面试 常见知识点整理 | cn-crop-model |
 | [GuillaumeBarreau/claude-config](https://github.com/GuillaumeBarreau/claude-config) | 1 | JavaScript |  | mdl-expert-n |
 | [lexiloughlin/pig-city](https://github.com/lexiloughlin/pig-city) | 1 | HTML |  | mdl-pcse |
@@ -156,12 +159,12 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [7237Rohit/Seasonal_Agriculture_Performance_Analysis](https://github.com/7237Rohit/Seasonal_Agriculture_Performance_Analysis) | 0 | Jupyter Notebook | Data-driven analysis of crop yield, profitability, seasonal performance, resource efficiency, and agricultural risk usin | dd-crop-yield |
 | [767172261/Build-an-environment-from-scratch-to-train-the-model-of-the-rice-maturity-detection-data-set-How-to-](https://github.com/767172261/Build-an-environment-from-scratch-to-train-the-model-of-the-rice-maturity-detection-data-set-How-to-) | 0 |  | 从零开始搭建环境 训练水稻成熟度检测数据集的模型 如何使用YOLOv8训练水稻穗成熟度数据集 检测水稻成熟状态中的稻花 稻谷未成熟 稻谷成熟 | crop-rice-model, zh-rice-model |
 | [767172261/Build-and-optimize-UAVbased-agricultural-monitoring-system-intelligent-monitoring-and-analysis-for-r](https://github.com/767172261/Build-and-optimize-UAVbased-agricultural-monitoring-system-intelligent-monitoring-and-analysis-for-r) | 0 |  | 构建和优化基于无人机的农业监测系统，针对水稻生长状态的智能监控与分析 深度学习框架YOLO模型算法训练无人机水稻稻穗检测数据集 (1) | zh-agri-model, zh-rice-growth |
+| [767172261/Deep-Learning-How-the-YOLOv8-Model-Trains-Corn-Seedlings-Weed-Detection-Dataset-How-to-Build-a-YOLOv](https://github.com/767172261/Deep-Learning-How-the-YOLOv8-Model-Trains-Corn-Seedlings-Weed-Detection-Dataset-How-to-Build-a-YOLOv) | 0 |  | 深度学习YOLOv8模型如何训练玉米幼苗杂草检测数据集  如何构建基于 YOLOv8 的玉米幼苗与杂草识别系统 (1) | zh-maize-model |
 | [767172261/How-to-use-the-deep-learning-framework-PyTorch-and-segmentation-model-UNet-for-training-greenhouse-s](https://github.com/767172261/How-to-use-the-deep-learning-framework-PyTorch-and-segmentation-model-UNet-for-training-greenhouse-s) | 0 |  | 如何使用深度学习框架（PyTorch）和分割模型（U-Net）进行训练大棚分割数据集，40765对影像，16.9g数据量，0.8米高分二，手工标注（arcgis标注）大规模农业大棚分割数据集语义分割 | zh-agri-model |
 | [767172261/Intelligent-AI-farmland-recognition-Farmland-area-detection-Farmland-division-recognition-Smokesensi](https://github.com/767172261/Intelligent-AI-farmland-recognition-Farmland-area-detection-Farmland-division-recognition-Smokesensi) | 0 |  | 智能AI耕地识别 耕地区域检测 耕地划分识别 烟感农田耕地分割识别数据集 图像数据集 图像分割数据集第10649期 | cn-crop-growth |
 | [767172261/PyTorch-and-torchvision-are-used-as-examples-how-to-use-the-pretrained-ResNet-model-to-train-the-14-](https://github.com/767172261/PyTorch-and-torchvision-are-used-as-examples-how-to-use-the-pretrained-ResNet-model-to-train-the-14-) | 0 |  | PyTorch和torchvision为例，如何使用预训练的ResNet模型来训练水稻虫害分类数据集 14类 从数据准备到模型训练、评估全流程 | zh-rice-model |
 | [767172261/Smart-agriculture-lettuce-identification-data-set-Lettuce-data-set-Lettuce-growth-stage-identificati](https://github.com/767172261/Smart-agriculture-lettuce-identification-data-set-Lettuce-data-set-Lettuce-growth-stage-identificati) | 0 |  | 智慧农业生菜识别数据集 生菜数据集 生菜生长阶段识别数据集 作物生长周期自动化监测 蔬菜成熟数据集 蔬菜采摘数据集第10587期 深度学习yolo coco格式数据集 | cn-crop-growth, zh-crop-growth |
 | [767172261/Smart-agriculture-only-classifies-and-identifies-rice-growth-stages-Rice-growth-cycle-identification](https://github.com/767172261/Smart-agriculture-only-classifies-and-identifies-rice-growth-stages-Rice-growth-cycle-identification) | 0 |  | 智慧农业只水稻成长阶段分类识别 基于深度学习的水稻生长周期识别 图像分类数据集 第10683期 | crop-rice-growth, zh-rice-growth |
-| [767172261/Use-Python-and-combine-geospatial-data-analysis-libraries-geopandas-rasterio-matplotlib-etc-to-load-](https://github.com/767172261/Use-Python-and-combine-geospatial-data-analysis-libraries-geopandas-rasterio-matplotlib-etc-to-load-) | 0 |  | 使用Python，结合地理空间数据分析库`geopandas`, `rasterio`, `matplotlib`等如何加载、处理、分析以及可视化各地类地上地下碳密度和土壤有机碳密度 | zh-soil-carbon |
 | [77thUndertakerIX/Model_rice_diseases](https://github.com/77thUndertakerIX/Model_rice_diseases) | 0 | Python |  | crop-rice-model |
 | [7te3ep/PlantTogether](https://github.com/7te3ep/PlantTogether) | 0 | JavaScript | Procedurally-generated virtual plant, to interact with people | proc-virtual-plant |
 | [839284824/architect](https://github.com/839284824/architect) | 0 |  | 后端架构师技术图谱 | cn-crop-model |
@@ -1003,8 +1006,5 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [Anatomical/Geo-ROCKET](https://github.com/Anatomical/Geo-ROCKET) | 0 | Python |  | crop-phenology, cropping-systems |
 | [anayahall/cali-compost-model](https://github.com/anayahall/cali-compost-model) | 0 | Python | Project evaluating the techno-economic potential of utilizing composted municipal solid waste as a soil amendment for ca | proc-carbon-sequestration, proc-soil-carbon-model |
 | [AnaZonia/forest_regrowth](https://github.com/AnaZonia/forest_regrowth) | 0 | Jupyter Notebook |  | soil-carbon-crop |
-| [ancientbrain/Smart-Hydroponic-Farm-Management-System](https://github.com/ancientbrain/Smart-Hydroponic-Farm-Management-System) | 0 | PLSQL | Using SQL queries, the system will generate reports on environmental parameters , inventory levels, sales transactions, | gen-crop-growth |
-| [andcamac/woli-farm](https://github.com/andcamac/woli-farm) | 0 | JavaScript | Cultiva · Cosecha · Gana Tokens Un juego Play-to-Earn de simulación de cultivo de cáñamo, respaldado por la marca Woli C | es-simulacion-cultivos |
-| [andergongora/HuertIA](https://github.com/andergongora/HuertIA) | 0 | TypeScript |  | es-crop-model |
 
-The 11119 remaining candidates, with fewer stars, are in `catalog/repositories.json`.
+The 11126 remaining candidates, with fewer stars, are in `catalog/repositories.json`.
