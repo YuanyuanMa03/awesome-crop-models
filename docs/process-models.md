@@ -883,13 +883,13 @@ Process-based models of soil, water, climate, pests and other agricultural proce
 - [ToshiyukiBandai/PINNs_RRE](https://github.com/ToshiyukiBandai/PINNs_RRE) - Physics-informed neural networks for the Richardson-Richards equation. `★ 34` `no licence`
 - [amireson/openRE](https://github.com/amireson/openRE) - A simple, efficient, mass conservative approach to solving Richards’ Equation. `★ 28` `GPL-3.0`
 - [amireson/RichardsEquation](https://github.com/amireson/RichardsEquation) - Richards' Equation model. `★ 28` `GPL-3.0`
-- [EcoExtreML/STEMMUS_SCOPE](https://github.com/EcoExtreML/STEMMUS_SCOPE) - Integrated code of STEMMUS and SCOPE. `★ 26` `GPL-3.0`
+- [EcoExtreML/STEMMUS_SCOPE](https://github.com/EcoExtreML/STEMMUS_SCOPE) - Integrated code of STEMMUS and SCOPE. `★ 27` `GPL-3.0`
 - [martinvonk/pedon](https://github.com/martinvonk/pedon) - A Python package for analyzing unsaturated soil hydraulic properties. `★ 25` `MIT`
 - [amireson/RichardsEquation_improved](https://github.com/amireson/RichardsEquation_improved) - A 1D Richards Equation solver written in python. `★ 24` `no licence`
 - [cbsteh/PyWaterBal](https://github.com/cbsteh/PyWaterBal) - Unsaturated soil water flow model. `★ 15` `MIT`
 - [arthur-e/simsoil](https://github.com/arthur-e/simsoil) - Very simple, point-scale soil hydrology model. `★ 14` `MIT`
 - [ToshiyukiBandai/DD-PINNs-RRE](https://github.com/ToshiyukiBandai/DD-PINNs-RRE) - No description provided. `★ 12` `MIT`
-- [raffalba/MYSIRR](https://github.com/raffalba/MYSIRR) - MY SIRR, (Minimalist agro-hYdrologicalmodel for Sustainable IRRigation management- soil moisture and crop dynamics), is a quantitative tool to assess and compare agricultural enterprises across… `★ 9` `GPL-3.0`
+- [raffalba/MYSIRR](https://github.com/raffalba/MYSIRR) - MY SIRR, (Minimalist agro-hYdrologicalmodel for Sustainable IRRigation management- soil moisture and crop dynamics), is a quantitative tool to assess and compare agricultural enterprises across… `★ 10` `GPL-3.0`
 - [openalea-incubator/soil3ds](https://github.com/openalea-incubator/soil3ds) - 3DS is a 3D soil model simulating water and nitrogen fluxes into the soil which was adapted from the STICS soil module. It is part of the Virtual GrassLand model (VGL) developed on the OpenAlea… `★ 8` `custom licence`
 - [XueziGong/KLE-PINN-EC](https://github.com/XueziGong/KLE-PINN-EC) - KLE-PINN-EC: Physics-Informed Neural Network with Enhanced Coupling for Inverse Modeling of Unsaturated Flow in Heterogeneous Soils. `★ 8` `no licence`
 - [lucabrocca78/Soil-Moisture-Model-Python](https://github.com/lucabrocca78/Soil-Moisture-Model-Python) - Soil water balance model for estimating soil moisture (Python version). `★ 7` `no licence`
@@ -2694,7 +2694,7 @@ Process-based models of soil, water, climate, pests and other agricultural proce
 #### Python
 
 - [davkat1/GreenLight](https://github.com/davkat1/GreenLight) - A platform for creating, modifying, and combining dynamic models, with a focus on horticultural greenhouses and crops. `★ 65` `BSD-3-Clause-Clear`
-- [greenpeer/GreenLightPlus](https://github.com/greenpeer/GreenLightPlus) - GreenLightPlus is a ToolKit for greenhouse environment simulation and energy consumption-yield analysis. It combines the original GreenLight model with the EnergyPlus simulation tool to investigate… `★ 30` `GPL-3.0`
+- [greenpeer/GreenLightPlus](https://github.com/greenpeer/GreenLightPlus) - GreenLightPlus is a ToolKit for greenhouse environment simulation and energy consumption-yield analysis. It combines the original GreenLight model with the EnergyPlus simulation tool to investigate… `★ 31` `GPL-3.0`
 - [EECi/GES](https://github.com/EECi/GES) - Greenhouse Energy Simulation. `★ 24` `MIT`
 - [GaiaKnowledge/VerticalFarming](https://github.com/GaiaKnowledge/VerticalFarming) - Vertical Farming Wizard is an open-source project that centralises vertical farming (VF) and controlled environment agriculture (CEA) solutions. The objective of this decision support system is to… `★ 24` `MIT`
 - [jdsjxin/CSGtom](https://github.com/jdsjxin/CSGtom) - A Chineses solar greenhouse climate model combined with tomato yield model. `★ 8` `GPL-3.0`

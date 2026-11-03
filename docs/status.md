@@ -5,30 +5,30 @@ Machine-generated operational evidence; this is not a scientific review.
 ```json
 {
   "all_github_coverage_verified": false,
-  "attempted_at": "2026-11-02T11:02:19Z",
+  "attempted_at": "2026-11-03T10:50:42Z",
   "coverage_gaps": {
-    "historical": 30,
+    "historical": 58,
     "recent": 3
   },
-  "finished_at": "2026-11-02T11:05:46Z",
-  "last_healthy_at": "2026-11-02T11:02:19Z",
+  "finished_at": "2026-11-03T10:54:57Z",
+  "last_healthy_at": "2026-11-03T10:50:42Z",
   "last_historical_pass_at": null,
   "maintainer_accounts": {
     "cycle": 5,
-    "new_repositories": 124,
-    "observed_at": "2026-11-02T11:02:19Z",
-    "pages": 10,
-    "remaining_accounts_or_pages": 5
+    "new_repositories": 23,
+    "observed_at": "2026-11-03T10:50:42Z",
+    "pages": 5,
+    "remaining_accounts_or_pages": 0
   },
-  "new_repository_identities": 7,
+  "new_repository_identities": 112,
   "owner_listing_gaps": 0,
   "pending_search_jobs": {
-    "historical": 189,
-    "recent": 181
+    "historical": 157,
+    "recent": 163
   },
-  "previous_healthy_at": "2026-11-01T10:26:00Z",
+  "previous_healthy_at": "2026-11-02T11:02:19Z",
   "recent_search": {
-    "completed_windows": 345,
+    "completed_windows": 364,
     "coverage_gaps": [
       {
         "cycle": 2,
@@ -64,24 +64,24 @@ Machine-generated operational evidence; this is not a scientific review.
     "cycle_end": "2026-10-22T11:09:10Z",
     "cycle_start": "2026-09-22T11:09:10Z",
     "cycle_started_at": "2026-10-22T11:09:10Z",
-    "discovered_repositories": 34,
-    "observed_at": "2026-11-02T11:02:19Z",
+    "discovered_repositories": 106,
+    "observed_at": "2026-11-03T10:50:42Z",
     "plan_completed": false,
-    "remaining_jobs": 181,
+    "remaining_jobs": 163,
     "requests": 20,
     "status": "partial",
     "unresolved_gap_count": 3
   },
   "refresh": {
     "checked_repositories": 40,
-    "known_identities": 28205,
+    "known_identities": 28212,
     "new_repositories": 0,
-    "observed_at": "2026-11-02T11:02:19Z",
+    "observed_at": "2026-11-03T10:50:42Z",
     "seed_count": 15291
   },
   "requests": 160,
   "status": "partial_budget",
-  "tracked_repositories": 28212
+  "tracked_repositories": 28324
 }
 ```
 
