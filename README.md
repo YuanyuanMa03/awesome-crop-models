@@ -4,7 +4,7 @@
 
 **A curated map of open-source crop and agricultural process models on GitHub**<br>crop or process → programming language → repository
 
-[![repositories](https://img.shields.io/badge/repositories-15%2C291-2ea44f?style=flat-square)](#contents) [![last collection](https://img.shields.io/badge/last_collection-2026--11--03-informational?style=flat-square)](docs/status.md) [![licence](https://img.shields.io/badge/licence-MIT-blue?style=flat-square)](LICENSE) [![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
+[![repositories](https://img.shields.io/badge/repositories-15%2C291-2ea44f?style=flat-square)](#contents) [![last collection](https://img.shields.io/badge/last_collection-2026--11--04-informational?style=flat-square)](docs/status.md) [![licence](https://img.shields.io/badge/licence-MIT-blue?style=flat-square)](LICENSE) [![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 
 [English](README.md) · [简体中文](docs/README.zh-CN.md) · [Review queue](docs/discovered.md) · [Collection status](docs/status.md)
 
@@ -12,7 +12,7 @@
 
 Crop growth simulators; soil, water, nutrient and climate process models; the frameworks and tools that run them; studies that apply them; and data-driven yield and process models. Each repository appears once, under its main crop or process and its main programming language, ordered by stars. Crop models are listed below, and the other branches have their own pages. Listing is not a scientific endorsement: check each project's licence before reuse.
 
-> **15,291 repositories** · 437 crop models · 1,675 process models · 1,584 frameworks and tools · 769 applications · 10,826 data-driven models. Screened from 107,160 GitHub repositories found by 525 searches and 33 maintainer accounts.
+> **15,291 repositories** · 437 crop models · 1,675 process models · 1,584 frameworks and tools · 769 applications · 10,826 data-driven models. Screened from 107,174 GitHub repositories found by 525 searches and 33 maintainer accounts.
 
 ## Contents
 
@@ -49,10 +49,10 @@ The most-starred process-based models and tools on the list. Each also appears i
 |---:|---|---|---|---:|
 | 1 | [altmenorg/HAsmartirrigation](https://github.com/altmenorg/HAsmartirrigation) | Smart Irrigation custom component for Home Assistant. | Python | 564 |
 | 2 | [ESCOMP/CTSM](https://github.com/ESCOMP/CTSM) | Community Terrestrial Systems Model (includes the Community Land Model of CESM). | Fortran | 352 |
-| 3 | [ajwdewit/pcse](https://github.com/ajwdewit/pcse) | Python environment for running crop growth and production models. | Python | 293 |
+| 3 | [ajwdewit/pcse](https://github.com/ajwdewit/pcse) | Python environment for running crop growth and production models. | Python | 296 |
 | 4 | [PecanProject/pecan](https://github.com/PecanProject/pecan) | The Predictive Ecosystem Analyzer (PEcAn) is an integrated ecological bioinformatics toolbox. | R | 248 |
-| 5 | [DSSAT/dssat-csm-os](https://github.com/DSSAT/dssat-csm-os) | Cropping-system simulations across crop species, soils, weather, and management. | Fortran | 239 |
-| 6 | [APSIMInitiative/ApsimX](https://github.com/APSIMInitiative/ApsimX) | Next-generation APSIM framework for agricultural system simulations. | C# | 218 |
+| 5 | [DSSAT/dssat-csm-os](https://github.com/DSSAT/dssat-csm-os) | Cropping-system simulations across crop species, soils, weather, and management. | Fortran | 240 |
+| 6 | [APSIMInitiative/ApsimX](https://github.com/APSIMInitiative/ApsimX) | Next-generation APSIM framework for agricultural system simulations. | C# | 220 |
 | 7 | [woodcrafty/PyETo](https://github.com/woodcrafty/PyETo) | Reference and potential evapotranspiration calculation routines. | Python | 179 |
 | 8 | [aquacropos/aquacrop](https://github.com/aquacropos/aquacrop) | Python implementation of AquaCrop-OS for crop growth and water use. | Python | 173 |
 | 9 | [hectornieto/pyTSEB](https://github.com/hectornieto/pyTSEB) | Two-source energy balance calculations for vegetation evapotranspiration. | Python | 172 |
@@ -65,7 +65,7 @@ The most-starred process-based models and tools on the list. Each also appears i
 | 16 | [Christiaanvandertol/SCOPE](https://github.com/Christiaanvandertol/SCOPE) | SCOPE is a simulation model for radiative transfer, photosynthesis and energy fluxes in vegetation and soil. | MATLAB | 105 |
 | 17 | [gicait/PyAEZ](https://github.com/gicait/PyAEZ) | Python implementation of FAO's agro-ecological zoning (GAEZ) for climate, soil and crop suitability and potential yield. | Python | 105 |
 | 18 | [openalea/lpy](https://github.com/openalea/lpy) | An open source python version of the Lindenmayer Systems. | C++ | 100 |
-| 19 | [kthorp/pyfao56](https://github.com/kthorp/pyfao56) | FAO-56 crop water use and irrigation calculations using dual coefficients. | Python | 98 |
+| 19 | [kthorp/pyfao56](https://github.com/kthorp/pyfao56) | FAO-56 crop water use and irrigation calculations using dual coefficients. | Python | 99 |
 | 20 | [PIK-LPJmL/LPJmL](https://github.com/PIK-LPJmL/LPJmL) | Managed-land and vegetation simulations linking carbon and water cycles. | C | 98 |
 
 ## Crop models
@@ -89,7 +89,7 @@ The most-starred process-based models and tools on the list. Each also appears i
 
 #### C#
 
-- [APSIMInitiative/ApsimX](https://github.com/APSIMInitiative/ApsimX) - Next-generation APSIM framework for agricultural system simulations. `★ 218` `custom licence`
+- [APSIMInitiative/ApsimX](https://github.com/APSIMInitiative/ApsimX) - Next-generation APSIM framework for agricultural system simulations. `★ 220` `custom licence`
 - [APSIMInitiative/APSIM710](https://github.com/APSIMInitiative/APSIM710) - Earlier APSIM implementation with crop, soil, and management modules. `★ 45` `no licence`
 
 <a id="general-crop-cplusplus"></a>
@@ -115,7 +115,7 @@ The most-starred process-based models and tools on the list. Each also appears i
 
 #### Fortran
 
-- [DSSAT/dssat-csm-os](https://github.com/DSSAT/dssat-csm-os) - Cropping-system simulations across crop species, soils, weather, and management. `★ 239` `BSD-3-Clause`
+- [DSSAT/dssat-csm-os](https://github.com/DSSAT/dssat-csm-os) - Cropping-system simulations across crop species, soils, weather, and management. `★ 240` `BSD-3-Clause`
 - [KUL-RSDA/AquaCrop](https://github.com/KUL-RSDA/AquaCrop) - FAO-endorsed AquaCrop source for crop response to water availability. `★ 83` `custom licence`
 - [ajwdewit/WOFOST](https://github.com/ajwdewit/WOFOST) - Fortran implementation of WOFOST crop production simulations. `★ 75` `custom licence`
 - [chporter/SimpleCrop](https://github.com/chporter/SimpleCrop) - Ricardo Braga's Simple Crop model. Used as a simple example of a modular crop model in the style of DSSAT-CSM. `★ 12` `no licence`
@@ -216,7 +216,7 @@ The most-starred process-based models and tools on the list. Each also appears i
 
 #### Python
 
-- [ajwdewit/pcse](https://github.com/ajwdewit/pcse) - Python environment for running crop growth and production models. `★ 293` `custom licence`
+- [ajwdewit/pcse](https://github.com/ajwdewit/pcse) - Python environment for running crop growth and production models. `★ 296` `custom licence`
 - [aquacropos/aquacrop](https://github.com/aquacropos/aquacrop) - Python implementation of AquaCrop-OS for crop growth and water use. `★ 173` `Apache-2.0`
 - [gicait/PyAEZ](https://github.com/gicait/PyAEZ) - Python implementation of FAO's agro-ecological zoning (GAEZ) for climate, soil and crop suitability and potential yield. `★ 105` `MIT`
 - [BerkeleyAutomation/AlphaGarden](https://github.com/BerkeleyAutomation/AlphaGarden) - A fast, first order open-access simulator that integrates single plant growth models with inter-plant competition for sun light and water. `★ 95` `no licence`

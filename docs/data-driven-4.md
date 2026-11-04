@@ -8,7 +8,6 @@ Continued from [page 3](data-driven-3.md). See the [contents](data-driven.md#con
 
 #### Python (continued)
 
-- [srujan1-creator/Statistical-Modeling-Prediction](https://github.com/srujan1-creator/Statistical-Modeling-Prediction) - Crop yield prediction with machine learning. `no licence`
 - [SrusthiBaburaoKore/Agriculture-Crop-Yield-Prediction-using-ml-](https://github.com/SrusthiBaburaoKore/Agriculture-Crop-Yield-Prediction-using-ml-) - Agriculture Crop Yield Prediction using Machine Learning is a data analytics that studies agricultural data to predict crop yield based on factors like rainfall, temperature, soil type, season, and… `no licence`
 - [SS-Rana/Crop-Yield-predictor](https://github.com/SS-Rana/Crop-Yield-predictor) - Crop yield prediction. `no licence`
 - [ssaju918/Crop-Production-Prediction](https://github.com/ssaju918/Crop-Production-Prediction) - Crop yield prediction. `no licence`

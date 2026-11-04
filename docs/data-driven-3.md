@@ -8,6 +8,7 @@ Continued from [page 2](data-driven-2.md). See the [contents](data-driven.md#con
 
 #### Python (continued)
 
+- [Lucifer-Cods/Crop-yield-Prediction-using-Machine-Learning.](https://github.com/Lucifer-Cods/Crop-yield-Prediction-using-Machine-Learning.) - Designed a Function to predict the crop yield prediction using Decision Tree and SVM Regressor. `no licence`
 - [lucifertec/Crop-yield-Prediction](https://github.com/lucifertec/Crop-yield-Prediction) - End-to-end crop yield data analytics & machine learning dashboard built with Python, Streamlit, and scikit-learn ($R^2 \approx 0.98$). `no licence`
 - [Luckick/CPE](https://github.com/Luckick/CPE) - The Code for IJCAI 2023 Paper "Customized Positional Encoding to Combine Static and Time-varying Data in Robust Representation Learning for Crop Yield Prediction". `no licence`
 - [lugibee/crop_production_prediction](https://github.com/lugibee/crop_production_prediction) - Crop yield prediction. `no licence`
@@ -200,7 +201,6 @@ Continued from [page 2](data-driven-2.md). See the [contents](data-driven.md#con
 - [meet25bar/Crop-Yield-Predictor](https://github.com/meet25bar/Crop-Yield-Predictor) - CropYieldAI is a machine learning system that predicts crop yield using inputs like temperature, rainfall, irrigation, soil type, season, and cultivated area. It analyzes historical data to estimate… `no licence`
 - [meetkorat05/Crop-Yield-Prediction-Project](https://github.com/meetkorat05/Crop-Yield-Prediction-Project) - Crop yield prediction. `no licence`
 - [MeetSakhiya234/crop-yield-ml](https://github.com/MeetSakhiya234/crop-yield-ml) - End-to-end Crop Yield MLOps project using XGBoost, MLflow, FastAPI, Docker, Prometheus, and Grafana. `no licence`
-- [Mega-finetech/Comparative-Algorithms_predicting-crop-yield](https://github.com/Mega-finetech/Comparative-Algorithms_predicting-crop-yield) - ML project comparing 4 regression algorithms to predict crop yield under climate change — with data leakage detection, hyperparameter tuning, and feature importance analysis revealing a non-linear… `no licence`
 - [Meghamala-7/crop_yield_predict](https://github.com/Meghamala-7/crop_yield_predict) - Crop yield prediction. `no licence`
 - [meghana-0020/AgriSense-AI](https://github.com/meghana-0020/AgriSense-AI) - AgriSense-AI is a Smart Crop Yield Prediction & Advisory System using Linear Regression, Logistic Regression, KNN, and K-Means to predict yield, classify crop health, assess suitability, and cluster… `no licence`
 - [meghana-dev24/crop-yield-prediction](https://github.com/meghana-dev24/crop-yield-prediction) - Predictive Analysis of Agricultural Crop Yield and Farmer Income using Linear Regression &#124; DST CURIE-AI Internship Project. `MIT`
@@ -2019,5 +2019,6 @@ Continued from [page 2](data-driven-2.md). See the [contents](data-driven.md#con
 - [srujan1-creator/Exploratory-Data-Analysis-and-Visualization](https://github.com/srujan1-creator/Exploratory-Data-Analysis-and-Visualization) - Crop yield prediction with machine learning. `no licence`
 - [srujan1-creator/Integrated-Business-Recommendation-Report](https://github.com/srujan1-creator/Integrated-Business-Recommendation-Report) - Crop yield prediction with machine learning. `no licence`
 - [srujan1-creator/Statistical-Modeling-and-Prediction](https://github.com/srujan1-creator/Statistical-Modeling-and-Prediction) - Crop yield prediction with machine learning. `no licence`
+- [srujan1-creator/Statistical-Modeling-Prediction](https://github.com/srujan1-creator/Statistical-Modeling-Prediction) - Crop yield prediction with machine learning. `no licence`
 
 Continued on [page 4](data-driven-4.md).

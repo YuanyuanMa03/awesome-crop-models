@@ -291,12 +291,12 @@ Process-based models of soil, water, climate, pests and other agricultural proce
 - [douglask3/PhenologyModels](https://github.com/douglask3/PhenologyModels) - No description provided. `★ 1` `GPL-2.0`
 - [ftschurr/DyMEP](https://github.com/ftschurr/DyMEP) - No description provided. `★ 1` `LGPL-3.0`
 - [larscaspersen/addition_chillR](https://github.com/larscaspersen/addition_chillR) - Functions which can be added to chillR. `★ 1` `no licence`
+- [larscaspersen/eval_phenoflex](https://github.com/larscaspersen/eval_phenoflex) - Construct and calibrate phenology models. `★ 1` `GPL-3.0`
 - [ledtrip/GDD](https://github.com/ledtrip/GDD) - Growing Degree Day Calculations. `★ 1` `no licence`
 - [MR-Eini/ThermoPheno](https://github.com/MR-Eini/ThermoPheno) - ThermoPheno. `★ 1` `custom licence`
 - [bbarker505/ddrp_plants](https://github.com/bbarker505/ddrp_plants) - A version of DDRP designed for modeling plants. The platform can use daily soil moisture data in the degree-day and climatic suitaiblity model. `no licence`
 - [jbmchls/wthr_app](https://github.com/jbmchls/wthr_app) - This web application retrieves air temp and precipitation from NOAA, calculates growing degree days, and charts both precipitation and GDD over the selected time range. Dates for emergence… `no licence`
 - [John-Kean/phenologysim](https://github.com/John-Kean/phenologysim) - R library for phenology simulation modelling. `no licence`
-- [larscaspersen/eval_phenoflex](https://github.com/larscaspersen/eval_phenoflex) - Construct and calibrate phenology models. `GPL-3.0`
 - [larscaspersen/pheno-population](https://github.com/larscaspersen/pheno-population) - Allows for bud-population level prediction of phenology. `GPL-3.0`
 - [mcrimmins/gdd-plotter](https://github.com/mcrimmins/gdd-plotter) - Shiny App that interactively plots local cumulative growing degree day curves. `no licence`
 - [mcrimmins/nature-cast-prototype](https://github.com/mcrimmins/nature-cast-prototype) - Prototype Shiny App to track/forecast phenological events using growing degree days. `no licence`
@@ -586,7 +586,7 @@ Process-based models of soil, water, climate, pests and other agricultural proce
 
 #### C++
 
-- [Plant-Root-Soil-Interactions-Modelling/CPlantBox](https://github.com/Plant-Root-Soil-Interactions-Modelling/CPlantBox) - Plant architecture with functional water and carbon process coupling. `★ 79` `GPL-3.0`
+- [Plant-Root-Soil-Interactions-Modelling/CPlantBox](https://github.com/Plant-Root-Soil-Interactions-Modelling/CPlantBox) - Plant architecture with functional water and carbon process coupling. `★ 80` `GPL-3.0`
 
 <a id="architecture-glsl"></a>
 
@@ -1342,7 +1342,7 @@ Process-based models of soil, water, climate, pests and other agricultural proce
 
 - [NOAA-OWP/evapotranspiration](https://github.com/NOAA-OWP/evapotranspiration) - Basic Model Interface (BMI) for potential evapotranspiration (PET) functions. `★ 5` `Apache-2.0`
 - [OpfinAI/safina](https://github.com/OpfinAI/safina) - Penman-Monteith simulation with drip irrigation. `★ 2` `MIT`
-- [cloclacordis/FieldEdge-Evapotranspiration](https://github.com/cloclacordis/FieldEdge-Evapotranspiration) - C11 reference evapotranspiration (FAO-56 Penman–Monteith) kernel for embedded irrigation control. `AGPL-3.0`
+- [cloclacordis/FieldEdge-Evapotranspiration](https://github.com/cloclacordis/FieldEdge-Evapotranspiration) - Portable C11 FAO-56 Penman–Monteith ETo computation kernel with an STM32F446RE firmware port for irrigation systems. `AGPL-3.0`
 - [jetuk/pypet](https://github.com/jetuk/pypet) - Python Potential Evapotranspiration functions. `MIT`
 - [jmframe/bmi_et](https://github.com/jmframe/bmi_et) - BMI for evapotranspiration functions. `no licence`
 - [natrucha/irrigation](https://github.com/natrucha/irrigation) - Calculates when to irrigate garden based on CIMIS evapotranspiration data. `GPL-3.0`
@@ -1540,7 +1540,7 @@ Process-based models of soil, water, climate, pests and other agricultural proce
 - [woodcrafty/PyETo](https://github.com/woodcrafty/PyETo) - Reference and potential evapotranspiration calculation routines. `★ 179` `BSD-3-Clause`
 - [hectornieto/pyTSEB](https://github.com/hectornieto/pyTSEB) - Two-source energy balance calculations for vegetation evapotranspiration. `★ 172` `GPL-3.0`
 - [pyet-org/pyet](https://github.com/pyet-org/pyet) - Reference and potential evaporation estimation methods in Python. `★ 166` `MIT`
-- [kthorp/pyfao56](https://github.com/kthorp/pyfao56) - FAO-56 crop water use and irrigation calculations using dual coefficients. `★ 98` `custom licence`
+- [kthorp/pyfao56](https://github.com/kthorp/pyfao56) - FAO-56 crop water use and irrigation calculations using dual coefficients. `★ 99` `custom licence`
 - [kaust-halo/geeet](https://github.com/kaust-halo/geeet) - Evapotranspiration (ET) models for use in python and with integration into Google Earth Engine. `★ 68` `MIT`
 - [Open-ET/openet-ssebop](https://github.com/Open-ET/openet-ssebop) - Earth Engine SSEBop ET Model. `★ 58` `Apache-2.0`
 - [NASA-DEVELOP/METRIC](https://github.com/NASA-DEVELOP/METRIC) - For estimating daily evapotranspiration from Landsat data. `★ 55` `custom licence`
@@ -2706,6 +2706,7 @@ Process-based models of soil, water, climate, pests and other agricultural proce
 - [breuderink/green-fingers](https://github.com/breuderink/green-fingers) - Simulate crop model for autonomous greenhouse simulation. `★ 2` `no licence`
 - [luminousphotonics/horticulture-lighting-simulator](https://github.com/luminousphotonics/horticulture-lighting-simulator) - Radiance-based horticultural lighting simulation and 3D visualization engine. `★ 2` `BSD-3-Clause-Clear`
 - [cc0ffee/greensim](https://github.com/cc0ffee/greensim) - internal greenhouse climate modeling. `★ 1` `no licence`
+- [Sver0411/AgriTwin-CPS](https://github.com/Sver0411/AgriTwin-CPS) - Simulation-Based Greenhouse Digital Twin and Cyber-Physical Systems Research Platform. Reproducible Python simulations for state estimation, closed-loop control, and fault resilience. `★ 1` `MIT`
 - [ThomasXIONG151215/vertical-farm-energy-designer](https://github.com/ThomasXIONG151215/vertical-farm-energy-designer) - Vertical farm energy simulation and design tool (formerly called OpenCROPS). `★ 1` `MIT`
 - [VaGlar/Greenhouse-Digital-Twin](https://github.com/VaGlar/Greenhouse-Digital-Twin) - Parameterizable digital twin for a CHP-powered hydroponic tomato greenhouse — MVP simulating climate (temperature, CO2) and yield, built to be recalibrated with real sensor data once the greenhouse… `★ 1` `no licence`
 - [AbbyHodson/cea-energy-water-model](https://github.com/AbbyHodson/cea-energy-water-model) - Repository for the paper "A Simplified Approach to Energy-Water Modeling for Controlled Environment Agriculture". `no licence`
@@ -2727,7 +2728,6 @@ Process-based models of soil, water, climate, pests and other agricultural proce
 - [rajithadesilva/autotom_climate_engine](https://github.com/rajithadesilva/autotom_climate_engine) - AutoTom Climate Engine is a climate simulation engine for modelling glasshouse weather and crop-growing environments. It is designed to support greenhouse climate analysis, scenario testing, and… `Apache-2.0`
 - [ShuyiPeng/portable_vf_study](https://github.com/ShuyiPeng/portable_vf_study) - No description provided. `AGPL-3.0`
 - [srivastavaraj37/avinya-twin](https://github.com/srivastavaraj37/avinya-twin) - Physics-based digital twin of a plastic polyhouse (tomato, Guwahati, Assam) for humidity/disease-pressure controller research. `no licence`
-- [Sver0411/AgriTwin-CPS](https://github.com/Sver0411/AgriTwin-CPS) - Simulation-Based Greenhouse Digital Twin and Cyber-Physical Systems Research Platform. Reproducible Python simulations for state estimation, closed-loop control, and fault resilience. `MIT`
 - [sxwd4ever/GSim](https://github.com/sxwd4ever/GSim) - Greenhouse micro climate simulation codes using E+ and openstudio. `no licence`
 - [ucb-msol/AgroPV](https://github.com/ucb-msol/AgroPV) - Standalone source code for simulation and optimization of Agrophotovoltaic greenhouse systems. Authored by Roger Isied, Emre Mengi, and Tarek Zohdi. `MIT`
 - [westlab/GreenLight-ADV](https://github.com/westlab/GreenLight-ADV) - No description provided. `BSD-3-Clause-Clear`
