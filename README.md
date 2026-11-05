@@ -4,7 +4,7 @@
 
 **A curated map of open-source crop and agricultural process models on GitHub**<br>crop or process → programming language → repository
 
-[![repositories](https://img.shields.io/badge/repositories-15%2C291-2ea44f?style=flat-square)](#contents) [![last collection](https://img.shields.io/badge/last_collection-2026--11--04-informational?style=flat-square)](docs/status.md) [![licence](https://img.shields.io/badge/licence-MIT-blue?style=flat-square)](LICENSE) [![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
+[![repositories](https://img.shields.io/badge/repositories-15%2C291-2ea44f?style=flat-square)](#contents) [![last collection](https://img.shields.io/badge/last_collection-2026--11--05-informational?style=flat-square)](docs/status.md) [![licence](https://img.shields.io/badge/licence-MIT-blue?style=flat-square)](LICENSE) [![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 
 [English](README.md) · [简体中文](docs/README.zh-CN.md) · [Review queue](docs/discovered.md) · [Collection status](docs/status.md)
 
@@ -12,7 +12,7 @@
 
 Crop growth simulators; soil, water, nutrient and climate process models; the frameworks and tools that run them; studies that apply them; and data-driven yield and process models. Each repository appears once, under its main crop or process and its main programming language, ordered by stars. Crop models are listed below, and the other branches have their own pages. Listing is not a scientific endorsement: check each project's licence before reuse.
 
-> **15,291 repositories** · 437 crop models · 1,675 process models · 1,584 frameworks and tools · 769 applications · 10,826 data-driven models. Screened from 107,174 GitHub repositories found by 525 searches and 33 maintainer accounts.
+> **15,291 repositories** · 437 crop models · 1,675 process models · 1,584 frameworks and tools · 769 applications · 10,826 data-driven models. Screened from 107,193 GitHub repositories found by 525 searches and 33 maintainer accounts.
 
 ## Contents
 
@@ -47,7 +47,7 @@ The most-starred process-based models and tools on the list. Each also appears i
 
 | # | Repository | Description | Language | ★ |
 |---:|---|---|---|---:|
-| 1 | [altmenorg/HAsmartirrigation](https://github.com/altmenorg/HAsmartirrigation) | Smart Irrigation custom component for Home Assistant. | Python | 564 |
+| 1 | [altmenorg/HAsmartirrigation](https://github.com/altmenorg/HAsmartirrigation) | Smart Irrigation custom component for Home Assistant. | Python | 566 |
 | 2 | [ESCOMP/CTSM](https://github.com/ESCOMP/CTSM) | Community Terrestrial Systems Model (includes the Community Land Model of CESM). | Fortran | 352 |
 | 3 | [ajwdewit/pcse](https://github.com/ajwdewit/pcse) | Python environment for running crop growth and production models. | Python | 296 |
 | 4 | [PecanProject/pecan](https://github.com/PecanProject/pecan) | The Predictive Ecosystem Analyzer (PEcAn) is an integrated ecological bioinformatics toolbox. | R | 248 |

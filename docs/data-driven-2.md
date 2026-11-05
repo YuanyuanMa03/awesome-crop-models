@@ -8,6 +8,7 @@ Continued from [page 1](data-driven.md). See the [contents](data-driven.md#conte
 
 #### Python (continued)
 
+- [AKSTHIRUMURUGAN/crop_prediction](https://github.com/AKSTHIRUMURUGAN/crop_prediction) - Crop yield prediction with machine learning. `no licence`
 - [Al0kMishra/Farmer-Decision-Support-System](https://github.com/Al0kMishra/Farmer-Decision-Support-System) - AI-powered Farmer Decision Support System that predicts crop yield and estimates crop risk using machine learning and soil data. `no licence`
 - [AlaaLabban/Agricultural_AI](https://github.com/AlaaLabban/Agricultural_AI) - This project is a complete, end-to-end pipeline for agricultural forecasting. It leverages historical weather data to train a suite of machine learning models that can predict future crop yields.… `no licence`
 - [Alamodi123/Smart-Farming-and-Yield-Forecasting-using-IoT-Sensor-Data](https://github.com/Alamodi123/Smart-Farming-and-Yield-Forecasting-using-IoT-Sensor-Data) - Crop yield prediction. `no licence`
@@ -2022,6 +2023,5 @@ Continued from [page 1](data-driven.md). See the [contents](data-driven.md#conte
 - [lsngmin/crop-yield-prediction](https://github.com/lsngmin/crop-yield-prediction) - Crop yield prediction. `MIT`
 - [lsofiadb/Crop-yield-prediction-model](https://github.com/lsofiadb/Crop-yield-prediction-model) - Crop yield prediction model using data mining algorithms. `no licence`
 - [LucasBoden-da/Agronegocio](https://github.com/LucasBoden-da/Agronegocio) - Previsão de Rendimento de Colheita e Otimização da Irrigação. `MIT`
-- [lucasedge-cell/cover-crop-biomass-ml](https://github.com/lucasedge-cell/cover-crop-biomass-ml) - Non-destructive cover crop biomass estimation from UAV multispectral imagery using machine learning. Six regression models compared via Leave-One-Out Cross-Validation (LOOCV), with PLS achieving the… `MIT`
 
 Continued on [page 3](data-driven-3.md).

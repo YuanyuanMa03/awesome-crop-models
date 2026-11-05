@@ -1411,7 +1411,7 @@ Repositories that apply a crop, soil or environmental model to a particular stud
 - [japhethkimeu/soil_loss_assessment](https://github.com/japhethkimeu/soil_loss_assessment) - Implementation of RUSLE method in GEE. `★ 12` `no licence`
 - [taha328/Soil_Erosion_Google_Earth_Engine_V2.0](https://github.com/taha328/Soil_Erosion_Google_Earth_Engine_V2.0) - This GEE script performs a complete RUSLE soil erosion analysis, including final calculation, classification, visualization, and statistics. It builds upon and completes the work of a previous… `★ 3` `no licence`
 - [santiagotironi-tech/Modelo-RUSLE-con-imagenes-satelitales-](https://github.com/santiagotironi-tech/Modelo-RUSLE-con-imagenes-satelitales-) - Modelo RUSLE con imagenes satelitales. `★ 2` `no licence`
-- [sohan-khan31/RUSLE-SDR-based-Sediment-Yield-Estimation-in-GEE](https://github.com/sohan-khan31/RUSLE-SDR-based-Sediment-Yield-Estimation-in-GEE) - Google Earth Engine (GEE) code for assessing sediment yield in the lower Teesta River Basin of Bangladesh. `★ 1` `no licence`
+- [sohan-khan31/RUSLE-SDR-based-Sediment-Yield-Estimation-in-GEE](https://github.com/sohan-khan31/RUSLE-SDR-based-Sediment-Yield-Estimation-in-GEE) - Google Earth Engine (GEE) code for assessing sediment yield in the lower Teesta River Basin of Bangladesh. `★ 2` `no licence`
 - [alrahaman/Soil-Erosion-Prediction-using-RUSLE-in-Google-Earth-Engine](https://github.com/alrahaman/Soil-Erosion-Prediction-using-RUSLE-in-Google-Earth-Engine) - The RUSLE (Revised Universal Soil Loss Equation) model in Google Earth Engine integrates rainfall erosivity (R), soil erodibility (K), slope length/steepness (LS), cover-management (C), and support… `no licence`
 - [AMANKANOJIYA/RUSLE-MODEL-Kutch](https://github.com/AMANKANOJIYA/RUSLE-MODEL-Kutch) - No description provided. `no licence`
 - [isidoravidal-prieto/guatemala-erosion-rusle](https://github.com/isidoravidal-prieto/guatemala-erosion-rusle) - No description provided. `no licence`
@@ -1441,6 +1441,7 @@ Repositories that apply a crop, soil or environmental model to a particular stud
 - [VUB-HYDR/2019_Chawanda_etal_EMS](https://github.com/VUB-HYDR/2019_Chawanda_etal_EMS) - Scripts used to process data and namelist used in Chawanda et al. (2019). `★ 4` `MIT`
 - [pnnl-sbrsfa/SWAT_Modeling_PR_Watershed](https://github.com/pnnl-sbrsfa/SWAT_Modeling_PR_Watershed) - Hydrological Modeling and Water Quality. `★ 3` `no licence` `archived`
 - [DoaaHegazy/hydrological-drought-forcating-in-the-Nile-basin](https://github.com/DoaaHegazy/hydrological-drought-forcating-in-the-Nile-basin) - Reproducible notebooks for Nile Basin drought propagation, CMIP6 model selection, SWAT+ simulations, SRI-12, and drought return-period analysis. `★ 2` `MIT`
+- [LEE-Gen-Chen/RUSLE](https://github.com/LEE-Gen-Chen/RUSLE) - Scripts for RUSLE Raw Data Retrieval via GEE and Processing with Python. `★ 2` `no licence`
 - [PSUmodeling/PIHM-Simulations](https://github.com/PSUmodeling/PIHM-Simulations) - No description provided. `★ 2` `no licence`
 - [taha328/Tangier-Soil-Erosion-RUSLE-Model-](https://github.com/taha328/Tangier-Soil-Erosion-RUSLE-Model-) - Soil erosion risk assessment in Tangier using the RUSLE model. `★ 2` `no licence`
 - [VUB-HYDR/2021_Nkwasa_etal_HESS](https://github.com/VUB-HYDR/2021_Nkwasa_etal_HESS) - Scripts used to incorporate global phenology datasets into regional-global SWAT+ models. `★ 2` `MIT`
@@ -1450,7 +1451,6 @@ Repositories that apply a crop, soil or environmental model to a particular stud
 - [danielbabin/Zambezi_RUSLE](https://github.com/danielbabin/Zambezi_RUSLE) - Using a suite of satellite data to calculate models for erosion in the Zambezi RIver Basin. `★ 1` `no licence`
 - [Hai-mian-33/WEC-Risk-Platform](https://github.com/Hai-mian-33/WEC-Risk-Platform) - Integrated SWAT-based water environmental capacity & two-class pollution-risk desktop tool. `★ 1` `MIT`
 - [HimanshuSingh39/SWAT-LSTM-Coupling-for-Mahanadi-Basin](https://github.com/HimanshuSingh39/SWAT-LSTM-Coupling-for-Mahanadi-Basin) - This repository contains code, data structure, and results for coupling the SWAT hydrological model with an LSTM neural network to improve daily streamflow simulation in the Mahanadi River Basin… `★ 1` `no licence`
-- [LEE-Gen-Chen/RUSLE](https://github.com/LEE-Gen-Chen/RUSLE) - Scripts for RUSLE Raw Data Retrieval via GEE and Processing with Python. `★ 1` `no licence`
 - [majidabd24/RUSLE-soil-loss-GEE](https://github.com/majidabd24/RUSLE-soil-loss-GEE) - A project for estimating soil loss using the RUSLE model in Google Earth Engine. `★ 1` `no licence`
 - [MarlenaRosaBarille/Python-Code-BachelorThesis_barille](https://github.com/MarlenaRosaBarille/Python-Code-BachelorThesis_barille) - Google Earth Engine implementation of the Revised Universal Soil Loss Equation (RUSLE) for national-scale soil erosion modelling in Madagascar, with a comparative analysis of three LS-factor… `★ 1` `no licence`
 - [mit2880/Soil-loss-equation-RUSLE-](https://github.com/mit2880/Soil-loss-equation-RUSLE-) - No description provided. `★ 1` `no licence`
@@ -1550,7 +1550,7 @@ Repositories that apply a crop, soil or environmental model to a particular stud
 
 #### Other
 
-- [asadisara/CoupledSWATLSTM](https://github.com/asadisara/CoupledSWATLSTM) - SWAT+ model outputs used as input for LSTM model to improve streamflow estimation through coupled modeling. `★ 6` `no licence`
+- [asadisara/CoupledSWATLSTM](https://github.com/asadisara/CoupledSWATLSTM) - SWAT+ model outputs used as input for LSTM model to improve streamflow estimation through coupled modeling. `★ 7` `no licence`
 - [ankushv18/Runoff-RUSLE](https://github.com/ankushv18/Runoff-RUSLE) - Rainfall runoff based soil erosion modeling for GEE environment. `★ 1` `no licence`
 - [FahryDjuraini/Future-Soil-Erosion-CMIP6](https://github.com/FahryDjuraini/Future-Soil-Erosion-CMIP6) - This repository provides a complete and reproducible workflow for assessing soil erosion dynamics under climate change scenarios in a tropical watershed. The framework integrates Regional Climate… `★ 1` `no licence`
 - [anashadri/Drainage_ZH](https://github.com/anashadri/Drainage_ZH) - sensitivity analysis of the tool used to assess the surface area impacted by agricultural drainage for the protection of wetlands. `MIT`

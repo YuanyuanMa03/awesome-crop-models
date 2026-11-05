@@ -1,16 +1,16 @@
 {
   "last_owner_scan": {
     "cycle": 6,
-    "new_repositories": 67,
-    "observed_at": "2026-11-04T10:53:17Z",
+    "new_repositories": 97,
+    "observed_at": "2026-11-05T10:52:57Z",
     "pages": 10,
-    "remaining_accounts_or_pages": 24
+    "remaining_accounts_or_pages": 14
   },
   "last_refresh": {
     "checked_repositories": 40,
-    "known_identities": 28324,
+    "known_identities": 28338,
     "new_repositories": 0,
-    "observed_at": "2026-11-04T10:53:17Z",
+    "observed_at": "2026-11-05T10:52:57Z",
     "seed_count": 15291
   },
   "owner_cycle": 6,
@@ -151,56 +151,6 @@
   "owner_queue": [
     {
       "kind": "org",
-      "login": "PalmStudio",
-      "page": 1
-    },
-    {
-      "kind": "user",
-      "login": "VEZY",
-      "page": 1
-    },
-    {
-      "kind": "org",
-      "login": "openalea",
-      "page": 1
-    },
-    {
-      "kind": "org",
-      "login": "Plant-Root-Soil-Interactions-Modelling",
-      "page": 1
-    },
-    {
-      "kind": "org",
-      "login": "biocro",
-      "page": 1
-    },
-    {
-      "kind": "org",
-      "login": "PIK-LPJmL",
-      "page": 1
-    },
-    {
-      "kind": "org",
-      "login": "PSUmodeling",
-      "page": 1
-    },
-    {
-      "kind": "org",
-      "login": "swat-model",
-      "page": 1
-    },
-    {
-      "kind": "org",
-      "login": "pyet-org",
-      "page": 1
-    },
-    {
-      "kind": "org",
-      "login": "Rothamsted-Models",
-      "page": 1
-    },
-    {
-      "kind": "org",
       "login": "VirtualPlantLab",
       "page": 1
     },
@@ -295,6 +245,10 @@
       "checked_at": "2026-10-22T10:39:16Z",
       "outcome": "public_metadata_checked"
     },
+    "Abdias-Wang/apsimRegions": {
+      "checked_at": "2026-11-05T10:52:57Z",
+      "outcome": "public_metadata_checked"
+    },
     "Ad5001/ImagicalMine-Windows": {
       "checked_at": "2026-10-28T09:38:19Z",
       "outcome": "public_metadata_checked"
@@ -303,12 +257,20 @@
       "checked_at": "2026-10-22T10:39:16Z",
       "outcome": "public_metadata_checked"
     },
+    "AgronomicForecastingLab/crop.js": {
+      "checked_at": "2026-11-05T10:52:57Z",
+      "outcome": "public_metadata_checked"
+    },
     "Allcor/API": {
       "checked_at": "2026-10-31T09:36:59Z",
       "outcome": "public_metadata_checked"
     },
     "Ariel-King/pcse": {
       "checked_at": "2026-10-27T08:57:51Z",
+      "outcome": "public_metadata_checked"
+    },
+    "Arunavmsu07/pyDSSAT": {
+      "checked_at": "2026-11-05T10:52:57Z",
       "outcome": "public_metadata_checked"
     },
     "Awetahegn/pcse": {
@@ -399,6 +361,10 @@
       "checked_at": "2026-10-29T09:56:28Z",
       "outcome": "public_metadata_checked"
     },
+    "ECO2ZTS/swatmodel-trusty64": {
+      "checked_at": "2026-11-05T10:52:57Z",
+      "outcome": "public_metadata_checked"
+    },
     "ESCOMP/CTSM": {
       "checked_at": "2026-10-22T19:57:41Z",
       "outcome": "public_metadata_checked"
@@ -409,6 +375,10 @@
     },
     "EYcab/open-science-resources": {
       "checked_at": "2026-10-31T09:36:59Z",
+      "outcome": "public_metadata_checked"
+    },
+    "ElParmentier/cmf-sfynx": {
+      "checked_at": "2026-11-05T10:52:57Z",
       "outcome": "public_metadata_checked"
     },
     "Eric-1986/WOFOST": {
@@ -511,6 +481,10 @@
       "checked_at": "2026-11-04T10:53:17Z",
       "outcome": "public_metadata_checked"
     },
+    "GuitarYourself/EndtoEndCroppingSystem": {
+      "checked_at": "2026-11-05T10:52:57Z",
+      "outcome": "public_metadata_checked"
+    },
     "H2OIsLife/lampyrid": {
       "checked_at": "2026-10-31T09:36:59Z",
       "outcome": "public_metadata_checked"
@@ -601,6 +575,14 @@
     },
     "KUL-RSDA/AquaCrop": {
       "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "Kaye-HQ/Awesome-Geospatial": {
+      "checked_at": "2026-11-05T10:52:57Z",
+      "outcome": "public_metadata_checked"
+    },
+    "Kennylovetheworld/EndtoEndCroppingSystem": {
+      "checked_at": "2026-11-05T10:52:57Z",
       "outcome": "public_metadata_checked"
     },
     "Kirchi/FS17_seasons": {
@@ -699,6 +681,10 @@
       "checked_at": "2026-10-29T09:56:28Z",
       "outcome": "public_metadata_checked"
     },
+    "OImperador1/Farms": {
+      "checked_at": "2026-11-05T10:52:57Z",
+      "outcome": "public_metadata_checked"
+    },
     "OleksiiYurchuk/awesome-python": {
       "checked_at": "2026-10-24T08:06:24Z",
       "outcome": "public_metadata_checked"
@@ -733,6 +719,10 @@
     },
     "Plant-Root-Soil-Interactions-Modelling/dumux-rosi": {
       "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "RJ2019/Awesome-Geospatial": {
+      "checked_at": "2026-11-05T10:52:57Z",
       "outcome": "public_metadata_checked"
     },
     "Raffael1234/FS17_seasons": {
@@ -775,6 +765,10 @@
       "checked_at": "2026-10-22T10:39:16Z",
       "outcome": "public_metadata_checked"
     },
+    "S-P-Z/EndtoEndCroppingSystem": {
+      "checked_at": "2026-11-05T10:52:57Z",
+      "outcome": "public_metadata_checked"
+    },
     "SZ-Edward/awesome-python": {
       "checked_at": "2026-10-24T08:06:24Z",
       "outcome": "public_metadata_checked"
@@ -789,6 +783,10 @@
     },
     "SimonGoring/pecan": {
       "checked_at": "2026-10-23T07:22:54Z",
+      "outcome": "public_metadata_checked"
+    },
+    "SpatialMac/Awesome-Geospatial": {
+      "checked_at": "2026-11-05T10:52:57Z",
       "outcome": "public_metadata_checked"
     },
     "Sror/All-To-DPS": {
@@ -885,6 +883,10 @@
     },
     "Viskari/pecan": {
       "checked_at": "2026-10-26T08:53:10Z",
+      "outcome": "public_metadata_checked"
+    },
+    "Vyciokazz/FarmSim_Mod_SoilMod": {
+      "checked_at": "2026-11-05T10:52:57Z",
       "outcome": "public_metadata_checked"
     },
     "Watabane/FS17_seasons": {
@@ -1079,6 +1081,10 @@
       "checked_at": "2026-10-29T09:56:28Z",
       "outcome": "public_metadata_checked"
     },
+    "benardonyango/Awesome-Geospatial": {
+      "checked_at": "2026-11-05T10:52:57Z",
+      "outcome": "public_metadata_checked"
+    },
     "berry10086/awesome-python": {
       "checked_at": "2026-10-24T08:06:24Z",
       "outcome": "public_metadata_checked"
@@ -1171,6 +1177,14 @@
       "checked_at": "2026-10-22T10:39:16Z",
       "outcome": "public_metadata_checked"
     },
+    "centurylee/Dasst": {
+      "checked_at": "2026-11-05T10:52:57Z",
+      "outcome": "public_metadata_checked"
+    },
+    "centurylee/pyDSSAT": {
+      "checked_at": "2026-11-05T10:52:57Z",
+      "outcome": "public_metadata_checked"
+    },
     "chamhg/PCSE-WOFOST": {
       "checked_at": "2026-10-31T09:36:59Z",
       "outcome": "public_metadata_checked"
@@ -1221,6 +1235,10 @@
     },
     "cropbox/Garlic.jl": {
       "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "cyBian/BEPS_hourly_site_4.02": {
+      "checked_at": "2026-11-05T10:52:57Z",
       "outcome": "public_metadata_checked"
     },
     "dahabdev/jitimage": {
@@ -1383,6 +1401,10 @@
       "checked_at": "2026-10-29T09:56:28Z",
       "outcome": "public_metadata_checked"
     },
+    "fourguyses/WOFOST_crop_parameters": {
+      "checked_at": "2026-11-05T10:52:57Z",
+      "outcome": "public_metadata_checked"
+    },
     "frostbytten/agmip-workbench-cropmodel-modules": {
       "checked_at": "2026-10-27T08:57:51Z",
       "outcome": "public_metadata_checked"
@@ -1443,6 +1465,10 @@
       "checked_at": "2026-10-27T08:57:51Z",
       "outcome": "public_metadata_checked"
     },
+    "gitwithmch/EndtoEndCroppingSystem": {
+      "checked_at": "2026-11-05T10:52:57Z",
+      "outcome": "public_metadata_checked"
+    },
     "giulange/WOFOST": {
       "checked_at": "2026-10-26T08:53:10Z",
       "outcome": "public_metadata_checked"
@@ -1457,6 +1483,10 @@
     },
     "gustavoserafim/awesome-python": {
       "checked_at": "2026-10-24T08:06:24Z",
+      "outcome": "public_metadata_checked"
+    },
+    "gzhai001/Awesome-Geospatial": {
+      "checked_at": "2026-11-05T10:52:57Z",
       "outcome": "public_metadata_checked"
     },
     "haiyangzhang798/pecan": {
@@ -1539,6 +1569,10 @@
       "checked_at": "2026-11-03T10:50:42Z",
       "outcome": "public_metadata_checked"
     },
+    "huananbei/BEPS-SIF-model": {
+      "checked_at": "2026-11-05T10:52:57Z",
+      "outcome": "public_metadata_checked"
+    },
     "huananbei/BEPS_hourly_site_4.02": {
       "checked_at": "2026-11-02T11:02:19Z",
       "outcome": "public_metadata_checked"
@@ -1551,12 +1585,28 @@
       "checked_at": "2026-10-31T09:36:59Z",
       "outcome": "public_metadata_checked"
     },
+    "huangduan2018/Mapping-Rice-Extent-Using-Satellite-Images": {
+      "checked_at": "2026-11-05T10:52:57Z",
+      "outcome": "public_metadata_checked"
+    },
+    "hubble-bubble/EndtoEndCroppingSystem": {
+      "checked_at": "2026-11-05T10:52:57Z",
+      "outcome": "public_metadata_checked"
+    },
     "huhulaoxian/EndtoEndCroppingSystem": {
       "checked_at": "2026-11-04T10:53:17Z",
       "outcome": "public_metadata_checked"
     },
     "huizhongl/CMSC6950-Growing-Degree-Days": {
       "checked_at": "2026-10-30T09:59:02Z",
+      "outcome": "public_metadata_checked"
+    },
+    "hulaba/Wheat-Yield-prediction-for-United-States-by-environmental-features": {
+      "checked_at": "2026-11-05T10:52:57Z",
+      "outcome": "public_metadata_checked"
+    },
+    "hydrocodes/hydrology": {
+      "checked_at": "2026-11-05T10:52:57Z",
       "outcome": "public_metadata_checked"
     },
     "ianshiach/pecan": {
@@ -1615,6 +1665,10 @@
       "checked_at": "2026-10-25T08:23:33Z",
       "outcome": "public_metadata_checked"
     },
+    "jaspreet11111111/awesome-python": {
+      "checked_at": "2026-11-05T10:52:57Z",
+      "outcome": "public_metadata_checked"
+    },
     "jawoo/agmip-common-functions": {
       "checked_at": "2026-10-23T07:22:54Z",
       "outcome": "public_metadata_checked"
@@ -1665,6 +1719,10 @@
     },
     "josephmisiti/awesome-python": {
       "checked_at": "2026-10-23T07:22:54Z",
+      "outcome": "public_metadata_checked"
+    },
+    "joshlam123/Awesome-Geospatial": {
+      "checked_at": "2026-11-05T10:52:57Z",
       "outcome": "public_metadata_checked"
     },
     "joshuaelliott/psims": {
@@ -1831,6 +1889,14 @@
       "checked_at": "2026-11-04T10:53:17Z",
       "outcome": "public_metadata_checked"
     },
+    "llqqzz/apsimRegions": {
+      "checked_at": "2026-11-05T10:52:57Z",
+      "outcome": "public_metadata_checked"
+    },
+    "llqqzz/pyDSSAT": {
+      "checked_at": "2026-11-05T10:52:57Z",
+      "outcome": "public_metadata_checked"
+    },
     "logan99/awesome-python": {
       "checked_at": "2026-10-25T08:23:33Z",
       "outcome": "public_metadata_checked"
@@ -1845,6 +1911,10 @@
     },
     "lulzzz/GDAY": {
       "checked_at": "2026-10-30T09:59:02Z",
+      "outcome": "public_metadata_checked"
+    },
+    "lyxidontknow/EndtoEndCroppingSystem": {
+      "checked_at": "2026-11-05T10:52:57Z",
       "outcome": "public_metadata_checked"
     },
     "mac2040/WAILAPlugins": {
@@ -1969,6 +2039,14 @@
     },
     "mozacoval/awesome-python": {
       "checked_at": "2026-10-25T08:23:33Z",
+      "outcome": "public_metadata_checked"
+    },
+    "mpastell/crop.js": {
+      "checked_at": "2026-11-05T10:52:57Z",
+      "outcome": "public_metadata_checked"
+    },
+    "mpastell/weather.js": {
+      "checked_at": "2026-11-05T10:52:57Z",
       "outcome": "public_metadata_checked"
     },
     "mpffh1/FS17_seasons": {
@@ -2111,6 +2189,10 @@
       "checked_at": "2026-11-01T10:26:00Z",
       "outcome": "public_metadata_checked"
     },
+    "ovevans/soil-hydraulic-simulation-backup": {
+      "checked_at": "2026-11-05T10:52:57Z",
+      "outcome": "public_metadata_checked"
+    },
     "pEapod516/ImagicalMine-Windows": {
       "checked_at": "2026-10-28T09:38:19Z",
       "outcome": "public_metadata_checked"
@@ -2159,12 +2241,20 @@
       "checked_at": "2026-10-27T08:57:51Z",
       "outcome": "public_metadata_checked"
     },
+    "pitcheverlasting/pyDSSAT": {
+      "checked_at": "2026-11-05T10:52:57Z",
+      "outcome": "public_metadata_checked"
+    },
     "pjbh/open-science-resources": {
       "checked_at": "2026-10-31T09:36:59Z",
       "outcome": "public_metadata_checked"
     },
     "pjwarner/awesome-python": {
       "checked_at": "2026-10-25T08:23:33Z",
+      "outcome": "public_metadata_checked"
+    },
+    "prettymao/BEPS_hourly_site_4.02": {
+      "checked_at": "2026-11-05T10:52:57Z",
       "outcome": "public_metadata_checked"
     },
     "prodigeni/awesome-python": {
@@ -2347,6 +2437,10 @@
       "checked_at": "2026-10-23T07:22:54Z",
       "outcome": "public_metadata_checked"
     },
+    "scarlettlee/BEPS-SIF-model": {
+      "checked_at": "2026-11-05T10:52:57Z",
+      "outcome": "public_metadata_checked"
+    },
     "scottmiao/awesome-python": {
       "checked_at": "2026-10-24T08:06:24Z",
       "outcome": "public_metadata_checked"
@@ -2485,6 +2579,10 @@
     },
     "thierry62220/FS17_seasons": {
       "checked_at": "2026-10-29T09:56:28Z",
+      "outcome": "public_metadata_checked"
+    },
+    "thinking-man/WOFOST_crop_parameters": {
+      "checked_at": "2026-11-05T10:52:57Z",
       "outcome": "public_metadata_checked"
     },
     "tingli3/Awesome-Geospatial": {
@@ -2631,6 +2729,10 @@
       "checked_at": "2026-11-04T10:53:17Z",
       "outcome": "public_metadata_checked"
     },
+    "yangxhcaf/phenomap": {
+      "checked_at": "2026-11-05T10:52:57Z",
+      "outcome": "public_metadata_checked"
+    },
     "ycjung/ace-ui": {
       "checked_at": "2026-10-22T19:59:05Z",
       "outcome": "public_metadata_checked"
@@ -2649,6 +2751,10 @@
     },
     "yongb/HeadingDatePrediction": {
       "checked_at": "2026-10-31T09:36:59Z",
+      "outcome": "public_metadata_checked"
+    },
+    "yuanhongdeng/APES_Jan2016": {
+      "checked_at": "2026-11-05T10:52:57Z",
       "outcome": "public_metadata_checked"
     },
     "yuanshankongmeng/awesome-python": {
@@ -2677,6 +2783,10 @@
     },
     "zhengyima/easydeepnude": {
       "checked_at": "2026-11-04T10:53:17Z",
+      "outcome": "public_metadata_checked"
+    },
+    "zhzhyang/BEPS-SIF-model": {
+      "checked_at": "2026-11-05T10:52:57Z",
       "outcome": "public_metadata_checked"
     },
     "zjti/ROTOR": {

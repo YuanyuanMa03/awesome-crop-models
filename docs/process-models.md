@@ -280,7 +280,7 @@ Process-based models of soil, water, climate, pests and other agricultural proce
 #### R
 
 - [bluegreen-labs/phenor](https://github.com/bluegreen-labs/phenor) - A phenology modelling framework in R. `★ 51` `custom licence`
-- [AgMIP-GGCMI/cropCalendars](https://github.com/AgMIP-GGCMI/cropCalendars) - R-package for simulating climate-driven crop calendars. `★ 16` `AGPL-3.0`
+- [AgMIP-GGCMI/cropCalendars](https://github.com/AgMIP-GGCMI/cropCalendars) - R-package for simulating climate-driven crop calendars. `★ 17` `AGPL-3.0`
 - [EduardoFernandezC/dormancyR](https://github.com/EduardoFernandezC/dormancyR) - Alternative chill models and functions to handle or download weather data. `★ 7` `no licence`
 - [agronomy4future/gdds](https://github.com/agronomy4future/gdds) - Calculation for Growing Degree Days (GDDs, ºC d). `★ 5` `custom licence`
 - [Carm1r/fruclimadapt](https://github.com/Carm1r/fruclimadapt) - Evaluation tools for assessing climate adaptation of fruit tree species. `★ 5` `no licence`
@@ -1536,15 +1536,15 @@ Process-based models of soil, water, climate, pests and other agricultural proce
 
 #### Python
 
-- [altmenorg/HAsmartirrigation](https://github.com/altmenorg/HAsmartirrigation) - Smart Irrigation custom component for Home Assistant. `★ 564` `MIT`
+- [altmenorg/HAsmartirrigation](https://github.com/altmenorg/HAsmartirrigation) - Smart Irrigation custom component for Home Assistant. `★ 566` `MIT`
 - [woodcrafty/PyETo](https://github.com/woodcrafty/PyETo) - Reference and potential evapotranspiration calculation routines. `★ 179` `BSD-3-Clause`
 - [hectornieto/pyTSEB](https://github.com/hectornieto/pyTSEB) - Two-source energy balance calculations for vegetation evapotranspiration. `★ 172` `GPL-3.0`
 - [pyet-org/pyet](https://github.com/pyet-org/pyet) - Reference and potential evaporation estimation methods in Python. `★ 166` `MIT`
 - [kthorp/pyfao56](https://github.com/kthorp/pyfao56) - FAO-56 crop water use and irrigation calculations using dual coefficients. `★ 99` `custom licence`
 - [kaust-halo/geeet](https://github.com/kaust-halo/geeet) - Evapotranspiration (ET) models for use in python and with integration into Google Earth Engine. `★ 68` `MIT`
 - [Open-ET/openet-ssebop](https://github.com/Open-ET/openet-ssebop) - Earth Engine SSEBop ET Model. `★ 58` `Apache-2.0`
+- [never-dry/NeverDry](https://github.com/never-dry/NeverDry) - Smart irrigation for Home Assistant — scientific water balance model with per-zone crop coefficients. `★ 56` `MIT`
 - [NASA-DEVELOP/METRIC](https://github.com/NASA-DEVELOP/METRIC) - For estimating daily evapotranspiration from Landsat data. `★ 55` `custom licence`
-- [never-dry/NeverDry](https://github.com/never-dry/NeverDry) - Smart irrigation for Home Assistant — scientific water balance model with per-zone crop coefficients. `★ 55` `MIT`
 - [sherzodr/penmon](https://github.com/sherzodr/penmon) - Implements weather station class in Python that calculates ETo (reference crop's evapotranspiration) based on UN-FAO Irrigation and Drainage Paper 56. `★ 41` `MIT`
 - [jvdkwast/PySEBS](https://github.com/jvdkwast/PySEBS) - The Surface Energy Balance System (SEBS) in Python. `★ 39` `no licence`
 - [WSWUP/pymetric](https://github.com/WSWUP/pymetric) - Python implementation of the METRIC model. `★ 37` `Apache-2.0`
@@ -1575,13 +1575,13 @@ Process-based models of soil, water, climate, pests and other agricultural proce
 - [adrHuerta/Evaporation](https://github.com/adrHuerta/Evaporation) - collect code(s) to compute evaporation/evapotranspiration. `★ 7` `no licence`
 - [FloEll/QWaterModel](https://github.com/FloEll/QWaterModel) - QWaterModel is a simple QGis plugin tool to calculate Evapotranspiration from thermal images. `★ 7` `GPL-3.0`
 - [rslab-ntua/senet](https://github.com/rslab-ntua/senet) - Energy Balance model approach for crop water demand estimation. `★ 7` `GPL-3.0`
+- [RAD-ET/radet-gee](https://github.com/RAD-ET/radet-gee) - RADET model (Radiation Advection Diffusivity-independent Evapotranspiration) for estimating actual evapotranspiration (ET). `★ 6` `Apache-2.0`
 - [sbg-tir/SBG-TIR-L4-JET](https://github.com/sbg-tir/SBG-TIR-L4-JET) - Level 4 evapotranspiration (ET), evaporative stress index (ESI) and water use efficiency (WUE). `★ 6` `Apache-2.0`
 - [akorkovelos/agrodem](https://github.com/akorkovelos/agrodem) - agrodem - a GIS based model on water and electricity requirements for ground and/or surface water irrigation. `★ 5` `MIT`
 - [ECOSTRESS-Collection-3/ECOv003-L3T-L4T-JET](https://github.com/ECOSTRESS-Collection-3/ECOv003-L3T-L4T-JET) - ECOSTRESS Collection 3 JPL Evapotranspiration (JET) Product Generating Executable (PGE). `★ 5` `Apache-2.0`
 - [edscos/Python-Code-to-Calculate-Daily-Actual-Evapotranspiration-Using-an-Aerodynamic-Temperature-Model](https://github.com/edscos/Python-Code-to-Calculate-Daily-Actual-Evapotranspiration-Using-an-Aerodynamic-Temperature-Model) - Python code to calculate actual daily evapotranspiration from an one-source surface energy balance approach using point-based data inputs. `★ 5` `no licence`
 - [JPL-Evapotranspiration-Algorithms/PM-JPL](https://github.com/JPL-Evapotranspiration-Algorithms/PM-JPL) - JPL implementation of the MOD16 evapotranspiration remote sensing model. `★ 5` `Apache-2.0`
 - [NMTHydro/RefET](https://github.com/NMTHydro/RefET) - Daily Penman-Monteith Reference ET. `★ 5` `no licence`
-- [RAD-ET/radet-gee](https://github.com/RAD-ET/radet-gee) - RADET model (Radiation Advection Diffusivity-independent Evapotranspiration) for estimating actual evapotranspiration (ET). `★ 5` `Apache-2.0`
 - [dgketchum/SSEBop](https://github.com/dgketchum/SSEBop) - Operational Simplified Surface Energy Balance Model. `★ 4` `no licence`
 - [DHI/Sen-ET-OpenEO-toolbox](https://github.com/DHI/Sen-ET-OpenEO-toolbox) - This repository contains openEO workflows for various python modules used in Evapotranspiration (ET) modeling and Irrigation mapping. `★ 4` `GPL-3.0`
 - [Hidrovales/Balanco_Hidrico](https://github.com/Hidrovales/Balanco_Hidrico) - Necessidades hídricas das culturas e consumo de água na irrigação. `★ 4` `no licence`

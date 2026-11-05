@@ -8,6 +8,8 @@ Continued from [page 3](data-driven-3.md). See the [contents](data-driven.md#con
 
 #### Python (continued)
 
+- [srujan1-creator/Statistical-Modeling-and-Prediction](https://github.com/srujan1-creator/Statistical-Modeling-and-Prediction) - Crop yield prediction with machine learning. `no licence`
+- [srujan1-creator/Statistical-Modeling-Prediction](https://github.com/srujan1-creator/Statistical-Modeling-Prediction) - Crop yield prediction with machine learning. `no licence`
 - [SrusthiBaburaoKore/Agriculture-Crop-Yield-Prediction-using-ml-](https://github.com/SrusthiBaburaoKore/Agriculture-Crop-Yield-Prediction-using-ml-) - Agriculture Crop Yield Prediction using Machine Learning is a data analytics that studies agricultural data to predict crop yield based on factors like rainfall, temperature, soil type, season, and… `no licence`
 - [SS-Rana/Crop-Yield-predictor](https://github.com/SS-Rana/Crop-Yield-predictor) - Crop yield prediction. `no licence`
 - [ssaju918/Crop-Production-Prediction](https://github.com/ssaju918/Crop-Production-Prediction) - Crop yield prediction. `no licence`
@@ -2005,6 +2007,5 @@ Continued from [page 3](data-driven-3.md). See the [contents](data-driven.md#con
 - [kirtika-kala/Crop-Yield-Prediction](https://github.com/kirtika-kala/Crop-Yield-Prediction) - project's primary aim is to predict the amount of crop that can be produced by examining the soil and weather conditions. `no licence`
 - [Kiruthika-B18/AI-powered-crop-yield-prediction-with-intelligent-chatbot](https://github.com/Kiruthika-B18/AI-powered-crop-yield-prediction-with-intelligent-chatbot) - AI powered crop yield prediction with intelligent chatbot. `no licence`
 - [Kiruthika-B18/Crop-Yield-Prediction](https://github.com/Kiruthika-B18/Crop-Yield-Prediction) - Crop yield prediction. `no licence`
-- [Kiruthika-B18/Crop-Yield-Prediction-with-alternate-suggestions](https://github.com/Kiruthika-B18/Crop-Yield-Prediction-with-alternate-suggestions) - Crop yield prediction uses data like rainfall, temperature, location, area, crop, and soil type usage to estimate harvest output. It helps farmers choose optimal crops and plan resources for better… `no licence`
 
 Continued on [page 5](data-driven-5.md).

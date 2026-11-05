@@ -8,6 +8,7 @@ Continued from [page 2](data-driven-2.md). See the [contents](data-driven.md#con
 
 #### Python (continued)
 
+- [lucasedge-cell/cover-crop-biomass-ml](https://github.com/lucasedge-cell/cover-crop-biomass-ml) - Non-destructive cover crop biomass estimation from UAV multispectral imagery using machine learning. Six regression models compared via Leave-One-Out Cross-Validation (LOOCV), with PLS achieving the… `MIT`
 - [Lucifer-Cods/Crop-yield-Prediction-using-Machine-Learning.](https://github.com/Lucifer-Cods/Crop-yield-Prediction-using-Machine-Learning.) - Designed a Function to predict the crop yield prediction using Decision Tree and SVM Regressor. `no licence`
 - [lucifertec/Crop-yield-Prediction](https://github.com/lucifertec/Crop-yield-Prediction) - End-to-end crop yield data analytics & machine learning dashboard built with Python, Streamlit, and scikit-learn ($R^2 \approx 0.98$). `no licence`
 - [Luckick/CPE](https://github.com/Luckick/CPE) - The Code for IJCAI 2023 Paper "Customized Positional Encoding to Combine Static and Time-varying Data in Robust Representation Learning for Crop Yield Prediction". `no licence`
@@ -2018,7 +2019,5 @@ Continued from [page 2](data-driven-2.md). See the [contents](data-driven.md#con
 - [sriya1602/Crop_Yield_Prediction](https://github.com/sriya1602/Crop_Yield_Prediction) - Crop yield prediction model using Python and popular machine learning libraries such as TensorFlow and scikit-learn.With the help of machine learning, we can leverage historical data, weather… `no licence`
 - [srujan1-creator/Exploratory-Data-Analysis-and-Visualization](https://github.com/srujan1-creator/Exploratory-Data-Analysis-and-Visualization) - Crop yield prediction with machine learning. `no licence`
 - [srujan1-creator/Integrated-Business-Recommendation-Report](https://github.com/srujan1-creator/Integrated-Business-Recommendation-Report) - Crop yield prediction with machine learning. `no licence`
-- [srujan1-creator/Statistical-Modeling-and-Prediction](https://github.com/srujan1-creator/Statistical-Modeling-and-Prediction) - Crop yield prediction with machine learning. `no licence`
-- [srujan1-creator/Statistical-Modeling-Prediction](https://github.com/srujan1-creator/Statistical-Modeling-Prediction) - Crop yield prediction with machine learning. `no licence`
 
 Continued on [page 4](data-driven-4.md).

@@ -25,7 +25,7 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
   - [Batchfile](#interfaces-batchfile) (1)
   - [C](#interfaces-c) (4)
   - [C#](#interfaces-csharp) (15)
-  - [C++](#interfaces-cplusplus) (11)
+  - [C++](#interfaces-cplusplus) (10)
   - [Clojure](#interfaces-clojure) (3)
   - [Fortran](#interfaces-fortran) (9)
   - [GAML](#interfaces-gaml) (1)
@@ -40,7 +40,7 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
   - [Pascal](#interfaces-pascal) (1)
   - [Perl](#interfaces-perl) (2)
   - [PHP](#interfaces-php) (2)
-  - [Python](#interfaces-python) (220)
+  - [Python](#interfaces-python) (221)
   - [R](#interfaces-r) (127)
   - [Ruby](#interfaces-ruby) (1)
   - [Rust](#interfaces-rust) (1)
@@ -347,7 +347,6 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 - [gsrohde/biocro-c-programs](https://github.com/gsrohde/biocro-c-programs) - No description provided. `no licence`
 - [gsrohde/BioCroInterface](https://github.com/gsrohde/BioCroInterface) - No description provided. `no licence`
 - [MARSHAL-ROOT/marshal-pipeline](https://github.com/MARSHAL-ROOT/marshal-pipeline) - How to use MARSHAL from the R environment. `no licence`
-- [physical-geogrpahy-forever/gounsa-windows-build](https://github.com/physical-geogrpahy-forever/gounsa-windows-build) - No description provided. `no licence`
 - [pihchikk/lisem-bmi-babel](https://github.com/pihchikk/lisem-bmi-babel) - bmi wrapper for LImburg Soil Erosion Model. `custom licence`
 
 <a id="interfaces-clojure"></a>
@@ -461,7 +460,7 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 
 - [EMS2018900/CouplingSWATandEFDC](https://github.com/EMS2018900/CouplingSWATandEFDC) - MATLAB script for coupling SWAT and EFDC. `★ 13` `no licence`
 - [MoonRaker/hydrus-batch-matlab](https://github.com/MoonRaker/hydrus-batch-matlab) - No description provided. `★ 7` `no licence`
-- [LyntonZhou/SWAT-HM-pre-post-processing](https://github.com/LyntonZhou/SWAT-HM-pre-post-processing) - SWAT-HM model preprocessing, running, and postprocessing package. `★ 1` `GPL-3.0`
+- [LyntonZhou/SWAT-HM-pre-post-processing](https://github.com/LyntonZhou/SWAT-HM-pre-post-processing) - SWAT-HM model preprocessing, running, and postprocessing package. `★ 2` `GPL-3.0`
 - [HanneVG/AquaCrop_Extra](https://github.com/HanneVG/AquaCrop_Extra) - Extra functionality and usefull tool for people who work with AquaCrop. `no licence`
 - [liaoqianyu94/batch_simulation_HYDRUS-1D](https://github.com/liaoqianyu94/batch_simulation_HYDRUS-1D) - batch HYDRUS-1D code for simulating RZSM and ET, with vegetation and test data. `no licence`
 
@@ -502,7 +501,7 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 #### Python
 
 - [daquinterop/Py_DSSATTools](https://github.com/daquinterop/Py_DSSATTools) - Python tools for setting up and working with DSSAT simulations. `★ 94` `GPL-3.0`
-- [swat-model/pySWATPlus](https://github.com/swat-model/pySWATPlus) - pySWATPlus is a Python library tailored for seamless interaction with the Soil and Water Assessment Tool Plus (SWAT+), empowering users to efficiently manage input and output files within Python… `★ 61` `GPL-3.0`
+- [swat-model/pySWATPlus](https://github.com/swat-model/pySWATPlus) - pySWATPlus is a Python library tailored for seamless interaction with the Soil and Water Assessment Tool Plus (SWAT+), empowering users to efficiently manage input and output files within Python… `★ 62` `GPL-3.0`
 - [XiaogangHe/pyDSSAT](https://github.com/XiaogangHe/pyDSSAT) - Python Interface for Crop Model DSSAT. `★ 54` `custom licence`
 - [spark-hydro/QSWATMOD2-plugin](https://github.com/spark-hydro/QSWATMOD2-plugin) - This repository contains materials for the QSWATMOD2 that helps link SWAT with MODFLOW model on QGIS3. `★ 39` `no licence`
 - [MAGALA-RICHARD/apsimNGpy](https://github.com/MAGALA-RICHARD/apsimNGpy) - ApsimNGpy is a Python library designed as an implementation of the APSIM Next Generation crop and environmental simulation model. This library is built upon the Pythonnet API, providing direct… `★ 37` `Apache-2.0`
@@ -698,6 +697,7 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 - [openalea-incubator/treeeditor](https://github.com/openalea-incubator/treeeditor) - TreeEditor. `custom licence`
 - [ougx/swat-viewer-app](https://github.com/ougx/swat-viewer-app) - A simple web app to analyze SWAT model output. `GPL-3.0`
 - [pedroalencar1/WOFOST_streamlit](https://github.com/pedroalencar1/WOFOST_streamlit) - web implementation of WOFOST with streamlit. `no licence`
+- [physical-geogrpahy-forever/gounsa-windows-build](https://github.com/physical-geogrpahy-forever/gounsa-windows-build) - No description provided. `no licence`
 - [pihchikk/bmi-pcse](https://github.com/pihchikk/bmi-pcse) - BMI wrapper for PCSE (WOFOST/LINTUL/LINGRA), Wageningen crop simulation framework. `MIT`
 - [PlantandFoodResearch/IrrigationAnimation](https://github.com/PlantandFoodResearch/IrrigationAnimation) - Tools for visualising spacial simulation data. `MIT`
 - [PSUmodeling/Cycles-utils](https://github.com/PSUmodeling/Cycles-utils) - No description provided. `MIT`
@@ -1200,7 +1200,7 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 - [DrAhmedKheir/Sakha95-DSSAT-Calibration-DSSAT-Sakha95-CroptimizR-](https://github.com/DrAhmedKheir/Sakha95-DSSAT-Calibration-DSSAT-Sakha95-CroptimizR-) - Multi-site calibration of Sakha95 wheat cultivar for DSSAT CERES-Wheat using 41 years of Egyptian field data. Achieved 69.2% RMSE improvement with comprehensive R scripts and visualization tools. `MIT`
 - [EcoInfoLab/LOGO](https://github.com/EcoInfoLab/LOGO) - A hybrid approach for calibration of crop model parameters using both local and global optimization in tandem. `MIT`
 - [ECRIPPEL/swatplus-calibrator](https://github.com/ECRIPPEL/swatplus-calibrator) - SWAT+ calibrator for R. `MIT`
-- [ECRIPPEL/swatplus-hms-calibration](https://github.com/ECRIPPEL/swatplus-hms-calibration) - Hierarchical multi-scale SWAT+ calibration framework. It uses LH-OAT Morris screening and progressive parameter narrowing across annual, monthly, and daily streamflow scales. `MIT`
+- [ECRIPPEL/swatplus-hmscal](https://github.com/ECRIPPEL/swatplus-hmscal) - Hierarchical multi-scale calibration framework (HMSCal) for SWAT+. It uses LH-OAT Morris screening and progressive parameter narrowing across annual, monthly, and daily streamflow scales. `MIT`
 - [enervifa/SUFI2_R](https://github.com/enervifa/SUFI2_R) - This script facilitates running the SUFI2 (Sequential Uncertainty Fitting) algorithm in R, using swat_edit.exe from SWAT-CUP (Abbaspour et al.,2015) and swat.exe from SWAT 2012 (Arnold et al., 2012). `MIT`
 - [hacamargoa/Script_sensit](https://github.com/hacamargoa/Script_sensit) - No description provided. `MIT`
 - [hacamargoa/Sensitivity](https://github.com/hacamargoa/Sensitivity) - Sensitivity test for LPJ-GUESS crops. `no licence`
@@ -1842,7 +1842,7 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 #### R
 
 - [ropensci/nasapower](https://github.com/ropensci/nasapower) - API Client for NASA POWER Global Meteorology, Surface Solar Energy and Climatology in R. `★ 108` `custom licence`
-- [nasa/NASAaccess](https://github.com/nasa/NASAaccess) - NASAaccess is R package that can generate gridded ascii tables of climate (CIMP5) and weather data (GPM, TRMM, GLDAS) needed to drive various hydrological models (e.g., SWAT, VIC, RHESSys, ..etc). `★ 96` `custom licence`
+- [nasa/NASAaccess](https://github.com/nasa/NASAaccess) - NASAaccess is R package that can generate gridded ascii tables of climate (CIMP5) and weather data (GPM, TRMM, GLDAS) needed to drive various hydrological models (e.g., SWAT, VIC, RHESSys, ..etc). `★ 95` `custom licence`
 - [ropensci/weatherOz](https://github.com/ropensci/weatherOz) - An API Client for Australian Weather and Climate Data Resources. `★ 40` `GPL-3.0`
 - [ropensci/chirps](https://github.com/ropensci/chirps) - API Client for CHIRPS. `★ 39` `custom licence`
 - [FilgueirasR/BrazilMet](https://github.com/FilgueirasR/BrazilMet) - BrazilMet is an R package designed to facilitate the acquisition and processing of meteorological data from INMET stations. It includes functions for downloading, calculating atmospheric parameters… `★ 26` `no licence`
@@ -1865,6 +1865,7 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 - [jpwjoseph/gaezv5](https://github.com/jpwjoseph/gaezv5) - R package for downloading and processing GAEZ v5 agricultural data. `★ 4` `custom licence`
 - [ludemannc/Tier_1_2_crop_coefficients](https://github.com/ludemannc/Tier_1_2_crop_coefficients) - This collates crop coefficient data (crop nutrient concentrations and harvest indices) from the literature and converts it into a standardised format and into files for publication in Ludemann et al… `★ 4` `no licence`
 - [rmartinezferia/APssurgo](https://github.com/rmartinezferia/APssurgo) - Get SSURGO data and convert into APSIM '.soil' format. `★ 4` `GPL-3.0`
+- [chugit/HWSD2_Processing](https://github.com/chugit/HWSD2_Processing) - 基于HWSD v2.0，快速提取单点/多点、区域数据；制作并提供全球0-200 cm七个土层土壤属性栅格。. `★ 3` `MIT`
 - [drkupi/Can-GLWS](https://github.com/drkupi/Can-GLWS) - Canadian Great Lakes Weather Data Service for SWAT (Can-GLWS). `★ 3` `GPL-3.0`
 - [DSSAT/Florida_Crop_BMP_Datasets](https://github.com/DSSAT/Florida_Crop_BMP_Datasets) - Spreadsheet-based approach for managing data from agricultural field experiments with emphasis on best management practices. Initial version is focused on Florida but could easily be adopted to… `★ 3` `no licence`
 - [fairagro/csmTools](https://github.com/fairagro/csmTools) - ETL functions for data integration into crop simulation modeling applications. `★ 3` `MIT`
@@ -1872,7 +1873,6 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 - [SILPHdata/ISU_CCHANGE_Practice-based_SOC_Measurement_Dataset](https://github.com/SILPHdata/ISU_CCHANGE_Practice-based_SOC_Measurement_Dataset) - This data package provides a spatially and temporally broad, multivariate dataset that quantifies trade-offs and co-benefits of tillage management in North American row-crop systems. Treatment-level… `★ 3` `CC-BY-4.0`
 - [arthurbbm/ssurgo-soil-import](https://github.com/arthurbbm/ssurgo-soil-import) - No description provided. `★ 2` `no licence`
 - [BeckyTrippier/SWATprocessing](https://github.com/BeckyTrippier/SWATprocessing) - scripts for processing climate data into the SWAT model format. `★ 2` `no licence`
-- [chugit/HWSD2_Processing](https://github.com/chugit/HWSD2_Processing) - 基于HWSD v2.0，快速提取单点/多点、区域数据；制作并提供全球0-200 cm七个土层土壤属性栅格。. `★ 2` `MIT`
 - [MarkusLoew/Li6400helper](https://github.com/MarkusLoew/Li6400helper) - Helper functions for Licor 6400 IRGA gas exchange files. `★ 2` `GPL-3.0`
 - [mhle510/swatIP](https://github.com/mhle510/swatIP) - This code introduces how to prepare forcing inputs data to create a SWAT project(s) step by step. `★ 2` `GPL-3.0`
 - [ODES-Chile/agrometR](https://github.com/ODES-Chile/agrometR) - Paquete R para descargar información de la Red Agroclimática Nacional. `★ 2` `custom licence`

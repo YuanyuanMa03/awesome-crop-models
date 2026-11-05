@@ -8,6 +8,7 @@ Continued from [page 5](data-driven-5.md). See the [contents](data-driven.md#con
 
 #### R (continued)
 
+- [asavelaolona/maize-yield-project](https://github.com/asavelaolona/maize-yield-project) - Maize yield prediction. `no licence`
 - [etiennelord/smartland_article](https://github.com/etiennelord/smartland_article) - Source code and data for the article: Yield Forecasting in Maize: Performance and Limits of Unmanned Aerial Vehicle and PlanetScope Remote Sensing Across Multiple Growth Cycles. `MIT`
 - [fatmaoz25/ReactionNormGenomicPrediction](https://github.com/fatmaoz25/ReactionNormGenomicPrediction) - The aim of this study is to predict grain yield (tons/hect.) of a set of maize hybrids sharing a common parent by using their genomic and reaction norm data. All of the analysis was conducted using R. `no licence`
 - [flofechter/Maize-yield-project](https://github.com/flofechter/Maize-yield-project) - Maize yield prediction. `no licence`
@@ -723,8 +724,8 @@ Continued from [page 5](data-driven-5.md). See the [contents](data-driven.md#con
 
 #### Python
 
+- [0scar07/proyecto-coffea-hma](https://github.com/0scar07/proyecto-coffea-hma) - App en Streamlit para ajustar y comparar modelos de crecimiento (Exponencial, Logistico, Gompertz) en Coffea arabica, comparando plantas inoculadas con HMA vs control. `★ 2` `MIT`
 - [Zabrsh/coffee-yield-prediction-using-remote-sensing-data](https://github.com/Zabrsh/coffee-yield-prediction-using-remote-sensing-data) - No description provided. `★ 2` `no licence`
-- [0scar07/proyecto-coffea-hma](https://github.com/0scar07/proyecto-coffea-hma) - App en Streamlit para ajustar y comparar modelos de crecimiento (Exponencial, Logistico, Gompertz) en Coffea arabica, comparando plantas inoculadas con HMA vs control. `★ 1` `MIT`
 - [costantinoschi/AI-Powered-Urban-Agriculture-Optimizer](https://github.com/costantinoschi/AI-Powered-Urban-Agriculture-Optimizer) - Python-based AI tool that optimizes urban gardening by analyzing soil data, coffee ground fertilizer composition, and weather patterns to recommend planting schedules and crop types. Use machine… `★ 1` `no licence`
 - [es-kalyowa/ABE_Environmental_Engineering_Project](https://github.com/es-kalyowa/ABE_Environmental_Engineering_Project) - Investigating Climate Change Impact on Coffee Yield in Africa. `★ 1` `no licence`
 - [Fajarr021123/Web-Prediksi-Hasil-Panen-Sawit](https://github.com/Fajarr021123/Web-Prediksi-Hasil-Panen-Sawit) - Plantation crop yield prediction. `★ 1` `no licence`

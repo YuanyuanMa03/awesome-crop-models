@@ -2,13 +2,15 @@
 
 Repositories found by discovery that nobody has classified yet. To list one, add it to `config/seeds.json`; to reject one, record it with a reason in `config/excluded.json`. Forks are not listed unless curated.
 
-107174 tracked · 15291 listed · 78836 excluded · 795 forks · **12252 awaiting review**
+107193 tracked · 15291 listed · 78836 excluded · 795 forks · **12271 awaiting review**
 
 | Repository | ★ | Language | Description | Found by |
 |---|---|---|---|---|
 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | 495701 | Python | A collective list of free APIs | soil-carbon-crop |
 | [PlantSimulationLab/Helios](https://github.com/PlantSimulationLab/Helios) | 112 | C++ | Open-source 3D simulator of plants and their environment: functional-structural plant modeling (FSPM), dynamic plant mod | proc-fspm, proc-photosynthesis-model |
+| [TomasResquin/PdfBooklet](https://github.com/TomasResquin/PdfBooklet) | 59 | Python | Creates booklets from Pdf files, and much more | mdl-cropbox |
 | [UTokyo-FieldPhenomics-Lab/SPROUT](https://github.com/UTokyo-FieldPhenomics-Lab/SPROUT) | 10 | Python | Diffusion-pretrained vision foundation models for multi-crop plant phenotyping: organ segmentation, crop–weed parsing, d | proc-crop-weed |
+| [soft-clustering/soft-clustering](https://github.com/soft-clustering/soft-clustering) | 7 | Python | Soft Clustering Python Package | mdl-lingra |
 | [WangHaomao/GeoSpider](https://github.com/WangHaomao/GeoSpider) | 7 | Roff | 项目暂时完成，日后继续完善 | cn-crop-model |
 | [zezhix/distributed-crawler](https://github.com/zezhix/distributed-crawler) | 7 | Roff | 第六届中软杯赛题 - 分布式爬虫系统（经纬度团队作品） | cn-crop-model |
 | [YellFunGit/IndoorunSDKIosDemo](https://github.com/YellFunGit/IndoorunSDKIosDemo) | 6 | Objective-C | IndoorunSDK IOS端demo | cn-crop-model |
@@ -30,6 +32,7 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [halilunaziru73-creator/Operationalizing-GIS-and-Machine-Learning-across-Contrasting-Cropping-Systems](https://github.com/halilunaziru73-creator/Operationalizing-GIS-and-Machine-Learning-across-Contrasting-Cropping-Systems) | 1 | Python | GIS, remote sensing, and machine learning for precision agriculture across three Portuguese cropping systems: maize fert | cropping-systems, gen-cropping-system |
 | [koushikmondal22/todo-list-python](https://github.com/koushikmondal22/todo-list-python) | 1 | Python | A beginner Python command-line To-Do List application. | mdl-lpy |
 | [lexiloughlin/pig-city](https://github.com/lexiloughlin/pig-city) | 1 | HTML |  | mdl-pcse |
+| [MacCracken/ai-hwaccel](https://github.com/MacCracken/ai-hwaccel) | 1 | Python | Rust AI Hardware Acceleration & Optimization | mdl-cyml |
 | [Miranics/Siphelele](https://github.com/Miranics/Siphelele) | 1 | HTML |  | mdl-icasa |
 | [omerfys/Typerfy](https://github.com/omerfys/Typerfy) | 1 | HTML | Generative Botanical Typography Engine & Type Garden &#124; Living Plant Typography, Kinetic Canvas Art, Procedural Ivy & Sak | gen-plant-growth-simulation |
 | [parthvarute09/Rice-Crop-Forecasting](https://github.com/parthvarute09/Rice-Crop-Forecasting) | 1 | Jupyter Notebook | A machine learning-based Rice Crop Yield Forecasting System that analyzes agricultural and environmental factors to pred | dd-crop-yield-forecast, dd-crop-yield-forecasting |
@@ -453,6 +456,7 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [adityasalunke255/habit-tracker](https://github.com/adityasalunke255/habit-tracker) | 0 | HTML | A gamified habit tracker that grows virtual plants as you build real habits. No backend required - runs entirely in your | proc-virtual-plant |
 | [adityavats21/India-crop-yield-msp-risk-baseline](https://github.com/adityavats21/India-crop-yield-msp-risk-baseline) | 0 | Python |  | dd-crop-yield |
 | [adityaverma025/Odisha-Agricultural-Analytics-WebMap](https://github.com/adityaverma025/Odisha-Agricultural-Analytics-WebMap) | 0 | HTML | An interactive web map tracking Rainfall, Rice Yield, and Fertilizer use across Odisha's districts using QGIS. | dd-rice-yield |
+| [adityaverma025/sambalpur-rabi-crop-monitoring](https://github.com/adityaverma025/sambalpur-rabi-crop-monitoring) | 0 | Python | Multi-temporal Sentinel-2 satellite monitoring of Rabi rice phenology and acreage in Sambalpur District, Odisha. | topic-phenology |
 | [Adivenkat28/Capstone-Project---Increasing-Crop-Yield-in-Greenhouses-using-AI](https://github.com/Adivenkat28/Capstone-Project---Increasing-Crop-Yield-in-Greenhouses-using-AI) | 0 | HTML | The agricultural landscape has seen a dramatic change in recent years, moving toward controlled and sustainable environm | dd-crop-yield |
 | [Adjoa-Oforiwaa/Mangalore-Agricultural-Data](https://github.com/Adjoa-Oforiwaa/Mangalore-Agricultural-Data) | 0 |  | This project analyzes agricultural data from Mangalore, Karnataka, spanning 2004–2019, to explore how environmental, geo | dd-crop-yield |
 | [ADM-Kenya/Crop_Condition_HighRes_S2](https://github.com/ADM-Kenya/Crop_Condition_HighRes_S2) | 0 | Jupyter Notebook | High Resolution of Crop Condition Mapping Using Sentinel-2 and Machine Learning in openEO | crop-phenology |
@@ -761,6 +765,7 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [alejandro-ahmad/sysagro-farm-management](https://github.com/alejandro-ahmad/sysagro-farm-management) | 0 | TypeScript |  | es-crop-model |
 | [alejandro132moreno/Gestor_Gastos](https://github.com/alejandro132moreno/Gestor_Gastos) | 0 | TypeScript |  | es-crop-model |
 | [AlejandroMorenoPalmero/AlejandroMorenoPalmero](https://github.com/AlejandroMorenoPalmero/AlejandroMorenoPalmero) | 0 |  |  | es-crop-model |
+| [alejandrozu/mars-insolation-project](https://github.com/alejandrozu/mars-insolation-project) | 0 | HTML | Interactive simulator of daylight and insolation on Mars across its eccentric year | rd-soil-water-balance |
 | [AlejoMora8/Bot-IA](https://github.com/AlejoMora8/Bot-IA) | 0 | Python |  | es-crop-model |
 | [aleksandraa07/taxonomy](https://github.com/aleksandraa07/taxonomy) | 0 | Python |  | mdl-hydrus |
 | [alelago-dev/CultiPilot](https://github.com/alelago-dev/CultiPilot) | 0 | TypeScript | PWA para seguimiento de cultivos horticolas legales con calendario, clima, semillas y Supabase. | es-crop-model |
@@ -1001,10 +1006,5 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [ANAM-KHAN-1/seasonal-agriculture-performance-analysis](https://github.com/ANAM-KHAN-1/seasonal-agriculture-performance-analysis) | 0 | Jupyter Notebook | This project analyzes seasonal agricultural performance using data analytics and visualization. It explores crop yield, | dd-crop-yield |
 | [Anamika-Suresh/potato-leaf-disease-prediction](https://github.com/Anamika-Suresh/potato-leaf-disease-prediction) | 0 | Jupyter Notebook | Potato leaf disease prediction using CNN model | crop-potato-model |
 | [Anamika-Thakur/GenAI_FarmPact](https://github.com/Anamika-Thakur/GenAI_FarmPact) | 0 | HTML |  | soil-carbon-crop |
-| [Anand-Ambastha/CMU-11785-AI-Driven-Paddy-Classifier](https://github.com/Anand-Ambastha/CMU-11785-AI-Driven-Paddy-Classifier) | 0 | Jupyter Notebook | Deep learning pipeline for microclimate-based paddy stress classification using hybrid physiological + atmospheric defic | crop-phenology |
-| [anandapurvaa/finza-embedded-bnpl-evaluation](https://github.com/anandapurvaa/finza-embedded-bnpl-evaluation) | 0 |  | Fictional fintech Product management portfolio project: embedded BNPL for SMEs at a German neobank. Includes competitive | crop-rice-model |
-| [anandhu720/data.jason](https://github.com/anandhu720/data.jason) | 0 |  |  | canopy-photosynthesis, crop-energy-balance |
-| [anandm491/msc-pesticide-microbiome-research](https://github.com/anandm491/msc-pesticide-microbiome-research) | 0 | Jupyter Notebook | Ongoing M.Sc. research investigating pesticide impacts on microbial communities in agricultural soils and biomixtures us | soil-carbon-crop |
-| [anandnakum-11/Digital-Farming](https://github.com/anandnakum-11/Digital-Farming) | 0 |  | Digital Farming – AI-Powered Soil Health Assessment uses spectrometer data and machine learning to predict soil NPK (Nit | proc-phosphorus |
 
-The 11252 remaining candidates, with fewer stars, are in `catalog/repositories.json`.
+The 11271 remaining candidates, with fewer stars, are in `catalog/repositories.json`.
