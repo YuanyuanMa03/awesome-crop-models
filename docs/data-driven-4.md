@@ -751,7 +751,7 @@ Continued from [page 3](data-driven-3.md). See the [contents](data-driven.md#con
 #### R
 
 - [cranedroesch/ML_yield_ERL](https://github.com/cranedroesch/ML_yield_ERL) - Code for replicating "Machine learning methods for crop yield prediction and climate change impact assessment in agriculture", Environmental Research Letters, 2018. `★ 20` `no licence`
-- [FMS321/soilquality_climatechange_paper](https://github.com/FMS321/soilquality_climatechange_paper) - Soil quality both increases crop production and improves resilience to climate change. `★ 10` `no licence`
+- [FMS321/soilquality_climatechange_paper](https://github.com/FMS321/soilquality_climatechange_paper) - Soil quality both increases crop production and improves resilience to climate change. `★ 11` `no licence`
 - [sumitasr/soil-analysis-crop-yield](https://github.com/sumitasr/soil-analysis-crop-yield) - Soil Analysis and Crop Yield Prediction. `★ 7` `no licence`
 - [nishantdhol/AgricultureForecasting](https://github.com/nishantdhol/AgricultureForecasting) - An algorithm intended to predict the yield of any crop. Used Agricultural Data sets for building the Step-wise Regression Model. Technology Stack: R language, SQL, Linear Regression library, Plumber… `★ 5` `MIT`
 - [PMI-Basel/Lutz_et_al_Predicting_crop_yield](https://github.com/PMI-Basel/Lutz_et_al_Predicting_crop_yield) - Crop yield prediction. `★ 5` `no licence`

@@ -236,7 +236,7 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 - [lsymuyu/Digital-Plant-Phenotyping-Platform](https://github.com/lsymuyu/Digital-Plant-Phenotyping-Platform) - In silico plant phenotyping environment. `★ 22` `MIT`
 - [AgriculturalModelExchangeInitiative/PyCrop2ML](https://github.com/AgriculturalModelExchangeInitiative/PyCrop2ML) - Crop2ML-based model component translation and generation tools. `★ 21` `custom licence`
 - [openalea/mtg](https://github.com/openalea/mtg) - Multiscale Tree Graph datastructure and interfaces. `★ 17` `custom licence`
-- [saswatsundar123/CropForge](https://github.com/saswatsundar123/CropForge) - CropForge is an open-source, code-first virtual farm runtime that enables agricultural researchers to define, execute, and visually analyse crop simulations entirely from Python code. It is… `★ 13` `MIT`
+- [saswatsundar123/CropForge](https://github.com/saswatsundar123/CropForge) - CropForge is an open-source, code-first virtual farm runtime that enables agricultural researchers to define, execute, and visually analyse crop simulations entirely from Python code. It is… `★ 14` `MIT`
 - [pik-copan/pycopanlpjml](https://github.com/pik-copan/pycopanlpjml) - copan:LPJmL, an advanced World-Earth modeling framework extending copan:CORE, integrating LPJmL as the Earth system interface for comprehensive social-ecological simulations. `★ 7` `AGPL-3.0`
 - [ec-jrc/ecrops](https://github.com/ec-jrc/ecrops) - ECroPS. `★ 6` `EUPL-1.2`
 - [geonextgis/torchcrop](https://github.com/geonextgis/torchcrop) - A PyTorch-native library for hybrid crop modeling. `★ 6` `MIT`
@@ -752,9 +752,9 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 - [joergsteinkamp/RLPJGUESS](https://github.com/joergsteinkamp/RLPJGUESS) - No description provided. `★ 5` `GPL-3.0` `archived`
 - [SticsRPacks/SticsRFiles](https://github.com/SticsRPacks/SticsRFiles) - Read and modify STICS input/output files:. `★ 5` `LGPL-3.0`
 - [tdeswaef/aquacroponr](https://github.com/tdeswaef/aquacroponr) - R package with wrapper functions for AquaCrop. `★ 5` `MIT`
+- [un-fao/AquaCropPlotter](https://github.com/un-fao/AquaCropPlotter) - AquaCropPlotter is an R Shiny app for processing and visualizing FAO AquaCrop model output files. `★ 5` `Apache-2.0`
 - [village-ecodynamics/dssatr](https://github.com/village-ecodynamics/dssatr) - R bindings for the DSSAT CSMs. `★ 5` `custom licence`
 - [stanfill/apsimr](https://github.com/stanfill/apsimr) - Running APSIM from R. `★ 4` `no licence`
-- [un-fao/AquaCropPlotter](https://github.com/un-fao/AquaCropPlotter) - AquaCropPlotter is an R Shiny app for processing and visualizing FAO AquaCrop model output files. `★ 4` `Apache-2.0`
 - [KWB-R/kwb.hydrus1d](https://github.com/KWB-R/kwb.hydrus1d) - R Interface for the Last Official Release of Hydrus1D (v4.17.0140) for Windows. `★ 3` `MIT`
 - [VEZY/sticRs](https://github.com/VEZY/sticRs) - A Package to Set, Manage, calibrate and Analyse STICS Simulations. `★ 3` `GPL-3.0` `archived`
 - [YASSOmodel/Ryassofortran](https://github.com/YASSOmodel/Ryassofortran) - R-package for calling the YASSO20 Fortran-release. See examples of running YASSO20 here. `★ 3` `GPL-3.0` `fork`
@@ -1331,13 +1331,13 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 - [burggraaff/fpcup](https://github.com/burggraaff/fpcup) - Consistent retrieval of crop yields using a data assimilation platform. `★ 2` `EUPL-1.2`
 - [Open-ET/openet-landsat-lst](https://github.com/Open-ET/openet-landsat-lst) - OpenET Landsat LST sharpening. `★ 2` `no licence`
 - [0313Fly/WOFOST_da](https://github.com/0313Fly/WOFOST_da) - No description provided. `★ 1` `no licence`
+- [CCGCAM/ToolsRTMinPython](https://github.com/CCGCAM/ToolsRTMinPython) - A Python library for leaf- and canopy-level radiative transfer modeling, simulation, and inversion. `★ 1` `GPL-3.0`
 - [jgomezdans/ensemble_wofost_assimilation](https://github.com/jgomezdans/ensemble_wofost_assimilation) - No description provided. `★ 1` `no licence`
 - [MachineAi/pyPro4Sail](https://github.com/MachineAi/pyPro4Sail) - Prospect5 and 4SAIL Radiative Transfer Models for simulating the transmission of radiation in leaves and canopies. `★ 1` `GPL-3.0`
 - [Muhammad1599/WOFOST_RS](https://github.com/Muhammad1599/WOFOST_RS) - WOFOST crop model and remote sensing data integration. `★ 1` `no licence`
 - [UEA-Irta/UAVBiophysicalExtraction](https://github.com/UEA-Irta/UAVBiophysicalExtraction) - Extraction of structural variables, vegetation indices (VIs), and temperatures from high-resolution multispectral, thermographic, and altitude images. `★ 1` `MIT`
 - [adibmp137/sentinelproc](https://github.com/adibmp137/sentinelproc) - No description provided. `no licence`
 - [BNUL/PATH_RT_T](https://github.com/BNUL/PATH_RT_T) - Canopy height model (CHM) based radiative transfer model for vegetation on sloped terrain. `MIT`
-- [CCGCAM/ToolsRTMinPython](https://github.com/CCGCAM/ToolsRTMinPython) - A Python library for leaf- and canopy-level radiative transfer modeling, simulation, and inversion. `GPL-3.0`
 - [DigitalAgUMN/KGML-DA](https://github.com/DigitalAgUMN/KGML-DA) - A knowledge-guided data assimilation framework for agroecosystem modeling. `no licence`
 - [eternel22/CS_PoleIA_S8_04_Osiris](https://github.com/eternel22/CS_PoleIA_S8_04_Osiris) - No description provided. `no licence`
 - [hectornieto/dms-bias-correction](https://github.com/hectornieto/dms-bias-correction) - Module for bias correction of sharpened LST based on previous Landsat spatial variability. `GPL-3.0`
@@ -1440,7 +1440,7 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 - [DSSAT/pythia](https://github.com/DSSAT/pythia) - Another Gridded Modeling Framework. `★ 28` `no licence`
 - [davidstackio/apsimRegions](https://github.com/davidstackio/apsimRegions) - ApsimRegions is a one-way nested climate-crop modeling framework that links gridded weather data (rain, temperature, radiation, etc.) with the point-specific APSIM crop model. `★ 27` `MIT`
 - [Paloschi/AquaGrid](https://github.com/Paloschi/AquaGrid) - AquaCrop on rasters: zarr in/out, Numba CPU/GPU. `★ 22` `custom licence`
-- [ajwdewit/pyCGMS](https://github.com/ajwdewit/pyCGMS) - Python implementation of Crop Growth Monitoring System as implemented by the EU MARS project. `★ 12` `no licence`
+- [ajwdewit/pyCGMS](https://github.com/ajwdewit/pyCGMS) - Python implementation of Crop Growth Monitoring System as implemented by the EU MARS project. `★ 13` `no licence`
 - [KUL-RSDA/RegionalAC_Py](https://github.com/KUL-RSDA/RegionalAC_Py) - Regional AquaCrop Python wrapper. `★ 12` `no licence`
 - [celray/CoSWAT-Framework](https://github.com/celray/CoSWAT-Framework) - This is the code for setting up the Community SWAT+ Model. It is made to work with Docker so that if software get's updated, it still works. `★ 11` `MIT`
 - [smarsGroup/geo_epic_win](https://github.com/smarsGroup/geo_epic_win) - This package scales EPIC crop simulations across large regions using remote sensing and geospatial data, with a built-in calibration module for local parameter tuning. `★ 8` `BSD-3-Clause`
@@ -1897,7 +1897,6 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 - [sonalimcdermid/Sonali_AgMIPClimate](https://github.com/sonalimcdermid/Sonali_AgMIPClimate) - These are the R scripts (and some matlab) that I use for AgMIP Climate. These are my development versions. `★ 1` `no licence`
 - [ua-snap/potential-evapotranspiration](https://github.com/ua-snap/potential-evapotranspiration) - Processing scripts for computing PET (potential evapotranspiration). `★ 1` `no licence`
 - [WMOST-userresources/HAWQs-SWAT-Hydroprocessor-compatability](https://github.com/WMOST-userresources/HAWQs-SWAT-Hydroprocessor-compatability) - Repository for storing R script and other resources for creating cross-compatibility of the US EPA's HAWQS (Hydrologic and Water Quality System) and Hydroprocessor for pre-processing of SWAT (Soil… `★ 1` `no licence`
-- [xinxinchen-96/AI-based-data-extraction-from-literature](https://github.com/xinxinchen-96/AI-based-data-extraction-from-literature) - AI-based data extraction from literature for crop modelling. `★ 1` `no licence`
 - [AAGI-AUS/SILO-Weather-Downloader-Plus](https://github.com/AAGI-AUS/SILO-Weather-Downloader-Plus) - Interactive R Shiny application for downloading and exporting Grid Point (Data Drill) and APSIM formatted SILO climate datasets. Provides visual and summarised quality assurance metadata for nearest… `MIT`
 - [AgMIP-GGCMI/fertilizer_rates](https://github.com/AgMIP-GGCMI/fertilizer_rates) - scripts for creating gridded fertilizer rates for GGCMI simulations. `no licence`
 - [AgronomicForecastingLab/GEFS_pSIMS](https://github.com/AgronomicForecastingLab/GEFS_pSIMS) - No description provided. `no licence`
@@ -1951,6 +1950,7 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 - [vanichols/SSURGO2APSIM-v2](https://github.com/vanichols/SSURGO2APSIM-v2) - A spin-off of Rafa Martinez's code to get SSURGO data into APSIM format. `no licence`
 - [vasseurbenoit/soilR](https://github.com/vasseurbenoit/soilR) - No description provided. `GPL-3.0`
 - [VEZY/DynACof_inputs](https://github.com/VEZY/DynACof_inputs) - The input parameter files templates for the DynACof model. `GPL-3.0`
+- [xinxinchen-96/AI-based-data-extraction-from-literature](https://github.com/xinxinchen-96/AI-based-data-extraction-from-literature) - AI-based data extraction from literature for crop modelling. `no licence`
 - [ycjung/AgMIP-Climate-IT-pilot-tools-R](https://github.com/ycjung/AgMIP-Climate-IT-pilot-tools-R) - converted AgMIP-Climate-IT-pilot-tools into R. `no licence`
 - [yufenghe22/get_climate_for_BioCro](https://github.com/yufenghe22/get_climate_for_BioCro) - Scripts to download NASA power data and produce BioCro weather input. `no licence`
 
@@ -1998,7 +1998,7 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 #### Other
 
 - [ajwdewit/WOFOST_crop_parameters](https://github.com/ajwdewit/WOFOST_crop_parameters) - Parameter sets for the WOFOST crop simulation model implemented in YAML. `★ 83` `no licence`
-- [Open-ET/flux-data-footprint](https://github.com/Open-ET/flux-data-footprint) - Footprint estimation and analysis for eddy covariance flux tower data. `★ 33` `Apache-2.0`
+- [Open-ET/flux-data-footprint](https://github.com/Open-ET/flux-data-footprint) - Footprint estimation and analysis for eddy covariance flux tower data. `★ 34` `Apache-2.0`
 - [DSSAT/dssat-csm-data](https://github.com/DSSAT/dssat-csm-data) - Experimental data files for DSSAT-CSM. `★ 22` `no licence`
 - [QuantGen/MAIZE-HUB](https://github.com/QuantGen/MAIZE-HUB) - No description provided. `★ 10` `no licence`
 - [Benzlxs/MMCBE](https://github.com/Benzlxs/MMCBE) - MMCBE: Multi-modality Dataset for Crop Biomass Estimation and Beyond. `★ 4` `no licence`

@@ -893,11 +893,11 @@ Process-based models of soil, water, climate, pests and other agricultural proce
 - [openalea-incubator/soil3ds](https://github.com/openalea-incubator/soil3ds) - 3DS is a 3D soil model simulating water and nitrogen fluxes into the soil which was adapted from the STICS soil module. It is part of the Virtual GrassLand model (VGL) developed on the OpenAlea… `★ 8` `custom licence`
 - [XueziGong/KLE-PINN-EC](https://github.com/XueziGong/KLE-PINN-EC) - KLE-PINN-EC: Physics-Informed Neural Network with Enhanced Coupling for Inverse Modeling of Unsaturated Flow in Heterogeneous Soils. `★ 8` `no licence`
 - [lucabrocca78/Soil-Moisture-Model-Python](https://github.com/lucabrocca78/Soil-Moisture-Model-Python) - Soil water balance model for estimating soil moisture (Python version). `★ 7` `no licence`
+- [Hamza-Kamil/PINN-MPINN-Water-Solute](https://github.com/Hamza-Kamil/PINN-MPINN-Water-Solute) - Paper: Modeling water and nitrogen dynamics in unsaturated soils using physics and multi-physics informed neural networks. `★ 6` `no licence`
 - [octavia-crompton/SVE-R](https://github.com/octavia-crompton/SVE-R) - A coupled Saint Venant Equations (SVE)- Richards Equation solver. `★ 6` `MIT`
 - [AlainPascalFrances/MARMITES](https://github.com/AlainPascalFrances/MARMITES) - Water balance soil model coupled to MODFLOW. `★ 5` `no licence`
 - [cvjena/InverseRRE](https://github.com/cvjena/InverseRRE) - Inverse problem of Richardson-Richards Equation. `★ 5` `MIT`
 - [dgketchum/swim-rs](https://github.com/dgketchum/swim-rs) - Soil Water balance Inverse Modeling using Remote Sensing. `★ 5` `Apache-2.0`
-- [Hamza-Kamil/PINN-MPINN-Water-Solute](https://github.com/Hamza-Kamil/PINN-MPINN-Water-Solute) - Paper: Modeling water and nitrogen dynamics in unsaturated soils using physics and multi-physics informed neural networks. `★ 5` `no licence`
 - [thestochasticman/DownscalingMoistureModel](https://github.com/thestochasticman/DownscalingMoistureModel) - Producing higher resolution soil moisture maps using a water balancing approach. `★ 5` `no licence`
 - [thskaggs/2014-steady-state](https://github.com/thskaggs/2014-steady-state) - Analytical steady-state solutions for water-limited cropping systems irrigated with saline water (Skaggs et al. 2014). `★ 5` `no licence`
 - [yuyi13/PySWEB](https://github.com/yuyi13/PySWEB) - The Sydney Soil Water-Energy Balance Model. `★ 5` `MIT`
@@ -1548,7 +1548,7 @@ Process-based models of soil, water, climate, pests and other agricultural proce
 - [sherzodr/penmon](https://github.com/sherzodr/penmon) - Implements weather station class in Python that calculates ETo (reference crop's evapotranspiration) based on UN-FAO Irrigation and Drainage Paper 56. `★ 41` `MIT`
 - [jvdkwast/PySEBS](https://github.com/jvdkwast/PySEBS) - The Surface Energy Balance System (SEBS) in Python. `★ 39` `no licence`
 - [WSWUP/pymetric](https://github.com/WSWUP/pymetric) - Python implementation of the METRIC model. `★ 37` `Apache-2.0`
-- [Open-ET/openet-refet-gee](https://github.com/Open-ET/openet-refet-gee) - ASCE Standardized Reference Evapotranspiration Functions for Google Earth Engine (GEE). `★ 32` `Apache-2.0`
+- [Open-ET/openet-refet-gee](https://github.com/Open-ET/openet-refet-gee) - ASCE Standardized Reference Evapotranspiration Functions for Google Earth Engine (GEE). `★ 33` `Apache-2.0`
 - [hectornieto/pyMETRIC](https://github.com/hectornieto/pyMETRIC) - Python code for Mapping EvapoTranspiration at high Resolution with Internalized Calibration model. `★ 30` `GPL-3.0`
 - [TimHessels/SEBAL](https://github.com/TimHessels/SEBAL) - The Surface Energy Balance Algorithm for Land. `★ 30` `Apache-2.0`
 - [rafatieppo/sebal](https://github.com/rafatieppo/sebal) - Python code to run SEBAL method. `★ 28` `BSD-3-Clause`

@@ -2,37 +2,42 @@
 
 Repositories found by discovery that nobody has classified yet. To list one, add it to `config/seeds.json`; to reject one, record it with a reason in `config/excluded.json`. Forks are not listed unless curated.
 
-107193 tracked · 15291 listed · 78836 excluded · 795 forks · **12271 awaiting review**
+107231 tracked · 15291 listed · 78836 excluded · 795 forks · **12309 awaiting review**
 
 | Repository | ★ | Language | Description | Found by |
 |---|---|---|---|---|
 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | 495701 | Python | A collective list of free APIs | soil-carbon-crop |
 | [PlantSimulationLab/Helios](https://github.com/PlantSimulationLab/Helios) | 112 | C++ | Open-source 3D simulator of plants and their environment: functional-structural plant modeling (FSPM), dynamic plant mod | proc-fspm, proc-photosynthesis-model |
 | [TomasResquin/PdfBooklet](https://github.com/TomasResquin/PdfBooklet) | 59 | Python | Creates booklets from Pdf files, and much more | mdl-cropbox |
+| [paulcon/as-data-sets](https://github.com/paulcon/as-data-sets) | 33 | Jupyter Notebook | Active Subspace Data Sets | stomatal-processes |
 | [UTokyo-FieldPhenomics-Lab/SPROUT](https://github.com/UTokyo-FieldPhenomics-Lab/SPROUT) | 10 | Python | Diffusion-pretrained vision foundation models for multi-crop plant phenotyping: organ segmentation, crop–weed parsing, d | proc-crop-weed |
 | [soft-clustering/soft-clustering](https://github.com/soft-clustering/soft-clustering) | 7 | Python | Soft Clustering Python Package | mdl-lingra |
 | [WangHaomao/GeoSpider](https://github.com/WangHaomao/GeoSpider) | 7 | Roff | 项目暂时完成，日后继续完善 | cn-crop-model |
 | [zezhix/distributed-crawler](https://github.com/zezhix/distributed-crawler) | 7 | Roff | 第六届中软杯赛题 - 分布式爬虫系统（经纬度团队作品） | cn-crop-model |
 | [YellFunGit/IndoorunSDKIosDemo](https://github.com/YellFunGit/IndoorunSDKIosDemo) | 6 | Objective-C | IndoorunSDK IOS端demo | cn-crop-model |
-| [YuanyuanMa03/awesome-crop-models](https://github.com/YuanyuanMa03/awesome-crop-models) | 5 | Python | Curated, auto-refreshed list of open-source crop and agricultural process models on GitHub | agroecosystem-ghg, functional-structural |
+| [YuanyuanMa03/awesome-crop-models](https://github.com/YuanyuanMa03/awesome-crop-models) | 6 | Python | Curated, auto-refreshed list of open-source crop and agricultural process models on GitHub | agroecosystem-ghg, functional-structural |
 | [liiilhhh02/pvz_trans](https://github.com/liiilhhh02/pvz_trans) | 3 | Python | Mac / iPhone / Linux 上原生玩《植物大战僵尸杂交版 0.30》（PvZ Hybrid）：不用 CrossOver、虚拟机或串流。免安装 DMG（Intel/Apple Silicon 通用）、Linux x86_64 直 | zh-virtual-plant |
 | [siciliatech/visualizador-neuronas](https://github.com/siciliatech/visualizador-neuronas) | 3 | HTML | Visualizador local de activación neuronal de un transformer: mira qué neuronas se encienden mientras un modelo de lengua | mdl-expert-n |
 | [sigilante/lean-ski](https://github.com/sigilante/lean-ski) | 3 | Lean |  | mdl-psims |
 | [the-linux-nerd/expert-nerd-sysadmin](https://github.com/the-linux-nerd/expert-nerd-sysadmin) | 3 | Shell |  | mdl-expert-n |
+| [coolhfei/BloomPen](https://github.com/coolhfei/BloomPen) | 2 | TypeScript | 妙笔生花，提供宣传物料生成的AI工具。输入一句品牌简报，1 分钟拿到一整套能直接用的品牌物料。 不是给你一张图，而是一套系统： 品牌规范单页 + 5 页宣传册（PDF 带真实文字层） + 主视觉海报 + 社媒三件套（方图/竖图/横图）+ 易 | zh-crop-yield |
+| [haiyu-web/SmartAgri-Big-Data-Analytics-Platform](https://github.com/haiyu-web/SmartAgri-Big-Data-Analytics-Platform) | 2 | Python | 本项目以“智慧农业电商平台”为业务背景，构建了一套端到端的大数据自动化分析与预测系统。面对海量的农产品订单数据，该系统旨在打通从数据生成、采集清洗、集中存储、数仓建模到智能预测与可视化展示的全链路流程。通过提取数据价值，系统能够输出多维度的 | zh-yield-prediction |
 | [HaseebKhalid1507/Axon](https://github.com/HaseebKhalid1507/Axon) | 2 | Rust | Fast, cheap LLM inference engine written from scratch in Rust + CUDA. Runs GGUF models (Qwen, Llama, Gemma, Mistral, MoE | mdl-expert-n |
 | [767172261/Use-Python-and-combine-geospatial-data-analysis-libraries-geopandas-rasterio-matplotlib-etc-to-load-](https://github.com/767172261/Use-Python-and-combine-geospatial-data-analysis-libraries-geopandas-rasterio-matplotlib-etc-to-load-) | 1 |  | 使用Python，结合地理空间数据分析库`geopandas`, `rasterio`, `matplotlib`等如何加载、处理、分析以及可视化各地类地上地下碳密度和土壤有机碳密度 | zh-soil-carbon |
-| [BrzostekEcologyLab/Deep-FUN-BioCROP](https://github.com/BrzostekEcologyLab/Deep-FUN-BioCROP) | 1 |  | Depth-resolved bioenergy crop model with plant-microbe interactions down to 100 cm. | model-biocro |
+| [balbonioldershaw901-a11y/lingyun](https://github.com/balbonioldershaw901-a11y/lingyun) | 1 | JavaScript |  | model-wofost |
+| [BrzostekEcologyLab/Deep-FUN-BioCROP](https://github.com/BrzostekEcologyLab/Deep-FUN-BioCROP) | 1 |  | Depth-resolved bioenergy crop model with plant-microbe interactions down to 100 cm. | gen-crop-modeling, gen-crop-modelling |
 | [cassiel-cai/vchart](https://github.com/cassiel-cai/vchart) | 1 | TypeScript | 最新前端技术栈 ：Vue3.5 、 Electron、TS、 Vite、Pinia、Radix Vue、IndexedDB、 Dexie.js ，与多种知名AI大模型（文心一言/通义千问/ Claude ／Deepseek），手把手带你开发 | cn-photosynthesis |
 | [Dh-ayy1725/Codes-I-write-while-learning-python-as-a-beginner](https://github.com/Dh-ayy1725/Codes-I-write-while-learning-python-as-a-beginner) | 1 |  |  | mdl-lpy |
 | [diegofallas2204/PeakStroke](https://github.com/diegofallas2204/PeakStroke) | 1 | Python | PeakStroke — Sistema de Planificación y Predicción de Rendimiento para Natación | es-prediccion-rendimiento |
 | [fcoliveira-utfpr/agrometeorologiapy](https://github.com/fcoliveira-utfpr/agrometeorologiapy) | 1 | Python | Agrometeorology formulas in Python: solar radiation and relative sunshine duration, air temperature and humidity, radiat | proc-penman |
-| [forge-lab-hku/samy-wgen](https://github.com/forge-lab-hku/samy-wgen) | 1 | Python | A Python package for generating continuous, scenario-conditioned hourly weather sequences for building energy simulation | proc-stochastic-weather |
+| [forge-lab-hku/samy-wgen](https://github.com/forge-lab-hku/samy-wgen) | 1 | Python | A Python package for generating continuous, scenario-conditioned hourly weather sequences for building energy simulation | proc-stochastic-weather, proc-weather-generator |
 | [gnz-b/interviewNotice](https://github.com/gnz-b/interviewNotice) | 1 |  | 前端面试 常见知识点整理 | cn-crop-model |
 | [GuillaumeBarreau/claude-config](https://github.com/GuillaumeBarreau/claude-config) | 1 | JavaScript |  | mdl-expert-n |
 | [halilunaziru73-creator/Operationalizing-GIS-and-Machine-Learning-across-Contrasting-Cropping-Systems](https://github.com/halilunaziru73-creator/Operationalizing-GIS-and-Machine-Learning-across-Contrasting-Cropping-Systems) | 1 | Python | GIS, remote sensing, and machine learning for precision agriculture across three Portuguese cropping systems: maize fert | cropping-systems, gen-cropping-system |
 | [koushikmondal22/todo-list-python](https://github.com/koushikmondal22/todo-list-python) | 1 | Python | A beginner Python command-line To-Do List application. | mdl-lpy |
 | [lexiloughlin/pig-city](https://github.com/lexiloughlin/pig-city) | 1 | HTML |  | mdl-pcse |
 | [MacCracken/ai-hwaccel](https://github.com/MacCracken/ai-hwaccel) | 1 | Python | Rust AI Hardware Acceleration & Optimization | mdl-cyml |
+| [MasterChief-Zaki/digitalTwin-netlave](https://github.com/MasterChief-Zaki/digitalTwin-netlave) | 1 | Python | netLave digital twin: a simulation-driven twin of a self-powered TSE irrigation forest | proc-irrigation-simulation |
 | [Miranics/Siphelele](https://github.com/Miranics/Siphelele) | 1 | HTML |  | mdl-icasa |
 | [omerfys/Typerfy](https://github.com/omerfys/Typerfy) | 1 | HTML | Generative Botanical Typography Engine & Type Garden &#124; Living Plant Typography, Kinetic Canvas Art, Procedural Ivy & Sak | gen-plant-growth-simulation |
 | [parthvarute09/Rice-Crop-Forecasting](https://github.com/parthvarute09/Rice-Crop-Forecasting) | 1 | Jupyter Notebook | A machine learning-based Rice Crop Yield Forecasting System that analyzes agricultural and environmental factors to pred | dd-crop-yield-forecast, dd-crop-yield-forecasting |
@@ -41,6 +46,7 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [Samukashvili/VoiceReady](https://github.com/Samukashvili/VoiceReady) | 1 | C# | External voice command assistant for Ready or Not. Speak officer orders aloud and have them executed in-game via read-on | topic-swat |
 | [sandeepmuttvarpu-png/Sandwich-cpp](https://github.com/sandeepmuttvarpu-png/Sandwich-cpp) | 1 | C++ | Unified high-performance LLM engine combining dynamic MoE expert staging, TurboQuant 4-bit KV compression, and auto-disp | mdl-expert-n |
 | [sohel3shaikh/Polymathix](https://github.com/sohel3shaikh/Polymathix) | 1 | Python | “Universal Autonomous AI Discovery OS for Life Sciences & Materials Science: Plants, Animals, Human Therapeutics, Microb | topic-crop-science |
+| [Tess-Kern/TessKern](https://github.com/Tess-Kern/TessKern) | 1 | HTML | Personal site and blog of Tess Kern: data science in R for crop modeling, genomic prediction, and plant breeding. | gen-crop-modeling, gen-crop-modelling |
 | [wangyk10086/LIS-VLA](https://github.com/wangyk10086/LIS-VLA) | 1 | Python | LIS-VLA: Latent Imagination Search VLA, built on RynVLA-002 | mdl-expert-n |
 | [weijinxing204/Rice-quality-model](https://github.com/weijinxing204/Rice-quality-model) | 1 | MATLAB |  | crop-rice-model |
 | [002y/nlw-expert-notes](https://github.com/002y/nlw-expert-notes) | 0 | TypeScript |  | mdl-expert-n |
@@ -174,6 +180,7 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [767172261/Build-an-environment-from-scratch-to-train-the-model-of-the-rice-maturity-detection-data-set-How-to-](https://github.com/767172261/Build-an-environment-from-scratch-to-train-the-model-of-the-rice-maturity-detection-data-set-How-to-) | 0 |  | 从零开始搭建环境 训练水稻成熟度检测数据集的模型 如何使用YOLOv8训练水稻穗成熟度数据集 检测水稻成熟状态中的稻花 稻谷未成熟 稻谷成熟 | crop-rice-model, zh-rice-model |
 | [767172261/Build-and-optimize-UAVbased-agricultural-monitoring-system-intelligent-monitoring-and-analysis-for-r](https://github.com/767172261/Build-and-optimize-UAVbased-agricultural-monitoring-system-intelligent-monitoring-and-analysis-for-r) | 0 |  | 构建和优化基于无人机的农业监测系统，针对水稻生长状态的智能监控与分析 深度学习框架YOLO模型算法训练无人机水稻稻穗检测数据集 (1) | zh-agri-model, zh-rice-growth |
 | [767172261/Deep-Learning-How-the-YOLOv8-Model-Trains-Corn-Seedlings-Weed-Detection-Dataset-How-to-Build-a-YOLOv](https://github.com/767172261/Deep-Learning-How-the-YOLOv8-Model-Trains-Corn-Seedlings-Weed-Detection-Dataset-How-to-Build-a-YOLOv) | 0 |  | 深度学习YOLOv8模型如何训练玉米幼苗杂草检测数据集  如何构建基于 YOLOv8 的玉米幼苗与杂草识别系统 (1) | zh-maize-model |
+| [767172261/Deep-learning-YOLO-model-In-mature-cotton-field-scenarios-the-detection-of-magazine-impurities-scatt](https://github.com/767172261/Deep-learning-YOLO-model-In-mature-cotton-field-scenarios-the-detection-of-magazine-impurities-scatt) | 0 |  | 深度学习YOLO模型在 成熟棉花田场景中，对散落在土壤上的“杂志”类杂质进行检测，可用于开发棉花产区智能化清洁与质量预警系统 成熟棉花花壤杂质数据集 棉花杂质检测数据集 | zh-yield-prediction |
 | [767172261/How-to-use-the-deep-learning-framework-PyTorch-and-segmentation-model-UNet-for-training-greenhouse-s](https://github.com/767172261/How-to-use-the-deep-learning-framework-PyTorch-and-segmentation-model-UNet-for-training-greenhouse-s) | 0 |  | 如何使用深度学习框架（PyTorch）和分割模型（U-Net）进行训练大棚分割数据集，40765对影像，16.9g数据量，0.8米高分二，手工标注（arcgis标注）大规模农业大棚分割数据集语义分割 | zh-agri-model |
 | [767172261/Intelligent-AI-farmland-recognition-Farmland-area-detection-Farmland-division-recognition-Smokesensi](https://github.com/767172261/Intelligent-AI-farmland-recognition-Farmland-area-detection-Farmland-division-recognition-Smokesensi) | 0 |  | 智能AI耕地识别 耕地区域检测 耕地划分识别 烟感农田耕地分割识别数据集 图像数据集 图像分割数据集第10649期 | cn-crop-growth |
 | [767172261/PyTorch-and-torchvision-are-used-as-examples-how-to-use-the-pretrained-ResNet-model-to-train-the-14-](https://github.com/767172261/PyTorch-and-torchvision-are-used-as-examples-how-to-use-the-pretrained-ResNet-model-to-train-the-14-) | 0 |  | PyTorch和torchvision为例，如何使用预训练的ResNet模型来训练水稻虫害分类数据集 14类 从数据准备到模型训练、评估全流程 | zh-rice-model |
@@ -247,6 +254,7 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [Aayush9-spec/Verdantix](https://github.com/Aayush9-spec/Verdantix) | 0 | JavaScript |  | soil-carbon-crop |
 | [AayushiRaut/Kisan_portal](https://github.com/AayushiRaut/Kisan_portal) | 0 | HTML | Kisan Portal is a farmer-focused digital platform that supports buying and selling crops, tools, and machinery. It provi | gen-crop-growth |
 | [aayushsharma047/Aquapulse](https://github.com/aayushsharma047/Aquapulse) | 0 | JavaScript | Aquapulse can transform agriculture with its cost-effective smart irrigation system, ensuring optimal crop yield through | dd-crop-yield |
+| [aayushupadhyay9151/agrinexa](https://github.com/aayushupadhyay9151/agrinexa) | 0 | TypeScript |  | model-oryza |
 | [ab303el/water-managment-model-for-irrigation](https://github.com/ab303el/water-managment-model-for-irrigation) | 0 | Jupyter Notebook |  | crop-growth, proc-irrigation-model |
 | [ab3ap/itm](https://github.com/ab3ap/itm) | 0 | Python | A python implementation of the Longley-Rice Irregular Terrain Model | crop-rice-model |
 | [AB3D-Lab/3DR-Papers](https://github.com/AB3D-Lab/3DR-Papers) | 0 |  | Recent Must Read Papers | crop-growth, model-stics |
@@ -998,13 +1006,5 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [anaguilarar/WitchesBroom](https://github.com/anaguilarar/WitchesBroom) | 0 | Jupyter Notebook |  | canopy-photosynthesis, mdl-gaez |
 | [Anais-GD/AEI-Trabajo10-CropYield-ML](https://github.com/Anais-GD/AEI-Trabajo10-CropYield-ML) | 0 |  | Estimación de rendimiento de cultivos con Machine Learning | dd-crop-yield, es-rendimiento-cultivos |
 | [anakinpalinyot29/oil-palm-nutrient-estimation](https://github.com/anakinpalinyot29/oil-palm-nutrient-estimation) | 0 | Jupyter Notebook | Machine learning system to estimate key nutrient levels (N, P, K, Mg) in oil palm leaves using spectroradiometer data, p | crop-oil-palm |
-| [ANAKiNWuuu/Agricultural_Analysis](https://github.com/ANAKiNWuuu/Agricultural_Analysis) | 0 | Python |  | cn-crop-model |
-| [anakolodji/Challenge_Fase7_Sprint3](https://github.com/anakolodji/Challenge_Fase7_Sprint3) | 0 | Jupyter Notebook |  | es-crop-model |
-| [analuizadev/expert-notes](https://github.com/analuizadev/expert-notes) | 0 | TypeScript | Site de notas, criado na semana npx da rocketseat. O site tem como objetivo criação de notas por voz, utilizando o Speec | mdl-expert-n |
-| [analyst-Riya/Seasonal_Agriculture_Performance_Data_Analysis](https://github.com/analyst-Riya/Seasonal_Agriculture_Performance_Data_Analysis) | 0 | Jupyter Notebook | Analyzing seasonal agricultural performance using Python to uncover insights into crop yield, profitability, production, | dd-crop-yield |
-| [Analystbobby/Predictive-Analytics-for-customer-booking-under-British-Airways](https://github.com/Analystbobby/Predictive-Analytics-for-customer-booking-under-British-Airways) | 0 | Jupyter Notebook | Developed Classification model during Forage British Airways online Internship, where Random Forest model aligns with th | crop-forage |
-| [ANAM-KHAN-1/seasonal-agriculture-performance-analysis](https://github.com/ANAM-KHAN-1/seasonal-agriculture-performance-analysis) | 0 | Jupyter Notebook | This project analyzes seasonal agricultural performance using data analytics and visualization. It explores crop yield, | dd-crop-yield |
-| [Anamika-Suresh/potato-leaf-disease-prediction](https://github.com/Anamika-Suresh/potato-leaf-disease-prediction) | 0 | Jupyter Notebook | Potato leaf disease prediction using CNN model | crop-potato-model |
-| [Anamika-Thakur/GenAI_FarmPact](https://github.com/Anamika-Thakur/GenAI_FarmPact) | 0 | HTML |  | soil-carbon-crop |
 
-The 11271 remaining candidates, with fewer stars, are in `catalog/repositories.json`.
+The 11309 remaining candidates, with fewer stars, are in `catalog/repositories.json`.
