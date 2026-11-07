@@ -2,7 +2,7 @@
 
 Repositories found by discovery that nobody has classified yet. To list one, add it to `config/seeds.json`; to reject one, record it with a reason in `config/excluded.json`. Forks are not listed unless curated.
 
-107231 tracked · 15291 listed · 78836 excluded · 795 forks · **12309 awaiting review**
+107253 tracked · 15291 listed · 78836 excluded · 796 forks · **12330 awaiting review**
 
 | Repository | ★ | Language | Description | Found by |
 |---|---|---|---|---|
@@ -20,6 +20,8 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [siciliatech/visualizador-neuronas](https://github.com/siciliatech/visualizador-neuronas) | 3 | HTML | Visualizador local de activación neuronal de un transformer: mira qué neuronas se encienden mientras un modelo de lengua | mdl-expert-n |
 | [sigilante/lean-ski](https://github.com/sigilante/lean-ski) | 3 | Lean |  | mdl-psims |
 | [the-linux-nerd/expert-nerd-sysadmin](https://github.com/the-linux-nerd/expert-nerd-sysadmin) | 3 | Shell |  | mdl-expert-n |
+| [changshengyu/substore-scripts](https://github.com/changshengyu/substore-scripts) | 2 | JavaScript | Clash覆写规则 | mdl-substor |
+| [codebynazmul/F-S](https://github.com/codebynazmul/F-S) | 2 | TypeScript |  | rd-crop-growth-model |
 | [coolhfei/BloomPen](https://github.com/coolhfei/BloomPen) | 2 | TypeScript | 妙笔生花，提供宣传物料生成的AI工具。输入一句品牌简报，1 分钟拿到一整套能直接用的品牌物料。 不是给你一张图，而是一套系统： 品牌规范单页 + 5 页宣传册（PDF 带真实文字层） + 主视觉海报 + 社媒三件套（方图/竖图/横图）+ 易 | zh-crop-yield |
 | [haiyu-web/SmartAgri-Big-Data-Analytics-Platform](https://github.com/haiyu-web/SmartAgri-Big-Data-Analytics-Platform) | 2 | Python | 本项目以“智慧农业电商平台”为业务背景，构建了一套端到端的大数据自动化分析与预测系统。面对海量的农产品订单数据，该系统旨在打通从数据生成、采集清洗、集中存储、数仓建模到智能预测与可视化展示的全链路流程。通过提取数据价值，系统能够输出多维度的 | zh-yield-prediction |
 | [HaseebKhalid1507/Axon](https://github.com/HaseebKhalid1507/Axon) | 2 | Rust | Fast, cheap LLM inference engine written from scratch in Rust + CUDA. Runs GGUF models (Qwen, Llama, Gemma, Mistral, MoE | mdl-expert-n |
@@ -34,6 +36,7 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [gnz-b/interviewNotice](https://github.com/gnz-b/interviewNotice) | 1 |  | 前端面试 常见知识点整理 | cn-crop-model |
 | [GuillaumeBarreau/claude-config](https://github.com/GuillaumeBarreau/claude-config) | 1 | JavaScript |  | mdl-expert-n |
 | [halilunaziru73-creator/Operationalizing-GIS-and-Machine-Learning-across-Contrasting-Cropping-Systems](https://github.com/halilunaziru73-creator/Operationalizing-GIS-and-Machine-Learning-across-Contrasting-Cropping-Systems) | 1 | Python | GIS, remote sensing, and machine learning for precision agriculture across three Portuguese cropping systems: maize fert | cropping-systems, gen-cropping-system |
+| [kai233y/esp32-smart-agriculture](https://github.com/kai233y/esp32-smart-agriculture) | 1 | Python | ESP32智慧农业：环境感知、本地智能控制、ESP32-CAM采图及病虫害模型训练与推理 | zh-agri-model |
 | [koushikmondal22/todo-list-python](https://github.com/koushikmondal22/todo-list-python) | 1 | Python | A beginner Python command-line To-Do List application. | mdl-lpy |
 | [lexiloughlin/pig-city](https://github.com/lexiloughlin/pig-city) | 1 | HTML |  | mdl-pcse |
 | [MacCracken/ai-hwaccel](https://github.com/MacCracken/ai-hwaccel) | 1 | Python | Rust AI Hardware Acceleration & Optimization | mdl-cyml |
@@ -45,6 +48,7 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [rpaperez/PalmPlanner](https://github.com/rpaperez/PalmPlanner) | 1 | HTML | Interactive Oil-Palm based Agroforestry Design Tool | crop-oil-palm |
 | [Samukashvili/VoiceReady](https://github.com/Samukashvili/VoiceReady) | 1 | C# | External voice command assistant for Ready or Not. Speak officer orders aloud and have them executed in-game via read-on | topic-swat |
 | [sandeepmuttvarpu-png/Sandwich-cpp](https://github.com/sandeepmuttvarpu-png/Sandwich-cpp) | 1 | C++ | Unified high-performance LLM engine combining dynamic MoE expert staging, TurboQuant 4-bit KV compression, and auto-disp | mdl-expert-n |
+| [saurabhburnwal/go-farm-frontend](https://github.com/saurabhburnwal/go-farm-frontend) | 1 | JavaScript | React frontend for GoFarm: crop production predictions, dashboards, farming tips and government scheme info (Material UI | dd-crop-production-prediction |
 | [sohel3shaikh/Polymathix](https://github.com/sohel3shaikh/Polymathix) | 1 | Python | “Universal Autonomous AI Discovery OS for Life Sciences & Materials Science: Plants, Animals, Human Therapeutics, Microb | topic-crop-science |
 | [Tess-Kern/TessKern](https://github.com/Tess-Kern/TessKern) | 1 | HTML | Personal site and blog of Tess Kern: data science in R for crop modeling, genomic prediction, and plant breeding. | gen-crop-modeling, gen-crop-modelling |
 | [wangyk10086/LIS-VLA](https://github.com/wangyk10086/LIS-VLA) | 1 | Python | LIS-VLA: Latent Imagination Search VLA, built on RynVLA-002 | mdl-expert-n |
@@ -180,7 +184,7 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [767172261/Build-an-environment-from-scratch-to-train-the-model-of-the-rice-maturity-detection-data-set-How-to-](https://github.com/767172261/Build-an-environment-from-scratch-to-train-the-model-of-the-rice-maturity-detection-data-set-How-to-) | 0 |  | 从零开始搭建环境 训练水稻成熟度检测数据集的模型 如何使用YOLOv8训练水稻穗成熟度数据集 检测水稻成熟状态中的稻花 稻谷未成熟 稻谷成熟 | crop-rice-model, zh-rice-model |
 | [767172261/Build-and-optimize-UAVbased-agricultural-monitoring-system-intelligent-monitoring-and-analysis-for-r](https://github.com/767172261/Build-and-optimize-UAVbased-agricultural-monitoring-system-intelligent-monitoring-and-analysis-for-r) | 0 |  | 构建和优化基于无人机的农业监测系统，针对水稻生长状态的智能监控与分析 深度学习框架YOLO模型算法训练无人机水稻稻穗检测数据集 (1) | zh-agri-model, zh-rice-growth |
 | [767172261/Deep-Learning-How-the-YOLOv8-Model-Trains-Corn-Seedlings-Weed-Detection-Dataset-How-to-Build-a-YOLOv](https://github.com/767172261/Deep-Learning-How-the-YOLOv8-Model-Trains-Corn-Seedlings-Weed-Detection-Dataset-How-to-Build-a-YOLOv) | 0 |  | 深度学习YOLOv8模型如何训练玉米幼苗杂草检测数据集  如何构建基于 YOLOv8 的玉米幼苗与杂草识别系统 (1) | zh-maize-model |
-| [767172261/Deep-learning-YOLO-model-In-mature-cotton-field-scenarios-the-detection-of-magazine-impurities-scatt](https://github.com/767172261/Deep-learning-YOLO-model-In-mature-cotton-field-scenarios-the-detection-of-magazine-impurities-scatt) | 0 |  | 深度学习YOLO模型在 成熟棉花田场景中，对散落在土壤上的“杂志”类杂质进行检测，可用于开发棉花产区智能化清洁与质量预警系统 成熟棉花花壤杂质数据集 棉花杂质检测数据集 | zh-yield-prediction |
+| [767172261/Deep-learning-YOLO-model-In-mature-cotton-field-scenarios-the-detection-of-magazine-impurities-scatt](https://github.com/767172261/Deep-learning-YOLO-model-In-mature-cotton-field-scenarios-the-detection-of-magazine-impurities-scatt) | 0 |  | 深度学习YOLO模型在 成熟棉花田场景中，对散落在土壤上的“杂志”类杂质进行检测，可用于开发棉花产区智能化清洁与质量预警系统 成熟棉花花壤杂质数据集 棉花杂质检测数据集 | crop-cotton-model, zh-yield-prediction |
 | [767172261/How-to-use-the-deep-learning-framework-PyTorch-and-segmentation-model-UNet-for-training-greenhouse-s](https://github.com/767172261/How-to-use-the-deep-learning-framework-PyTorch-and-segmentation-model-UNet-for-training-greenhouse-s) | 0 |  | 如何使用深度学习框架（PyTorch）和分割模型（U-Net）进行训练大棚分割数据集，40765对影像，16.9g数据量，0.8米高分二，手工标注（arcgis标注）大规模农业大棚分割数据集语义分割 | zh-agri-model |
 | [767172261/Intelligent-AI-farmland-recognition-Farmland-area-detection-Farmland-division-recognition-Smokesensi](https://github.com/767172261/Intelligent-AI-farmland-recognition-Farmland-area-detection-Farmland-division-recognition-Smokesensi) | 0 |  | 智能AI耕地识别 耕地区域检测 耕地划分识别 烟感农田耕地分割识别数据集 图像数据集 图像分割数据集第10649期 | cn-crop-growth |
 | [767172261/PyTorch-and-torchvision-are-used-as-examples-how-to-use-the-pretrained-ResNet-model-to-train-the-14-](https://github.com/767172261/PyTorch-and-torchvision-are-used-as-examples-how-to-use-the-pretrained-ResNet-model-to-train-the-14-) | 0 |  | PyTorch和torchvision为例，如何使用预训练的ResNet模型来训练水稻虫害分类数据集 14类 从数据准备到模型训练、评估全流程 | zh-rice-model |
@@ -265,6 +269,7 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [abasse-ali/projet_php_bd](https://github.com/abasse-ali/projet_php_bd) | 0 | PHP |  | fr-crop-model |
 | [Abaychandrasurya/Smart-AgroTech](https://github.com/Abaychandrasurya/Smart-AgroTech) | 0 | C++ | A Smart farming system that monitors various environmental factors and automates tasks like irrigation and fertilization | dd-crop-yield |
 | [abbosch1k/Virtual-Plant-Care](https://github.com/abbosch1k/Virtual-Plant-Care) | 0 | C++ | Virtual Plant Care | proc-virtual-plant |
+| [AbbyAbbyAbbyAbby/hydownloader](https://github.com/AbbyAbbyAbbyAbby/hydownloader) | 0 | Python | Alternative downloader system for Hydrus, based on gallery-dl. | mdl-hydrus |
 | [abddinuooamr-lgtm/wheat-sustainability-analytics](https://github.com/abddinuooamr-lgtm/wheat-sustainability-analytics) | 0 |  | Data-driven analysis to optimize wheat yield and resource efficiency | dd-wheat-yield |
 | [abddinuooamr-lgtm/wheat-sustainability-analytics-1](https://github.com/abddinuooamr-lgtm/wheat-sustainability-analytics-1) | 0 |  | Data-driven analysis to optimize wheat yield and resource efficiency | dd-wheat-yield |
 | [Abdelhafid-ZEHAR/4rd-place-solution-for-CGIAR-Wheat-Growth-Stage-Challenge](https://github.com/Abdelhafid-ZEHAR/4rd-place-solution-for-CGIAR-Wheat-Growth-Stage-Challenge) | 0 | Jupyter Notebook |  | crop-wheat-growth |
@@ -780,6 +785,7 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [Alemzhan-A/IRRISmart](https://github.com/Alemzhan-A/IRRISmart) | 0 | TypeScript |  | crop-growth |
 | [AlessioChecchin/latex_template](https://github.com/AlessioChecchin/latex_template) | 0 | TeX |  | mdl-cropbox |
 | [aleviannaf/expert-note](https://github.com/aleviannaf/expert-note) | 0 | TypeScript | Um gerenciador de notas por áudio | mdl-expert-n |
+| [alex-nguyen-tiw/alex-nguyen-tiw.github.io](https://github.com/alex-nguyen-tiw/alex-nguyen-tiw.github.io) | 0 | HTML | Open US Unisex T-Shirt Sizing, Chest-to-Fit Model & Cotton Shrinkage Reference | crop-cotton-model |
 | [Alex-Qusmi/Crop_Yield_Perdictor](https://github.com/Alex-Qusmi/Crop_Yield_Perdictor) | 0 | HTML |  | dd-crop-yield |
 | [alex040428/Final_Project_Geol0069](https://github.com/alex040428/Final_Project_Geol0069) | 0 | Jupyter Notebook |  | soil-carbon-crop |
 | [alex9r/habbitGarden](https://github.com/alex9r/habbitGarden) | 0 | C++ | Flutter-based cross-platform habit tracking app that models user consistency as a dynamic plant lifecycle system. Uses s | gen-plant-growth-model |
@@ -1000,11 +1006,5 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [anaamika05/ML-LAB-2547212](https://github.com/anaamika05/ML-LAB-2547212) | 0 |  | Machine Learning Lab Assignment - India Air Quality and Crop Yield Analysis using Python, Pandas, Matplotlib and Seaborn | dd-crop-yield |
 | [anaceciliaa/react-expert-notes](https://github.com/anaceciliaa/react-expert-notes) | 0 | TypeScript | Bloco de notas digital com React que converte áudio em texto. | mdl-expert-n |
 | [anaconda186/GardenPlanner](https://github.com/anaconda186/GardenPlanner) | 0 | TypeScript |  | rd-soil-water-balance |
-| [anacornachi/grupo-24](https://github.com/anacornachi/grupo-24) | 0 | Jupyter Notebook |  | es-crop-model |
-| [anadebarros/crop_yield](https://github.com/anadebarros/crop_yield) | 0 | Jupyter Notebook | Python-based data analysis and a simple machine learning task to explore the relationship between climate variables and | dd-crop-yield |
-| [anaguilarar/CDH_Skills](https://github.com/anaguilarar/CDH_Skills) | 0 | Jupyter Notebook |  | crop-model, model-aquacrop |
-| [anaguilarar/WitchesBroom](https://github.com/anaguilarar/WitchesBroom) | 0 | Jupyter Notebook |  | canopy-photosynthesis, mdl-gaez |
-| [Anais-GD/AEI-Trabajo10-CropYield-ML](https://github.com/Anais-GD/AEI-Trabajo10-CropYield-ML) | 0 |  | Estimación de rendimiento de cultivos con Machine Learning | dd-crop-yield, es-rendimiento-cultivos |
-| [anakinpalinyot29/oil-palm-nutrient-estimation](https://github.com/anakinpalinyot29/oil-palm-nutrient-estimation) | 0 | Jupyter Notebook | Machine learning system to estimate key nutrient levels (N, P, K, Mg) in oil palm leaves using spectroradiometer data, p | crop-oil-palm |
 
-The 11309 remaining candidates, with fewer stars, are in `catalog/repositories.json`.
+The 11330 remaining candidates, with fewer stars, are in `catalog/repositories.json`.

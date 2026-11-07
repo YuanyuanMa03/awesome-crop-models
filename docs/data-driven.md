@@ -797,7 +797,7 @@ Statistical and machine-learning models that predict crop variables (yield, grow
 #### Python
 
 - [JiaxuanYou/crop_yield_prediction](https://github.com/JiaxuanYou/crop_yield_prediction) - Crop Yield Prediction with Deep Learning. `★ 422` `no licence`
-- [gabrieltseng/pycrop-yield-prediction](https://github.com/gabrieltseng/pycrop-yield-prediction) - A PyTorch Implementation of Jiaxuan You's Deep Gaussian Process for Crop Yield Prediction. `★ 200` `MIT`
+- [gabrieltseng/pycrop-yield-prediction](https://github.com/gabrieltseng/pycrop-yield-prediction) - A PyTorch Implementation of Jiaxuan You's Deep Gaussian Process for Crop Yield Prediction. `★ 201` `MIT`
 - [saeedkhaki92/CNN-RNN-Yield-Prediction](https://github.com/saeedkhaki92/CNN-RNN-Yield-Prediction) - This repository contains codes for the paper entitled "A CNN-RNN Framework for Crop Yield Prediction". `★ 163` `no licence`
 - [omroy07/AgriTech](https://github.com/omroy07/AgriTech) - AgriTech is an AI-powered web platform that offers crop recommendations, yield prediction, disease detection, and collaborative tools to empower farmers and promote smart, sustainable agriculture. `★ 127` `custom licence`
 - [AnnaXWang/deep-transfer-learning-crop-prediction](https://github.com/AnnaXWang/deep-transfer-learning-crop-prediction) - Deep transfer learning techniques for crop yield prediction, published in COMPASS 2018. Best Presentation Winner. `★ 68` `MIT`
@@ -1426,6 +1426,7 @@ Statistical and machine-learning models that predict crop variables (yield, grow
 - [Mahi1407/AI-ML-Model-for-Crop-Monitoring-and-Crop-Yielding-Prediction](https://github.com/Mahi1407/AI-ML-Model-for-Crop-Monitoring-and-Crop-Yielding-Prediction) - No description provided. `★ 1` `no licence`
 - [makadiyapreet/AgroSphere_SQL_project](https://github.com/makadiyapreet/AgroSphere_SQL_project) - A MySQL database with 15 tables (10,028 records) for smart agriculture, featuring crop yield prediction, carbon footprint tracking, soil health monitoring, and farm-to-fork traceability. Built with… `★ 1` `no licence`
 - [makhmudlp/crop_yield_prediction](https://github.com/makhmudlp/crop_yield_prediction) - For the paper: Machine Learning Regression for Crop Yield Prediction: Model Comparison, Feature Selection, and SHAP-Based Interpretation. `★ 1` `no licence`
+- [mangiudaysaikumar/Crop-Yield-Prediction-](https://github.com/mangiudaysaikumar/Crop-Yield-Prediction-) - Crop Yield Prediction InCase Of : Maize and Iris Potato. `★ 1` `no licence`
 - [manit9459/Crop-Yield-Prediction-using-Machine-Learning-and-Calulating-Net-Returns-Profits-using-TK-Solver-6.0](https://github.com/manit9459/Crop-Yield-Prediction-using-Machine-Learning-and-Calulating-Net-Returns-Profits-using-TK-Solver-6.0) - Crop yield prediction with machine learning. `★ 1` `no licence`
 - [Manjunath2006548/BioDigital-Twin-Agri-Engine](https://github.com/Manjunath2006548/BioDigital-Twin-Agri-Engine) - An award-winning Bio-Digital Twin and Predictive Yield Engine built to eliminate "Data Blindness" in agriculture. Featuring a Flask-driven heuristic model, it simulates crop stress, prescribes… `★ 1` `no licence`
 - [MaroofTechSorcerer/Crop-Yield-Prediction-System](https://github.com/MaroofTechSorcerer/Crop-Yield-Prediction-System) - Crop yield prediction. `★ 1` `no licence`
@@ -2092,6 +2093,5 @@ Statistical and machine-learning models that predict crop variables (yield, grow
 - [akshita122003/Prediction-of-Agriculture-Crop-Production](https://github.com/akshita122003/Prediction-of-Agriculture-Crop-Production) - Crop yield prediction. `no licence`
 - [akshitaganu/Crop-Yield-Prediction](https://github.com/akshitaganu/Crop-Yield-Prediction) - The aim of this project is to predict crop yield using the dataset provided from Crop Yield Prediction. The dataset includes various environmental and agricultural factors such as rainfall… `no licence`
 - [akshitha-prof/crop-yield-predictor](https://github.com/akshitha-prof/crop-yield-predictor) - Crop yield prediction for Indian farmers using Random Forest & Gradient Boosting. Includes R statistical analysis (ggplot2), crop recommender system and Tableau dashboard. `no licence`
-- [aksstart/CropYieldPrediction](https://github.com/aksstart/CropYieldPrediction) - Crop yield prediction. `no licence`
 
 Continued on [page 2](data-driven-2.md).

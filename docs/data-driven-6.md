@@ -8,7 +8,6 @@ Continued from [page 5](data-driven-5.md). See the [contents](data-driven.md#con
 
 #### R (continued)
 
-- [asavelaolona/maize-yield-project](https://github.com/asavelaolona/maize-yield-project) - Maize yield prediction. `no licence`
 - [etiennelord/smartland_article](https://github.com/etiennelord/smartland_article) - Source code and data for the article: Yield Forecasting in Maize: Performance and Limits of Unmanned Aerial Vehicle and PlanetScope Remote Sensing Across Multiple Growth Cycles. `MIT`
 - [fatmaoz25/ReactionNormGenomicPrediction](https://github.com/fatmaoz25/ReactionNormGenomicPrediction) - The aim of this study is to predict grain yield (tons/hect.) of a set of maize hybrids sharing a common parent by using their genomic and reaction norm data. All of the analysis was conducted using R. `no licence`
 - [flofechter/Maize-yield-project](https://github.com/flofechter/Maize-yield-project) - Maize yield prediction. `no licence`
@@ -56,6 +55,7 @@ Continued from [page 5](data-driven-5.md). See the [contents](data-driven.md#con
 - [ceavilest/Maize_Yield_Prediction_Whispers2022](https://github.com/ceavilest/Maize_Yield_Prediction_Whispers2022) - Supplemental Material for MAIZE YIELD PREDICTION BASED ON MULTI-MODALITY REMOTE SENSING AND LSTM MODELS IN NITROGEN MANAGEMENT PRACTICE TRIALS. `★ 1` `no licence`
 - [ChichiJi222/Regression-Model-for-Corn-Yield-prediction](https://github.com/ChichiJi222/Regression-Model-for-Corn-Yield-prediction) - Final Report for Stat 615. `★ 1` `no licence`
 - [FEMJCOMMUNICATION/Maize-crop-yield-prediction-dataset](https://github.com/FEMJCOMMUNICATION/Maize-crop-yield-prediction-dataset) - Maize yield prediction. `★ 1` `no licence`
+- [Jasminesahota/agentic-ai-jetstream2](https://github.com/Jasminesahota/agentic-ai-jetstream2) - Predicting Iowa county corn yield from weather data. `★ 1` `no licence`
 - [jbencook/ac299r](https://github.com/jbencook/ac299r) - AC 299r: Predictive models of crop yield in the corn belt. `★ 1` `no licence`
 - [LY-muyanshiqi/statistical-modeling-corn](https://github.com/LY-muyanshiqi/statistical-modeling-corn) - Maize yield prediction with machine learning. `★ 1` `MIT`
 - [abhinav-vukkadala/Corn-Yield-Prediction](https://github.com/abhinav-vukkadala/Corn-Yield-Prediction) - Maize yield prediction. `no licence`
@@ -85,7 +85,6 @@ Continued from [page 5](data-driven-5.md). See the [contents](data-driven.md#con
 - [HassanNiaB/Nigeria_Maize_Yield_DeepLearning_Vs_Baseline](https://github.com/HassanNiaB/Nigeria_Maize_Yield_DeepLearning_Vs_Baseline) - Comparative benchmark of Deep Learning (LSTM, GRU, Bi-LSTM+Attention, TCN) vs baseline models (Persistence, Random Forest) for maize yield forecasting in Nigeria (2000-2023). Persistence baseline… `no licence`
 - [herlinaaaa/Application-of-Random-Forest-Algorithm-to-Predict-Corn-Yield-based-on-Website](https://github.com/herlinaaaa/Application-of-Random-Forest-Algorithm-to-Predict-Corn-Yield-based-on-Website) - This web application uses Random Forest algorithm to predict corn yield. Built with Python and Flask for the backend, and HTML and CSS for the frontend, this application allows users to input crop… `no licence`
 - [innocent-123/MAIZE-YIELD-PREDICTION](https://github.com/innocent-123/MAIZE-YIELD-PREDICTION) - Maize yield prediction. `no licence`
-- [Jasminesahota/agentic-ai-jetstream2](https://github.com/Jasminesahota/agentic-ai-jetstream2) - Predicting Iowa county corn yield from weather data. `no licence`
 - [JiayuanXu33/Case-322-A-Generative-AI-and-Remote-Sensing-Based-Model-for-Corn-Maturity-](https://github.com/JiayuanXu33/Case-322-A-Generative-AI-and-Remote-Sensing-Based-Model-for-Corn-Maturity-) - A Generative AI and Remote Sensing-Based Model for Corn Maturity Prediction and Harvest Time Decision Optimization. `no licence`
 - [jnel41/CBW_profit_yield](https://github.com/jnel41/CBW_profit_yield) - dataset to estimate long-term yield and profits of corn grain and silage acres in the Chesapeake Bay Watershed. `no licence`
 - [johnzhangzxy/Regression-Model-for-Corn-Yield-prediction](https://github.com/johnzhangzxy/Regression-Model-for-Corn-Yield-prediction) - Maize yield prediction with machine learning. `no licence`
@@ -1324,7 +1323,7 @@ Continued from [page 5](data-driven-5.md). See the [contents](data-driven.md#con
 
 #### Other
 
-- [Beckybams/Soil-Moisture-Prediction-from-Satellite-Data](https://github.com/Beckybams/Soil-Moisture-Prediction-from-Satellite-Data) - Soil Moisture Prediction from Satellite Data uses satellite-derived features and machine learning to estimate soil moisture levels accurately. The project reduces dependence on ground sensors… `★ 34` `no licence`
+- [Beckybams/Soil-Moisture-Prediction-from-Satellite-Data](https://github.com/Beckybams/Soil-Moisture-Prediction-from-Satellite-Data) - Soil Moisture Prediction from Satellite Data uses satellite-derived features and machine learning to estimate soil moisture levels accurately. The project reduces dependence on ground sensors… `★ 35` `no licence`
 - [hungryrag/NSGA-II-trained-Artificial-Neural-Network-in-Soil-Moisture-Quantity-Prediction](https://github.com/hungryrag/NSGA-II-trained-Artificial-Neural-Network-in-Soil-Moisture-Quantity-Prediction) - We trained our deep learning model using evolutionary algorithm Particle Swarm Optimization (PSO) and genetic algorithm Multi‐Objective Optimization using Non‐Dominated Sorting Genetic Algorithm… `★ 2` `MIT`
 - [abnvanand/SoilMoistureModelling](https://github.com/abnvanand/SoilMoistureModelling) - No description provided. `★ 1` `no licence`
 - [akabircs/Soil-Moisture-Imaging-Data](https://github.com/akabircs/Soil-Moisture-Imaging-Data) - Mobile phone captured soil image data for AI-based soil moisture prediction. `★ 1` `CC0-1.0`

@@ -110,7 +110,6 @@ Continued from [page 2](data-driven-2.md). See the [contents](data-driven.md#con
 - [Maneesha24M/Crop-Yield-Prediction-Using-Machine-Learning](https://github.com/Maneesha24M/Crop-Yield-Prediction-Using-Machine-Learning) - Crop yield prediction with machine learning. `no licence`
 - [Maneesha24M/Crop-Yield-Prediction-Using-Machine-Learning-](https://github.com/Maneesha24M/Crop-Yield-Prediction-Using-Machine-Learning-) - A machine learning-based web application that predicts crop yield using agricultural data such as soil type, rainfall, temperature, humidity, and fertilizer information. Built with Python and… `no licence`
 - [MangeshTPawar/Crop-Yield-Prediction-Using-Machine-Learning](https://github.com/MangeshTPawar/Crop-Yield-Prediction-Using-Machine-Learning) - Crop yield prediction with machine learning. `no licence`
-- [mangiudaysaikumar/Crop-Yield-Prediction-](https://github.com/mangiudaysaikumar/Crop-Yield-Prediction-) - Crop Yield Prediction InCase Of : Maize and Iris Potato. `no licence`
 - [Manideepalapati/Crop-yield-prediction](https://github.com/Manideepalapati/Crop-yield-prediction) - Crop yield prediction. `no licence`
 - [manideepnera/Crop_Yield_Prediction](https://github.com/manideepnera/Crop_Yield_Prediction) - Crop yield prediction. `no licence`
 - [manik123455/Crop-Recommendation](https://github.com/manik123455/Crop-Recommendation) - This project is a machine learning–based system that recommends the most suitable crop to grow based on environmental and soil conditions, and also predicts the expected crop yield. It uses… `no licence`
@@ -2019,5 +2018,6 @@ Continued from [page 2](data-driven-2.md). See the [contents](data-driven.md#con
 - [sriya1602/Crop_Yield_Prediction](https://github.com/sriya1602/Crop_Yield_Prediction) - Crop yield prediction model using Python and popular machine learning libraries such as TensorFlow and scikit-learn.With the help of machine learning, we can leverage historical data, weather… `no licence`
 - [srujan1-creator/Exploratory-Data-Analysis-and-Visualization](https://github.com/srujan1-creator/Exploratory-Data-Analysis-and-Visualization) - Crop yield prediction with machine learning. `no licence`
 - [srujan1-creator/Integrated-Business-Recommendation-Report](https://github.com/srujan1-creator/Integrated-Business-Recommendation-Report) - Crop yield prediction with machine learning. `no licence`
+- [srujan1-creator/Statistical-Modeling-and-Prediction](https://github.com/srujan1-creator/Statistical-Modeling-and-Prediction) - Crop yield prediction with machine learning. `no licence`
 
 Continued on [page 4](data-driven-4.md).

@@ -1500,10 +1500,10 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 - [smkuhlani/rDSSAT_Spatialisation](https://github.com/smkuhlani/rDSSAT_Spatialisation) - An R Based approach to spatialise DSSAT and undertake simulations at scale. `★ 1` `no licence`
 - [acarmonacabrero/agwise-dssat-workflow](https://github.com/acarmonacabrero/agwise-dssat-workflow) - AgWise common workflow for DSSAT. `no licence`
 - [alancho/apsim-on-bunya](https://github.com/alancho/apsim-on-bunya) - No description provided. `no licence`
+- [CGIAR-Sustainable-Farming/crop_models](https://github.com/CGIAR-Sustainable-Farming/crop_models) - Spatial crop modeling. `no licence`
 - [DSSAT/pythia2ggcmi](https://github.com/DSSAT/pythia2ggcmi) - Convert pythia raw outputs to GGCMI NetCDF files. `BSD-3-Clause`
 - [DSSAT/pythia_analysis](https://github.com/DSSAT/pythia_analysis) - Post-processing scripts for DSSAT-pythia outputs. `no licence`
 - [DSSAT/supermaas-aggregate-pythia-outputs](https://github.com/DSSAT/supermaas-aggregate-pythia-outputs) - Simple aggregation of Pythia outputs specifically for SuperMaaS in the World Modelers program. `BSD-3-Clause`
-- [EiA2030/crop_models](https://github.com/EiA2030/crop_models) - Spatial crop modeling. `no licence`
 - [isuforesite/ForesiteEmuScripts](https://github.com/isuforesite/ForesiteEmuScripts) - Family of R scripts for the emulation of APSIM. `LGPL-3.0`
 - [mmp2192/AgMIPEmulator](https://github.com/mmp2192/AgMIPEmulator) - No description provided. `no licence`
 - [mmp2192/Emulator-WorldModelers](https://github.com/mmp2192/Emulator-WorldModelers) - No description provided. `no licence`
@@ -2153,6 +2153,7 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 - [fredboudon/fspm2020](https://github.com/fredboudon/fspm2020) - Material for FSPM 2020 presentation. `★ 2` `no licence`
 - [herman-berghuijs/wofost-tutorial-runsource](https://github.com/herman-berghuijs/wofost-tutorial-runsource) - No description provided. `★ 2` `no licence`
 - [mdekauwe/CLIM3001_lab_photosynthesis](https://github.com/mdekauwe/CLIM3001_lab_photosynthesis) - CLIM3001: Modelling the photosynthetic response to environmental conditions. `★ 2` `no licence`
+- [openalea-training/hmba312_training](https://github.com/openalea-training/hmba312_training) - Le materiel pédagogique du module 'Initiation à la modélisation' du master 'Biologie Fonctionnelle des Plantes'. `★ 2` `no licence`
 - [rogerioagjr/wofost-workshop](https://github.com/rogerioagjr/wofost-workshop) - No description provided. `★ 2` `no licence`
 - [UNESCO-Open-Hydrology/SWATPlusForCRIDA-Course](https://github.com/UNESCO-Open-Hydrology/SWATPlusForCRIDA-Course) - No description provided. `★ 2` `MIT`
 - [xcheng20/Greenhouse_Control_Exercise](https://github.com/xcheng20/Greenhouse_Control_Exercise) - No description provided. `★ 2` `no licence`
@@ -2169,7 +2170,6 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 - [kundun14/AquaCrop-Workshop](https://github.com/kundun14/AquaCrop-Workshop) - Use of the AquaCrop model in irrigation management planning for potatoes – Workshop held on June 29, 2025. `★ 1` `no licence`
 - [NERC-CEH/phydrus-cosmosuk-notebook](https://github.com/NERC-CEH/phydrus-cosmosuk-notebook) - Demonstrate the use of phydrus for 1D soil water modelling and the COSMOS-UK API. `★ 1` `MIT`
 - [openalea-training/FSPM_2026](https://github.com/openalea-training/FSPM_2026) - OpenAlea notebooks for FSPM2026 conference. `★ 1` `no licence`
-- [openalea-training/hmba312_training](https://github.com/openalea-training/hmba312_training) - Le materiel pédagogique du module 'Initiation à la modélisation' du master 'Biologie Fonctionnelle des Plantes'. `★ 1` `no licence`
 - [openalea-training/niab_workshop](https://github.com/openalea-training/niab_workshop) - Introductory course to model 3D Plant Architecture (FSPM). `★ 1` `no licence`
 - [openalea-training/supagro_training_2018](https://github.com/openalea-training/supagro_training_2018) - material for supagro training session on modelling maize light interception efficiency. `★ 1` `no licence`
 - [OpenClimateScience/M2-Computational-Climate-Science](https://github.com/OpenClimateScience/M2-Computational-Climate-Science) - Lesson materials for Module 2 (M2), "Open Climate Science for Agriculture". `★ 1` `custom licence`

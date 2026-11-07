@@ -1395,7 +1395,7 @@ Repositories that apply a crop, soil or environmental model to a particular stud
 
 #### Fortran
 
-- [go-bananas-wwj/hongxin_swat_plus](https://github.com/go-bananas-wwj/hongxin_swat_plus) - 红心村流域建模. `no licence`
+- [go-bananas-wwj/hongxin_swat_plus](https://github.com/go-bananas-wwj/hongxin_swat_plus) - Hongxin watershed SWAT+ modelling: geospatial preprocessing, hydrological simulation and calibration experiments. `no licence`
 - [icra/traca](https://github.com/icra/traca) - Projecte Q-SWAT+TRAÇA. `no licence`
 
 <a id="hydrology-java"></a>

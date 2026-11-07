@@ -8,6 +8,7 @@ Continued from [page 1](data-driven.md). See the [contents](data-driven.md#conte
 
 #### Python (continued)
 
+- [aksstart/CropYieldPrediction](https://github.com/aksstart/CropYieldPrediction) - Crop yield prediction. `no licence`
 - [AKSTHIRUMURUGAN/crop_prediction](https://github.com/AKSTHIRUMURUGAN/crop_prediction) - Crop yield prediction with machine learning. `no licence`
 - [Al0kMishra/Farmer-Decision-Support-System](https://github.com/Al0kMishra/Farmer-Decision-Support-System) - AI-powered Farmer Decision Support System that predicts crop yield and estimates crop risk using machine learning and soil data. `no licence`
 - [AlaaLabban/Agricultural_AI](https://github.com/AlaaLabban/Agricultural_AI) - This project is a complete, end-to-end pipeline for agricultural forecasting. It leverages historical weather data to train a suite of machine learning models that can predict future crop yields.… `no licence`

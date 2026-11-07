@@ -8,7 +8,6 @@ Continued from [page 4](data-driven-4.md). See the [contents](data-driven.md#con
 
 #### Other (continued)
 
-- [Kiruthika-B18/Crop-Yield-Prediction-with-alternate-suggestions](https://github.com/Kiruthika-B18/Crop-Yield-Prediction-with-alternate-suggestions) - Crop yield prediction uses data like rainfall, temperature, location, area, crop, and soil type usage to estimate harvest output. It helps farmers choose optimal crops and plan resources for better… `no licence`
 - [Kk272005/Designed-and-Developed-Website-for-AgriPredict-Smart-Crop-Yield-Forecasting-System-](https://github.com/Kk272005/Designed-and-Developed-Website-for-AgriPredict-Smart-Crop-Yield-Forecasting-System-) - Crop yield prediction. `no licence`
 - [klu2300033209/bhanu-crop-yield-prediction](https://github.com/klu2300033209/bhanu-crop-yield-prediction) - Crop yield prediction. `no licence`
 - [knehaprajapati/ai_yield_prediction](https://github.com/knehaprajapati/ai_yield_prediction) - A system which predict yield od crops and also recommend crops on the basis of soil and weather. `no licence`
@@ -1980,5 +1979,6 @@ Continued from [page 4](data-driven-4.md). See the [contents](data-driven.md#con
 - [yhaochen/Climate_CornYield](https://github.com/yhaochen/Climate_CornYield) - No description provided. `★ 2` `no licence`
 - [bensonkenduiywo/yieldprediction](https://github.com/bensonkenduiywo/yieldprediction) - This repo contains maize yield prediction visualization results from RHEAS DSSAT coupled simulation models. `★ 1` `no licence`
 - [blschum/corn-yield-infill](https://github.com/blschum/corn-yield-infill) - Maize yield prediction with machine learning. `★ 1` `no licence`
+- [asavelaolona/maize-yield-project](https://github.com/asavelaolona/maize-yield-project) - Maize yield prediction. `no licence`
 
 Continued on [page 6](data-driven-6.md).
