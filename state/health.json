@@ -1,29 +1,29 @@
 {
   "all_github_coverage_verified": false,
-  "attempted_at": "2026-11-07T10:04:25Z",
+  "attempted_at": "2026-11-08T10:18:40Z",
   "coverage_gaps": {
-    "historical": 157,
+    "historical": 168,
     "recent": 3
   },
-  "finished_at": "2026-11-07T10:09:31Z",
-  "last_healthy_at": "2026-11-07T10:04:25Z",
+  "finished_at": "2026-11-08T10:23:22Z",
+  "last_healthy_at": "2026-11-08T10:18:40Z",
   "last_historical_pass_at": null,
   "maintainer_accounts": {
-    "cycle": 6,
-    "new_repositories": 24,
-    "observed_at": "2026-11-07T10:04:25Z",
-    "pages": 5,
-    "remaining_accounts_or_pages": 0
+    "cycle": 7,
+    "new_repositories": 67,
+    "observed_at": "2026-11-08T10:18:40Z",
+    "pages": 10,
+    "remaining_accounts_or_pages": 24
   },
-  "new_repository_identities": 22,
+  "new_repository_identities": 83,
   "owner_listing_gaps": 0,
   "pending_search_jobs": {
-    "historical": 97,
-    "recent": 85
+    "historical": 83,
+    "recent": 65
   },
-  "previous_healthy_at": "2026-11-06T10:50:43Z",
+  "previous_healthy_at": "2026-11-07T10:04:25Z",
   "recent_search": {
-    "completed_windows": 442,
+    "completed_windows": 462,
     "coverage_gaps": [
       {
         "cycle": 2,
@@ -59,22 +59,22 @@
     "cycle_end": "2026-10-22T11:09:10Z",
     "cycle_start": "2026-09-22T11:09:10Z",
     "cycle_started_at": "2026-10-22T11:09:10Z",
-    "discovered_repositories": 5,
-    "observed_at": "2026-11-07T10:04:25Z",
+    "discovered_repositories": 164,
+    "observed_at": "2026-11-08T10:18:40Z",
     "plan_completed": false,
-    "remaining_jobs": 85,
+    "remaining_jobs": 65,
     "requests": 20,
     "status": "partial",
     "unresolved_gap_count": 3
   },
   "refresh": {
     "checked_repositories": 40,
-    "known_identities": 28395,
+    "known_identities": 28417,
     "new_repositories": 0,
-    "observed_at": "2026-11-07T10:04:25Z",
+    "observed_at": "2026-11-08T10:18:40Z",
     "seed_count": 15291
   },
   "requests": 160,
   "status": "partial_budget",
-  "tracked_repositories": 28417
+  "tracked_repositories": 28500
 }

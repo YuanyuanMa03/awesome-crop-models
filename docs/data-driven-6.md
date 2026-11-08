@@ -1697,7 +1697,7 @@ Continued from [page 5](data-driven-5.md). See the [contents](data-driven.md#con
 #### Python
 
 - [ChromaticPanic/CGC_Grain_Outcome_Predictions](https://github.com/ChromaticPanic/CGC_Grain_Outcome_Predictions) - No description provided. `★ 4` `no licence`
-- [anxmeshhh/Physics-Informed-ViT-Graph-for-Crop-Disease-Forecasting](https://github.com/anxmeshhh/Physics-Informed-ViT-Graph-for-Crop-Disease-Forecasting) - Forecasts crop disease risk 1–7 days ahead by fusing a frozen Vision Transformer, real ERA5 meteorology, and a wind-aware farm graph under a physics-informed loss. `★ 1` `MIT`
+- [anxmeshhh/Physics-Informed-ViT-Graph-for-Crop-Disease-Forecasting](https://github.com/anxmeshhh/Physics-Informed-ViT-Graph-for-Crop-Disease-Forecasting) - Forecasts crop disease risk 1–7 days ahead by fusing a frozen Vision Transformer, real ERA5 meteorology, and a wind-aware farm graph under a physics-informed loss. `★ 2` `MIT`
 - [fenicXs/Wheat-Rust-Forecast-Ethiopia](https://github.com/fenicXs/Wheat-Rust-Forecast-Ethiopia) - No description provided. `★ 1` `no licence`
 - [Fgarm/paper-soybean-rust-severity-prediction](https://github.com/Fgarm/paper-soybean-rust-severity-prediction) - A repository for the data and the codes (to be) used for the paper on soybean rust severity prediction using machine learning models. `★ 1` `no licence`
 - [hanzi4389604/Blackleg_factor_analysis](https://github.com/hanzi4389604/Blackleg_factor_analysis) - This project is mainly focus on buiding ML and DL models in predicting blackleg disease pendamic based on weather and farming conditions such as crop rotation and pest control. `★ 1` `no licence`

@@ -677,7 +677,7 @@ Process-based models of soil, water, climate, pests and other agricultural proce
 
 #### Julia
 
-- [cropbox/CropRootBox.jl](https://github.com/cropbox/CropRootBox.jl) - 🪴 example of root system architecture simulation like CRootBox. `★ 2` `MIT`
+- [cropbox/CropRootBox.jl](https://github.com/cropbox/CropRootBox.jl) - 🪴 example of root system architecture simulation like CRootBox. `★ 3` `MIT`
 - [bspanoghe/ERT_Roots](https://github.com/bspanoghe/ERT_Roots) - No description provided. `MIT`
 - [lobetb/ArchiJulia](https://github.com/lobetb/ArchiJulia) - Translation of ArchiSimple from cpp to Julia. `no licence`
 - [takashi2024/root-fspm-minirhizotron](https://github.com/takashi2024/root-fspm-minirhizotron) - Parameterization of a Functional-Structural Plant Model from Minirhizotron Observations: CMA-ES vs Simulation-Based Inference. `no licence`
@@ -1540,7 +1540,7 @@ Process-based models of soil, water, climate, pests and other agricultural proce
 - [woodcrafty/PyETo](https://github.com/woodcrafty/PyETo) - Reference and potential evapotranspiration calculation routines. `★ 179` `BSD-3-Clause`
 - [hectornieto/pyTSEB](https://github.com/hectornieto/pyTSEB) - Two-source energy balance calculations for vegetation evapotranspiration. `★ 172` `GPL-3.0`
 - [pyet-org/pyet](https://github.com/pyet-org/pyet) - Reference and potential evaporation estimation methods in Python. `★ 166` `MIT`
-- [kthorp/pyfao56](https://github.com/kthorp/pyfao56) - FAO-56 crop water use and irrigation calculations using dual coefficients. `★ 99` `custom licence`
+- [kthorp/pyfao56](https://github.com/kthorp/pyfao56) - FAO-56 crop water use and irrigation calculations using dual coefficients. `★ 100` `custom licence`
 - [kaust-halo/geeet](https://github.com/kaust-halo/geeet) - Evapotranspiration (ET) models for use in python and with integration into Google Earth Engine. `★ 68` `MIT`
 - [Open-ET/openet-ssebop](https://github.com/Open-ET/openet-ssebop) - Earth Engine SSEBop ET Model. `★ 58` `Apache-2.0`
 - [never-dry/NeverDry](https://github.com/never-dry/NeverDry) - Smart irrigation for Home Assistant — scientific water balance model with per-zone crop coefficients. `★ 56` `MIT`

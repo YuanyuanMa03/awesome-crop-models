@@ -729,7 +729,7 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 - [chrisschuerz/SWATrunR](https://github.com/chrisschuerz/SWATrunR) - Running SWAT projects within R. `★ 80` `GPL-3.0`
 - [femiguez/apsimx](https://github.com/femiguez/apsimx) - R interface for preparing, running, and examining APSIM simulations. `★ 69` `no licence`
 - [shoebodh/hydrusR](https://github.com/shoebodh/hydrusR) - Utility functions to run the HYDRUS-1D soil-water flow model through R. `★ 30` `no licence`
-- [palderman/DSSAT](https://github.com/palderman/DSSAT) - No description provided. `★ 28` `GPL-3.0`
+- [palderman/DSSAT](https://github.com/palderman/DSSAT) - No description provided. `★ 29` `GPL-3.0`
 - [hollorol/RBBGCMuso](https://github.com/hollorol/RBBGCMuso) - RBBGCMuso is a software package that supports the application of the Biome-BGCMuSo biogeochemical model. `★ 26` `GPL-2.0`
 - [biometry/rLPJGUESS](https://github.com/biometry/rLPJGUESS) - A R package that wraps the LPJ-GUESS model. `★ 21` `no licence`
 - [Jeikosd/DSSAT-R](https://github.com/Jeikosd/DSSAT-R) - DSSAT run simulations in R. `★ 20` `no licence`
