@@ -2,14 +2,18 @@
 
 Repositories found by discovery that nobody has classified yet. To list one, add it to `config/seeds.json`; to reject one, record it with a reason in `config/excluded.json`. Forks are not listed unless curated.
 
-107336 tracked · 15291 listed · 78836 excluded · 796 forks · **12413 awaiting review**
+107401 tracked · 15291 listed · 78836 excluded · 796 forks · **12478 awaiting review**
 
 | Repository | ★ | Language | Description | Found by |
 |---|---|---|---|---|
 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | 495701 | Python | A collective list of free APIs | soil-carbon-crop |
+| [xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy) | 7216 | Python | 数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。 | cn-photosynthesis |
 | [PlantSimulationLab/Helios](https://github.com/PlantSimulationLab/Helios) | 112 | C++ | Open-source 3D simulator of plants and their environment: functional-structural plant modeling (FSPM), dynamic plant mod | proc-fspm, proc-photosynthesis-model |
 | [TomasResquin/PdfBooklet](https://github.com/TomasResquin/PdfBooklet) | 59 | Python | Creates booklets from Pdf files, and much more | mdl-cropbox |
+| [kcy4334-lgtm/translate-book-arxiv](https://github.com/kcy4334-lgtm/translate-book-arxiv) | 42 | Python | Translate arXiv papers into book-quality PDFs with parallel sub-agents. Reads the LaTeX source, so equations and the pap | model-stics |
+| [GuangtaoLyu/awesome-hallucination-mllm](https://github.com/GuangtaoLyu/awesome-hallucination-mllm) | 37 |  | MLLM hallucination, LVLM, LLM, Hallucination Mitigation, Training-free hallucination mitigation | mechanistic-crop |
 | [paulcon/as-data-sets](https://github.com/paulcon/as-data-sets) | 33 | Jupyter Notebook | Active Subspace Data Sets | stomatal-processes |
+| [WenchuLiu/Awesome-Few-Shot-Learning](https://github.com/WenchuLiu/Awesome-Few-Shot-Learning) | 26 |  | collection of few-shot papers | mechanistic-crop |
 | [epacces/DVB-S2-Master-Thesis](https://github.com/epacces/DVB-S2-Master-Thesis) | 10 | TeX | BCH-LDPC Concatenated Coding and High Order Modulations for Satellite Transmitters | model-stics |
 | [UTokyo-FieldPhenomics-Lab/SPROUT](https://github.com/UTokyo-FieldPhenomics-Lab/SPROUT) | 10 | Python | Diffusion-pretrained vision foundation models for multi-crop plant phenotyping: organ segmentation, crop–weed parsing, d | proc-crop-weed |
 | [robertorenz/templatemaker](https://github.com/robertorenz/templatemaker) | 9 | Clarion | template maker | model-stics |
@@ -19,8 +23,9 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [zezhix/distributed-crawler](https://github.com/zezhix/distributed-crawler) | 7 | Roff | 第六届中软杯赛题 - 分布式爬虫系统（经纬度团队作品） | cn-crop-model |
 | [Sunshinin11/GTA-2-N64-Recomp](https://github.com/Sunshinin11/GTA-2-N64-Recomp) | 6 | C++ | &#91;Finished&#93; GTA 2 port for Nintendo 64 (libdragon + gta2_re decomp). Source code only - bring your own game data. No furt | model-stics |
 | [YellFunGit/IndoorunSDKIosDemo](https://github.com/YellFunGit/IndoorunSDKIosDemo) | 6 | Objective-C | IndoorunSDK IOS端demo | cn-crop-model |
-| [YuanyuanMa03/awesome-crop-models](https://github.com/YuanyuanMa03/awesome-crop-models) | 6 | Python | Curated, auto-refreshed list of open-source crop and agricultural process models on GitHub | agroecosystem-ghg, functional-structural |
-| [liiilhhh02/pvz_trans](https://github.com/liiilhhh02/pvz_trans) | 3 | Python | Mac / iPhone / Linux 上原生玩《植物大战僵尸杂交版 0.30》（PvZ Hybrid）：不用 CrossOver、虚拟机或串流。免安装 DMG（Intel/Apple Silicon 通用）、Linux x86_64 直 | zh-virtual-plant |
+| [YuanyuanMa03/awesome-crop-models](https://github.com/YuanyuanMa03/awesome-crop-models) | 6 | Python | Curated, auto-refreshed list of open-source crop and agricultural process models on GitHub | agroecosystem-ghg, canopy-photosynthesis |
+| [liiilhhh02/pvz_trans](https://github.com/liiilhhh02/pvz_trans) | 4 | Python | Mac / iPhone / Linux 上原生玩《植物大战僵尸杂交版 0.30》（PvZ Hybrid）：不用 CrossOver、虚拟机或串流。免安装 DMG（Intel/Apple Silicon 通用）、Linux x86_64 直 | zh-virtual-plant |
+| [52CV/ECCV-2026-Papers](https://github.com/52CV/ECCV-2026-Papers) | 3 |  |  | mechanistic-crop |
 | [siciliatech/visualizador-neuronas](https://github.com/siciliatech/visualizador-neuronas) | 3 | HTML | Visualizador local de activación neuronal de un transformer: mira qué neuronas se encienden mientras un modelo de lengua | mdl-expert-n |
 | [sigilante/lean-ski](https://github.com/sigilante/lean-ski) | 3 | Lean |  | mdl-psims |
 | [the-linux-nerd/expert-nerd-sysadmin](https://github.com/the-linux-nerd/expert-nerd-sysadmin) | 3 | Shell |  | mdl-expert-n |
@@ -28,44 +33,61 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [changshengyu/substore-scripts](https://github.com/changshengyu/substore-scripts) | 2 | JavaScript | Clash覆写规则 | mdl-substor |
 | [codebynazmul/F-S](https://github.com/codebynazmul/F-S) | 2 | TypeScript |  | rd-crop-growth-model |
 | [coolhfei/BloomPen](https://github.com/coolhfei/BloomPen) | 2 | TypeScript | 妙笔生花，提供宣传物料生成的AI工具。输入一句品牌简报，1 分钟拿到一整套能直接用的品牌物料。 不是给你一张图，而是一套系统： 品牌规范单页 + 5 页宣传册（PDF 带真实文字层） + 主视觉海报 + 社媒三件套（方图/竖图/横图）+ 易 | zh-crop-coefficient, zh-crop-yield |
+| [d3group/d3-skills](https://github.com/d3group/d3-skills) | 2 | Python | Collection of d3 corporate design skills for presentations, abstracts, interactive explainers, etc. | model-stics |
+| [dangjian/faststudy-knowledge](https://github.com/dangjian/faststudy-knowledge) | 2 | Python | 为 AI Agent 提供可直接查询的中小学教材知识库：99 册教材、8,282 个概念、33,549 条关系。每个概念带释义、易错点、掌握标准、课标领域与教材页码，纯文本、无需数据库。 | cn-photosynthesis |
 | [haiyu-web/SmartAgri-Big-Data-Analytics-Platform](https://github.com/haiyu-web/SmartAgri-Big-Data-Analytics-Platform) | 2 | Python | 本项目以“智慧农业电商平台”为业务背景，构建了一套端到端的大数据自动化分析与预测系统。面对海量的农产品订单数据，该系统旨在打通从数据生成、采集清洗、集中存储、数仓建模到智能预测与可视化展示的全链路流程。通过提取数据价值，系统能够输出多维度的 | zh-yield-prediction |
 | [HaseebKhalid1507/Axon](https://github.com/HaseebKhalid1507/Axon) | 2 | Rust | Fast, cheap LLM inference engine written from scratch in Rust + CUDA. Runs GGUF models (Qwen, Llama, Gemma, Mistral, MoE | mdl-expert-n |
 | [Justinjchen-Cornell/NPA-Investing-Agent](https://github.com/Justinjchen-Cornell/NPA-Investing-Agent) | 2 |  | 不良资产投资智能体知识库 — 基于六本专著提炼的 46 章技能库与实战手册（尽调·估值定价·重组·处置盘活·法律实务·案例精析）。NPA / distressed-asset investing knowledge base & Claud | zh-yield-estimation |
+| [SlideMage/SlideMage](https://github.com/SlideMage/SlideMage) | 2 | Python | Powerful app for creating and managing LaTeX presentation slides. | model-stics |
+| [tetratorus/ascii-screenshot](https://github.com/tetratorus/ascii-screenshot) | 2 | Swift | OCR plus line detection that renders images as layout-aware ASCII text — a cheap way to give text-only LLMs visual conte | model-stics |
 | [YonSci/-Operational-Multi-Model-Seasonal-Forecasting-System](https://github.com/YonSci/-Operational-Multi-Model-Seasonal-Forecasting-System) | 2 | Jupyter Notebook |  | model-aquacrop |
 | [767172261/Use-Python-and-combine-geospatial-data-analysis-libraries-geopandas-rasterio-matplotlib-etc-to-load-](https://github.com/767172261/Use-Python-and-combine-geospatial-data-analysis-libraries-geopandas-rasterio-matplotlib-etc-to-load-) | 1 |  | 使用Python，结合地理空间数据分析库`geopandas`, `rasterio`, `matplotlib`等如何加载、处理、分析以及可视化各地类地上地下碳密度和土壤有机碳密度 | zh-soil-carbon |
 | [987763485/sec-risk-assistant](https://github.com/987763485/sec-risk-assistant) | 1 | Go | 面向企业/团队内部使用的网络安全风险评估系统，打通资产梳理 → 扫描报告导入 → 风险量化 → 整改跟踪 → 报告输出全流程闭环，   并为接入第三方威胁情报 API、对外暴露 MCP 能力预留扩展位。 | zh-yield-estimation |
 | [amy-zyx/everything-brainmap](https://github.com/amy-zyx/everything-brainmap) | 1 | JavaScript |  | cn-photosynthesis |
+| [anqi52338-dev/meigui-](https://github.com/anqi52338-dev/meigui-) | 1 | JavaScript | meiguiqianduan | cn-crop-growth |
 | [aoeno1/ev-truck-battery-sim](https://github.com/aoeno1/ev-truck-battery-sim) | 1 | HTML | 新能源重卡电池系统交互仿真 · 单文件 HTML 生成器（iOS 风 / 零依赖 / 离线可用 / 一屏操作）。含物理模型、四体系数据基准与无头回归验证方法。作者：电流之上（微信公众号） | zh-crop-coefficient, zh-crop-model-name |
+| [automaticdai/rpi-omni-cam](https://github.com/automaticdai/rpi-omni-cam) | 1 | Python | Mini DSLR camera using Raspberry Pi and the high quality camera. | model-stics |
 | [balbonioldershaw901-a11y/lingyun](https://github.com/balbonioldershaw901-a11y/lingyun) | 1 | JavaScript |  | model-wofost |
 | [black-code23/Neervana](https://github.com/black-code23/Neervana) | 1 | Jupyter Notebook |  | model-aquacrop |
 | [Bosco-ChengXiaoLong/cy-pregnancy-server](https://github.com/Bosco-ChengXiaoLong/cy-pregnancy-server) | 1 | Java | 业务主服务后端，小程序（app/cy-pregnancy）的核心 API 服务。承接微信小程序端的所有业务请求：用户档案、产检记录、胎儿生长评估、预产期计算、OCR 报告解析、孕期时序记录、反馈提交等核心业务逻辑；处理用户数据存储、业务校验 | zh-yield-estimation |
+| [bryanwoo988/OilPalmWiki](https://github.com/bryanwoo988/OilPalmWiki) | 1 | JavaScript | Offline trilingual oil palm field reference — 油棕百科 · OPWiki · Wiki Sawit | crop-oil-palm |
 | [BrzostekEcologyLab/Deep-FUN-BioCROP](https://github.com/BrzostekEcologyLab/Deep-FUN-BioCROP) | 1 |  | Depth-resolved bioenergy crop model with plant-microbe interactions down to 100 cm. | gen-crop-modeling, gen-crop-modelling |
 | [cassiel-cai/vchart](https://github.com/cassiel-cai/vchart) | 1 | TypeScript | 最新前端技术栈 ：Vue3.5 、 Electron、TS、 Vite、Pinia、Radix Vue、IndexedDB、 Dexie.js ，与多种知名AI大模型（文心一言/通义千问/ Claude ／Deepseek），手把手带你开发 | cn-photosynthesis |
 | [Dh-ayy1725/Codes-I-write-while-learning-python-as-a-beginner](https://github.com/Dh-ayy1725/Codes-I-write-while-learning-python-as-a-beginner) | 1 |  |  | mdl-lpy |
 | [diegofallas2204/PeakStroke](https://github.com/diegofallas2204/PeakStroke) | 1 | Python | PeakStroke — Sistema de Planificación y Predicción de Rendimiento para Natación | es-prediccion-rendimiento |
 | [EdgardAM1984/Ciencias](https://github.com/EdgardAM1984/Ciencias) | 1 |  | # Repositorios de interés  Lista de repositorios de GitHub revisados el 12 de octubre de 2026, con una descripción breve | model-aquacrop |
+| [fazrigading/GanodermaScout](https://github.com/fazrigading/GanodermaScout) | 1 | Python | &#91;WIP&#93; Photo-based Ganoderma detection for oil palm with cited management advice. Multi-agent RAG, per-palm memory, and a | crop-oil-palm |
 | [fcoliveira-utfpr/agrometeorologiapy](https://github.com/fcoliveira-utfpr/agrometeorologiapy) | 1 | Python | Agrometeorology formulas in Python: solar radiation and relative sunshine duration, air temperature and humidity, radiat | proc-penman |
+| [FelineFantasy/MeowCrunch](https://github.com/FelineFantasy/MeowCrunch) | 1 | Python | MeowCrunch is a text-based farm simulator where you play as Lao Zhang, managing a unique plantation of "MeowCrunch" cats | gen-crop-simulation |
 | [forge-lab-hku/samy-wgen](https://github.com/forge-lab-hku/samy-wgen) | 1 | Python | A Python package for generating continuous, scenario-conditioned hourly weather sequences for building energy simulation | proc-stochastic-weather, proc-weather-generator |
+| [G-Sadi/Nasa-Space-Apps-Challenge-website](https://github.com/G-Sadi/Nasa-Space-Apps-Challenge-website) | 1 | JavaScript |  | canopy-photosynthesis, model-oryza |
 | [gnz-b/interviewNotice](https://github.com/gnz-b/interviewNotice) | 1 |  | 前端面试 常见知识点整理 | cn-crop-model |
 | [GuillaumeBarreau/claude-config](https://github.com/GuillaumeBarreau/claude-config) | 1 | JavaScript |  | mdl-expert-n |
 | [halilunaziru73-creator/Operationalizing-GIS-and-Machine-Learning-across-Contrasting-Cropping-Systems](https://github.com/halilunaziru73-creator/Operationalizing-GIS-and-Machine-Learning-across-Contrasting-Cropping-Systems) | 1 | Python | GIS, remote sensing, and machine learning for precision agriculture across three Portuguese cropping systems: maize fert | cropping-systems, gen-cropping-system |
 | [kai233y/esp32-smart-agriculture](https://github.com/kai233y/esp32-smart-agriculture) | 1 | Python | ESP32智慧农业：环境感知、本地智能控制、ESP32-CAM采图及病虫害模型训练与推理 | zh-agri-model |
 | [Kartik-Varshney-4ks/UP-Arsenic-Prediction](https://github.com/Kartik-Varshney-4ks/UP-Arsenic-Prediction) | 1 | Python | Machine learning project for predicting arsenic contamination in groundwater across Uttar Pradesh using government water | dd-soil-moisture-prediction |
+| [KeremVona/AgriTech](https://github.com/KeremVona/AgriTech) | 1 | TypeScript | A unified precision agriculture platform combining spatial field operations, dynamic automated irrigation scheduling, an | proc-irrigation-scheduling |
 | [kkdnajkdq/wenmaigu-app](https://github.com/kkdnajkdq/wenmaigu-app) | 1 | Python | 基于六智能体协同的非遗数据资产AI估值与融资辅助平台 | zh-yield-estimation |
 | [koushikmondal22/todo-list-python](https://github.com/koushikmondal22/todo-list-python) | 1 | Python | A beginner Python command-line To-Do List application. | mdl-lpy |
 | [lexiloughlin/pig-city](https://github.com/lexiloughlin/pig-city) | 1 | HTML |  | mdl-pcse |
 | [MacCracken/ai-hwaccel](https://github.com/MacCracken/ai-hwaccel) | 1 | Python | Rust AI Hardware Acceleration & Optimization | mdl-cyml |
 | [MasterChief-Zaki/digitalTwin-netlave](https://github.com/MasterChief-Zaki/digitalTwin-netlave) | 1 | Python | netLave digital twin: a simulation-driven twin of a self-powered TSE irrigation forest | proc-irrigation-simulation |
 | [Miranics/Siphelele](https://github.com/Miranics/Siphelele) | 1 | HTML |  | mdl-icasa |
+| [mitchelllisle/data-privacy-papers](https://github.com/mitchelllisle/data-privacy-papers) | 1 |  |  | model-stics |
+| [mktippett/tex-utility](https://github.com/mktippett/tex-utility) | 1 | TeX |  | model-stics |
+| [Mrawaisanjum56/ML-Wheat_Classification_Model](https://github.com/Mrawaisanjum56/ML-Wheat_Classification_Model) | 1 | Python | A ML model that take input wheat image and analyze quality of wheat grains and categories into Good, Bad, Average, and a | crop-wheat-model |
+| [Noknow13/STM32](https://github.com/Noknow13/STM32) | 1 | C | ??STM32??????????????? | cn-crop-growth |
 | [okbingqingyujie/ai-pm-all-in-rag-lab](https://github.com/okbingqingyujie/ai-pm-all-in-rag-lab) | 1 |  | AI 产品经理的 All-in-RAG 中文学习笔记：方案取舍、检索评估与原创验收练习；独立整理，尚未实测 | zh-yield-estimation |
 | [omerfys/Typerfy](https://github.com/omerfys/Typerfy) | 1 | HTML | Generative Botanical Typography Engine & Type Garden &#124; Living Plant Typography, Kinetic Canvas Art, Procedural Ivy & Sak | gen-plant-growth-simulation |
 | [parthvarute09/Rice-Crop-Forecasting](https://github.com/parthvarute09/Rice-Crop-Forecasting) | 1 | Jupyter Notebook | A machine learning-based Rice Crop Yield Forecasting System that analyzes agricultural and environmental factors to pred | dd-crop-yield-forecast, dd-crop-yield-forecasting |
 | [prguaita/O3-Deposition-model-for-wheat](https://github.com/prguaita/O3-Deposition-model-for-wheat) | 1 | MATLAB | Code for “Global flux-based assessment reveals declining ozone risk for wheat in future climate change scenarios” (Guait | crop-wheat-model |
 | [PunnatornSompadung/Video-Audio-Convert-to-Low-And-High-Quality-With-Youtube-Link-.py-](https://github.com/PunnatornSompadung/Video-Audio-Convert-to-Low-And-High-Quality-With-Youtube-Link-.py-) | 1 | Python | Only .py (python) can run this code | mdl-lpy |
+| [quitkelvin/ha-gardena-app](https://github.com/quitkelvin/ha-gardena-app) | 1 | Python | Home Assistant integration for the GARDENA smart system app API: schedules (pause, add, edit, delete), winter pause, val | proc-irrigation-scheduling |
 | [rpaperez/PalmPlanner](https://github.com/rpaperez/PalmPlanner) | 1 | HTML | Interactive Oil-Palm based Agroforestry Design Tool | crop-oil-palm |
 | [Samukashvili/VoiceReady](https://github.com/Samukashvili/VoiceReady) | 1 | C# | External voice command assistant for Ready or Not. Speak officer orders aloud and have them executed in-game via read-on | topic-swat |
 | [sandeepmuttvarpu-png/Sandwich-cpp](https://github.com/sandeepmuttvarpu-png/Sandwich-cpp) | 1 | C++ | Unified high-performance LLM engine combining dynamic MoE expert staging, TurboQuant 4-bit KV compression, and auto-disp | mdl-expert-n |
 | [saurabhburnwal/go-farm-frontend](https://github.com/saurabhburnwal/go-farm-frontend) | 1 | JavaScript | React frontend for GoFarm: crop production predictions, dashboards, farming tips and government scheme info (Material UI | dd-crop-production-prediction |
+| [shadril238/trustshift-pfm](https://github.com/shadril238/trustshift-pfm) | 1 | Jupyter Notebook | Official code for 'Which Reliability Signal to Trust? Output vs. Representation Space Uncertainty Under Distribution Shi | mechanistic-crop |
 | [sohel3shaikh/Polymathix](https://github.com/sohel3shaikh/Polymathix) | 1 | Python | “Universal Autonomous AI Discovery OS for Life Sciences & Materials Science: Plants, Animals, Human Therapeutics, Microb | topic-crop-science |
 | [StuZhong/AssetAppraisalChecker](https://github.com/StuZhong/AssetAppraisalChecker) | 1 | C# | 资产评估报告 Word 文档一致性校检工具 &#124; A Word document consistency checker for asset appraisal reports, built with C# and Open XML SDK. | zh-yield-estimation |
 | [SuDaoYe/IEP_CE_HydroCS_FE_demo](https://github.com/SuDaoYe/IEP_CE_HydroCS_FE_demo) | 1 | Python | 与土木合作的大创项目，华北平原农业需水量分析（卫星图田块识别+遥感数据深度学习需水量+前后端软件适配） | cn-rice-wheat |
@@ -741,7 +763,7 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [Akiladithya/Disease_Prediction-TNAU-](https://github.com/Akiladithya/Disease_Prediction-TNAU-) | 0 | Kotlin | This mobile application predicts Blast and False Smut disease in paddy plants using a TensorFlow Lite (TFLite) model con | proc-plant-architecture |
 | [AKJ980/smart-irrigation-model-](https://github.com/AKJ980/smart-irrigation-model-) | 0 | Jupyter Notebook |  | proc-irrigation-model |
 | [Akki4942X/Crop_Yield_Recommendation](https://github.com/Akki4942X/Crop_Yield_Recommendation) | 0 | JavaScript |  | dd-crop-yield |
-| [akmalkhaniub/kaggriculture-mcts-agent](https://github.com/akmalkhaniub/kaggriculture-mcts-agent) | 0 | Python | Kaggriculture MCTS: UCT Monte-Carlo Tree Search Digital-Twin Farming Agent — An autonomous agricultural planning agent b | gen-digital-twin-agri |
+| [akmalkhaniub/kaggriculture-mcts-agent](https://github.com/akmalkhaniub/kaggriculture-mcts-agent) | 0 | Python | Kaggriculture MCTS: UCT Monte-Carlo Tree Search Digital-Twin Farming Agent — An autonomous agricultural planning agent b | gen-crop-simulation, gen-digital-twin-agri |
 | [AkmalRendiansyah/Model_MaizeLeaf](https://github.com/AkmalRendiansyah/Model_MaizeLeaf) | 0 | Jupyter Notebook |  | crop-maize-model |
 | [akorede033-lgtm/palmatech](https://github.com/akorede033-lgtm/palmatech) | 0 | TypeScript | PALMATECH — AI-powered digital farm management and AI Agronomist for commercial oil palm plantations. | crop-oil-palm |
 | [AkoredeAzeez/irrigation-ml-model](https://github.com/AkoredeAzeez/irrigation-ml-model) | 0 | Jupyter Notebook |  | proc-irrigation-model |
@@ -984,27 +1006,5 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [Ameng2001/clife-agriculture-plugins](https://github.com/Ameng2001/clife-agriculture-plugins) | 0 | JavaScript | clife 农业大模型工程仓库：基础大模型基座(base) + 行业应用(问草/问椒) | crop-growth, zh-agri-model |
 | [AMG-93/Plant-Physiology-Lab-Two](https://github.com/AMG-93/Plant-Physiology-Lab-Two) | 0 | HTML | Virtual Plant Cell Cycle & Mitosis Lab | proc-virtual-plant |
 | [Amgadmj/agrostech](https://github.com/Amgadmj/agrostech) | 0 | TypeScript |  | soil-carbon-crop |
-| [Amgadmj/agrosul](https://github.com/Amgadmj/agrosul) | 0 | TypeScript | 🌾 Agrosul-Tech — Autonomous Precision Agriculture Platform &#124; AI Swarm + Spatial Database + Real-Time Advisory for Brazil | soil-carbon-crop |
-| [amidalaharshitha/tomato_nutrient_recommendation](https://github.com/amidalaharshitha/tomato_nutrient_recommendation) | 0 | HTML | A farmer-friendly tomato nutrient toolkit with support for multiple languages, combining soil type logic, crop rotation | gen-crop-growth |
-| [AMINATA1999/analyse-rendement-mais](https://github.com/AMINATA1999/analyse-rendement-mais) | 0 | Python | Ce projet analyse des données agricoles pour prédire le rendement des cultures en fonction de différents facteurs comme | fr-rendement-cultures |
-| [AmineBounja/Prediction_rendement_agricole](https://github.com/AmineBounja/Prediction_rendement_agricole) | 0 | Python |  | fr-crop-model |
-| [Aminiglory/smart-farming-ai](https://github.com/Aminiglory/smart-farming-ai) | 0 |  | Smart farming ai project | crop-growth |
-| [AminShayanAsl/DssatWeb](https://github.com/AminShayanAsl/DssatWeb) | 0 | CSS |  | model-dssat |
-| [aminujjmaa/-Virtual-Plant-Care-Assistant](https://github.com/aminujjmaa/-Virtual-Plant-Care-Assistant) | 0 | JavaScript |  | proc-virtual-plant |
-| [amirhkhalilian/RayleighRiceModel](https://github.com/amirhkhalilian/RayleighRiceModel) | 0 | MATLAB |  | crop-rice-model |
-| [amirhossiem/Smart-LED-System-for-Plant-Growth-Amirhossein-Elaheh-Daniel-Etiosa](https://github.com/amirhossiem/Smart-LED-System-for-Plant-Growth-Amirhossein-Elaheh-Daniel-Etiosa) | 0 | C++ |  | proc-lsystem |
-| [amirhyous/Square-Root-Computing-Architectures](https://github.com/amirhyous/Square-Root-Computing-Architectures) | 0 | VHDL | Five different architectures for computing square roots using VHDL. | proc-root-architecture |
-| [AMIRMAHMOUDINIA/fulvia-ecp-effector-feature-explorer](https://github.com/AMIRMAHMOUDINIA/fulvia-ecp-effector-feature-explorer) | 0 | Jupyter Notebook | Reproducible Python workflow for curating and exploring sequence features of characterized Fulvia fulva ECP and effector | cropping-systems |
-| [Amith1994/AI-Powered-Dynamic-Crop-Weather-Calendar-Advisory-System](https://github.com/Amith1994/AI-Powered-Dynamic-Crop-Weather-Calendar-Advisory-System) | 0 | Java | AI-Powered Dynamic Crop–Weather Calendar & Advisory System &#124; KSNUAHS Shivamogga & IMD | rd-soil-water-balance |
-| [amithdhage-sustainability/Optimization-of-Rice-Yield-and-Pesticide-Usage](https://github.com/amithdhage-sustainability/Optimization-of-Rice-Yield-and-Pesticide-Usage) | 0 | Jupyter Notebook | Optimization of Rice Yield and Pesticide Usage Using Artificial Neural Networks and Evolutionary Algorithms (NSGA-II) | dd-rice-yield |
-| [amithsharma91/Jarvis-OS](https://github.com/amithsharma91/Jarvis-OS) | 0 |  | JARVIS OS - unified AI operating system architecture and orchestration root | proc-root-architecture |
-| [Amitrajput111/KHETI-SATHI](https://github.com/Amitrajput111/KHETI-SATHI) | 0 | TypeScript |  | crop-growth |
-| [amity-sujit/agro_yoda](https://github.com/amity-sujit/agro_yoda) | 0 | Jupyter Notebook | repo to depict crop yield map over the years for US states using NASS dataset from https://www.nass.usda.gov/datasets/ | dd-crop-yield |
-| [amkaavya2006/agro_smart](https://github.com/amkaavya2006/agro_smart) | 0 |  | It is an irrigation system deployed using basic sensors for environmental data measuring with a dashboard to monitor the | proc-irrigation-model, proc-soil-water-model |
-| [amkusmec/heat_selection](https://github.com/amkusmec/heat_selection) | 0 | R | Analysis of selection on temperature responses in US hybrid maize, 1934-2014 | mdl-hybrid-maize |
-| [Amma-27/Rice-Yields-in-West-Africa](https://github.com/Amma-27/Rice-Yields-in-West-Africa) | 0 | R | AN EXPLORATORY ANALYSIS OF RICE YIELD AND CLIMATE CONDITIONS ACROSS RICE ECOLOGIES IN WEST AFRICA | dd-rice-yield |
-| [ammarfariss/farmfit](https://github.com/ammarfariss/farmfit) | 0 | Python | AI-optimized farm portfolio and spatial layout platform | model-aquacrop |
-| [AmnaBarzan/AI_Agent](https://github.com/AmnaBarzan/AI_Agent) | 0 | Python | AI agent with Langchain. | crop-growth |
-| [amnamukri-23/Crop_Yield](https://github.com/amnamukri-23/Crop_Yield) | 0 | Python |  | dd-crop-yield |
 
-The 11413 remaining candidates, with fewer stars, are in `catalog/repositories.json`.
+The 11478 remaining candidates, with fewer stars, are in `catalog/repositories.json`.

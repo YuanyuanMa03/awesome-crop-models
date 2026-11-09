@@ -389,7 +389,7 @@ Process-based models of soil, water, climate, pests and other agricultural proce
 
 #### Julia
 
-- [VEZY/PlantBiophysics.jl](https://github.com/VEZY/PlantBiophysics.jl) - Plant biophysical models for photosynthesis, conductance, and energy exchange. `★ 34` `MIT`
+- [VEZY/PlantBiophysics.jl](https://github.com/VEZY/PlantBiophysics.jl) - Plant biophysical models for photosynthesis, conductance, and energy exchange. `★ 35` `MIT`
 - [cropbox/LeafGasExchange.jl](https://github.com/cropbox/LeafGasExchange.jl) - 🍃 coupled leaf gas-exchange model. `★ 6` `MIT`
 - [rafaqz/Photosynthesis.jl](https://github.com/rafaqz/Photosynthesis.jl) - A dedicated photosynthesis library in Julia. `★ 4` `custom licence`
 - [Yujie-W/Photosynthesis.jl](https://github.com/Yujie-W/Photosynthesis.jl) - Photosynthesis models for C3 and C4 photosynthesis. `★ 3` `Apache-2.0`
@@ -1540,8 +1540,8 @@ Process-based models of soil, water, climate, pests and other agricultural proce
 - [woodcrafty/PyETo](https://github.com/woodcrafty/PyETo) - Reference and potential evapotranspiration calculation routines. `★ 179` `BSD-3-Clause`
 - [hectornieto/pyTSEB](https://github.com/hectornieto/pyTSEB) - Two-source energy balance calculations for vegetation evapotranspiration. `★ 172` `GPL-3.0`
 - [pyet-org/pyet](https://github.com/pyet-org/pyet) - Reference and potential evaporation estimation methods in Python. `★ 166` `MIT`
-- [kthorp/pyfao56](https://github.com/kthorp/pyfao56) - FAO-56 crop water use and irrigation calculations using dual coefficients. `★ 100` `custom licence`
-- [kaust-halo/geeet](https://github.com/kaust-halo/geeet) - Evapotranspiration (ET) models for use in python and with integration into Google Earth Engine. `★ 68` `MIT`
+- [kthorp/pyfao56](https://github.com/kthorp/pyfao56) - FAO-56 crop water use and irrigation calculations using dual coefficients. `★ 101` `custom licence`
+- [kaust-halo/geeet](https://github.com/kaust-halo/geeet) - Evapotranspiration (ET) models for use in python and with integration into Google Earth Engine. `★ 69` `MIT`
 - [Open-ET/openet-ssebop](https://github.com/Open-ET/openet-ssebop) - Earth Engine SSEBop ET Model. `★ 58` `Apache-2.0`
 - [never-dry/NeverDry](https://github.com/never-dry/NeverDry) - Smart irrigation for Home Assistant — scientific water balance model with per-zone crop coefficients. `★ 56` `MIT`
 - [NASA-DEVELOP/METRIC](https://github.com/NASA-DEVELOP/METRIC) - For estimating daily evapotranspiration from Landsat data. `★ 55` `custom licence`
@@ -2686,7 +2686,7 @@ Process-based models of soil, water, climate, pests and other agricultural proce
 
 #### Modelica
 
-- [queraltab/Greenhouses-Library](https://github.com/queraltab/Greenhouses-Library) - The Greenhouse Modelica Library aims at providing a fully open-source modeling framework for the simulation of greenhouse climate, crop yield and the energy integration of greenhouses with thermal… `★ 56` `BSD-3-Clause`
+- [queraltab/Greenhouses-Library](https://github.com/queraltab/Greenhouses-Library) - The Greenhouse Modelica Library aims at providing a fully open-source modeling framework for the simulation of greenhouse climate, crop yield and the energy integration of greenhouses with thermal… `★ 55` `BSD-3-Clause`
 - [cjchandler/solarGreenhouseV2](https://github.com/cjchandler/solarGreenhouseV2) - greenhouse simulation- unvalidated. `★ 1` `GPL-3.0`
 
 <a id="controlled-environment-python"></a>

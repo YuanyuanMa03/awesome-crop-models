@@ -1997,7 +1997,7 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 
 #### Other
 
-- [ajwdewit/WOFOST_crop_parameters](https://github.com/ajwdewit/WOFOST_crop_parameters) - Parameter sets for the WOFOST crop simulation model implemented in YAML. `★ 83` `no licence`
+- [ajwdewit/WOFOST_crop_parameters](https://github.com/ajwdewit/WOFOST_crop_parameters) - Parameter sets for the WOFOST crop simulation model implemented in YAML. `★ 84` `no licence`
 - [Open-ET/flux-data-footprint](https://github.com/Open-ET/flux-data-footprint) - Footprint estimation and analysis for eddy covariance flux tower data. `★ 34` `Apache-2.0`
 - [DSSAT/dssat-csm-data](https://github.com/DSSAT/dssat-csm-data) - Experimental data files for DSSAT-CSM. `★ 22` `no licence`
 - [QuantGen/MAIZE-HUB](https://github.com/QuantGen/MAIZE-HUB) - No description provided. `★ 10` `no licence`
