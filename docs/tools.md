@@ -743,9 +743,9 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 - [ldemaz/rcropmod](https://github.com/ldemaz/rcropmod) - No description provided. `★ 9` `no licence`
 - [kevinwolz/hisafer](https://github.com/kevinwolz/hisafer) - An R toolbox for the Hi-sAFe biophysical agroforestry model. `★ 8` `no licence`
 - [palderman/dssatR](https://github.com/palderman/dssatR) - R interface to the Decision Support System for Agrotechnology Transfer-Cropping Systems Model (DSSAT-CSM). `★ 8` `no licence`
-- [SticsRPacks/SticsOnR](https://github.com/SticsRPacks/SticsOnR) - A Package to control STICS from R. `★ 8` `LGPL-3.0`
 - [BramDr/VIC_support](https://github.com/BramDr/VIC_support) - Supporting documentation and scripts for VIC. `★ 7` `GPL-3.0`
 - [rsachse/luess](https://github.com/rsachse/luess) - A R package for estimation of ecosystem services based on LPJmL model output. `★ 7` `GPL-2.0`
+- [SticsRPacks/SticsOnR](https://github.com/SticsRPacks/SticsOnR) - A Package to control STICS from R. `★ 7` `LGPL-3.0`
 - [devalc/Pi-VAT](https://github.com/devalc/Pi-VAT) - A post-processing, interactive visualization, and analysis tool to synthesize multi-scenario, multi-watershed outputs from process-based geospatial models WEPP and SWAT. `★ 6` `MIT`
 - [Risk-Team/AquaCropPlotter](https://github.com/Risk-Team/AquaCropPlotter) - AquaCropPlotter is an R Shiny app for processing and visualizing FAO AquaCrop model output files. `★ 6` `no licence`
 - [jknappe/hydrus2r](https://github.com/jknappe/hydrus2r) - R package to import HYDRUS 2D/3D simulation results into R. `★ 5` `MIT`
@@ -1440,7 +1440,7 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 - [DSSAT/pythia](https://github.com/DSSAT/pythia) - Another Gridded Modeling Framework. `★ 28` `no licence`
 - [davidstackio/apsimRegions](https://github.com/davidstackio/apsimRegions) - ApsimRegions is a one-way nested climate-crop modeling framework that links gridded weather data (rain, temperature, radiation, etc.) with the point-specific APSIM crop model. `★ 27` `MIT`
 - [Paloschi/AquaGrid](https://github.com/Paloschi/AquaGrid) - AquaCrop on rasters: zarr in/out, Numba CPU/GPU. `★ 22` `custom licence`
-- [ajwdewit/pyCGMS](https://github.com/ajwdewit/pyCGMS) - Python implementation of Crop Growth Monitoring System as implemented by the EU MARS project. `★ 13` `no licence`
+- [ajwdewit/pyCGMS](https://github.com/ajwdewit/pyCGMS) - Python implementation of Crop Growth Monitoring System as implemented by the EU MARS project. `★ 14` `no licence`
 - [KUL-RSDA/RegionalAC_Py](https://github.com/KUL-RSDA/RegionalAC_Py) - Regional AquaCrop Python wrapper. `★ 12` `no licence`
 - [celray/CoSWAT-Framework](https://github.com/celray/CoSWAT-Framework) - This is the code for setting up the Community SWAT+ Model. It is made to work with Docker so that if software get's updated, it still works. `★ 11` `MIT`
 - [smarsGroup/geo_epic_win](https://github.com/smarsGroup/geo_epic_win) - This package scales EPIC crop simulations across large regions using remote sensing and geospatial data, with a built-in calibration module for local parameter tuning. `★ 8` `BSD-3-Clause`

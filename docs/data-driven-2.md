@@ -8,6 +8,7 @@ Continued from [page 1](data-driven.md). See the [contents](data-driven.md#conte
 
 #### Python (continued)
 
+- [akshitha-prof/crop-yield-predictor](https://github.com/akshitha-prof/crop-yield-predictor) - Crop yield prediction for Indian farmers using Random Forest & Gradient Boosting. Includes R statistical analysis (ggplot2), crop recommender system and Tableau dashboard. `no licence`
 - [aksstart/CropYieldPrediction](https://github.com/aksstart/CropYieldPrediction) - Crop yield prediction. `no licence`
 - [AKSTHIRUMURUGAN/crop_prediction](https://github.com/AKSTHIRUMURUGAN/crop_prediction) - Crop yield prediction with machine learning. `no licence`
 - [Al0kMishra/Farmer-Decision-Support-System](https://github.com/Al0kMishra/Farmer-Decision-Support-System) - AI-powered Farmer Decision Support System that predicts crop yield and estimates crop risk using machine learning and soil data. `no licence`
@@ -2022,7 +2023,5 @@ Continued from [page 1](data-driven.md). See the [contents](data-driven.md#conte
 - [LouisForData/crop-yield-based-on-pollution-levels-linear-regression-model](https://github.com/LouisForData/crop-yield-based-on-pollution-levels-linear-regression-model) - Crop yield prediction with machine learning. `no licence`
 - [Lovindya/Soil-Moisture-Based-Crop-Yield-Prediction-Using-SMAP-Data-and-Cross-Attention-Transformer](https://github.com/Lovindya/Soil-Moisture-Based-Crop-Yield-Prediction-Using-SMAP-Data-and-Cross-Attention-Transformer) - A deep learning-based crop yield prediction model leveraging SMAP soil moisture data and a cross-attention transformer to capture complex spatio-temporal relationships for improved agricultural… `no licence`
 - [lsngmin/crop-yield-prediction](https://github.com/lsngmin/crop-yield-prediction) - Crop yield prediction. `MIT`
-- [lsofiadb/Crop-yield-prediction-model](https://github.com/lsofiadb/Crop-yield-prediction-model) - Crop yield prediction model using data mining algorithms. `no licence`
-- [LucasBoden-da/Agronegocio](https://github.com/LucasBoden-da/Agronegocio) - Previsão de Rendimento de Colheita e Otimização da Irrigação. `MIT`
 
 Continued on [page 3](data-driven-3.md).

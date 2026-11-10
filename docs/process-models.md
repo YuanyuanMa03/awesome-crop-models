@@ -370,7 +370,7 @@ Process-based models of soil, water, climate, pests and other agricultural proce
 
 #### Fortran
 
-- [geco-bern/rsofun](https://github.com/geco-bern/rsofun) - Implements the Simulating Optimal FUNctioning framework for site-scale simulations of ecosystem processes, including model calibration. It contains Fortran 90 modules for the P-model, SPLASH, and… `★ 34` `GPL-3.0`
+- [geco-bern/rsofun](https://github.com/geco-bern/rsofun) - Implements the Simulating Optimal FUNctioning framework for site-scale simulations of ecosystem processes, including model calibration. It contains Fortran 90 modules for the P-model, SPLASH, and… `★ 35` `GPL-3.0`
 - [USDA-ARS-ACSL/2DLEAF](https://github.com/USDA-ARS-ACSL/2DLEAF) - This is an adaptation of 2DSOIL that was developed by Ludmilla Pachepsky to simulate gas transport and photosynthesis inside a leaf. `★ 1` `no licence`
 
 <a id="photosynthesis-glsl"></a>
@@ -1555,19 +1555,19 @@ Process-based models of soil, water, climate, pests and other agricultural proce
 - [WSWUP/RefET](https://github.com/WSWUP/RefET) - ASCE Standardized Reference Evapotranspiration Functions. `★ 24` `Apache-2.0`
 - [wateraccounting/PySEBAL_dev](https://github.com/wateraccounting/PySEBAL_dev) - Python implementation of SEBAL. `★ 23` `Apache-2.0`
 - [Open-ET/openet-ptjpl](https://github.com/Open-ET/openet-ptjpl) - Earth Engine PT-JPL ET Model. `★ 20` `Apache-2.0`
+- [JPL-Evapotranspiration-Algorithms/PT-JPL](https://github.com/JPL-Evapotranspiration-Algorithms/PT-JPL) - Priestley Taylor Jet Propulsion Laboratory (PT-JPL) Evapotranspiration Model Python Implementation. `★ 19` `Apache-2.0`
 - [wwolff7/SEBAL_GRASS](https://github.com/wwolff7/SEBAL_GRASS) - Script to calculate daily evapotranspiration for Landsat images in GRASS GIS 7.X. `★ 19` `no licence`
 - [xlsadai/Potential-Evapotranspiration](https://github.com/xlsadai/Potential-Evapotranspiration) - 应用Penman-Monteith公式计算气象站的潜在蒸散发（PET）. `★ 19` `no licence`
-- [JPL-Evapotranspiration-Algorithms/PT-JPL](https://github.com/JPL-Evapotranspiration-Algorithms/PT-JPL) - Priestley Taylor Jet Propulsion Laboratory (PT-JPL) Evapotranspiration Model Python Implementation. `★ 18` `Apache-2.0`
 - [aquacropos/aquacrop-eto](https://github.com/aquacropos/aquacrop-eto) - Python package for calculating reference/potential evapotranspiration (ETo). `★ 17` `BSD-3-Clause`
 - [avalero92/CropWater-RS](https://github.com/avalero92/CropWater-RS) - Remote Sensing-based Crop Water Requirement and Phenology Toolkit. `★ 15` `GPL-3.0`
 - [et-brasil/openet-geesebal](https://github.com/et-brasil/openet-geesebal) - A new open source model based on the SEBAL (Surface Energy Balance Algorithm for Land) to estimate actual daily and monthly evapotranspiration using historical and recent Landsat images and global… `★ 15` `MIT`
 - [Evapotranspiration/ETo](https://github.com/Evapotranspiration/ETo) - A Python package for calculating reference evapotranspiration. `★ 14` `Apache-2.0`
 - [sciencebyAJ/PTJPL-1D](https://github.com/sciencebyAJ/PTJPL-1D) - Priestley-Taylor Jet Propulsion Laboratory Evapotranspiration Code for 1-dimensional implementation. `★ 14` `MIT`
 - [JPL-Evapotranspiration-Algorithms/PT-JPL-SM](https://github.com/JPL-Evapotranspiration-Algorithms/PT-JPL-SM) - Priestley Taylor Jet Propulsion Laboratory Soil Moisture (PT-JPL-SM) Evapotranspiration Model Python Implementation. `★ 13` `Apache-2.0`
+- [agstack/OpenAgri-IrrigationManagement](https://github.com/agstack/OpenAgri-IrrigationManagement) - The IRM service does Evapotranspiration (ETo) calculations and Soil Moisture Analysis, depending on the specific data input. `★ 11` `EUPL-1.2`
 - [JPL-Evapotranspiration-Algorithms/STIC-JPL](https://github.com/JPL-Evapotranspiration-Algorithms/STIC-JPL) - Surface Temperature Initiated Closure (STIC) Evapotranspiration Model Python Implementation. `★ 11` `no licence`
-- [agstack/OpenAgri-IrrigationManagement](https://github.com/agstack/OpenAgri-IrrigationManagement) - The IRM service does Evapotranspiration (ETo) calculations and Soil Moisture Analysis, depending on the specific data input. `★ 10` `EUPL-1.2`
+- [Open-ET/openet-disalexi](https://github.com/Open-ET/openet-disalexi) - Earth Engine DisALEXI ET Model. `★ 11` `Apache-2.0`
 - [arthur-e/MOD16](https://github.com/arthur-e/MOD16) - A Python implementation of the MOD16 terrestrial evapotranspiration algorithm. `★ 10` `custom licence`
-- [Open-ET/openet-disalexi](https://github.com/Open-ET/openet-disalexi) - Earth Engine DisALEXI ET Model. `★ 10` `Apache-2.0`
 - [montimaj/pyCropWat](https://github.com/montimaj/pyCropWat) - A Python Package for Computing Effective Precipitation Using Google Earth Engine Climate Data. `★ 8` `MIT`
 - [Open-ET/openet-core](https://github.com/Open-ET/openet-core) - OpenET Core Components. `★ 8` `Apache-2.0`
 - [WSWUP/WREVAP](https://github.com/WSWUP/WREVAP) - Operational Estimates of Areal Evapotranspiration and Lake Evaporation. `★ 8` `no licence`
@@ -1880,7 +1880,7 @@ Process-based models of soil, water, climate, pests and other agricultural proce
 - [brycejohnston/evapotranspiration](https://github.com/brycejohnston/evapotranspiration) - Ruby library for calculating reference crop evapotranspiration (ETo). `★ 15` `BSD-3-Clause`
 - [uwent/wisp](https://github.com/uwent/wisp) - Wisconsin Irrigation Scheduling Program (WISP). `★ 2` `no licence`
 - [arsturges/et0](https://github.com/arsturges/et0) - The Reference Evapotranspiration Project. `no licence`
-- [uwent/wisp3](https://github.com/uwent/wisp3) - Wisconsin Irrigation Scheduling Program, version 3. `no licence`
+- [uwent/wisp3](https://github.com/uwent/wisp3) - Wisconsin Irrigation Scheduling Program, version 3. `AGPL-3.0`
 
 <a id="evapotranspiration-rust"></a>
 

@@ -8,6 +8,7 @@ Continued from [page 5](data-driven-5.md). See the [contents](data-driven.md#con
 
 #### R (continued)
 
+- [asavelaolona/maize-yield-project](https://github.com/asavelaolona/maize-yield-project) - Maize yield prediction. `no licence`
 - [etiennelord/smartland_article](https://github.com/etiennelord/smartland_article) - Source code and data for the article: Yield Forecasting in Maize: Performance and Limits of Unmanned Aerial Vehicle and PlanetScope Remote Sensing Across Multiple Growth Cycles. `MIT`
 - [fatmaoz25/ReactionNormGenomicPrediction](https://github.com/fatmaoz25/ReactionNormGenomicPrediction) - The aim of this study is to predict grain yield (tons/hect.) of a set of maize hybrids sharing a common parent by using their genomic and reaction norm data. All of the analysis was conducted using R. `no licence`
 - [flofechter/Maize-yield-project](https://github.com/flofechter/Maize-yield-project) - Maize yield prediction. `no licence`
@@ -400,11 +401,11 @@ Continued from [page 5](data-driven-5.md). See the [contents](data-driven.md#con
 - [abalmumcu/crop-yield-estimation](https://github.com/abalmumcu/crop-yield-estimation) - EXPLORING THE POTENTIAL OF MACHINE LEARNING USING EARTH OBSERVATION DATA FOR COTTON YIELD ESTIMATION. `★ 2` `MIT`
 - [anjalishitole/Machine-Learning-for-Cotton-Yield-Prediction](https://github.com/anjalishitole/Machine-Learning-for-Cotton-Yield-Prediction) - Use of Machine Learning to predict cotton yield by using Remote Sensing data. `★ 2` `no licence`
 - [Feanor1021/Cotton-Yield-Forecast-2025](https://github.com/Feanor1021/Cotton-Yield-Forecast-2025) - Official implementation of the paper "XLSTM for Multi-Source Cotton Yield Estimation and Temporal Interpretability Across Agro-Ecological Regions in Türkiye". This repository provides the source… `★ 2` `MIT`
-- [harshitha-8/SPIE](https://github.com/harshitha-8/SPIE) - QuantumHarvest: Hybrid Quantum-Classical Framework for Cotton Defoliation Analytics & Field Yield Estimation. `★ 2` `no licence`
 - [hniu-tamu/In-season-cotton-yield-prediction-with-CNN-models](https://github.com/hniu-tamu/In-season-cotton-yield-prediction-with-CNN-models) - In season cotton yield prediction with CNN regression models and high-resolution UAV RGB images. `★ 2` `MIT`
 - [AJFeng/Cotton_growth_variation](https://github.com/AJFeng/Cotton_growth_variation) - Cotton growth vairiation quantification based on soil, weather and UAV image data. `★ 1` `MIT`
 - [Hardikk15/Predictive-Modeling-of-Cotton-Crop-Production-in-Maharashtra-](https://github.com/Hardikk15/Predictive-Modeling-of-Cotton-Crop-Production-in-Maharashtra-) - Predictive Modeling of Cotton Crop Production in Maharashtra Using Multi-Source Earth Observation Data Mining and Machine Learning Techniques. `★ 1` `no licence`
 - [Harsh-Chothani/Crop-Yield-Prediction](https://github.com/Harsh-Chothani/Crop-Yield-Prediction) - Cotton Yield Prediction for Gujarat. `★ 1` `no licence`
+- [harshitha-8/SPIE](https://github.com/harshitha-8/SPIE) - QuantumHarvest: Hybrid Quantum-Classical Framework for Cotton Defoliation Analytics & Field Yield Estimation. `★ 1` `no licence`
 - [HarshVelani/Crop-Yield-Prediction](https://github.com/HarshVelani/Crop-Yield-Prediction) - Cotton Yield Prediction for Gujarat. `★ 1` `no licence`
 - [JianWang0802/Impact-of-climate-change-on-cotton-yield-variation-at-county-scale-in-Xinjiang](https://github.com/JianWang0802/Impact-of-climate-change-on-cotton-yield-variation-at-county-scale-in-Xinjiang) - This project is the article: ‘Empirical analysis of climate change factors affecting cotton yield: evidence from county scale of Xinjiang, China ', including data pre-processing and model… `★ 1` `no licence`
 - [mf-celik/yieldPred_EBM](https://github.com/mf-celik/yieldPred_EBM) - Cotton Yield Prediction over CONUS with an Explainable Boosting Machine. `★ 1` `GPL-3.0`

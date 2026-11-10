@@ -8,6 +8,7 @@ Continued from [page 4](data-driven-4.md). See the [contents](data-driven.md#con
 
 #### Other (continued)
 
+- [Kiruthika-B18/Crop-Yield-Prediction-with-alternate-suggestions](https://github.com/Kiruthika-B18/Crop-Yield-Prediction-with-alternate-suggestions) - Crop yield prediction uses data like rainfall, temperature, location, area, crop, and soil type usage to estimate harvest output. It helps farmers choose optimal crops and plan resources for better… `no licence`
 - [Kk272005/Designed-and-Developed-Website-for-AgriPredict-Smart-Crop-Yield-Forecasting-System-](https://github.com/Kk272005/Designed-and-Developed-Website-for-AgriPredict-Smart-Crop-Yield-Forecasting-System-) - Crop yield prediction. `no licence`
 - [klu2300033209/bhanu-crop-yield-prediction](https://github.com/klu2300033209/bhanu-crop-yield-prediction) - Crop yield prediction. `no licence`
 - [knehaprajapati/ai_yield_prediction](https://github.com/knehaprajapati/ai_yield_prediction) - A system which predict yield od crops and also recommend crops on the basis of soil and weather. `no licence`
@@ -1190,6 +1191,7 @@ Continued from [page 4](data-driven-4.md). See the [contents](data-driven.md#con
 - [tanushri-e/Rice-Yield-Prediction](https://github.com/tanushri-e/Rice-Yield-Prediction) - Deep Learning-Based Yield Forecasting for Rice Varieties Using Python. `★ 1` `no licence`
 - [tygrconcha/araro-rice-yield-prediction](https://github.com/tygrconcha/araro-rice-yield-prediction) - Municipality-Level Rice Yield Prediction in Nueva Ecija, Philippines Using Integrated Remote Sensing, GIS, and Machine Learning. `★ 1` `no licence`
 - [Umesh-369/karnataka-rice-yield-prediction](https://github.com/Umesh-369/karnataka-rice-yield-prediction) - Rice yield prediction. `★ 1` `no licence`
+- [vancv43/IoT4Rice_Yield_VNM_Meko_Delta](https://github.com/vancv43/IoT4Rice_Yield_VNM_Meko_Delta) - Rice yield prediction with machine learning. `★ 1` `no licence`
 - [vendkura/Rice-Yield-Prediction-in-Vietnam](https://github.com/vendkura/Rice-Yield-Prediction-in-Vietnam) - Develop a machine learning model to predict rice yields in Vietnam based on satellite imagery, weather data, and historical yield information, with a focus on the impacts of climate change. `★ 1` `no licence`
 - [venukumarp-art/rice_yield_prediction](https://github.com/venukumarp-art/rice_yield_prediction) - This project uses a Simple Linear Regression machine learning algorithm to predict rice packets based on land size. `★ 1` `no licence`
 - [VishnuAmit/Rice_Yield_Prediction](https://github.com/VishnuAmit/Rice_Yield_Prediction) - This project aims to predict rice production in Vietnam using satellite data. Through advanced data analysis and machine learning techniques, this model seeks to provide critical insights for… `★ 1` `no licence`
@@ -1369,7 +1371,6 @@ Continued from [page 4](data-driven-4.md). See the [contents](data-driven.md#con
 - [user409285/231753](https://github.com/user409285/231753) - Rice yield prediction. `no licence`
 - [vaibhavkhamitkar12/Crop_Identification-Yield_Prediction](https://github.com/vaibhavkhamitkar12/Crop_Identification-Yield_Prediction) - EY data science challenge 2023 (crop identification/crop yield pre. `no licence`
 - [vaishavi-v/rice-yield-prediction](https://github.com/vaishavi-v/rice-yield-prediction) - Global rice yield analysis and prediction with Sri Lanka focus using Random Forest (R² = 0.94). `no licence`
-- [vancv43/IoT4Rice_Yield_VNM_Meko_Delta](https://github.com/vancv43/IoT4Rice_Yield_VNM_Meko_Delta) - Rice yield prediction with machine learning. `no licence`
 - [varthini464/Crop-Recommendation-and-Rice-Yield-Forecasting-using-Machine-Learning](https://github.com/varthini464/Crop-Recommendation-and-Rice-Yield-Forecasting-using-Machine-Learning) - Dual ML framework for crop recommendation and rice yield forecasting using agricultural and climate data. Applied MICE imputation for missing values, LOOCV for validation, and Explainable AI (SHAP… `no licence`
 - [VictorXrayTango/Rice-Yield-Prediction-in-Sumatera](https://github.com/VictorXrayTango/Rice-Yield-Prediction-in-Sumatera) - Data analysis, preprocessing, and prediction using various Machine Learning algorithms to predict rice yield in Sumatera. `no licence`
 - [vnmohan68-spec/smart-farming](https://github.com/vnmohan68-spec/smart-farming) - AgriML India is a Streamlit-based smart farming app for paddy yield prediction, variety recommendation, fertilizer planning, pre-harvest estimation, and farm risk analysis using machine learning. `no licence`
@@ -1979,6 +1980,5 @@ Continued from [page 4](data-driven-4.md). See the [contents](data-driven.md#con
 - [yhaochen/Climate_CornYield](https://github.com/yhaochen/Climate_CornYield) - No description provided. `★ 2` `no licence`
 - [bensonkenduiywo/yieldprediction](https://github.com/bensonkenduiywo/yieldprediction) - This repo contains maize yield prediction visualization results from RHEAS DSSAT coupled simulation models. `★ 1` `no licence`
 - [blschum/corn-yield-infill](https://github.com/blschum/corn-yield-infill) - Maize yield prediction with machine learning. `★ 1` `no licence`
-- [asavelaolona/maize-yield-project](https://github.com/asavelaolona/maize-yield-project) - Maize yield prediction. `no licence`
 
 Continued on [page 6](data-driven-6.md).

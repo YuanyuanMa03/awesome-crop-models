@@ -8,6 +8,8 @@ Continued from [page 3](data-driven-3.md). See the [contents](data-driven.md#con
 
 #### Python (continued)
 
+- [srujan1-creator/Integrated-Business-Recommendation-Report](https://github.com/srujan1-creator/Integrated-Business-Recommendation-Report) - Crop yield prediction with machine learning. `no licence`
+- [srujan1-creator/Statistical-Modeling-and-Prediction](https://github.com/srujan1-creator/Statistical-Modeling-and-Prediction) - Crop yield prediction with machine learning. `no licence`
 - [srujan1-creator/Statistical-Modeling-Prediction](https://github.com/srujan1-creator/Statistical-Modeling-Prediction) - Crop yield prediction with machine learning. `no licence`
 - [SrusthiBaburaoKore/Agriculture-Crop-Yield-Prediction-using-ml-](https://github.com/SrusthiBaburaoKore/Agriculture-Crop-Yield-Prediction-using-ml-) - Agriculture Crop Yield Prediction using Machine Learning is a data analytics that studies agricultural data to predict crop yield based on factors like rainfall, temperature, soil type, season, and… `no licence`
 - [SS-Rana/Crop-Yield-predictor](https://github.com/SS-Rana/Crop-Yield-predictor) - Crop yield prediction. `no licence`
@@ -918,7 +920,6 @@ Continued from [page 3](data-driven-3.md). See the [contents](data-driven.md#con
 - [woobly-bop/AI-Assisted-Farming-for-Crop-Recommendation-and-yield-Prediction](https://github.com/woobly-bop/AI-Assisted-Farming-for-Crop-Recommendation-and-yield-Prediction) - AI-powered farming assistant for crop recommendation and yield prediction. `★ 1` `MIT`
 - [0xTappen/sistem-prediksi-panen-agropredict](https://github.com/0xTappen/sistem-prediksi-panen-agropredict) - Crop yield prediction. `no licence`
 - [25rohit/Crop-Yield-Prediction](https://github.com/25rohit/Crop-Yield-Prediction) - Crop yield prediction. `no licence`
-- [AakarGupta-coder/KrishiMitra-ADSS](https://github.com/AakarGupta-coder/KrishiMitra-ADSS) - KrishiMitra: AI-powered Decision Support System for precision farming. Fuses multi-modal data (NASA POWER, SoilGrids, FAOSTAT, Kaggle) via Explainable Fusion Network (XGBoost/LightGBM). Delivers… `no licence`
 - [aaneya/AANEYA_SHOKEEN_BTECHCSEAIMLSEC-D_HARVESTINTEL](https://github.com/aaneya/AANEYA_SHOKEEN_BTECHCSEAIMLSEC-D_HARVESTINTEL) - Harvest Intel is a smart agriculture platform that uses AI/ML to provide real-time crop health insights, yield prediction, weather-based advice, and soil analysis. It empowers farmers with… `no licence`
 - [abc-nikc/Agri_005](https://github.com/abc-nikc/Agri_005) - Crop yield prediction with machine learning. `no licence`
 - [abcd123-xyz/AI-Based-Farm-Advisory-System](https://github.com/abcd123-xyz/AI-Based-Farm-Advisory-System) - Crop yield prediction with machine learning. `no licence`
@@ -2006,6 +2007,5 @@ Continued from [page 3](data-driven-3.md). See the [contents](data-driven.md#con
 - [kirtika-kala/Crop-Yield-Prediction](https://github.com/kirtika-kala/Crop-Yield-Prediction) - project's primary aim is to predict the amount of crop that can be produced by examining the soil and weather conditions. `no licence`
 - [Kiruthika-B18/AI-powered-crop-yield-prediction-with-intelligent-chatbot](https://github.com/Kiruthika-B18/AI-powered-crop-yield-prediction-with-intelligent-chatbot) - AI powered crop yield prediction with intelligent chatbot. `no licence`
 - [Kiruthika-B18/Crop-Yield-Prediction](https://github.com/Kiruthika-B18/Crop-Yield-Prediction) - Crop yield prediction. `no licence`
-- [Kiruthika-B18/Crop-Yield-Prediction-with-alternate-suggestions](https://github.com/Kiruthika-B18/Crop-Yield-Prediction-with-alternate-suggestions) - Crop yield prediction uses data like rainfall, temperature, location, area, crop, and soil type usage to estimate harvest output. It helps farmers choose optimal crops and plan resources for better… `no licence`
 
 Continued on [page 5](data-driven-5.md).

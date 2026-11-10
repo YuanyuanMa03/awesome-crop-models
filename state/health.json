@@ -1,29 +1,29 @@
 {
   "all_github_coverage_verified": false,
-  "attempted_at": "2026-11-09T11:28:26Z",
+  "attempted_at": "2026-11-10T11:09:04Z",
   "coverage_gaps": {
-    "historical": 190,
+    "historical": 207,
     "recent": 3
   },
-  "finished_at": "2026-11-09T11:33:03Z",
-  "last_healthy_at": "2026-11-09T11:28:26Z",
+  "finished_at": "2026-11-10T11:14:10Z",
+  "last_healthy_at": "2026-11-10T11:09:04Z",
   "last_historical_pass_at": null,
   "maintainer_accounts": {
     "cycle": 7,
-    "new_repositories": 97,
-    "observed_at": "2026-11-09T11:28:26Z",
+    "new_repositories": 124,
+    "observed_at": "2026-11-10T11:09:04Z",
     "pages": 10,
-    "remaining_accounts_or_pages": 14
+    "remaining_accounts_or_pages": 5
   },
-  "new_repository_identities": 65,
+  "new_repository_identities": 26,
   "owner_listing_gaps": 0,
   "pending_search_jobs": {
-    "historical": 68,
-    "recent": 45
+    "historical": 59,
+    "recent": 25
   },
-  "previous_healthy_at": "2026-11-08T10:18:40Z",
+  "previous_healthy_at": "2026-11-09T11:28:26Z",
   "recent_search": {
-    "completed_windows": 482,
+    "completed_windows": 502,
     "coverage_gaps": [
       {
         "cycle": 2,
@@ -59,22 +59,22 @@
     "cycle_end": "2026-10-22T11:09:10Z",
     "cycle_start": "2026-09-22T11:09:10Z",
     "cycle_started_at": "2026-10-22T11:09:10Z",
-    "discovered_repositories": 29,
-    "observed_at": "2026-11-09T11:28:26Z",
+    "discovered_repositories": 8,
+    "observed_at": "2026-11-10T11:09:04Z",
     "plan_completed": false,
-    "remaining_jobs": 45,
+    "remaining_jobs": 25,
     "requests": 20,
     "status": "partial",
     "unresolved_gap_count": 3
   },
   "refresh": {
     "checked_repositories": 40,
-    "known_identities": 28500,
+    "known_identities": 28565,
     "new_repositories": 0,
-    "observed_at": "2026-11-09T11:28:26Z",
+    "observed_at": "2026-11-10T11:09:04Z",
     "seed_count": 15291
   },
   "requests": 160,
   "status": "partial_budget",
-  "tracked_repositories": 28565
+  "tracked_repositories": 28591
 }
