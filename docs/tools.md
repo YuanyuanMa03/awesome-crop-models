@@ -649,7 +649,7 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 - [dbampoh/landsymm_py](https://github.com/dbampoh/landsymm_py) - LandSyMM — Land System Modular Model — Python Landuse pipeline. `no licence`
 - [DHI-GRAS/aquacrop-api](https://github.com/DHI-GRAS/aquacrop-api) - Aquacrop- API. `no licence`
 - [DrAhmedKheir/Scientific-Multi-Agent-Intelligence](https://github.com/DrAhmedKheir/Scientific-Multi-Agent-Intelligence) - APSIM-powered Multi-AI Agent platform integrating weather, GEE, IoT, RAG, multilingual advisory, and expert validation for climate-smart digital agriculture. `MIT`
-- [ECRIPPEL/swatplus-ai](https://github.com/ECRIPPEL/swatplus-ai) - SWAT+ai project. `MIT`
+- [ECRIPPEL/swatplus-ai](https://github.com/ECRIPPEL/swatplus-ai) - SWAT+ai project. `MIT` `not found or inaccessible`
 - [ericwangjcu/apsim-simulation-frontend](https://github.com/ericwangjcu/apsim-simulation-frontend) - No description provided. `no licence`
 - [ericzdu/aquaswat-gym](https://github.com/ericzdu/aquaswat-gym) - cosimulation of aquacrop-os and SWAT+ for RL-learned field irrigation policy. `no licence`
 - [ericzdu/swat-kimberly](https://github.com/ericzdu/swat-kimberly) - No description provided. `no licence`
@@ -1482,7 +1482,7 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 - [ScriptsRemote/GeoAquaCrop-WebGis](https://github.com/ScriptsRemote/GeoAquaCrop-WebGis) - No description provided. `no licence`
 - [Taki1615/cloud_swatplus_nrt_pipeline](https://github.com/Taki1615/cloud_swatplus_nrt_pipeline) - This repository provides an operational, cloud-based workflow to ensure research reproducibility for SWAT+ hydrological simulations within a Virtual Research Environment (DIWA-DataLab). It is… `custom licence`
 - [tanvir-ferdousi/vic-cropsyst-pipeline](https://github.com/tanvir-ferdousi/vic-cropsyst-pipeline) - A pipeline to automate VIC-CropSyst parameter scans using high performance computing (HPC) clusters. `no licence`
-- [Tolbi-R-D/Simulation_Regional-_Multiyear](https://github.com/Tolbi-R-D/Simulation_Regional-_Multiyear) - La simulation régional d'aquacrop de plusieurs années. `no licence`
+- [Tolbi-R-D/Simulation_Regional-_Multiyear](https://github.com/Tolbi-R-D/Simulation_Regional-_Multiyear) - La simulation régional d'aquacrop de plusieurs années. `no licence` `not found or inaccessible`
 - [USDA-ARS-ACSL/Create_Input-Larger-area-](https://github.com/USDA-ARS-ACSL/Create_Input-Larger-area-) - This folder contains the python code for creating input data of 2d series models(e.g. GLYCIM, MAIZSIM) simulating a larger geographical area. `no licence`
 - [zalf-rpm/monica_example](https://github.com/zalf-rpm/monica_example) - Example scripts and data to run MONICA over a large area such as a country. `MPL-2.0`
 

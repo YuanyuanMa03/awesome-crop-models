@@ -8,6 +8,8 @@ Continued from [page 2](data-driven-2.md). See the [contents](data-driven.md#con
 
 #### Python (continued)
 
+- [Lovindya/Soil-Moisture-Based-Crop-Yield-Prediction-Using-SMAP-Data-and-Cross-Attention-Transformer](https://github.com/Lovindya/Soil-Moisture-Based-Crop-Yield-Prediction-Using-SMAP-Data-and-Cross-Attention-Transformer) - A deep learning-based crop yield prediction model leveraging SMAP soil moisture data and a cross-attention transformer to capture complex spatio-temporal relationships for improved agricultural… `no licence`
+- [lsngmin/crop-yield-prediction](https://github.com/lsngmin/crop-yield-prediction) - Crop yield prediction. `MIT`
 - [lsofiadb/Crop-yield-prediction-model](https://github.com/lsofiadb/Crop-yield-prediction-model) - Crop yield prediction model using data mining algorithms. `no licence`
 - [LucasBoden-da/Agronegocio](https://github.com/LucasBoden-da/Agronegocio) - Previsão de Rendimento de Colheita e Otimização da Irrigação. `MIT`
 - [lucasedge-cell/cover-crop-biomass-ml](https://github.com/lucasedge-cell/cover-crop-biomass-ml) - Non-destructive cover crop biomass estimation from UAV multispectral imagery using machine learning. Six regression models compared via Leave-One-Out Cross-Validation (LOOCV), with PLS achieving the… `MIT`
@@ -1070,7 +1072,6 @@ Continued from [page 2](data-driven-2.md). See the [contents](data-driven.md#con
 - [rashikaur/Crop-Yield-Prediction-using-machine-learning](https://github.com/rashikaur/Crop-Yield-Prediction-using-machine-learning) - Predicts the crop yield using random forest regressor. `no licence`
 - [rashisoni8642-rgb/Crop-Yield-Prediction-Using-Machine-Learning](https://github.com/rashisoni8642-rgb/Crop-Yield-Prediction-Using-Machine-Learning) - Crop Yield Prediction using Machine Learning is a data science project that predicts the expected crop yield of a particular region using factors such as rainfall, temperature, humidity, soil… `no licence`
 - [Rathanraj26/-AgriSense_Crop_Yield-Intelligence](https://github.com/Rathanraj26/-AgriSense_Crop_Yield-Intelligence) - Crop yield prediction with machine learning. `no licence`
-- [ratheshr512-gif/Sustainable-Agriculture-Predictive-Analysis-Using-Machine-Learning-in-Python](https://github.com/ratheshr512-gif/Sustainable-Agriculture-Predictive-Analysis-Using-Machine-Learning-in-Python) - This project implements a Machine Learning-based crop yield prediction system that helps farmers and agronomists forecast crop output based on key environmental and agricultural inputs: 💧 Rainfall… `no licence`
 - [rau15223/Seminar-Assessment-of-Plant-Environment-Interaction-Using-Deep-Learning-](https://github.com/rau15223/Seminar-Assessment-of-Plant-Environment-Interaction-Using-Deep-Learning-) - Crop yield prediction with machine learning. `no licence`
 - [raunakhgnis/yield-forecast](https://github.com/raunakhgnis/yield-forecast) - yield-forecast. `no licence`
 - [ravi1215/crop_yield_predictor](https://github.com/ravi1215/crop_yield_predictor) - Predict crop yield based on various agricultural factors. `MIT`

@@ -8,6 +8,8 @@ Continued from [page 1](data-driven.md). See the [contents](data-driven.md#conte
 
 #### Python (continued)
 
+- [akshita122003/Prediction-of-Agriculture-Crop-Production](https://github.com/akshita122003/Prediction-of-Agriculture-Crop-Production) - Crop yield prediction. `no licence`
+- [akshitaganu/Crop-Yield-Prediction](https://github.com/akshitaganu/Crop-Yield-Prediction) - The aim of this project is to predict crop yield using the dataset provided from Crop Yield Prediction. The dataset includes various environmental and agricultural factors such as rainfall… `no licence`
 - [akshitha-prof/crop-yield-predictor](https://github.com/akshitha-prof/crop-yield-predictor) - Crop yield prediction for Indian farmers using Random Forest & Gradient Boosting. Includes R statistical analysis (ggplot2), crop recommender system and Tableau dashboard. `no licence`
 - [aksstart/CropYieldPrediction](https://github.com/aksstart/CropYieldPrediction) - Crop yield prediction. `no licence`
 - [AKSTHIRUMURUGAN/crop_prediction](https://github.com/AKSTHIRUMURUGAN/crop_prediction) - Crop yield prediction with machine learning. `no licence`
@@ -2021,7 +2023,5 @@ Continued from [page 1](data-driven.md). See the [contents](data-driven.md#conte
 - [lordpottercoding/crop_yield_prediction_using_ML](https://github.com/lordpottercoding/crop_yield_prediction_using_ML) - Machine Learning model to predict crop yields based on climate, soil, and regional data (Telangana). `no licence`
 - [lorenzgutierrez/Crop-Yield-Prediction](https://github.com/lorenzgutierrez/Crop-Yield-Prediction) - Prediccion de produccion global de cultivos. `no licence`
 - [LouisForData/crop-yield-based-on-pollution-levels-linear-regression-model](https://github.com/LouisForData/crop-yield-based-on-pollution-levels-linear-regression-model) - Crop yield prediction with machine learning. `no licence`
-- [Lovindya/Soil-Moisture-Based-Crop-Yield-Prediction-Using-SMAP-Data-and-Cross-Attention-Transformer](https://github.com/Lovindya/Soil-Moisture-Based-Crop-Yield-Prediction-Using-SMAP-Data-and-Cross-Attention-Transformer) - A deep learning-based crop yield prediction model leveraging SMAP soil moisture data and a cross-attention transformer to capture complex spatio-temporal relationships for improved agricultural… `no licence`
-- [lsngmin/crop-yield-prediction](https://github.com/lsngmin/crop-yield-prediction) - Crop yield prediction. `MIT`
 
 Continued on [page 3](data-driven-3.md).

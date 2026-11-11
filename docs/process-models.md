@@ -879,12 +879,12 @@ Process-based models of soil, water, climate, pests and other agricultural proce
 
 #### Python
 
-- [phydrus/phydrus](https://github.com/phydrus/phydrus) - :sweat_drops: Python implementation of the HYDRUS-1D unsaturated zone model. `★ 112` `LGPL-3.0`
+- [phydrus/phydrus](https://github.com/phydrus/phydrus) - :sweat_drops: Python implementation of the HYDRUS-1D unsaturated zone model. `★ 114` `LGPL-3.0`
 - [ToshiyukiBandai/PINNs_RRE](https://github.com/ToshiyukiBandai/PINNs_RRE) - Physics-informed neural networks for the Richardson-Richards equation. `★ 34` `no licence`
 - [amireson/openRE](https://github.com/amireson/openRE) - A simple, efficient, mass conservative approach to solving Richards’ Equation. `★ 28` `GPL-3.0`
 - [amireson/RichardsEquation](https://github.com/amireson/RichardsEquation) - Richards' Equation model. `★ 28` `GPL-3.0`
 - [EcoExtreML/STEMMUS_SCOPE](https://github.com/EcoExtreML/STEMMUS_SCOPE) - Integrated code of STEMMUS and SCOPE. `★ 27` `GPL-3.0`
-- [martinvonk/pedon](https://github.com/martinvonk/pedon) - A Python package for analyzing unsaturated soil hydraulic properties. `★ 25` `MIT`
+- [martinvonk/pedon](https://github.com/martinvonk/pedon) - A Python package for analyzing unsaturated soil hydraulic properties. `★ 26` `MIT`
 - [amireson/RichardsEquation_improved](https://github.com/amireson/RichardsEquation_improved) - A 1D Richards Equation solver written in python. `★ 24` `no licence`
 - [cbsteh/PyWaterBal](https://github.com/cbsteh/PyWaterBal) - Unsaturated soil water flow model. `★ 15` `MIT`
 - [arthur-e/simsoil](https://github.com/arthur-e/simsoil) - Very simple, point-scale soil hydrology model. `★ 14` `MIT`
@@ -985,7 +985,7 @@ Process-based models of soil, water, climate, pests and other agricultural proce
 - [merijn-smits/1D-FV-Soil-Moisture-Richards-equation](https://github.com/merijn-smits/1D-FV-Soil-Moisture-Richards-equation) - 1D finite soil moisture Richards equation as described in https://doi.org/10.1002/2015WR017126. `MIT`
 - [MGuimaraes706/Deep-Drainage---Richards-Equations](https://github.com/MGuimaraes706/Deep-Drainage---Richards-Equations) - No description provided. `no licence`
 - [Mohammed-khlifi/Wee-PINN-Richards](https://github.com/Mohammed-khlifi/Wee-PINN-Richards) - Physics-Informed Neural Network for the Richards equation. `no licence`
-- [nikhilrajdeep/PTF_Retention_Curve](https://github.com/nikhilrajdeep/PTF_Retention_Curve) - Physics-constrained deep-ensemble pedotransfer functions (Classic VG, dry-end VG, PDI) for soil water retention, K(h), Ksat, FC/PWP/PAW — single soil or 100 m SOLUS maps of Florida. `MIT`
+- [nikhilrajdeep/PTF_Retention_Curve](https://github.com/nikhilrajdeep/PTF_Retention_Curve) - Physics-constrained deep-ensemble pedotransfer functions (Classic VG, dry-end VG, PDI) for soil water retention, K(h), Ksat, FC/PWP/PAW — single soil or 100 m SOLUS maps of Florida. `MIT` `not found or inaccessible`
 - [oakuoko1/IrrigationDecision-Dashboard](https://github.com/oakuoko1/IrrigationDecision-Dashboard) - Real-time irrigation scheduling dashboard using soil water balance and CWSI methodologies. `no licence`
 - [Oluwatobi-coder/2D-Soil-Moisture-Infiltration-FDM](https://github.com/Oluwatobi-coder/2D-Soil-Moisture-Infiltration-FDM) - This project implements a Finite Difference numerical solver to model moisture transport in unsaturated porous media. This project simulates the radial expansion of a "wetting bulb" from a drip… `MIT`
 - [percegd/hydrus-react](https://github.com/percegd/hydrus-react) - No description provided. `no licence`
@@ -2244,7 +2244,7 @@ Process-based models of soil, water, climate, pests and other agricultural proce
 - [naranjo-jd/CMD_ABM](https://github.com/naranjo-jd/CMD_ABM) - Stochastic Agent-Based Model for Cassava Mosaic Disease transmission using Python and Mesa. `no licence`
 - [NYSIPM/seedcorn-maggot](https://github.com/NYSIPM/seedcorn-maggot) - A Python module that estimates seedcorn maggot first adult emergence using multiple published models. `no licence`
 - [PacificBird/InsectPhenologyCaptureSim](https://github.com/PacificBird/InsectPhenologyCaptureSim) - Simulator for observed insect capture by degree day + analysis for WSU Department of Entomology research. `no licence`
-- [pedroaaguarnieri/spb-leprose-citros](https://github.com/pedroaaguarnieri/spb-leprose-citros) - Modelo de Graus-Dia para Brevipalpus yothersi (ácaro da leprose dos citros): sistema preditivo open source de apoio ao manejo. TCC de Engenharia Agronômica. `MIT`
+- [pedroaaguarnieri/spb-leprose-citros](https://github.com/pedroaaguarnieri/spb-leprose-citros) - Modelo de Graus-Dia para Brevipalpus yothersi (ácaro da leprose dos citros): sistema preditivo open source de apoio ao manejo. TCC de Engenharia Agronômica. `MIT` `not found or inaccessible`
 - [rab-ferrari/predator-prey-beetles-wasps](https://github.com/rab-ferrari/predator-prey-beetles-wasps) - Predator prey model based on beetle-wasp interactions with direct application to sugar cane plague control using natural methods (without pesticides). `no licence`
 - [schoyt/PraiseGDD](https://github.com/schoyt/PraiseGDD) - Interactive web-based dashboard for Growing Degree Day (GDD) information with phenological context for arborists. `no licence`
 - [SCSLabISU/AgGym](https://github.com/SCSLabISU/AgGym) - No description provided. `no licence`

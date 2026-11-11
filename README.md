@@ -4,7 +4,7 @@
 
 **A curated map of open-source crop and agricultural process models on GitHub**<br>crop or process → programming language → repository
 
-[![repositories](https://img.shields.io/badge/repositories-15%2C291-2ea44f?style=flat-square)](#contents) [![last collection](https://img.shields.io/badge/last_collection-2026--11--10-informational?style=flat-square)](docs/status.md) [![licence](https://img.shields.io/badge/licence-MIT-blue?style=flat-square)](LICENSE) [![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
+[![repositories](https://img.shields.io/badge/repositories-15%2C291-2ea44f?style=flat-square)](#contents) [![last collection](https://img.shields.io/badge/last_collection-2026--11--11-informational?style=flat-square)](docs/status.md) [![licence](https://img.shields.io/badge/licence-MIT-blue?style=flat-square)](LICENSE) [![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 
 [English](README.md) · [简体中文](docs/README.zh-CN.md) · [Review queue](docs/discovered.md) · [Collection status](docs/status.md)
 
@@ -12,7 +12,7 @@
 
 Crop growth simulators; soil, water, nutrient and climate process models; the frameworks and tools that run them; studies that apply them; and data-driven yield and process models. Each repository appears once, under its main crop or process and its main programming language, ordered by stars. Crop models are listed below, and the other branches have their own pages. Listing is not a scientific endorsement: check each project's licence before reuse.
 
-> **15,291 repositories** · 437 crop models · 1,675 process models · 1,584 frameworks and tools · 769 applications · 10,826 data-driven models. Screened from 107,427 GitHub repositories found by 525 searches and 33 maintainer accounts.
+> **15,291 repositories** · 437 crop models · 1,675 process models · 1,584 frameworks and tools · 769 applications · 10,826 data-driven models. Screened from 107,556 GitHub repositories found by 525 searches and 33 maintainer accounts.
 
 ## Contents
 
@@ -58,7 +58,7 @@ The most-starred process-based models and tools on the list. Each also appears i
 | 9 | [hectornieto/pyTSEB](https://github.com/hectornieto/pyTSEB) | Two-source energy balance calculations for vegetation evapotranspiration. | Python | 172 |
 | 10 | [ajwdewit/pcse_notebooks](https://github.com/ajwdewit/pcse_notebooks) | A collection of Jupyter notebooks that demonstrate usage of PCSE. | Python | 168 |
 | 11 | [pyet-org/pyet](https://github.com/pyet-org/pyet) | Reference and potential evaporation estimation methods in Python. | Python | 166 |
-| 12 | [phydrus/phydrus](https://github.com/phydrus/phydrus) | :sweat_drops: Python implementation of the HYDRUS-1D unsaturated zone model. | Python | 112 |
+| 12 | [phydrus/phydrus](https://github.com/phydrus/phydrus) | :sweat_drops: Python implementation of the HYDRUS-1D unsaturated zone model. | Python | 114 |
 | 13 | [ropensci/nasapower](https://github.com/ropensci/nasapower) | API Client for NASA POWER Global Meteorology, Surface Solar Energy and Climatology in R. | R | 108 |
 | 14 | [sbegueria/SPEI](https://github.com/sbegueria/SPEI) | An R package for computing the Standardized Precipitation-Evapotranspiration Index (SPEI), Penman-Monteith and other… | R | 108 |
 | 15 | [lzwei196/RS-DPCF](https://github.com/lzwei196/RS-DPCF) | Parallel, distributed framework for RZ-SHAW model calibration and multi-site simulations of seasonal frost in croplands. | Python | 107 |
@@ -257,7 +257,7 @@ The most-starred process-based models and tools on the list. Each also appears i
 - [atefero/Thornley-original-modified-models-python](https://github.com/atefero/Thornley-original-modified-models-python) - Python simulations comparing the dynamics of the original Thornley carbon–nitrogen allocation model and the modified version. `MIT`
 - [BenLatham/FLOSS-Agricultural-Simulation](https://github.com/BenLatham/FLOSS-Agricultural-Simulation) - A Farm Level Open Source Simulation. `MIT`
 - [bigborras/Agrieli](https://github.com/bigborras/Agrieli) - Agrivoltaic simulation with the PASE framework: photovoltaic and crop outputs. `MIT`
-- [CMits/PSoup-APSIM](https://github.com/CMits/PSoup-APSIM) - In this repository there is the code for the connection between PSoup and APSIM. `MIT`
+- [CMits/PSoup-APSIM](https://github.com/CMits/PSoup-APSIM) - In this repository there is the code for the connection between PSoup and APSIM. `MIT` `not found or inaccessible`
 - [Digital-Energy-and-Agriculture-Lab/PASE](https://github.com/Digital-Energy-and-Agriculture-Lab/PASE) - Agrivoltaic system simulator computing photovoltaic and crop outputs. `MIT`
 - [dinarwali4/crop-stress-sim](https://github.com/dinarwali4/crop-stress-sim) - KP Crop Simulation Model. `no licence`
 - [eurrag/SolRatio](https://github.com/eurrag/SolRatio) - Ground irradiance and crop yield model for single-axis tracker agrivoltaic systems &#124; Modello di irradianza al suolo e stima delle rese colturali per impianti agrivoltaici a tracker monoassiale. `Apache-2.0`

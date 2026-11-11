@@ -1,16 +1,16 @@
 {
   "last_owner_scan": {
     "cycle": 7,
-    "new_repositories": 124,
-    "observed_at": "2026-11-10T11:09:04Z",
-    "pages": 10,
-    "remaining_accounts_or_pages": 5
+    "new_repositories": 23,
+    "observed_at": "2026-11-11T10:54:57Z",
+    "pages": 5,
+    "remaining_accounts_or_pages": 0
   },
   "last_refresh": {
     "checked_repositories": 40,
-    "known_identities": 28565,
+    "known_identities": 28591,
     "new_repositories": 0,
-    "observed_at": "2026-11-10T11:09:04Z",
+    "observed_at": "2026-11-11T10:54:57Z",
     "seed_count": 15291
   },
   "owner_cycle": 7,
@@ -148,33 +148,7 @@
       "login": "openalea-incubator"
     }
   ],
-  "owner_queue": [
-    {
-      "kind": "org",
-      "login": "Crop2ML-Catalog",
-      "page": 1
-    },
-    {
-      "kind": "org",
-      "login": "SiriusQuality",
-      "page": 1
-    },
-    {
-      "kind": "org",
-      "login": "openalea-incubator",
-      "page": 1
-    },
-    {
-      "kind": "org",
-      "login": "zalf-rpm",
-      "page": 2
-    },
-    {
-      "kind": "org",
-      "login": "AgMIP",
-      "page": 2
-    }
-  ],
+  "owner_queue": [],
   "seed_checks": {
     "02fe24bci048-beep/smart-business-idea-generator": {
       "checked_at": "2026-11-10T11:09:04Z",
@@ -228,12 +202,20 @@
       "checked_at": "2026-10-22T10:39:16Z",
       "outcome": "public_metadata_checked"
     },
+    "ASHWIN07026/kisansetu-ai": {
+      "checked_at": "2026-11-11T10:54:57Z",
+      "outcome": "public_metadata_checked"
+    },
     "Aakaash77/smart-crop-fertilizer-recommendation-system": {
       "checked_at": "2026-11-07T10:04:25Z",
       "outcome": "public_metadata_checked"
     },
     "Abdias-Wang/apsimRegions": {
       "checked_at": "2026-11-05T10:52:57Z",
+      "outcome": "public_metadata_checked"
+    },
+    "AbdullahiK1/RegenAI": {
+      "checked_at": "2026-11-11T10:54:57Z",
       "outcome": "public_metadata_checked"
     },
     "Ad5001/ImagicalMine-Windows": {
@@ -312,6 +294,10 @@
       "checked_at": "2026-11-09T11:28:26Z",
       "outcome": "public_metadata_checked"
     },
+    "CMits/PSoup-APSIM": {
+      "checked_at": "2026-11-11T10:54:57Z",
+      "outcome": "not_found_or_inaccessible"
+    },
     "CamsDongw/WOFOST": {
       "checked_at": "2026-11-02T11:02:19Z",
       "outcome": "public_metadata_checked"
@@ -322,6 +308,10 @@
     },
     "Carlos-Galindez/digital-agriculture-datasets": {
       "checked_at": "2026-11-07T10:04:25Z",
+      "outcome": "public_metadata_checked"
+    },
+    "ChrisPHP/L-Strawb-Py": {
+      "checked_at": "2026-11-11T10:54:57Z",
       "outcome": "public_metadata_checked"
     },
     "ChristianH181/FS17_seasons": {
@@ -380,6 +370,10 @@
       "checked_at": "2026-11-01T10:26:00Z",
       "outcome": "public_metadata_checked"
     },
+    "Dubian-developers/agro": {
+      "checked_at": "2026-11-11T10:54:57Z",
+      "outcome": "public_metadata_checked"
+    },
     "Dzanito/FS17_seasons": {
       "checked_at": "2026-10-29T09:56:28Z",
       "outcome": "public_metadata_checked"
@@ -387,6 +381,10 @@
     "ECO2ZTS/swatmodel-trusty64": {
       "checked_at": "2026-11-05T10:52:57Z",
       "outcome": "public_metadata_checked"
+    },
+    "ECRIPPEL/swatplus-ai": {
+      "checked_at": "2026-11-11T10:54:57Z",
+      "outcome": "not_found_or_inaccessible"
     },
     "ESCOMP/CTSM": {
       "checked_at": "2026-10-22T19:57:41Z",
@@ -604,6 +602,10 @@
       "checked_at": "2026-11-08T10:18:40Z",
       "outcome": "public_metadata_checked"
     },
+    "Jaywesterlow/MOOON-Pilates": {
+      "checked_at": "2026-11-11T10:54:57Z",
+      "outcome": "public_metadata_checked"
+    },
     "Jiang2019Code/WOFOST_crop_parameters": {
       "checked_at": "2026-11-04T10:53:17Z",
       "outcome": "public_metadata_checked"
@@ -676,6 +678,10 @@
       "checked_at": "2026-11-04T10:53:17Z",
       "outcome": "public_metadata_checked"
     },
+    "Lahari-Yenikala/buildtoship": {
+      "checked_at": "2026-11-11T10:54:57Z",
+      "outcome": "public_metadata_checked"
+    },
     "Lakshitha-2008/AeroGreenAI": {
       "checked_at": "2026-11-09T11:28:26Z",
       "outcome": "public_metadata_checked"
@@ -710,6 +716,34 @@
     },
     "MADLUKA09/voxelcraft": {
       "checked_at": "2026-11-08T10:18:40Z",
+      "outcome": "public_metadata_checked"
+    },
+    "MacCracken/agnostik": {
+      "checked_at": "2026-11-11T10:54:57Z",
+      "outcome": "public_metadata_checked"
+    },
+    "MacCracken/hapi": {
+      "checked_at": "2026-11-11T10:54:57Z",
+      "outcome": "public_metadata_checked"
+    },
+    "MacCracken/patra": {
+      "checked_at": "2026-11-11T10:54:57Z",
+      "outcome": "public_metadata_checked"
+    },
+    "MacCracken/sadish": {
+      "checked_at": "2026-11-11T10:54:57Z",
+      "outcome": "public_metadata_checked"
+    },
+    "MacCracken/sankoch": {
+      "checked_at": "2026-11-11T10:54:57Z",
+      "outcome": "public_metadata_checked"
+    },
+    "MacCracken/vyakarana": {
+      "checked_at": "2026-11-11T10:54:57Z",
+      "outcome": "public_metadata_checked"
+    },
+    "MacCracken/yukti": {
+      "checked_at": "2026-11-11T10:54:57Z",
       "outcome": "public_metadata_checked"
     },
     "Maika-Miura/EndtoEndCroppingSystem": {
@@ -832,6 +866,10 @@
       "checked_at": "2026-11-09T11:28:26Z",
       "outcome": "public_metadata_checked"
     },
+    "PaulMelloy/cercospoRa": {
+      "checked_at": "2026-11-11T10:54:57Z",
+      "outcome": "public_metadata_checked"
+    },
     "Plant-Root-Soil-Interactions-Modelling/CPlantBox": {
       "checked_at": "2026-10-22T10:39:16Z",
       "outcome": "public_metadata_checked"
@@ -882,6 +920,14 @@
     },
     "ReproducibleQM/lampyrid": {
       "checked_at": "2026-10-29T09:56:28Z",
+      "outcome": "public_metadata_checked"
+    },
+    "Rijja-explore/Photosynthesis-Limiting-Factors-Model-Simulation": {
+      "checked_at": "2026-11-11T10:54:57Z",
+      "outcome": "public_metadata_checked"
+    },
+    "RisperN/DavidsonFarm_GHGs": {
+      "checked_at": "2026-11-11T10:54:57Z",
       "outcome": "public_metadata_checked"
     },
     "RobboW/pcse": {
@@ -980,6 +1026,10 @@
       "checked_at": "2026-11-10T11:09:04Z",
       "outcome": "public_metadata_checked"
     },
+    "Thahasin-28/cropizon": {
+      "checked_at": "2026-11-11T10:54:57Z",
+      "outcome": "public_metadata_checked"
+    },
     "TheGeoGeek/Awesome-Geospatial": {
       "checked_at": "2026-11-03T10:50:42Z",
       "outcome": "public_metadata_checked"
@@ -995,6 +1045,10 @@
     "Timeslice42/WAILAPlugins": {
       "checked_at": "2026-10-27T08:57:51Z",
       "outcome": "public_metadata_checked"
+    },
+    "Tolbi-R-D/Simulation_Regional-_Multiyear": {
+      "checked_at": "2026-11-11T10:54:57Z",
+      "outcome": "not_found_or_inaccessible"
     },
     "Tommyhowins1/Hangman": {
       "checked_at": "2026-11-07T10:04:25Z",
@@ -1042,6 +1096,10 @@
     },
     "USDA-ARS-ACSL/SPUDSIM": {
       "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "UltimateShippo/GLM-Upload": {
+      "checked_at": "2026-11-11T10:54:57Z",
       "outcome": "public_metadata_checked"
     },
     "Umbraminf/WAILAPlugins": {
@@ -1132,12 +1190,20 @@
       "checked_at": "2026-10-23T07:22:54Z",
       "outcome": "public_metadata_checked"
     },
+    "abdollahzakeri/Growth": {
+      "checked_at": "2026-11-11T10:54:57Z",
+      "outcome": "public_metadata_checked"
+    },
     "abhedwig-cell/pcse": {
       "checked_at": "2026-11-08T10:18:40Z",
       "outcome": "public_metadata_checked"
     },
     "abhishekamitroy/gait_analysis": {
       "checked_at": "2026-11-10T11:09:04Z",
+      "outcome": "public_metadata_checked"
+    },
+    "abhishekhbtu9154-source/krishi-one": {
+      "checked_at": "2026-11-11T10:54:57Z",
       "outcome": "public_metadata_checked"
     },
     "abiliojunior/Hydrology": {
@@ -1452,6 +1518,10 @@
       "checked_at": "2026-11-03T10:50:42Z",
       "outcome": "public_metadata_checked"
     },
+    "chewchompchomp-rgb/science": {
+      "checked_at": "2026-11-11T10:54:57Z",
+      "outcome": "public_metadata_checked"
+    },
     "chporter/Pivot-ACMO": {
       "checked_at": "2026-10-22T19:59:05Z",
       "outcome": "public_metadata_checked"
@@ -1512,6 +1582,10 @@
       "checked_at": "2026-10-22T10:39:16Z",
       "outcome": "public_metadata_checked"
     },
+    "cs2mosa/error_analysis": {
+      "checked_at": "2026-11-11T10:54:57Z",
+      "outcome": "not_found_or_inaccessible"
+    },
     "cyBian/BEPS_hourly_site_4.02": {
       "checked_at": "2026-11-05T10:52:57Z",
       "outcome": "public_metadata_checked"
@@ -1566,6 +1640,10 @@
     },
     "deekonger/WOFOST": {
       "checked_at": "2026-10-30T09:59:02Z",
+      "outcome": "public_metadata_checked"
+    },
+    "denimpurbia/GreenAgro": {
+      "checked_at": "2026-11-11T10:54:57Z",
       "outcome": "public_metadata_checked"
     },
     "derekrose/awesome-python": {
@@ -1786,6 +1864,10 @@
     },
     "geo-py/Awesome-Geospatial": {
       "checked_at": "2026-11-02T11:02:19Z",
+      "outcome": "public_metadata_checked"
+    },
+    "geoframecomponents/GEOET": {
+      "checked_at": "2026-11-11T10:54:57Z",
       "outcome": "public_metadata_checked"
     },
     "geoslegend/aquacrop-interface": {
@@ -2040,6 +2122,10 @@
       "checked_at": "2026-11-04T10:53:17Z",
       "outcome": "public_metadata_checked"
     },
+    "ishika956/krishisetu-ai": {
+      "checked_at": "2026-11-11T10:54:57Z",
+      "outcome": "public_metadata_checked"
+    },
     "isupit/pcse": {
       "checked_at": "2026-10-25T08:23:33Z",
       "outcome": "public_metadata_checked"
@@ -2054,6 +2140,10 @@
     },
     "j-alberto/API": {
       "checked_at": "2026-10-30T09:59:02Z",
+      "outcome": "public_metadata_checked"
+    },
+    "jadhavs5757/-KissanSathi": {
+      "checked_at": "2026-11-11T10:54:57Z",
       "outcome": "public_metadata_checked"
     },
     "jajberni/pcse": {
@@ -2364,6 +2454,10 @@
       "checked_at": "2026-10-22T19:59:05Z",
       "outcome": "public_metadata_checked"
     },
+    "linnian1998/qq-farm-bot-DHY": {
+      "checked_at": "2026-11-11T10:54:57Z",
+      "outcome": "public_metadata_checked"
+    },
     "liulewis/awesome-agriculture": {
       "checked_at": "2026-11-08T10:18:40Z",
       "outcome": "public_metadata_checked"
@@ -2494,6 +2588,10 @@
     },
     "mdj117/PlantPack": {
       "checked_at": "2026-10-29T09:56:28Z",
+      "outcome": "public_metadata_checked"
+    },
+    "mdw7fc/soil-n-resilience": {
+      "checked_at": "2026-11-11T10:54:57Z",
       "outcome": "public_metadata_checked"
     },
     "melimore86/Hydrology": {
@@ -2644,6 +2742,14 @@
       "checked_at": "2026-10-25T08:23:33Z",
       "outcome": "public_metadata_checked"
     },
+    "nikhilrajdeep/PTF_Retention_Curve": {
+      "checked_at": "2026-11-11T10:54:57Z",
+      "outcome": "not_found_or_inaccessible"
+    },
+    "nitya-prakash-pandey-2005/Agri-Shield": {
+      "checked_at": "2026-11-11T10:54:57Z",
+      "outcome": "public_metadata_checked"
+    },
     "notfoundry/TerraFirmaPumpkins": {
       "checked_at": "2026-11-06T10:50:43Z",
       "outcome": "public_metadata_checked"
@@ -2690,6 +2796,10 @@
     },
     "ogutu/pcse": {
       "checked_at": "2026-10-27T08:57:51Z",
+      "outcome": "public_metadata_checked"
+    },
+    "omkarkar/Evergreen-Terran": {
+      "checked_at": "2026-11-11T10:54:57Z",
       "outcome": "public_metadata_checked"
     },
     "omojadata/easydeepnude": {
@@ -2760,6 +2870,10 @@
       "checked_at": "2026-10-29T09:56:28Z",
       "outcome": "public_metadata_checked"
     },
+    "pedroaaguarnieri/spb-leprose-citros": {
+      "checked_at": "2026-11-11T10:54:57Z",
+      "outcome": "not_found_or_inaccessible"
+    },
     "pengbinpeluo/pcse": {
       "checked_at": "2026-11-01T10:26:00Z",
       "outcome": "public_metadata_checked"
@@ -2810,6 +2924,14 @@
     },
     "poudelpratishtha/WOFOST_crop_parameters": {
       "checked_at": "2026-11-07T10:04:25Z",
+      "outcome": "public_metadata_checked"
+    },
+    "prabhakardesamala-ops/soil-prediction": {
+      "checked_at": "2026-11-11T10:54:57Z",
+      "outcome": "public_metadata_checked"
+    },
+    "pradeep01729/smart-agri-prediction-system": {
+      "checked_at": "2026-11-11T10:54:57Z",
       "outcome": "public_metadata_checked"
     },
     "prettymao/BEPS_hourly_site_4.02": {
@@ -2975,6 +3097,10 @@
     "samiazmi/pcse_web": {
       "checked_at": "2026-11-01T10:26:00Z",
       "outcome": "public_metadata_checked"
+    },
+    "samoo11/remote-sensing-water-roadmap": {
+      "checked_at": "2026-11-11T10:54:57Z",
+      "outcome": "not_found_or_inaccessible"
     },
     "sampathweb/awesome-python": {
       "checked_at": "2026-10-23T07:22:54Z",
@@ -3192,6 +3318,10 @@
       "checked_at": "2026-10-29T09:56:28Z",
       "outcome": "public_metadata_checked"
     },
+    "suryareddy1376/agriverse": {
+      "checked_at": "2026-11-11T10:54:57Z",
+      "outcome": "public_metadata_checked"
+    },
     "swallors/awesome-python": {
       "checked_at": "2026-10-24T08:06:24Z",
       "outcome": "public_metadata_checked"
@@ -3206,6 +3336,10 @@
     },
     "tabarakmohamed225-cyber/open-sustainable-technology": {
       "checked_at": "2026-11-09T11:28:26Z",
+      "outcome": "public_metadata_checked"
+    },
+    "tahcin/parchi": {
+      "checked_at": "2026-11-11T10:54:57Z",
       "outcome": "public_metadata_checked"
     },
     "talumbau/awesome-python": {

@@ -8,6 +8,8 @@ Continued from [page 4](data-driven-4.md). See the [contents](data-driven.md#con
 
 #### Other (continued)
 
+- [Kiruthika-B18/AI-powered-crop-yield-prediction-with-intelligent-chatbot](https://github.com/Kiruthika-B18/AI-powered-crop-yield-prediction-with-intelligent-chatbot) - AI powered crop yield prediction with intelligent chatbot. `no licence`
+- [Kiruthika-B18/Crop-Yield-Prediction](https://github.com/Kiruthika-B18/Crop-Yield-Prediction) - Crop yield prediction. `no licence`
 - [Kiruthika-B18/Crop-Yield-Prediction-with-alternate-suggestions](https://github.com/Kiruthika-B18/Crop-Yield-Prediction-with-alternate-suggestions) - Crop yield prediction uses data like rainfall, temperature, location, area, crop, and soil type usage to estimate harvest output. It helps farmers choose optimal crops and plan resources for better… `no licence`
 - [Kk272005/Designed-and-Developed-Website-for-AgriPredict-Smart-Crop-Yield-Forecasting-System-](https://github.com/Kk272005/Designed-and-Developed-Website-for-AgriPredict-Smart-Crop-Yield-Forecasting-System-) - Crop yield prediction. `no licence`
 - [klu2300033209/bhanu-crop-yield-prediction](https://github.com/klu2300033209/bhanu-crop-yield-prediction) - Crop yield prediction. `no licence`
@@ -1037,7 +1039,6 @@ Continued from [page 4](data-driven-4.md). See the [contents](data-driven.md#con
 - [volleyvolley575-ctrl/Agri.projeect](https://github.com/volleyvolley575-ctrl/Agri.projeect) - AI-powered Smart Agriculture platform that helps farmers make data-driven decisions through crop recommendations, yield prediction, pest management, cost-profit analysis, and intelligent cultivation… `no licence`
 - [VongSuccess/DATA_MINING_PROJECT_GROUP7](https://github.com/VongSuccess/DATA_MINING_PROJECT_GROUP7) - Final Project - Data Mining - Crop Yield Prediction and Analysis. `no licence`
 - [vrindamittal05/Crop-Production-Prediction-Model](https://github.com/vrindamittal05/Crop-Production-Prediction-Model) - Machine Learning Model. `no licence`
-- [vsiddhu5928/A-Comparative-Machine-Learning-Approach-for-Crop-Production-Prediction](https://github.com/vsiddhu5928/A-Comparative-Machine-Learning-Approach-for-Crop-Production-Prediction) - Developed and evaluated ensemble and regression models to predict crop production output. Performed comparative analysis of multiple ML algorithms to identify the most accurate model. Applied data… `no licence`
 - [webalem-dev/ethiopian-crop-yield-predictor](https://github.com/webalem-dev/ethiopian-crop-yield-predictor) - Crop yield prediction. `no licence`
 - [webmasternoor/GAN-for-Crop-Yield-Prediction](https://github.com/webmasternoor/GAN-for-Crop-Yield-Prediction) - Crop yield prediction. `no licence`
 - [WELLMIND-DataSolutions/satellite-weather-crop-yield](https://github.com/WELLMIND-DataSolutions/satellite-weather-crop-yield) - Crop yield prediction with machine learning. `no licence`
@@ -1109,7 +1110,6 @@ Continued from [page 4](data-driven-4.md). See the [contents](data-driven.md#con
 - [Alexandro-K/rice-yield-prediction-2](https://github.com/Alexandro-K/rice-yield-prediction-2) - Rice yield prediction. `no licence`
 - [andrMaulana/prediksi-panen-padi](https://github.com/andrMaulana/prediksi-panen-padi) - Rice yield prediction. `no licence`
 - [bhartshukla/ntcc_collage_project](https://github.com/bhartshukla/ntcc_collage_project) - Rice yield prediction. `no licence`
-- [GGAK10/PRL_Agri](https://github.com/GGAK10/PRL_Agri) - Using Geo-AI an approach to demonstrate Agricultural Yield Estimation of paddy field; a Pilot project using ML and python Flask framework. `no licence`
 - [GOWTH4M-444/rice-yield_forecasting](https://github.com/GOWTH4M-444/rice-yield_forecasting) - AgriVision is an AI-powered geospatial analytics and satellite remote-sensing platform engineered for high-accuracy rice yield forecasting. By integrating MODIS/Sentinel-2 vegetation indices (NDVI… `no licence`
 - [ingolegauri18/AI-based-soil-analysis-in-paddy-farming](https://github.com/ingolegauri18/AI-based-soil-analysis-in-paddy-farming) - AI-powered soil analysis and smart farming system for paddy cultivation with crop prediction, fertilizer recommendation, yield analysis, and weather monitoring. `no licence`
 - [IT21308352/Paddy_Harvest_Prediction_System](https://github.com/IT21308352/Paddy_Harvest_Prediction_System) - Rice yield prediction. `no licence`
@@ -1252,6 +1252,7 @@ Continued from [page 4](data-driven-4.md). See the [contents](data-driven.md#con
 - [fuadadhim24/rice-harvest-prediction](https://github.com/fuadadhim24/rice-harvest-prediction) - Rice yield prediction. `no licence`
 - [Futprodev/Machine-Learning-Predicting-Rice-Yield-on-Rainfall](https://github.com/Futprodev/Machine-Learning-Predicting-Rice-Yield-on-Rainfall) - Rice yield prediction with machine learning. `no licence`
 - [Gandhiraj754/rice-yield-prediction](https://github.com/Gandhiraj754/rice-yield-prediction) - Rice yield prediction. `custom licence`
+- [GGAK10/PRL_Agri](https://github.com/GGAK10/PRL_Agri) - Using Geo-AI an approach to demonstrate Agricultural Yield Estimation of paddy field; a Pilot project using ML and python Flask framework. `no licence`
 - [GKK-Hub/rice_yield_prediction](https://github.com/GKK-Hub/rice_yield_prediction) - Rice Yield Prediction and Inference using ICRISAT dataset. `MIT`
 - [gladysandr/paddy-yield-forecasting-banten](https://github.com/gladysandr/paddy-yield-forecasting-banten) - Paddy production forecasting model in Banten using Multiple Linear Regression & CRISP-DM methodology. `no licence`
 - [Gloryflourish-max/agri_intel-rice-yield-prediction](https://github.com/Gloryflourish-max/agri_intel-rice-yield-prediction) - XGBoost pipeline predicting rice yield failure from field-level inputs · 93% accuracy · 0.856 ROC-AUC · Streamlit dashboard. `no licence`
