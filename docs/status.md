@@ -5,14 +5,14 @@ Machine-generated operational evidence; this is not a scientific review.
 ```json
 {
   "all_github_coverage_verified": false,
-  "attempted_at": "2026-11-11T10:54:57Z",
+  "attempted_at": "2026-11-12T11:04:15Z",
   "coverage_gaps": {
-    "historical": 224,
-    "recent": 20
+    "historical": 230,
+    "recent": 32
   },
-  "finished_at": "2026-11-11T11:01:00Z",
+  "finished_at": "2026-11-12T11:11:28Z",
   "historical_search": {
-    "completed_windows": 548,
+    "completed_windows": 559,
     "coverage_gaps": [
       {
         "cycle": 3,
@@ -1928,6 +1928,62 @@ Machine-generated operational evidence; this is not a scientific review.
         "reason": "result_count_changed",
         "reported_total": 841,
         "start": "2007-01-01T00:00:00Z"
+      },
+      {
+        "cycle": 3,
+        "end": "2026-10-23T07:22:54Z",
+        "page": 8,
+        "previous_total": 802,
+        "query_id": "proc-evapotranspiration",
+        "reason": "result_count_changed",
+        "reported_total": 803,
+        "start": "2007-01-01T00:00:00Z"
+      },
+      {
+        "count": 4,
+        "cycle": 3,
+        "end": "2026-10-23T07:22:54Z",
+        "page": 8,
+        "query_id": "proc-irrigation-model",
+        "reason": "duplicate_items_across_pages",
+        "start": "2007-01-01T00:00:00Z"
+      },
+      {
+        "count": 1,
+        "cycle": 3,
+        "end": "2026-10-23T07:22:54Z",
+        "page": 8,
+        "query_id": "mdl-hydrus",
+        "reason": "duplicate_items_across_pages",
+        "start": "2007-01-01T00:00:00Z"
+      },
+      {
+        "count": 1,
+        "cycle": 3,
+        "end": "2026-10-23T07:22:54Z",
+        "page": 8,
+        "query_id": "zh-crop-coefficient",
+        "reason": "duplicate_items_across_pages",
+        "start": "2007-01-01T00:00:00Z"
+      },
+      {
+        "cycle": 3,
+        "end": "2026-10-23T07:22:54Z",
+        "page": 3,
+        "previous_total": 824,
+        "query_id": "process-based-crop",
+        "reason": "result_count_changed",
+        "reported_total": 823,
+        "start": "2021-11-09T11:32:12Z"
+      },
+      {
+        "count": 2,
+        "cycle": 3,
+        "end": "2026-10-23T07:22:54Z",
+        "page": 9,
+        "query_id": "mdl-hydrus",
+        "reason": "duplicate_items_across_pages",
+        "start": "2007-01-01T00:00:00Z"
       }
     ],
     "coverage_note": "Completion means this query plan was traversed. GitHub search is mutable, may omit repositories, and does not prove coverage of all GitHub.",
@@ -1935,32 +1991,32 @@ Machine-generated operational evidence; this is not a scientific review.
     "cycle_end": "2026-10-23T07:22:54Z",
     "cycle_start": "2007-01-01T00:00:00Z",
     "cycle_started_at": "2026-10-23T07:22:54Z",
-    "discovered_repositories": 4095,
-    "observed_at": "2026-11-11T10:54:57Z",
+    "discovered_repositories": 4054,
+    "observed_at": "2026-11-12T11:04:15Z",
     "plan_completed": false,
-    "remaining_jobs": 51,
+    "remaining_jobs": 46,
     "requests": 60,
     "status": "partial",
-    "unresolved_gap_count": 224
+    "unresolved_gap_count": 230
   },
-  "last_healthy_at": "2026-11-11T10:54:57Z",
+  "last_healthy_at": "2026-11-12T11:04:15Z",
   "last_historical_pass_at": null,
   "maintainer_accounts": {
-    "cycle": 7,
-    "new_repositories": 23,
-    "observed_at": "2026-11-11T10:54:57Z",
-    "pages": 5,
-    "remaining_accounts_or_pages": 0
+    "cycle": 8,
+    "new_repositories": 69,
+    "observed_at": "2026-11-12T11:04:15Z",
+    "pages": 10,
+    "remaining_accounts_or_pages": 24
   },
-  "new_repository_identities": 129,
+  "new_repository_identities": 330,
   "owner_listing_gaps": 0,
   "pending_search_jobs": {
-    "historical": 51,
-    "recent": 17
+    "historical": 46,
+    "recent": 14
   },
-  "previous_healthy_at": "2026-11-10T11:09:04Z",
+  "previous_healthy_at": "2026-11-11T10:54:57Z",
   "recent_search": {
-    "completed_windows": 511,
+    "completed_windows": 515,
     "coverage_gaps": [
       {
         "cycle": 2,
@@ -2154,6 +2210,121 @@ Machine-generated operational evidence; this is not a scientific review.
         "reason": "result_count_changed",
         "reported_total": 277,
         "start": "2026-09-22T11:09:10Z"
+      },
+      {
+        "cycle": 2,
+        "end": "2026-10-22T11:09:10Z",
+        "page": 2,
+        "previous_total": 541,
+        "query_id": "rd-crop-modelling",
+        "reason": "result_count_changed",
+        "reported_total": 545,
+        "start": "2026-09-22T11:09:10Z"
+      },
+      {
+        "cycle": 2,
+        "end": "2026-10-22T11:09:10Z",
+        "page": 2,
+        "previous_total": 541,
+        "query_id": "rd-crop-modeling",
+        "reason": "result_count_changed",
+        "reported_total": 545,
+        "start": "2026-09-22T11:09:10Z"
+      },
+      {
+        "cycle": 2,
+        "end": "2026-10-22T11:09:10Z",
+        "page": 3,
+        "previous_total": 550,
+        "query_id": "crop-model",
+        "reason": "result_count_changed",
+        "reported_total": 549,
+        "start": "2026-09-22T11:09:10Z"
+      },
+      {
+        "cycle": 2,
+        "end": "2026-10-22T11:09:10Z",
+        "page": 3,
+        "previous_total": 521,
+        "query_id": "crop-growth",
+        "reason": "result_count_changed",
+        "reported_total": 522,
+        "start": "2026-09-22T11:09:10Z"
+      },
+      {
+        "cycle": 2,
+        "end": "2026-10-22T11:09:10Z",
+        "page": 3,
+        "previous_total": 241,
+        "query_id": "crop-phenology",
+        "reason": "result_count_changed",
+        "reported_total": 240,
+        "start": "2026-09-22T11:09:10Z"
+      },
+      {
+        "count": 4,
+        "cycle": 2,
+        "end": "2026-10-22T11:09:10Z",
+        "page": 3,
+        "query_id": "crop-phenology",
+        "reason": "duplicate_items_across_pages",
+        "start": "2026-09-22T11:09:10Z"
+      },
+      {
+        "cycle": 2,
+        "end": "2026-10-22T11:09:10Z",
+        "page": 3,
+        "previous_total": 458,
+        "query_id": "soil-carbon-crop",
+        "reason": "result_count_changed",
+        "reported_total": 459,
+        "start": "2026-09-22T11:09:10Z"
+      },
+      {
+        "count": 9,
+        "cycle": 2,
+        "end": "2026-10-22T11:09:10Z",
+        "page": 3,
+        "query_id": "fr-crop-model",
+        "reason": "duplicate_items_across_pages",
+        "start": "2026-09-22T11:09:10Z"
+      },
+      {
+        "cycle": 2,
+        "end": "2026-10-22T11:09:10Z",
+        "page": 3,
+        "previous_total": 458,
+        "query_id": "es-crop-model",
+        "reason": "result_count_changed",
+        "reported_total": 462,
+        "start": "2026-09-22T11:09:10Z"
+      },
+      {
+        "count": 1,
+        "cycle": 2,
+        "end": "2026-10-22T11:09:10Z",
+        "page": 3,
+        "query_id": "dd-crop-yield-prediction",
+        "reason": "duplicate_items_across_pages",
+        "start": "2026-09-22T11:09:10Z"
+      },
+      {
+        "count": 2,
+        "cycle": 2,
+        "end": "2026-10-22T11:09:10Z",
+        "page": 3,
+        "query_id": "dd-yield-prediction-crop",
+        "reason": "duplicate_items_across_pages",
+        "start": "2026-09-22T11:09:10Z"
+      },
+      {
+        "count": 11,
+        "cycle": 2,
+        "end": "2026-10-22T11:09:10Z",
+        "page": 3,
+        "query_id": "mdl-cropbox",
+        "reason": "duplicate_items_across_pages",
+        "start": "2026-09-22T11:09:10Z"
       }
     ],
     "coverage_note": "Completion means this query plan was traversed. GitHub search is mutable, may omit repositories, and does not prove coverage of all GitHub.",
@@ -2161,24 +2332,24 @@ Machine-generated operational evidence; this is not a scientific review.
     "cycle_end": "2026-10-22T11:09:10Z",
     "cycle_start": "2026-09-22T11:09:10Z",
     "cycle_started_at": "2026-10-22T11:09:10Z",
-    "discovered_repositories": 1012,
-    "observed_at": "2026-11-11T10:54:57Z",
+    "discovered_repositories": 1438,
+    "observed_at": "2026-11-12T11:04:15Z",
     "plan_completed": false,
-    "remaining_jobs": 17,
+    "remaining_jobs": 14,
     "requests": 20,
     "status": "partial",
-    "unresolved_gap_count": 20
+    "unresolved_gap_count": 32
   },
   "refresh": {
     "checked_repositories": 40,
-    "known_identities": 28591,
+    "known_identities": 28720,
     "new_repositories": 0,
-    "observed_at": "2026-11-11T10:54:57Z",
+    "observed_at": "2026-11-12T11:04:15Z",
     "seed_count": 15291
   },
-  "requests": 158,
+  "requests": 148,
   "status": "partial",
-  "tracked_repositories": 28720
+  "tracked_repositories": 29050
 }
 ```
 

@@ -112,14 +112,14 @@ Process-based models of soil, water, climate, pests and other agricultural proce
   - [Perl](#evapotranspiration-perl) (1)
   - [PHP](#evapotranspiration-php) (5)
   - [PLpgSQL](#evapotranspiration-plpgsql) (1)
-  - [Python](#evapotranspiration-python) (276)
+  - [Python](#evapotranspiration-python) (277)
   - [R](#evapotranspiration-r) (55)
   - [Ruby](#evapotranspiration-ruby) (4)
   - [Rust](#evapotranspiration-rust) (4)
   - [Shell](#evapotranspiration-shell) (2)
   - [TypeScript](#evapotranspiration-typescript) (10)
   - [Visual Basic](#evapotranspiration-visual-basic) (3)
-  - [Other](#evapotranspiration-other) (27)
+  - [Other](#evapotranspiration-other) (26)
 - [Weather and agroclimate](#weather) (103)
   - [C](#weather-c) (1)
   - [C#](#weather-csharp) (2)
@@ -884,7 +884,7 @@ Process-based models of soil, water, climate, pests and other agricultural proce
 - [amireson/openRE](https://github.com/amireson/openRE) - A simple, efficient, mass conservative approach to solving Richards’ Equation. `★ 28` `GPL-3.0`
 - [amireson/RichardsEquation](https://github.com/amireson/RichardsEquation) - Richards' Equation model. `★ 28` `GPL-3.0`
 - [EcoExtreML/STEMMUS_SCOPE](https://github.com/EcoExtreML/STEMMUS_SCOPE) - Integrated code of STEMMUS and SCOPE. `★ 27` `GPL-3.0`
-- [martinvonk/pedon](https://github.com/martinvonk/pedon) - A Python package for analyzing unsaturated soil hydraulic properties. `★ 26` `MIT`
+- [martinvonk/pedon](https://github.com/martinvonk/pedon) - A Python package for analyzing unsaturated soil hydraulic properties. `★ 27` `MIT`
 - [amireson/RichardsEquation_improved](https://github.com/amireson/RichardsEquation_improved) - A 1D Richards Equation solver written in python. `★ 24` `no licence`
 - [cbsteh/PyWaterBal](https://github.com/cbsteh/PyWaterBal) - Unsaturated soil water flow model. `★ 15` `MIT`
 - [arthur-e/simsoil](https://github.com/arthur-e/simsoil) - Very simple, point-scale soil hydrology model. `★ 14` `MIT`
@@ -1536,7 +1536,7 @@ Process-based models of soil, water, climate, pests and other agricultural proce
 
 #### Python
 
-- [altmenorg/HAsmartirrigation](https://github.com/altmenorg/HAsmartirrigation) - Smart Irrigation custom component for Home Assistant. `★ 566` `MIT`
+- [altmenorg/HAsmartirrigation](https://github.com/altmenorg/HAsmartirrigation) - Smart Irrigation custom component for Home Assistant. `★ 570` `MIT`
 - [woodcrafty/PyETo](https://github.com/woodcrafty/PyETo) - Reference and potential evapotranspiration calculation routines. `★ 179` `BSD-3-Clause`
 - [hectornieto/pyTSEB](https://github.com/hectornieto/pyTSEB) - Two-source energy balance calculations for vegetation evapotranspiration. `★ 172` `GPL-3.0`
 - [pyet-org/pyet](https://github.com/pyet-org/pyet) - Reference and potential evaporation estimation methods in Python. `★ 166` `MIT`
@@ -1699,6 +1699,7 @@ Process-based models of soil, water, climate, pests and other agricultural proce
 - [CorentinBarban/My-Garden-Irrigation](https://github.com/CorentinBarban/My-Garden-Irrigation) - Home Assistant integration that estimates garden watering needs using evapotranspiration (FAO-56) and Open-Meteo data. `GPL-3.0`
 - [cse-kiet/PCSE26-05](https://github.com/cse-kiet/PCSE26-05) - No description provided. `no licence`
 - [curtiscrandall/RemoteSensing_Evapotranspiration](https://github.com/curtiscrandall/RemoteSensing_Evapotranspiration) - Scripts that use processed satellite imagery (EVI and NDVI) and calculates evapotranspiration based on pixel values. Evapotranspiration calculation based on the FAO56/ASCE standardized grass and… `GPL-3.0`
+- [dahoal2/et0_barra](https://github.com/dahoal2/et0_barra) - Calculation of FAO56 crop reference evapotranspiration from BARRA temperature, humidity, wind and solar radiation inputs. `no licence`
 - [dead-can-dance/agua-eficiente](https://github.com/dead-can-dance/agua-eficiente) - Sistema de Gestión Hídrica — Sonora, México. Motor FAO-56, Monte Carlo, Acuíferos CONAGUA. Desplegado en Streamlit Community Cloud. `no licence`
 - [dgketchum/ptjpl](https://github.com/dgketchum/ptjpl) - Jet Propulsion Laboratory's Priestly-Taylor Evapotranspiration Algorithm. `Apache-2.0`
 - [dgketchum/sims](https://github.com/dgketchum/sims) - Satellite Irrigation Management Support Evapotranspiration Algorithm. `Apache-2.0`
@@ -1709,7 +1710,7 @@ Process-based models of soil, water, climate, pests and other agricultural proce
 - [El-Naggar8876/PI-Advisor](https://github.com/El-Naggar8876/PI-Advisor) - Spatiotemporal Irrigation Decision Support System. `MIT`
 - [emuriu125-cmd/Hydroscope-The-Precision-Irrigation-Planner.](https://github.com/emuriu125-cmd/Hydroscope-The-Precision-Irrigation-Planner.) - HydroScope is designed to help farmers and communities manage water resources efficiently using science-based methods (FAO CROPWAT guidelines). `no licence`
 - [fazogird/gee_et](https://github.com/fazogird/gee_et) - Sebal modeli yordamida Evapotrasnpiratsiyani aniqlash. `no licence`
-- [fazogird/SEBAL](https://github.com/fazogird/SEBAL) - ET hisoblashning SEBAL modeli. `no licence`
+- [fazogird/SEBAL](https://github.com/fazogird/SEBAL) - ET hisoblashning SEBAL modeli. `no licence` `not found or inaccessible`
 - [gabe-parrish/refET_meteorology](https://github.com/gabe-parrish/refET_meteorology) - An open source implementation of the SSEBop model using GDAL based on the original ArcPy implementation by Gabriel, Steffie Matt n Mac. `Apache-2.0`
 - [GEOframeOMSProjects/OMS_Project_GEOET](https://github.com/GEOframeOMSProjects/OMS_Project_GEOET) - OMS project of GEOET model to estimate evapotranspiration. `GPL-3.0`
 - [ghidosoft/ha-et-irrigator](https://github.com/ghidosoft/ha-et-irrigator) - No description provided. `custom licence`
@@ -1938,7 +1939,6 @@ Process-based models of soil, water, climate, pests and other agricultural proce
 - [Ayotochtle/SpatialET](https://github.com/Ayotochtle/SpatialET) - Evapotranspiration Estimation from Satellite Images. `no licence`
 - [Ayotochtle/SpatialETEST](https://github.com/Ayotochtle/SpatialETEST) - R Package to calculate potential and real evapotranspiration using Landsat 8 and 9 imagery and meteorological data. `no licence`
 - [BetsabeBA/tomato-kc-greenhouse](https://github.com/BetsabeBA/tomato-kc-greenhouse) - Data and code for estimating stage-specific crop coefficients (Kc) and evapotranspiration (ETc) in greenhouse tomato using lysimeter measurements and mixed-effects models. Fully reproducible R-based… `no licence`
-- [dahoal2/et0_barra](https://github.com/dahoal2/et0_barra) - Calculation of FAO56 crop reference evapotranspiration from BARRA temperature, humidity, wind and solar radiation inputs. `no licence`
 - [fftfewere4445-del/Evapotranspiration-Driven-Irrigation](https://github.com/fftfewere4445-del/Evapotranspiration-Driven-Irrigation) - No description provided. `no licence`
 - [HaoranRS/Evapotranspiration-retrieval](https://github.com/HaoranRS/Evapotranspiration-retrieval) - This is an automatic evapotranspiration retrieval program for Landsat imagery. `no licence`
 - [Has9A/SEBAL-and-Penman-Monteith-Evapotranspiration](https://github.com/Has9A/SEBAL-and-Penman-Monteith-Evapotranspiration) - No description provided. `no licence`

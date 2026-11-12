@@ -256,7 +256,7 @@ Continued from [page 5](data-driven-5.md). See the [contents](data-driven.md#con
 - [patilaakash619/SoyGrowth-Predictor](https://github.com/patilaakash619/SoyGrowth-Predictor) - A Machine Learning Approach to Soybean Yield Optimization Using the Tikrit Advanced Soybean Agricultural Dataset. `no licence`
 - [rickygui/Multi-Procedure-Based-Machine-Learning-Application-in-Soybean-Yield-Prediction-and-Portfolio-Optimiz](https://github.com/rickygui/Multi-Procedure-Based-Machine-Learning-Application-in-Soybean-Yield-Prediction-and-Portfolio-Optimiz) - With the flourishing development of technology and computing power, more precise analytics and high-standard modeling are desperately needed. Especially in the agricultural industry and crop… `no licence`
 - [Vaishnavi701000000/Soybean-Crop-Yield-Prediction---Bidar-Region-Karnataka](https://github.com/Vaishnavi701000000/Soybean-Crop-Yield-Prediction---Bidar-Region-Karnataka) - Soybean yield prediction. `no licence`
-- [wwanessa13/nlkernel-soybean](https://github.com/wwanessa13/nlkernel-soybean) - This repository contain all the scripts and documentation to reproduce the analysis of paper Non-linear Kernel Methods for Genomic Prediction of Soybean Yield and Quality in Multi-Environment Trials. `no licence`
+- [wwanessa13/nlkernel-soybean](https://github.com/wwanessa13/nlkernel-soybean) - This repository contain all the scripts and documentation to reproduce the analysis of paper Non-linear Kernel Methods for Genomic Prediction of Soybean Yield and Quality in Multi-Environment Trials. `no licence` `not found or inaccessible`
 
 <a id="legumes-oilseeds"></a>
 
@@ -514,7 +514,7 @@ Continued from [page 5](data-driven-5.md). See the [contents](data-driven.md#con
 - [Varshakh8/Sugarcane_Yield_Forecasting](https://github.com/Varshakh8/Sugarcane_Yield_Forecasting) - Sugarcane yield prediction. `no licence`
 - [Vikas-ft/sugarcane-yield-prediction](https://github.com/Vikas-ft/sugarcane-yield-prediction) - AI-based Sugarcane Yield Prediction using NDVI. `no licence`
 - [yuvrajm31/Canefield](https://github.com/yuvrajm31/Canefield) - Canefield: a Flask and PostgreSQL sugarcane advisory web app. It turns farm soil, crop-stage and irrigation data into quantified irrigation, fertilizer and alert recommendations, with a farm… `MIT`
-- [Zaidan-Gustiawan-Rabbani/Machine_Learning_E-Brix](https://github.com/Zaidan-Gustiawan-Rabbani/Machine_Learning_E-Brix) - Sistem Machine Learning berbasis ensemble gradient boosting untuk prediksi hasil panen (yield), kadar Brix nira, potensi gula kristal (rendemen Winter-Carp), dan deteksi risiko penyakit tebu secara… `no licence`
+- [Zaidan-Gustiawan-Rabbani/Machine_Learning_E-Brix](https://github.com/Zaidan-Gustiawan-Rabbani/Machine_Learning_E-Brix) - Sistem Machine Learning berbasis ensemble gradient boosting untuk prediksi hasil panen (yield), kadar Brix nira, potensi gula kristal (rendemen Winter-Carp), dan deteksi risiko penyakit tebu secara… `no licence` `not found or inaccessible`
 
 <a id="sugar-crops-r"></a>
 
@@ -807,9 +807,9 @@ Continued from [page 5](data-driven-5.md). See the [contents](data-driven.md#con
 - [noayarae/forecasting_biomass_using_DL_models](https://github.com/noayarae/forecasting_biomass_using_DL_models) - This repository provide dataset of aboveground vegetation biomass time series and python codes of DL modeling and SARIMA modeling employed in the "Iterative Forecasting on limited-size aboveground… `★ 6` `no licence`
 - [chriswhitmire/alfalfa-yield-prediction](https://github.com/chriswhitmire/alfalfa-yield-prediction) - Contains data and machine learning API/notebooks that develop models to predict alfalfa prediction in Ga and Ken. `★ 2` `no licence`
 - [theoboiss/GrassGrowthDisaggregation](https://github.com/theoboiss/GrassGrowthDisaggregation) - Implementation of an LSTM algorithm to disaggregate the cumulative annual grass growth to reconstruct the dynamics of the growth over the year using time series describing the climate of the year. `★ 2` `no licence`
+- [mikeledusei/AgriShield](https://github.com/mikeledusei/AgriShield) - Protecting Kenya's food security, ensuring future sustainability. AgriShield is a hierarchical Agentic AI system that predicts crop yield shocks and livestock forage deficits across all 47 counties… `★ 1` `custom licence`
 - [EoinKenny/Grass-Growth-Hybrid-Model](https://github.com/EoinKenny/Grass-Growth-Hybrid-Model) - No description provided. `no licence`
 - [HuaqiangLi01/CH-code-python](https://github.com/HuaqiangLi01/CH-code-python) - Random forest modeling of grassland biomass based on three input indicator systems. `no licence`
-- [mikeledusei/AgriShield](https://github.com/mikeledusei/AgriShield) - Protecting Kenya's food security, ensuring future sustainability. AgriShield is a hierarchical Agentic AI system that predicts crop yield shocks and livestock forage deficits across all 47 counties… `custom licence`
 - [sriarani16/smart-pasture-prediction](https://github.com/sriarani16/smart-pasture-prediction) - Smart Pasture Prediction System uses environmental data such as rainfall, temperature, soil moisture, and seasonal trends to predict pasture growth. `no licence`
 - [thejonathanvancetrance/SNLT](https://github.com/thejonathanvancetrance/SNLT) - pronounced Sunlight, a pipeline for estimating alfalfa crop yields using synthetic data. `MIT`
 - [VarunJaiswal05/Pasture-Growth-Analysis-Using-Machine-Learning](https://github.com/VarunJaiswal05/Pasture-Growth-Analysis-Using-Machine-Learning) - Machine learning–based prediction of pasture growth (TSDM) using environmental and temporal features — Random Forest & XGBoost models. Developed for IFN703 at QUT. `no licence`
@@ -1640,7 +1640,7 @@ Continued from [page 5](data-driven-5.md). See the [contents](data-driven.md#con
 
 #### TypeScript
 
-- [Dmytro-Kuskov/ML-powered-alternative-for-CropWat-App](https://github.com/Dmytro-Kuskov/ML-powered-alternative-for-CropWat-App) - Repository for ET0 pedictor. `no licence`
+- [Dmytro-Kuskov/ML-powered-alternative-for-CropWat-App](https://github.com/Dmytro-Kuskov/ML-powered-alternative-for-CropWat-App) - Repository for ET0 pedictor. `no licence` `not found or inaccessible`
 
 <a id="evapotranspiration-other"></a>
 

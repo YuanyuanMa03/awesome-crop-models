@@ -1,19 +1,19 @@
 {
   "last_owner_scan": {
-    "cycle": 7,
-    "new_repositories": 23,
-    "observed_at": "2026-11-11T10:54:57Z",
-    "pages": 5,
-    "remaining_accounts_or_pages": 0
+    "cycle": 8,
+    "new_repositories": 69,
+    "observed_at": "2026-11-12T11:04:15Z",
+    "pages": 10,
+    "remaining_accounts_or_pages": 24
   },
   "last_refresh": {
     "checked_repositories": 40,
-    "known_identities": 28591,
+    "known_identities": 28720,
     "new_repositories": 0,
-    "observed_at": "2026-11-11T10:54:57Z",
+    "observed_at": "2026-11-12T11:04:15Z",
     "seed_count": 15291
   },
-  "owner_cycle": 7,
+  "owner_cycle": 8,
   "owner_plan": [
     {
       "kind": "org",
@@ -148,15 +148,144 @@
       "login": "openalea-incubator"
     }
   ],
-  "owner_queue": [],
+  "owner_queue": [
+    {
+      "kind": "org",
+      "login": "PalmStudio",
+      "page": 1
+    },
+    {
+      "kind": "user",
+      "login": "VEZY",
+      "page": 1
+    },
+    {
+      "kind": "org",
+      "login": "openalea",
+      "page": 1
+    },
+    {
+      "kind": "org",
+      "login": "Plant-Root-Soil-Interactions-Modelling",
+      "page": 1
+    },
+    {
+      "kind": "org",
+      "login": "biocro",
+      "page": 1
+    },
+    {
+      "kind": "org",
+      "login": "PIK-LPJmL",
+      "page": 1
+    },
+    {
+      "kind": "org",
+      "login": "PSUmodeling",
+      "page": 1
+    },
+    {
+      "kind": "org",
+      "login": "swat-model",
+      "page": 1
+    },
+    {
+      "kind": "org",
+      "login": "pyet-org",
+      "page": 1
+    },
+    {
+      "kind": "org",
+      "login": "Rothamsted-Models",
+      "page": 1
+    },
+    {
+      "kind": "org",
+      "login": "VirtualPlantLab",
+      "page": 1
+    },
+    {
+      "kind": "org",
+      "login": "AgriculturalModelExchangeInitiative",
+      "page": 1
+    },
+    {
+      "kind": "org",
+      "login": "SticsRPacks",
+      "page": 1
+    },
+    {
+      "kind": "org",
+      "login": "gicait",
+      "page": 1
+    },
+    {
+      "kind": "user",
+      "login": "hectornieto",
+      "page": 1
+    },
+    {
+      "kind": "org",
+      "login": "Open-ET",
+      "page": 1
+    },
+    {
+      "kind": "org",
+      "login": "WSWUP",
+      "page": 1
+    },
+    {
+      "kind": "org",
+      "login": "cropmodels",
+      "page": 1
+    },
+    {
+      "kind": "org",
+      "login": "YASSOmodel",
+      "page": 1
+    },
+    {
+      "kind": "org",
+      "login": "AgMIP",
+      "page": 1
+    },
+    {
+      "kind": "org",
+      "login": "Crop2ML-Catalog",
+      "page": 1
+    },
+    {
+      "kind": "org",
+      "login": "SiriusQuality",
+      "page": 1
+    },
+    {
+      "kind": "org",
+      "login": "openalea-incubator",
+      "page": 1
+    },
+    {
+      "kind": "org",
+      "login": "zalf-rpm",
+      "page": 2
+    }
+  ],
   "seed_checks": {
     "02fe24bci048-beep/smart-business-idea-generator": {
       "checked_at": "2026-11-10T11:09:04Z",
       "outcome": "public_metadata_checked"
     },
+    "1173591564/agricultural-smart-assistant": {
+      "checked_at": "2026-11-12T11:04:15Z",
+      "outcome": "not_found_or_inaccessible"
+    },
     "17geet/SimpleCrop": {
       "checked_at": "2026-10-27T08:57:51Z",
       "outcome": "public_metadata_checked"
+    },
+    "2006spy/claude-code-zh-cn": {
+      "checked_at": "2026-11-12T11:04:15Z",
+      "outcome": "not_found_or_inaccessible"
     },
     "23004742/Ex.No.4": {
       "checked_at": "2026-11-07T10:04:25Z",
@@ -185,6 +314,10 @@
     "ADITYA-ROUTH/AetherWave": {
       "checked_at": "2026-11-07T10:04:25Z",
       "outcome": "public_metadata_checked"
+    },
+    "AI-AQI/Island": {
+      "checked_at": "2026-11-12T11:04:15Z",
+      "outcome": "not_found_or_inaccessible"
     },
     "AIdevdoer/awesome-minecraft": {
       "checked_at": "2026-11-09T11:28:26Z",
@@ -310,6 +443,10 @@
       "checked_at": "2026-11-07T10:04:25Z",
       "outcome": "public_metadata_checked"
     },
+    "ChihHsiangChien/leaf": {
+      "checked_at": "2026-11-12T11:04:15Z",
+      "outcome": "not_found_or_inaccessible"
+    },
     "ChrisPHP/L-Strawb-Py": {
       "checked_at": "2026-11-11T10:54:57Z",
       "outcome": "public_metadata_checked"
@@ -358,6 +495,10 @@
       "checked_at": "2026-10-24T08:06:24Z",
       "outcome": "public_metadata_checked"
     },
+    "Dmytro-Kuskov/ML-powered-alternative-for-CropWat-App": {
+      "checked_at": "2026-11-12T11:04:15Z",
+      "outcome": "not_found_or_inaccessible"
+    },
     "DooMIi74/FS17_seasons": {
       "checked_at": "2026-10-30T09:59:02Z",
       "outcome": "public_metadata_checked"
@@ -384,6 +525,10 @@
     },
     "ECRIPPEL/swatplus-ai": {
       "checked_at": "2026-11-11T10:54:57Z",
+      "outcome": "not_found_or_inaccessible"
+    },
+    "ENGR28314/Pakistan-Water-Terrain-Explorer-With-input-Latest5": {
+      "checked_at": "2026-11-12T11:04:15Z",
       "outcome": "not_found_or_inaccessible"
     },
     "ESCOMP/CTSM": {
@@ -722,6 +867,10 @@
       "checked_at": "2026-11-11T10:54:57Z",
       "outcome": "public_metadata_checked"
     },
+    "MacCracken/bayan": {
+      "checked_at": "2026-11-12T11:04:15Z",
+      "outcome": "public_metadata_checked"
+    },
     "MacCracken/hapi": {
       "checked_at": "2026-11-11T10:54:57Z",
       "outcome": "public_metadata_checked"
@@ -732,6 +881,10 @@
     },
     "MacCracken/sadish": {
       "checked_at": "2026-11-11T10:54:57Z",
+      "outcome": "public_metadata_checked"
+    },
+    "MacCracken/sandhi": {
+      "checked_at": "2026-11-12T11:04:15Z",
       "outcome": "public_metadata_checked"
     },
     "MacCracken/sankoch": {
@@ -785,6 +938,10 @@
     "McHailey/FLiES_Python": {
       "checked_at": "2026-11-04T10:53:17Z",
       "outcome": "public_metadata_checked"
+    },
+    "MdKaifSardar/bharat-builds-env-hacks-2026": {
+      "checked_at": "2026-11-12T11:04:15Z",
+      "outcome": "not_found_or_inaccessible"
     },
     "MengZhang/acebgen": {
       "checked_at": "2026-10-22T19:59:05Z",
@@ -898,6 +1055,10 @@
       "checked_at": "2026-11-03T10:50:42Z",
       "outcome": "public_metadata_checked"
     },
+    "RajjBhardwaj/rainfall-harvesting-system": {
+      "checked_at": "2026-11-12T11:04:15Z",
+      "outcome": "not_found_or_inaccessible"
+    },
     "Ramonss93/ZebraMove": {
       "checked_at": "2026-10-30T09:59:02Z",
       "outcome": "public_metadata_checked"
@@ -962,6 +1123,10 @@
       "checked_at": "2026-10-26T08:53:10Z",
       "outcome": "public_metadata_checked"
     },
+    "Scientistfromthenorth/scientistfromthenorth.github.io": {
+      "checked_at": "2026-11-12T11:04:15Z",
+      "outcome": "public_metadata_checked"
+    },
     "Searge-DP/WAILAPlugins": {
       "checked_at": "2026-10-28T09:38:19Z",
       "outcome": "public_metadata_checked"
@@ -1022,6 +1187,10 @@
       "checked_at": "2026-11-07T10:04:25Z",
       "outcome": "public_metadata_checked"
     },
+    "Taaanha/Crop-Shift": {
+      "checked_at": "2026-11-12T11:04:15Z",
+      "outcome": "not_found_or_inaccessible"
+    },
     "Tejzraj/mulberry": {
       "checked_at": "2026-11-10T11:09:04Z",
       "outcome": "public_metadata_checked"
@@ -1040,6 +1209,10 @@
     },
     "Thomas--S/waterican": {
       "checked_at": "2026-10-29T09:56:28Z",
+      "outcome": "public_metadata_checked"
+    },
+    "Tilerphy/MGK": {
+      "checked_at": "2026-11-12T11:04:15Z",
       "outcome": "public_metadata_checked"
     },
     "Timeslice42/WAILAPlugins": {
@@ -1130,6 +1303,10 @@
       "checked_at": "2026-11-05T10:52:57Z",
       "outcome": "public_metadata_checked"
     },
+    "WISPCOM/wispcom-spectrum-calculator": {
+      "checked_at": "2026-11-12T11:04:15Z",
+      "outcome": "not_found_or_inaccessible"
+    },
     "Watabane/FS17_seasons": {
       "checked_at": "2026-10-30T09:59:02Z",
       "outcome": "public_metadata_checked"
@@ -1173,6 +1350,10 @@
     "ZQIAN0408/BEPS-SIF-model": {
       "checked_at": "2026-11-04T10:53:17Z",
       "outcome": "public_metadata_checked"
+    },
+    "Zaidan-Gustiawan-Rabbani/Machine_Learning_E-Brix": {
+      "checked_at": "2026-11-12T11:04:15Z",
+      "outcome": "not_found_or_inaccessible"
     },
     "ZhiganZhao/DCaPST": {
       "checked_at": "2026-11-03T10:50:42Z",
@@ -1250,8 +1431,20 @@
       "checked_at": "2026-10-22T10:39:16Z",
       "outcome": "public_metadata_checked"
     },
+    "alaer82/ios_introduction": {
+      "checked_at": "2026-11-12T11:04:15Z",
+      "outcome": "public_metadata_checked"
+    },
+    "aldijatimulya/Portofolio": {
+      "checked_at": "2026-11-12T11:04:15Z",
+      "outcome": "not_found_or_inaccessible"
+    },
     "alexanderm10/pecan": {
       "checked_at": "2026-10-26T08:53:10Z",
+      "outcome": "public_metadata_checked"
+    },
+    "alexandre-codes/IrriSynk": {
+      "checked_at": "2026-11-12T11:04:15Z",
       "outcome": "public_metadata_checked"
     },
     "alexhctp/CropForge": {
@@ -1277,6 +1470,10 @@
     "aminerov/lampyrid": {
       "checked_at": "2026-10-31T09:36:59Z",
       "outcome": "public_metadata_checked"
+    },
+    "amithsharma91/Jarvis-OS": {
+      "checked_at": "2026-11-12T11:04:15Z",
+      "outcome": "not_found_or_inaccessible"
     },
     "amoussoubaruch/pyDSSAT": {
       "checked_at": "2026-11-01T10:26:00Z",
@@ -1324,6 +1521,10 @@
     },
     "anun333/pyfao56": {
       "checked_at": "2026-11-09T11:28:26Z",
+      "outcome": "public_metadata_checked"
+    },
+    "aomenwangshangdubo/aomenwangshangdubo.gitub": {
+      "checked_at": "2026-11-12T11:04:15Z",
       "outcome": "public_metadata_checked"
     },
     "aorzh/awesome-python": {
@@ -1462,6 +1663,10 @@
       "checked_at": "2026-11-10T11:09:04Z",
       "outcome": "public_metadata_checked"
     },
+    "c0nf1ux/walter-portfolio": {
+      "checked_at": "2026-11-12T11:04:15Z",
+      "outcome": "not_found_or_inaccessible"
+    },
     "c5sire/API": {
       "checked_at": "2026-10-31T09:36:59Z",
       "outcome": "public_metadata_checked"
@@ -1514,6 +1719,10 @@
       "checked_at": "2026-10-31T09:36:59Z",
       "outcome": "public_metadata_checked"
     },
+    "cheikChen/iOS---ReactiveCocoa": {
+      "checked_at": "2026-11-12T11:04:15Z",
+      "outcome": "public_metadata_checked"
+    },
     "cheneason/Awesome-Geospatial": {
       "checked_at": "2026-11-03T10:50:42Z",
       "outcome": "public_metadata_checked"
@@ -1556,6 +1765,10 @@
     },
     "cnetboy/AerialClaw": {
       "checked_at": "2026-11-08T10:18:40Z",
+      "outcome": "public_metadata_checked"
+    },
+    "colombo0718/LeafLune": {
+      "checked_at": "2026-11-12T11:04:15Z",
       "outcome": "public_metadata_checked"
     },
     "condontd/pecan": {
@@ -1706,6 +1919,10 @@
       "checked_at": "2026-11-01T10:26:00Z",
       "outcome": "public_metadata_checked"
     },
+    "dvmmisAfk/Soybean_analysis_model": {
+      "checked_at": "2026-11-12T11:04:15Z",
+      "outcome": "public_metadata_checked"
+    },
     "dwaynejohnson3066/fasalbachao": {
       "checked_at": "2026-11-10T11:09:04Z",
       "outcome": "public_metadata_checked"
@@ -1789,6 +2006,10 @@
     "fateme5004/WOFOST_crop_parameters": {
       "checked_at": "2026-11-01T10:26:00Z",
       "outcome": "public_metadata_checked"
+    },
+    "fazogird/SEBAL": {
+      "checked_at": "2026-11-12T11:04:15Z",
+      "outcome": "not_found_or_inaccessible"
     },
     "fcelsa/FS17_seasons": {
       "checked_at": "2026-10-29T09:56:28Z",
@@ -1934,6 +2155,10 @@
       "checked_at": "2026-10-27T08:57:51Z",
       "outcome": "public_metadata_checked"
     },
+    "gufanyi/datadig": {
+      "checked_at": "2026-11-12T11:04:15Z",
+      "outcome": "public_metadata_checked"
+    },
     "gustavoserafim/awesome-python": {
       "checked_at": "2026-10-24T08:06:24Z",
       "outcome": "public_metadata_checked"
@@ -1952,6 +2177,14 @@
     },
     "haizhupan/pyDSSAT": {
       "checked_at": "2026-10-29T09:56:28Z",
+      "outcome": "public_metadata_checked"
+    },
+    "hanjinze/nobodyDL": {
+      "checked_at": "2026-11-12T11:04:15Z",
+      "outcome": "public_metadata_checked"
+    },
+    "hanxiaopeng1/soybean-yield-prediction": {
+      "checked_at": "2026-11-12T11:04:15Z",
       "outcome": "public_metadata_checked"
     },
     "haohuuiuc/pecan": {
@@ -2001,6 +2234,10 @@
     "hectornieto/pyTSEB": {
       "checked_at": "2026-10-22T10:39:16Z",
       "outcome": "public_metadata_checked"
+    },
+    "hejazyayman17-spec/cropwat-training": {
+      "checked_at": "2026-11-12T11:04:15Z",
+      "outcome": "not_found_or_inaccessible"
     },
     "hendryliu/awesome-python": {
       "checked_at": "2026-10-27T08:57:51Z",
@@ -2138,6 +2375,10 @@
       "checked_at": "2026-10-28T09:38:19Z",
       "outcome": "public_metadata_checked"
     },
+    "ivanperjes1/AGRipa": {
+      "checked_at": "2026-11-12T11:04:15Z",
+      "outcome": "not_found_or_inaccessible"
+    },
     "j-alberto/API": {
       "checked_at": "2026-10-30T09:59:02Z",
       "outcome": "public_metadata_checked"
@@ -2157,6 +2398,10 @@
     "janjirem/Hydroponics-from-race2infinity": {
       "checked_at": "2026-11-09T11:28:26Z",
       "outcome": "public_metadata_checked"
+    },
+    "jasoart/scince": {
+      "checked_at": "2026-11-12T11:04:15Z",
+      "outcome": "not_found_or_inaccessible"
     },
     "jaspreet11111111/awesome-python": {
       "checked_at": "2026-11-05T10:52:57Z",
@@ -2196,6 +2441,10 @@
     },
     "jhmatthes/pecan": {
       "checked_at": "2026-10-23T07:22:54Z",
+      "outcome": "public_metadata_checked"
+    },
+    "jiangbophd/ios-learning": {
+      "checked_at": "2026-11-12T11:04:15Z",
       "outcome": "public_metadata_checked"
     },
     "jingxia/pecan": {
@@ -2269,6 +2518,10 @@
     "jxlin/awesome-python": {
       "checked_at": "2026-10-25T08:23:33Z",
       "outcome": "public_metadata_checked"
+    },
+    "jzzc123123-bit/SWAT-DPS-NSGA2": {
+      "checked_at": "2026-11-12T11:04:15Z",
+      "outcome": "not_found_or_inaccessible"
     },
     "kangerluk/hydrometeorology": {
       "checked_at": "2026-11-01T10:26:00Z",
@@ -2450,12 +2703,20 @@
       "checked_at": "2026-11-06T10:50:43Z",
       "outcome": "public_metadata_checked"
     },
+    "lijiliang/sp-build": {
+      "checked_at": "2026-11-12T11:04:15Z",
+      "outcome": "public_metadata_checked"
+    },
     "lily2/pecan": {
       "checked_at": "2026-10-22T19:59:05Z",
       "outcome": "public_metadata_checked"
     },
     "linnian1998/qq-farm-bot-DHY": {
       "checked_at": "2026-11-11T10:54:57Z",
+      "outcome": "public_metadata_checked"
+    },
+    "liu946/AppleMacInterestingList": {
+      "checked_at": "2026-11-12T11:04:15Z",
       "outcome": "public_metadata_checked"
     },
     "liulewis/awesome-agriculture": {
@@ -2500,6 +2761,10 @@
     },
     "ltw123/biocro_regional": {
       "checked_at": "2026-10-28T09:38:19Z",
+      "outcome": "public_metadata_checked"
+    },
+    "luagioAI2/kid-quest-farm": {
+      "checked_at": "2026-11-12T11:04:15Z",
       "outcome": "public_metadata_checked"
     },
     "lulzzz/GDAY": {
@@ -2750,6 +3015,10 @@
       "checked_at": "2026-11-11T10:54:57Z",
       "outcome": "public_metadata_checked"
     },
+    "nkz-os/ikerketa": {
+      "checked_at": "2026-11-12T11:04:15Z",
+      "outcome": "not_found_or_inaccessible"
+    },
     "notfoundry/TerraFirmaPumpkins": {
       "checked_at": "2026-11-06T10:50:43Z",
       "outcome": "public_metadata_checked"
@@ -2920,6 +3189,10 @@
     },
     "pjwarner/awesome-python": {
       "checked_at": "2026-10-25T08:23:33Z",
+      "outcome": "public_metadata_checked"
+    },
+    "potaly/rolandhell": {
+      "checked_at": "2026-11-12T11:04:15Z",
       "outcome": "public_metadata_checked"
     },
     "poudelpratishtha/WOFOST_crop_parameters": {
@@ -3302,6 +3575,10 @@
       "checked_at": "2026-11-02T11:02:19Z",
       "outcome": "public_metadata_checked"
     },
+    "stoak11/ceres-ai": {
+      "checked_at": "2026-11-12T11:04:15Z",
+      "outcome": "not_found_or_inaccessible"
+    },
     "sub-mod/awesome-python": {
       "checked_at": "2026-10-25T08:23:33Z",
       "outcome": "public_metadata_checked"
@@ -3537,6 +3814,10 @@
     "wujin1985/MAAT": {
       "checked_at": "2026-11-01T10:26:00Z",
       "outcome": "public_metadata_checked"
+    },
+    "wwanessa13/nlkernel-soybean": {
+      "checked_at": "2026-11-12T11:04:15Z",
+      "outcome": "not_found_or_inaccessible"
     },
     "wwwonekey/IDL_WOFOST_7.1": {
       "checked_at": "2026-11-01T10:26:00Z",

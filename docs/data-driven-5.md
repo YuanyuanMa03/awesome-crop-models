@@ -8,6 +8,7 @@ Continued from [page 4](data-driven-4.md). See the [contents](data-driven.md#con
 
 #### Other (continued)
 
+- [kirtika-kala/Crop-Yield-Prediction](https://github.com/kirtika-kala/Crop-Yield-Prediction) - project's primary aim is to predict the amount of crop that can be produced by examining the soil and weather conditions. `no licence`
 - [Kiruthika-B18/AI-powered-crop-yield-prediction-with-intelligent-chatbot](https://github.com/Kiruthika-B18/AI-powered-crop-yield-prediction-with-intelligent-chatbot) - AI powered crop yield prediction with intelligent chatbot. `no licence`
 - [Kiruthika-B18/Crop-Yield-Prediction](https://github.com/Kiruthika-B18/Crop-Yield-Prediction) - Crop yield prediction. `no licence`
 - [Kiruthika-B18/Crop-Yield-Prediction-with-alternate-suggestions](https://github.com/Kiruthika-B18/Crop-Yield-Prediction-with-alternate-suggestions) - Crop yield prediction uses data like rainfall, temperature, location, area, crop, and soil type usage to estimate harvest output. It helps farmers choose optimal crops and plan resources for better… `no licence`
@@ -937,7 +938,6 @@ Continued from [page 4](data-driven-4.md). See the [contents](data-driven.md#con
 - [tfvvc545-rgb/Drought-Crop-Yield-Risk-Index](https://github.com/tfvvc545-rgb/Drought-Crop-Yield-Risk-Index) - Crop yield prediction. `no licence`
 - [THANIKONDA-SATHYA-SAI/Crop-Yield-Predictor](https://github.com/THANIKONDA-SATHYA-SAI/Crop-Yield-Predictor) - Crop yield prediction. `no licence`
 - [Thanush6/crop-yield-prediction](https://github.com/Thanush6/crop-yield-prediction) - Python project for analyzing and predicting crop yield from a crop yield dataset. `MIT`
-- [Thanush6/crop-yield-predictor](https://github.com/Thanush6/crop-yield-predictor) - Python project for crop yield dataset analysis and prediction. `MIT`
 - [Tharaka-University/AI-powered-Rainfall-and-Crop-Yield-Prediction-for-Sustainable-Agriculture-in-East-Africa](https://github.com/Tharaka-University/AI-powered-Rainfall-and-Crop-Yield-Prediction-for-Sustainable-Agriculture-in-East-Africa) - Crop yield prediction with machine learning. `no licence`
 - [the10law/AI-Assisted-Farming](https://github.com/the10law/AI-Assisted-Farming) - The core functionality of the application will be suggesting the best crop for plantation and the yield/income prediction, which inturn would provide financial stability to the farmers. `no licence`
 - [thisme8/Crop-Yield-Prediction-repo](https://github.com/thisme8/Crop-Yield-Prediction-repo) - Crop yield prediction. `no licence`
@@ -1043,7 +1043,6 @@ Continued from [page 4](data-driven-4.md). See the [contents](data-driven.md#con
 - [webmasternoor/GAN-for-Crop-Yield-Prediction](https://github.com/webmasternoor/GAN-for-Crop-Yield-Prediction) - Crop yield prediction. `no licence`
 - [WELLMIND-DataSolutions/satellite-weather-crop-yield](https://github.com/WELLMIND-DataSolutions/satellite-weather-crop-yield) - Crop yield prediction with machine learning. `no licence`
 - [whalesb/Crop-yield-prediction](https://github.com/whalesb/Crop-yield-prediction) - Crop yield prediction. `no licence`
-- [wilmerhallinjacobsson/Crop-Yield-Prediction-w-Spark](https://github.com/wilmerhallinjacobsson/Crop-Yield-Prediction-w-Spark) - Crop yield prediction. `no licence`
 - [Wodagira-Wycliff-Eria/crop-yield-prediction](https://github.com/Wodagira-Wycliff-Eria/crop-yield-prediction) - Crop yield prediction. `no licence`
 - [WoleTheAnalyst/crop-yield-prediction-ml](https://github.com/WoleTheAnalyst/crop-yield-prediction-ml) - Machine learning pipeline predicting crop yield from 1M rows of agricultural data. Achieved R² score of 0.913 with consistent cross-validation across 4 folds. `no licence`
 - [worlds-biggest-software-project/267-precision-agriculture-platform](https://github.com/worlds-biggest-software-project/267-precision-agriculture-platform) - Crop yield prediction with machine learning. `no licence`
@@ -1615,7 +1614,7 @@ Continued from [page 4](data-driven-4.md). See the [contents](data-driven.md#con
 - [sharmashantanu319/CITS4403-Wheat-Crop-Predictive-Model](https://github.com/sharmashantanu319/CITS4403-Wheat-Crop-Predictive-Model) - Wheat yield prediction. `no licence`
 - [SkandaKumarPV/Wheat_Head_detection](https://github.com/SkandaKumarPV/Wheat_Head_detection) - This project uses a Faster R-CNN model with a ResNet-50 backbone to detect and classify wheat heads in images, enabling precision phenotyping for agricultural applications. It aims to assist in crop… `no licence`
 - [SmartDigitalAg/Wheat-Yield-Estimation](https://github.com/SmartDigitalAg/Wheat-Yield-Estimation) - Wheat yield prediction. `no licence`
-- [stoak11/ceres-ai](https://github.com/stoak11/ceres-ai) - Ceres AI - France soft-wheat yield forecast (Le Wagon MVP). `no licence`
+- [stoak11/ceres-ai](https://github.com/stoak11/ceres-ai) - Ceres AI - France soft-wheat yield forecast (Le Wagon MVP). `no licence` `not found or inaccessible`
 - [Subhodip62/Subhodip_Chakraborty_IDEAS_G7](https://github.com/Subhodip62/Subhodip_Chakraborty_IDEAS_G7) - Every thing related to my project "Forecasting the Production of Wheat in Different States of India Using ARIMAX Models" should be found here! `no licence`
 - [surakshya-adhikari/Wheat_Yield_Prediction_MLCode](https://github.com/surakshya-adhikari/Wheat_Yield_Prediction_MLCode) - Wheat yield prediction. `no licence`
 - [ThuatNguyenZ/report-Analyze-and-increase-the-efficiency-of-wheat-yield-prediction](https://github.com/ThuatNguyenZ/report-Analyze-and-increase-the-efficiency-of-wheat-yield-prediction) - Wheat yield prediction. `no licence`

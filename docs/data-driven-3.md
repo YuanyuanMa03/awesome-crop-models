@@ -8,6 +8,7 @@ Continued from [page 2](data-driven-2.md). See the [contents](data-driven.md#con
 
 #### Python (continued)
 
+- [LouisForData/crop-yield-based-on-pollution-levels-linear-regression-model](https://github.com/LouisForData/crop-yield-based-on-pollution-levels-linear-regression-model) - Crop yield prediction with machine learning. `no licence`
 - [Lovindya/Soil-Moisture-Based-Crop-Yield-Prediction-Using-SMAP-Data-and-Cross-Attention-Transformer](https://github.com/Lovindya/Soil-Moisture-Based-Crop-Yield-Prediction-Using-SMAP-Data-and-Cross-Attention-Transformer) - A deep learning-based crop yield prediction model leveraging SMAP soil moisture data and a cross-attention transformer to capture complex spatio-temporal relationships for improved agricultural… `no licence`
 - [lsngmin/crop-yield-prediction](https://github.com/lsngmin/crop-yield-prediction) - Crop yield prediction. `MIT`
 - [lsofiadb/Crop-yield-prediction-model](https://github.com/lsofiadb/Crop-yield-prediction-model) - Crop yield prediction model using data mining algorithms. `no licence`
@@ -2019,6 +2020,5 @@ Continued from [page 2](data-driven-2.md). See the [contents](data-driven.md#con
 - [srivatsakn18/LJMU-C12-Crop-Yield-Prediction](https://github.com/srivatsakn18/LJMU-C12-Crop-Yield-Prediction) - Crop yield prediction. `no licence`
 - [srivatsannn/Crop-Yield-Prediction](https://github.com/srivatsannn/Crop-Yield-Prediction) - Crop yield prediction. `no licence`
 - [sriya1602/Crop_Yield_Prediction](https://github.com/sriya1602/Crop_Yield_Prediction) - Crop yield prediction model using Python and popular machine learning libraries such as TensorFlow and scikit-learn.With the help of machine learning, we can leverage historical data, weather… `no licence`
-- [srujan1-creator/Exploratory-Data-Analysis-and-Visualization](https://github.com/srujan1-creator/Exploratory-Data-Analysis-and-Visualization) - Crop yield prediction with machine learning. `no licence`
 
 Continued on [page 4](data-driven-4.md).
