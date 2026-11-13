@@ -709,9 +709,9 @@ Process-based models of soil, water, climate, pests and other agricultural proce
 - [fdifonzo/shooting-roots-python-code](https://github.com/fdifonzo/shooting-roots-python-code) - Python code for shooting method applied to Richards' equation with root water uptake models. `★ 4` `no licence`
 - [JBris/deep-root-gen](https://github.com/JBris/deep-root-gen) - A simulation model for the digital reconstruction of 3D root system architectures. Integrated with a simulation-based inference generative deep learning model. `★ 4` `GPL-3.0`
 - [jangojangojango/PINN-RWU-Hydrogeophysics](https://github.com/jangojangojango/PINN-RWU-Hydrogeophysics) - A physics-informed neural network workflow for forward and inverse modeling of unsaturated flow and root water uptake from hydrogeophysical data. `★ 3` `no licence`
+- [openalea/Root-CyNAPS](https://github.com/openalea/Root-CyNAPS) - Root nitrogen cycling represented across plant scales. `★ 3` `custom licence`
 - [junqi108/Root-architecture-generator](https://github.com/junqi108/Root-architecture-generator) - During the summer student internship of James Bristow, we developed a generic methods for generating root architecture based on simple rules and could optimize the parameters to match the field… `★ 2` `GPL-3.0`
 - [openalea/hydroroot](https://github.com/openalea/hydroroot) - Simulation of hydraulic root architecture. `★ 2` `custom licence`
-- [openalea/Root-CyNAPS](https://github.com/openalea/Root-CyNAPS) - Root nitrogen cycling represented across plant scales. `★ 2` `custom licence`
 - [Plant-Food-Research-Open/deep-root-gen](https://github.com/Plant-Food-Research-Open/deep-root-gen) - No description provided. `★ 2` `GPL-3.0`
 - [gcamargo1/WaterUptakeModels](https://github.com/gcamargo1/WaterUptakeModels) - This repo is part of the supplemental material of a crop water uptake models comparison. `★ 1` `MIT`
 - [GeraultTr/Root_BRIDGES](https://github.com/GeraultTr/Root_BRIDGES) - No description provided. `★ 1` `no licence`
@@ -2369,7 +2369,7 @@ Process-based models of soil, water, climate, pests and other agricultural proce
 
 #### Fortran
 
-- [swat-model/swatplus](https://github.com/swat-model/swatplus) - Watershed soil, water, and agricultural management process simulations. `★ 86` `LGPL-2.1`
+- [swat-model/swatplus](https://github.com/swat-model/swatplus) - Watershed soil, water, and agricultural management process simulations. `★ 87` `LGPL-2.1`
 - [crazyzlj/SWAT](https://github.com/crazyzlj/SWAT) - An unofficial SWAT (Soil & Water Assessment Tool) code collection from official historical releases and the scientific community. `★ 80` `no licence`
 - [smwesten-usgs/swb](https://github.com/smwesten-usgs/swb) - Soil-Water-Balance: A Modified Thornthwaite-Mather Soil-Water-Balance Code for Estimating Groundwater Recharge. `★ 42` `custom licence`
 - [smwesten-usgs/swb2](https://github.com/smwesten-usgs/swb2) - SWB 2.0: a refactored version of the Soil-Water-Balance code. `★ 25` `custom licence`

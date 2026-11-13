@@ -8,6 +8,7 @@ Continued from [page 5](data-driven-5.md). See the [contents](data-driven.md#con
 
 #### R (continued)
 
+- [blschum/corn-yield-infill](https://github.com/blschum/corn-yield-infill) - Maize yield prediction with machine learning. `★ 1` `no licence`
 - [asavelaolona/maize-yield-project](https://github.com/asavelaolona/maize-yield-project) - Maize yield prediction. `no licence`
 - [etiennelord/smartland_article](https://github.com/etiennelord/smartland_article) - Source code and data for the article: Yield Forecasting in Maize: Performance and Limits of Unmanned Aerial Vehicle and PlanetScope Remote Sensing Across Multiple Growth Cycles. `MIT`
 - [fatmaoz25/ReactionNormGenomicPrediction](https://github.com/fatmaoz25/ReactionNormGenomicPrediction) - The aim of this study is to predict grain yield (tons/hect.) of a set of maize hybrids sharing a common parent by using their genomic and reaction norm data. All of the analysis was conducted using R. `no licence`

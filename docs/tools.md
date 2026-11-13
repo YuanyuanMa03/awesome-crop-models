@@ -164,8 +164,8 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 
 #### C++
 
-- [openalea/lpy](https://github.com/openalea/lpy) - An open source python version of the Lindenmayer Systems. `★ 100` `custom licence`
-- [openalea/plantgl](https://github.com/openalea/plantgl) - Geometry tools for building and analyzing virtual plant representations. `★ 80` `custom licence`
+- [openalea/lpy](https://github.com/openalea/lpy) - An open source python version of the Lindenmayer Systems. `★ 101` `custom licence`
+- [openalea/plantgl](https://github.com/openalea/plantgl) - Geometry tools for building and analyzing virtual plant representations. `★ 81` `custom licence`
 - [ARPA-SIMC/agrolib](https://github.com/ARPA-SIMC/agrolib) - Agrolib are a set of libraries for agrometeorological modeling and climate analysis. They include a numerical solution for three-dimensional water and heat flow in the soil, water balance… `★ 12` `LGPL-3.0`
 - [openalea/StructureAnalysis](https://github.com/openalea/StructureAnalysis) - Plant structure analysis. `★ 5` `no licence`
 - [zalf-rpm/util](https://github.com/zalf-rpm/util) - utility library for RDS models like MONICA. `★ 4` `MPL-2.0`
