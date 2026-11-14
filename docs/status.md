@@ -5,30 +5,30 @@ Machine-generated operational evidence; this is not a scientific review.
 ```json
 {
   "all_github_coverage_verified": false,
-  "attempted_at": "2026-11-13T10:56:42Z",
+  "attempted_at": "2026-11-14T10:23:22Z",
   "coverage_gaps": {
-    "historical": 235,
-    "recent": 49
+    "historical": 242,
+    "recent": 54
   },
-  "finished_at": "2026-11-13T11:02:53Z",
-  "last_healthy_at": "2026-11-13T10:56:42Z",
+  "finished_at": "2026-11-14T10:29:23Z",
+  "last_healthy_at": "2026-11-14T10:23:22Z",
   "last_historical_pass_at": null,
   "maintainer_accounts": {
     "cycle": 8,
-    "new_repositories": 98,
-    "observed_at": "2026-11-13T10:56:42Z",
+    "new_repositories": 124,
+    "observed_at": "2026-11-14T10:23:22Z",
     "pages": 10,
-    "remaining_accounts_or_pages": 14
+    "remaining_accounts_or_pages": 5
   },
-  "new_repository_identities": 526,
+  "new_repository_identities": 1627,
   "owner_listing_gaps": 0,
   "pending_search_jobs": {
     "historical": 44,
-    "recent": 11
+    "recent": 8
   },
-  "previous_healthy_at": "2026-11-12T11:04:15Z",
+  "previous_healthy_at": "2026-11-13T10:56:42Z",
   "recent_search": {
-    "completed_windows": 521,
+    "completed_windows": 524,
     "coverage_gaps": [
       {
         "cycle": 2,
@@ -497,6 +497,54 @@ Machine-generated operational evidence; this is not a scientific review.
         "query_id": "crop-growth",
         "reason": "duplicate_items_across_pages",
         "start": "2026-09-22T11:09:10Z"
+      },
+      {
+        "cycle": 2,
+        "end": "2026-10-22T11:09:10Z",
+        "page": 6,
+        "previous_total": 547,
+        "query_id": "rd-crop-modelling",
+        "reason": "result_count_changed",
+        "reported_total": 548,
+        "start": "2026-09-22T11:09:10Z"
+      },
+      {
+        "count": 3,
+        "cycle": 2,
+        "end": "2026-10-22T11:09:10Z",
+        "page": 6,
+        "query_id": "rd-crop-modelling",
+        "reason": "duplicate_items_across_pages",
+        "start": "2026-09-22T11:09:10Z"
+      },
+      {
+        "cycle": 2,
+        "end": "2026-10-22T11:09:10Z",
+        "page": 6,
+        "previous_total": 547,
+        "query_id": "rd-crop-modeling",
+        "reason": "result_count_changed",
+        "reported_total": 548,
+        "start": "2026-09-22T11:09:10Z"
+      },
+      {
+        "count": 3,
+        "cycle": 2,
+        "end": "2026-10-22T11:09:10Z",
+        "page": 6,
+        "query_id": "rd-crop-modeling",
+        "reason": "duplicate_items_across_pages",
+        "start": "2026-09-22T11:09:10Z"
+      },
+      {
+        "cycle": 2,
+        "end": "2026-10-07T11:09:10Z",
+        "page": 6,
+        "previous_total": 799,
+        "query_id": "mdl-lpy",
+        "reason": "result_count_changed",
+        "reported_total": 801,
+        "start": "2026-09-22T11:09:10Z"
       }
     ],
     "coverage_note": "Completion means this query plan was traversed. GitHub search is mutable, may omit repositories, and does not prove coverage of all GitHub.",
@@ -504,24 +552,24 @@ Machine-generated operational evidence; this is not a scientific review.
     "cycle_end": "2026-10-22T11:09:10Z",
     "cycle_start": "2026-09-22T11:09:10Z",
     "cycle_started_at": "2026-10-22T11:09:10Z",
-    "discovered_repositories": 1114,
-    "observed_at": "2026-11-13T10:56:42Z",
+    "discovered_repositories": 1749,
+    "observed_at": "2026-11-14T10:23:22Z",
     "plan_completed": false,
-    "remaining_jobs": 11,
+    "remaining_jobs": 8,
     "requests": 20,
     "status": "partial",
-    "unresolved_gap_count": 49
+    "unresolved_gap_count": 54
   },
   "refresh": {
     "checked_repositories": 40,
-    "known_identities": 29050,
+    "known_identities": 29576,
     "new_repositories": 0,
-    "observed_at": "2026-11-13T10:56:42Z",
+    "observed_at": "2026-11-14T10:23:22Z",
     "seed_count": 15291
   },
   "requests": 160,
   "status": "partial_budget",
-  "tracked_repositories": 29576
+  "tracked_repositories": 31203
 }
 ```
 

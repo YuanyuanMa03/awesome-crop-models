@@ -8,8 +8,6 @@ Continued from [page 5](data-driven-5.md). See the [contents](data-driven.md#con
 
 #### R (continued)
 
-- [blschum/corn-yield-infill](https://github.com/blschum/corn-yield-infill) - Maize yield prediction with machine learning. `★ 1` `no licence`
-- [asavelaolona/maize-yield-project](https://github.com/asavelaolona/maize-yield-project) - Maize yield prediction. `no licence`
 - [etiennelord/smartland_article](https://github.com/etiennelord/smartland_article) - Source code and data for the article: Yield Forecasting in Maize: Performance and Limits of Unmanned Aerial Vehicle and PlanetScope Remote Sensing Across Multiple Growth Cycles. `MIT`
 - [fatmaoz25/ReactionNormGenomicPrediction](https://github.com/fatmaoz25/ReactionNormGenomicPrediction) - The aim of this study is to predict grain yield (tons/hect.) of a set of maize hybrids sharing a common parent by using their genomic and reaction norm data. All of the analysis was conducted using R. `no licence`
 - [flofechter/Maize-yield-project](https://github.com/flofechter/Maize-yield-project) - Maize yield prediction. `no licence`
@@ -1411,7 +1409,7 @@ Continued from [page 5](data-driven-5.md). See the [contents](data-driven.md#con
 
 #### Python
 
-- [AI4Agriculture/PyKGML_development](https://github.com/AI4Agriculture/PyKGML_development) - PyKGML is a Python library to facilitate the development of knowledge-guided machine learning (KGML) models in agriculture and forestry. `★ 20` `no licence`
+- [AI4Agriculture/PyKGML_development](https://github.com/AI4Agriculture/PyKGML_development) - PyKGML is a Python library to facilitate the development of knowledge-guided machine learning (KGML) models in agriculture and forestry. `★ 21` `no licence`
 - [AndreasHiropedi/N2O_Emissions_Prediction](https://github.com/AndreasHiropedi/N2O_Emissions_Prediction) - Project repository for Data Science Lab Fall'25, Project ID 1: Predicting N2O emissions from agriculture. `★ 2` `MIT`
 - [qxc101/AgroFlux](https://github.com/qxc101/AgroFlux) - No description provided. `★ 2` `no licence`
 - [Retinpkumar/Agricultural-N2O-Predictor-App](https://github.com/Retinpkumar/Agricultural-N2O-Predictor-App) - No description provided. `★ 2` `no licence`

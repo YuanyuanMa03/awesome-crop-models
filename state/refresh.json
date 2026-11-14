@@ -1,16 +1,16 @@
 {
   "last_owner_scan": {
     "cycle": 8,
-    "new_repositories": 98,
-    "observed_at": "2026-11-13T10:56:42Z",
+    "new_repositories": 124,
+    "observed_at": "2026-11-14T10:23:22Z",
     "pages": 10,
-    "remaining_accounts_or_pages": 14
+    "remaining_accounts_or_pages": 5
   },
   "last_refresh": {
     "checked_repositories": 40,
-    "known_identities": 29050,
+    "known_identities": 29576,
     "new_repositories": 0,
-    "observed_at": "2026-11-13T10:56:42Z",
+    "observed_at": "2026-11-14T10:23:22Z",
     "seed_count": 15291
   },
   "owner_cycle": 8,
@@ -151,56 +151,6 @@
   "owner_queue": [
     {
       "kind": "org",
-      "login": "VirtualPlantLab",
-      "page": 1
-    },
-    {
-      "kind": "org",
-      "login": "AgriculturalModelExchangeInitiative",
-      "page": 1
-    },
-    {
-      "kind": "org",
-      "login": "SticsRPacks",
-      "page": 1
-    },
-    {
-      "kind": "org",
-      "login": "gicait",
-      "page": 1
-    },
-    {
-      "kind": "user",
-      "login": "hectornieto",
-      "page": 1
-    },
-    {
-      "kind": "org",
-      "login": "Open-ET",
-      "page": 1
-    },
-    {
-      "kind": "org",
-      "login": "WSWUP",
-      "page": 1
-    },
-    {
-      "kind": "org",
-      "login": "cropmodels",
-      "page": 1
-    },
-    {
-      "kind": "org",
-      "login": "YASSOmodel",
-      "page": 1
-    },
-    {
-      "kind": "org",
-      "login": "AgMIP",
-      "page": 1
-    },
-    {
-      "kind": "org",
       "login": "Crop2ML-Catalog",
       "page": 1
     },
@@ -217,6 +167,11 @@
     {
       "kind": "org",
       "login": "zalf-rpm",
+      "page": 2
+    },
+    {
+      "kind": "org",
+      "login": "AgMIP",
       "page": 2
     }
   ],
@@ -253,6 +208,10 @@
       "checked_at": "2026-11-09T11:28:26Z",
       "outcome": "public_metadata_checked"
     },
+    "711119104041/IBM-Project-27511-1660058829": {
+      "checked_at": "2026-11-14T10:23:22Z",
+      "outcome": "public_metadata_checked"
+    },
     "99plus2/awesome-python": {
       "checked_at": "2026-10-24T08:06:24Z",
       "outcome": "public_metadata_checked"
@@ -272,6 +231,10 @@
     "AI-AQI/Island": {
       "checked_at": "2026-11-12T11:04:15Z",
       "outcome": "not_found_or_inaccessible"
+    },
+    "AISHWARYAEC6004/IBM-Project-19621-1659702560": {
+      "checked_at": "2026-11-14T10:23:22Z",
+      "outcome": "public_metadata_checked"
     },
     "AIdevdoer/awesome-minecraft": {
       "checked_at": "2026-11-09T11:28:26Z",
@@ -349,6 +312,14 @@
       "checked_at": "2026-11-05T10:52:57Z",
       "outcome": "public_metadata_checked"
     },
+    "Arunkumarp002/IBM-Project-54074-1661588720": {
+      "checked_at": "2026-11-14T10:23:22Z",
+      "outcome": "public_metadata_checked"
+    },
+    "Arunkumarvp/IBM-Project-29026-1660120250": {
+      "checked_at": "2026-11-14T10:23:22Z",
+      "outcome": "public_metadata_checked"
+    },
     "Awetahegn/pcse": {
       "checked_at": "2026-11-01T10:26:00Z",
       "outcome": "public_metadata_checked"
@@ -367,6 +338,10 @@
     },
     "BROADACRESADMIN/FS17_seasons": {
       "checked_at": "2026-10-30T09:59:02Z",
+      "outcome": "public_metadata_checked"
+    },
+    "Balaji0291/IBM-Project-22026-1659801415": {
+      "checked_at": "2026-11-14T10:23:22Z",
       "outcome": "public_metadata_checked"
     },
     "Blaggy-0/FS17_seasons": {
@@ -399,6 +374,10 @@
     },
     "Carlos-Galindez/digital-agriculture-datasets": {
       "checked_at": "2026-11-07T10:04:25Z",
+      "outcome": "public_metadata_checked"
+    },
+    "CharanrajSridharan/IBM-Project-14321-1659580165": {
+      "checked_at": "2026-11-14T10:23:22Z",
       "outcome": "public_metadata_checked"
     },
     "ChihHsiangChien/leaf": {
@@ -439,6 +418,10 @@
     },
     "DanilaEremenko/Agrotool": {
       "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "Danushri-bala/IBM-Project-19486-1659698659": {
+      "checked_at": "2026-11-14T10:23:22Z",
       "outcome": "public_metadata_checked"
     },
     "DataFusion18/GDAY": {
@@ -653,6 +636,10 @@
       "checked_at": "2026-11-05T10:52:57Z",
       "outcome": "public_metadata_checked"
     },
+    "GuntumaduguAnilKumar/IBM-Project-20202-1659714613": {
+      "checked_at": "2026-11-14T10:23:22Z",
+      "outcome": "public_metadata_checked"
+    },
     "H2OIsLife/lampyrid": {
       "checked_at": "2026-10-31T09:36:59Z",
       "outcome": "public_metadata_checked"
@@ -671,6 +658,10 @@
     },
     "HammerSpb/awesome-python": {
       "checked_at": "2026-10-24T08:06:24Z",
+      "outcome": "public_metadata_checked"
+    },
+    "Harshini-24-IT/IBM-Project-1253-1658381118": {
+      "checked_at": "2026-11-14T10:23:22Z",
       "outcome": "public_metadata_checked"
     },
     "Hateman31/awesome-python": {
@@ -703,6 +694,10 @@
     },
     "IanMadlenya/Wheat-Yield-prediction-for-United-States-by-environmental-features": {
       "checked_at": "2026-10-31T09:36:59Z",
+      "outcome": "public_metadata_checked"
+    },
+    "Indhumathimurugesan801/IBM-Project-4134-1658720742": {
+      "checked_at": "2026-11-14T10:23:22Z",
       "outcome": "public_metadata_checked"
     },
     "IngeOssentjuk/Coupled_PCR-GLOBWB2-WOFOST_model_framework": {
@@ -837,6 +832,10 @@
       "checked_at": "2026-10-24T08:06:24Z",
       "outcome": "public_metadata_checked"
     },
+    "Lokeshsan/IBM-Project-17159-1659629409": {
+      "checked_at": "2026-11-14T10:23:22Z",
+      "outcome": "public_metadata_checked"
+    },
     "LumingTan/pecan": {
       "checked_at": "2026-10-27T08:57:51Z",
       "outcome": "public_metadata_checked"
@@ -889,12 +888,24 @@
       "checked_at": "2026-11-11T10:54:57Z",
       "outcome": "public_metadata_checked"
     },
+    "Mahesh-8321/IBM-Project-25281-1659957416": {
+      "checked_at": "2026-11-14T10:23:22Z",
+      "outcome": "public_metadata_checked"
+    },
     "Maika-Miura/EndtoEndCroppingSystem": {
       "checked_at": "2026-11-06T10:50:43Z",
       "outcome": "public_metadata_checked"
     },
     "Malonje/sustain-ben": {
       "checked_at": "2026-11-13T10:56:42Z",
+      "outcome": "public_metadata_checked"
+    },
+    "Manoj-2k1/IBM-Project-51729-1660982243": {
+      "checked_at": "2026-11-14T10:23:22Z",
+      "outcome": "public_metadata_checked"
+    },
+    "Marieswari07/IBM-Project-33119-1660214826": {
+      "checked_at": "2026-11-14T10:23:22Z",
       "outcome": "public_metadata_checked"
     },
     "MarloGr/CropsNH": {
@@ -965,6 +976,10 @@
       "checked_at": "2026-10-31T09:36:59Z",
       "outcome": "public_metadata_checked"
     },
+    "Monikamorale/IBM-Project-20578-1659755493": {
+      "checked_at": "2026-11-14T10:23:22Z",
+      "outcome": "public_metadata_checked"
+    },
     "Mrjinx453/Survival-Industry": {
       "checked_at": "2026-10-28T09:38:19Z",
       "outcome": "public_metadata_checked"
@@ -975,6 +990,10 @@
     },
     "Nandhinithangu/IBM-Project-1707-1658410286": {
       "checked_at": "2026-11-13T10:56:42Z",
+      "outcome": "public_metadata_checked"
+    },
+    "Navadeepan-git/IBM-Project-21130-1659774084": {
+      "checked_at": "2026-11-14T10:23:22Z",
       "outcome": "public_metadata_checked"
     },
     "NomadWulf/FS17_seasons": {
@@ -995,6 +1014,10 @@
     },
     "PIK-LPJmL/LPJmL": {
       "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "PMI-Basel/Lutz_et_al_Predicting_crop_yield": {
+      "checked_at": "2026-11-14T10:23:22Z",
       "outcome": "public_metadata_checked"
     },
     "PRANAV1740/geodesis": {
@@ -1041,8 +1064,16 @@
       "checked_at": "2026-11-13T10:56:42Z",
       "outcome": "public_metadata_checked"
     },
+    "Praveena6/IBM-Project-10421-1659179435": {
+      "checked_at": "2026-11-14T10:23:22Z",
+      "outcome": "public_metadata_checked"
+    },
     "ProsperCraft/VintageStoryModding": {
       "checked_at": "2026-11-10T11:09:04Z",
+      "outcome": "public_metadata_checked"
+    },
+    "QuantumDilemma/Impact-of-cover-crops-on-crop-yields": {
+      "checked_at": "2026-11-14T10:23:22Z",
       "outcome": "public_metadata_checked"
     },
     "RJ2019/Awesome-Geospatial": {
@@ -1071,6 +1102,10 @@
     },
     "Raniasimplon1/agridatasets": {
       "checked_at": "2026-11-04T10:53:17Z",
+      "outcome": "public_metadata_checked"
+    },
+    "Ranjith0401/IBM-Project-11969-1659363832": {
+      "checked_at": "2026-11-14T10:23:22Z",
       "outcome": "public_metadata_checked"
     },
     "RemkoDuursma/plantecophys": {
@@ -1165,6 +1200,10 @@
       "checked_at": "2026-11-05T10:52:57Z",
       "outcome": "public_metadata_checked"
     },
+    "Sree-Krishna/Crop-Yield-Prediction-Using-Remote-Sensing-Data": {
+      "checked_at": "2026-11-14T10:23:22Z",
+      "outcome": "public_metadata_checked"
+    },
     "Sror/All-To-DPS": {
       "checked_at": "2026-10-23T07:22:54Z",
       "outcome": "public_metadata_checked"
@@ -1181,6 +1220,10 @@
       "checked_at": "2026-10-26T08:53:10Z",
       "outcome": "public_metadata_checked"
     },
+    "Suriya1052/IBM-Project-33793-1660226901": {
+      "checked_at": "2026-11-14T10:23:22Z",
+      "outcome": "public_metadata_checked"
+    },
     "Suryaprakasam130/IBM-Project-17836-1659676672": {
       "checked_at": "2026-11-13T10:56:42Z",
       "outcome": "public_metadata_checked"
@@ -1191,6 +1234,10 @@
     },
     "SwapanK/Hydrology": {
       "checked_at": "2026-11-04T10:53:17Z",
+      "outcome": "public_metadata_checked"
+    },
+    "SwethaS031/IBM-Project-24719-1659947807": {
+      "checked_at": "2026-11-14T10:23:22Z",
       "outcome": "public_metadata_checked"
     },
     "TSKO71/VoxeLand": {
@@ -1265,6 +1312,10 @@
       "checked_at": "2026-10-29T09:56:28Z",
       "outcome": "public_metadata_checked"
     },
+    "UDAYAGEETHA/IBM-Project-44807-1660726896": {
+      "checked_at": "2026-11-14T10:23:22Z",
+      "outcome": "public_metadata_checked"
+    },
     "USDA-ARS-ACSL/2DGLYCIM": {
       "checked_at": "2026-10-22T10:39:16Z",
       "outcome": "public_metadata_checked"
@@ -1311,6 +1362,14 @@
     },
     "VEZY/PlantBiophysics.jl": {
       "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "Vasanthi83/IBM-Project-27369-1660054822": {
+      "checked_at": "2026-11-14T10:23:22Z",
+      "outcome": "public_metadata_checked"
+    },
+    "Vimalastudent/IBM-Project-25751-1659972507": {
+      "checked_at": "2026-11-14T10:23:22Z",
       "outcome": "public_metadata_checked"
     },
     "VirtualPlantLab/PlantSimEngine.jl": {
@@ -1801,6 +1860,10 @@
       "checked_at": "2026-11-12T11:04:15Z",
       "outcome": "public_metadata_checked"
     },
+    "colt-cyber/IBM-Project-33601-1660224391": {
+      "checked_at": "2026-11-14T10:23:22Z",
+      "outcome": "public_metadata_checked"
+    },
     "condontd/pecan": {
       "checked_at": "2026-10-28T09:38:19Z",
       "outcome": "public_metadata_checked"
@@ -1915,6 +1978,10 @@
     },
     "dh565/IDL_WOFOST_7.1": {
       "checked_at": "2026-11-02T11:02:19Z",
+      "outcome": "public_metadata_checked"
+    },
+    "dharunvsd1/IBM-Project-24392-1659942354": {
+      "checked_at": "2026-11-14T10:23:22Z",
       "outcome": "public_metadata_checked"
     },
     "dipankar05/mSCOPE": {
@@ -2103,6 +2170,10 @@
     },
     "frostbytten/translator-excel-spreadsheet": {
       "checked_at": "2026-10-22T19:59:05Z",
+      "outcome": "public_metadata_checked"
+    },
+    "gagansopori/smart-greenhouse": {
+      "checked_at": "2026-11-14T10:23:22Z",
       "outcome": "public_metadata_checked"
     },
     "gaharini11/IBM-Project-38164-1660373931": {
@@ -2457,6 +2528,10 @@
       "checked_at": "2026-10-23T07:22:54Z",
       "outcome": "public_metadata_checked"
     },
+    "jayashrit/IBM-Project-21233-1659775529": {
+      "checked_at": "2026-11-14T10:23:22Z",
+      "outcome": "public_metadata_checked"
+    },
     "jcufi/agmip-common-functions": {
       "checked_at": "2026-10-22T19:57:55Z",
       "outcome": "public_metadata_checked"
@@ -2667,6 +2742,10 @@
     },
     "ktraxler/XSEDE16": {
       "checked_at": "2026-10-28T09:38:19Z",
+      "outcome": "public_metadata_checked"
+    },
+    "kushagra1711/crop-yield-neuralnet": {
+      "checked_at": "2026-11-14T10:23:22Z",
       "outcome": "public_metadata_checked"
     },
     "kvnloo/PlantSimEngine.jl": {
@@ -3285,6 +3364,10 @@
       "checked_at": "2026-11-07T10:04:25Z",
       "outcome": "public_metadata_checked"
     },
+    "powsika/IBM-Project-40209-1660625960": {
+      "checked_at": "2026-11-14T10:23:22Z",
+      "outcome": "public_metadata_checked"
+    },
     "prabhakardesamala-ops/soil-prediction": {
       "checked_at": "2026-11-11T10:54:57Z",
       "outcome": "public_metadata_checked"
@@ -3335,6 +3418,14 @@
     },
     "rabutler-usbr/hydrology": {
       "checked_at": "2026-11-02T11:02:19Z",
+      "outcome": "public_metadata_checked"
+    },
+    "rah-ul30/IBM-Project-23139-1659869010": {
+      "checked_at": "2026-11-14T10:23:22Z",
+      "outcome": "public_metadata_checked"
+    },
+    "ramsuriya/IBM-Project-6914-1658842542": {
+      "checked_at": "2026-11-14T10:23:22Z",
       "outcome": "public_metadata_checked"
     },
     "randulphmorales/rebugged": {
@@ -3421,6 +3512,10 @@
       "checked_at": "2026-11-07T10:04:25Z",
       "outcome": "public_metadata_checked"
     },
+    "rohitmahi14/IBM-Project-13924-1659535695": {
+      "checked_at": "2026-11-14T10:23:22Z",
+      "outcome": "public_metadata_checked"
+    },
     "ropensci/nasapower": {
       "checked_at": "2026-10-22T19:57:55Z",
       "outcome": "public_metadata_checked"
@@ -3476,6 +3571,10 @@
     "samuel2pb/x_tufao": {
       "checked_at": "2026-11-13T10:56:42Z",
       "outcome": "not_found_or_inaccessible"
+    },
+    "samyukthakannan/IBM-Project-205-1658224282": {
+      "checked_at": "2026-11-14T10:23:22Z",
+      "outcome": "public_metadata_checked"
     },
     "sandeepsingh/awesome-python": {
       "checked_at": "2026-10-28T09:38:19Z",
@@ -3577,6 +3676,10 @@
       "checked_at": "2026-10-25T08:23:33Z",
       "outcome": "public_metadata_checked"
     },
+    "shamhiruthik/IBM-Estimating-crop-yield-using-Data-Analytics": {
+      "checked_at": "2026-11-14T10:23:22Z",
+      "outcome": "public_metadata_checked"
+    },
     "shanyujordan512/GDAY": {
       "checked_at": "2026-10-29T09:56:28Z",
       "outcome": "public_metadata_checked"
@@ -3607,6 +3710,10 @@
     },
     "shlguagua/Awesome-Geospatial": {
       "checked_at": "2026-11-03T10:50:42Z",
+      "outcome": "public_metadata_checked"
+    },
+    "shubhamborate/CropYieldProductionDjango": {
+      "checked_at": "2026-11-14T10:23:22Z",
       "outcome": "public_metadata_checked"
     },
     "sidvas/pecan": {
@@ -3715,6 +3822,10 @@
     },
     "swat-model/swatplus": {
       "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "swethasarani/IBM-Project-15366-1659597674": {
+      "checked_at": "2026-11-14T10:23:22Z",
       "outcome": "public_metadata_checked"
     },
     "sytbru/pcse": {
@@ -3995,6 +4106,10 @@
     },
     "ykhorzon/pcse": {
       "checked_at": "2026-10-28T09:38:19Z",
+      "outcome": "public_metadata_checked"
+    },
+    "yogi6886/IBM-Project-33589-1660223818": {
+      "checked_at": "2026-11-14T10:23:22Z",
       "outcome": "public_metadata_checked"
     },
     "yongb/HeadingDatePrediction": {
