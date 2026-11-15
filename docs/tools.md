@@ -559,6 +559,7 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 - [openalea-incubator/groalea](https://github.com/openalea-incubator/groalea) - Interoperability between GroIMP and OpenAlea. `★ 3` `no licence`
 - [openalea/agroservices](https://github.com/openalea/agroservices) - AgroService is a Python package that provides access to IPM Web Services (at least) and a framework to easily implement Web Services wrappers. This package is intended to be close to the webservice.… `★ 3` `custom licence`
 - [openalea/RSML](https://github.com/openalea/RSML) - RSML : The language of root architecture. `★ 3` `custom licence`
+- [pacs27/py-aquacrop](https://github.com/pacs27/py-aquacrop) - PyAquaCrop: Python wrapper for FAO's AquaCrop crop model that handles input generation, simulation execution, and results parsing. Makes sophisticated crop yield modeling accessible through Python. `★ 3` `custom licence`
 - [yuxi-research/apsimx-tool](https://github.com/yuxi-research/apsimx-tool) - This tool automates the batch configuration and execution of APSIMX simulations. `★ 3` `MIT`
 - [achtmalklug/pyApsim](https://github.com/achtmalklug/pyApsim) - No description provided. `★ 2` `no licence`
 - [Agro-Climate/ET_DSS_hist](https://github.com/Agro-Climate/ET_DSS_hist) - No description provided. `★ 2` `no licence`
@@ -579,7 +580,6 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 - [LightModelIntercomparisonOnPlant/SceneManagement](https://github.com/LightModelIntercomparisonOnPlant/SceneManagement) - Code to import/export a scene. `★ 2` `no licence`
 - [nour3467/Crop-Coach](https://github.com/nour3467/Crop-Coach) - CropCoach is a custom OpenAI Gym environment for simulating and optimizing agricultural management decisions using reinforcement learning. This project integrates crop growth models with RL… `★ 2` `no licence`
 - [openalea-incubator/PlantConvert](https://github.com/openalea-incubator/PlantConvert) - Package is a tool for seamlessly convert your plant to and from a variety of formats, including mtg. `★ 2` `Apache-2.0`
-- [pacs27/py-aquacrop](https://github.com/pacs27/py-aquacrop) - PyAquaCrop: Python wrapper for FAO's AquaCrop crop model that handles input generation, simulation execution, and results parsing. Makes sophisticated crop yield modeling accessible through Python. `★ 2` `custom licence`
 - [saefarm-codebase/dssat_interface](https://github.com/saefarm-codebase/dssat_interface) - RESTful API Interface of DSSAT. `★ 2` `no licence`
 - [SERVIR/DssatWeb](https://github.com/SERVIR/DssatWeb) - No description provided. `★ 2` `no licence`
 - [shubhamjain15/SWAT-Copilot](https://github.com/shubhamjain15/SWAT-Copilot) - An interactive Model Context Protocol for the Soil & Water Assessment Tool (SWAT) that integrates LLMs to query projects, analyze outputs, and generate plots. `★ 2` `no licence`

@@ -1,29 +1,29 @@
 {
   "all_github_coverage_verified": false,
-  "attempted_at": "2026-11-14T10:23:22Z",
+  "attempted_at": "2026-11-15T10:50:34Z",
   "coverage_gaps": {
-    "historical": 242,
-    "recent": 54
+    "historical": 249,
+    "recent": 56
   },
-  "finished_at": "2026-11-14T10:29:23Z",
-  "last_healthy_at": "2026-11-14T10:23:22Z",
+  "finished_at": "2026-11-15T10:56:10Z",
+  "last_healthy_at": "2026-11-15T10:50:34Z",
   "last_historical_pass_at": null,
   "maintainer_accounts": {
     "cycle": 8,
-    "new_repositories": 124,
-    "observed_at": "2026-11-14T10:23:22Z",
-    "pages": 10,
-    "remaining_accounts_or_pages": 5
+    "new_repositories": 23,
+    "observed_at": "2026-11-15T10:50:34Z",
+    "pages": 5,
+    "remaining_accounts_or_pages": 0
   },
-  "new_repository_identities": 1627,
+  "new_repository_identities": 1761,
   "owner_listing_gaps": 0,
   "pending_search_jobs": {
-    "historical": 44,
-    "recent": 8
+    "historical": 41,
+    "recent": 6
   },
-  "previous_healthy_at": "2026-11-13T10:56:42Z",
+  "previous_healthy_at": "2026-11-14T10:23:22Z",
   "recent_search": {
-    "completed_windows": 524,
+    "completed_windows": 528,
     "coverage_gaps": [
       {
         "cycle": 2,
@@ -540,6 +540,25 @@
         "reason": "result_count_changed",
         "reported_total": 801,
         "start": "2026-09-22T11:09:10Z"
+      },
+      {
+        "count": 1,
+        "cycle": 2,
+        "end": "2026-09-22T22:24:10Z",
+        "page": 10,
+        "query_id": "cn-crop-model",
+        "reason": "duplicate_items_across_pages",
+        "start": "2026-09-22T11:09:10Z"
+      },
+      {
+        "cycle": 2,
+        "end": "2026-10-22T11:09:10Z",
+        "page": 6,
+        "previous_total": 882,
+        "query_id": "mdl-lpy",
+        "reason": "result_count_changed",
+        "reported_total": 881,
+        "start": "2026-10-07T11:09:11Z"
       }
     ],
     "coverage_note": "Completion means this query plan was traversed. GitHub search is mutable, may omit repositories, and does not prove coverage of all GitHub.",
@@ -547,22 +566,22 @@
     "cycle_end": "2026-10-22T11:09:10Z",
     "cycle_start": "2026-09-22T11:09:10Z",
     "cycle_started_at": "2026-10-22T11:09:10Z",
-    "discovered_repositories": 1749,
-    "observed_at": "2026-11-14T10:23:22Z",
+    "discovered_repositories": 1756,
+    "observed_at": "2026-11-15T10:50:34Z",
     "plan_completed": false,
-    "remaining_jobs": 8,
+    "remaining_jobs": 6,
     "requests": 20,
     "status": "partial",
-    "unresolved_gap_count": 54
+    "unresolved_gap_count": 56
   },
   "refresh": {
     "checked_repositories": 40,
-    "known_identities": 29576,
+    "known_identities": 31203,
     "new_repositories": 0,
-    "observed_at": "2026-11-14T10:23:22Z",
+    "observed_at": "2026-11-15T10:50:34Z",
     "seed_count": 15291
   },
   "requests": 160,
   "status": "partial_budget",
-  "tracked_repositories": 31203
+  "tracked_repositories": 32964
 }
