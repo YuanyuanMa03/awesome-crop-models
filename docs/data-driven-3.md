@@ -8,6 +8,10 @@ Continued from [page 2](data-driven-2.md). See the [contents](data-driven.md#con
 
 #### Python (continued)
 
+- [lohitha-143/AI_Crop_Production_Prediction](https://github.com/lohitha-143/AI_Crop_Production_Prediction) - Crop yield prediction with machine learning. `no licence`
+- [LohithaK25/CropVision](https://github.com/LohithaK25/CropVision) - Crop yield prediction with machine learning. `no licence`
+- [LOHITHKUMARMEDURI/Crop-Yield-Prediction](https://github.com/LOHITHKUMARMEDURI/Crop-Yield-Prediction) - Crop yield prediction. `MIT`
+- [LohithUnnam/crop_yield_prediction_MLOps](https://github.com/LohithUnnam/crop_yield_prediction_MLOps) - Crop yield prediction. `no licence`
 - [lokendraparihar-9977/Agri-Climate-India](https://github.com/lokendraparihar-9977/Agri-Climate-India) - Crop yield & climate analysis dashboard — Streamlit + XGBoost &#124; India 1997–2020. `MIT`
 - [lokeshnachukuppam25/Crop-Yield-Forecasting-Using-Environmental-and-Soil-Data](https://github.com/lokeshnachukuppam25/Crop-Yield-Forecasting-Using-Environmental-and-Soil-Data) - Crop Yield Forecasting Using Environmental and Soil Data uses machine learning to predict crop productivity by analyzing soil parameters (pH, nutrients, moisture) and environmental factors… `no licence`
 - [Lokeshsan/IBM-Project-17159-1659629409](https://github.com/Lokeshsan/IBM-Project-17159-1659629409) - Estimate the Crop Yield using Data Analytics. `no licence`
@@ -708,6 +712,7 @@ Continued from [page 2](data-driven-2.md). See the [contents](data-driven.md#con
 - [oyewoleayomide02/crop_prediction](https://github.com/oyewoleayomide02/crop_prediction) - Developed a system for predicting crop yields by analyzing environmental variables including temperature, rainfall, humidity, and soil data using GIS technologies. `no licence`
 - [Oyoo-Frankline/Crop_Yield_Prediction_Model](https://github.com/Oyoo-Frankline/Crop_Yield_Prediction_Model) - Machine learning project for predicting crop yield using multiple linear regression. `no licence`
 - [pa-malick/Agro_Predict-SN](https://github.com/pa-malick/Agro_Predict-SN) - L’agriculture sénégalaise représente environ 15 % du PIB national et emploie plus de 60 % de la population active. ). Ce projet combine simulation physique et Machine Learning pour obtenir des… `MIT`
+- [paavamaani/Crop-Yield-Estimator](https://github.com/paavamaani/Crop-Yield-Estimator) - Crop yield prediction. `no licence`
 - [pabodaR/crop-yield-prediction](https://github.com/pabodaR/crop-yield-prediction) - Crop yield prediction. `no licence`
 - [pacifiquecorw-svg/CAT-CROP-YIELD-PREDICTION](https://github.com/pacifiquecorw-svg/CAT-CROP-YIELD-PREDICTION) - Crop yield prediction. `no licence`
 - [pacifiquecorw-svg/Crop-yield-prediction](https://github.com/pacifiquecorw-svg/Crop-yield-prediction) - this project is for predicting the crop yield using different parameter such as region, crop, temperature and etc. `no licence`
@@ -2020,8 +2025,5 @@ Continued from [page 2](data-driven-2.md). See the [contents](data-driven.md#con
 - [sridhareguram/Crop-yield-Prediction](https://github.com/sridhareguram/Crop-yield-Prediction) - Crop yield prediction. `no licence`
 - [SriDharshnna/Crop_Yield_Prediction](https://github.com/SriDharshnna/Crop_Yield_Prediction) - Crop yield prediction. `no licence`
 - [sriharini-06/Crop-Yield-Prediction](https://github.com/sriharini-06/Crop-Yield-Prediction) - To predict the yield per hectare of crops. `no licence`
-- [sriharini10/AI-Powered-Crop-Yield-Prediction-And-Optimization](https://github.com/sriharini10/AI-Powered-Crop-Yield-Prediction-And-Optimization) - Crop yield prediction with machine learning. `no licence`
-- [srihariyaswanth/Crop_Yield_predictor](https://github.com/srihariyaswanth/Crop_Yield_predictor) - This project leverages a machine learning model trained on agricultural data to predict the best crop to cultivate under given soil and environmental conditions. `no licence`
-- [SRIJANx17/Crop-Yield-Prediction](https://github.com/SRIJANx17/Crop-Yield-Prediction) - Crop yield prediction. `no licence`
 
 Continued on [page 4](data-driven-4.md).

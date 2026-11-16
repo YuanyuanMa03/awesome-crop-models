@@ -607,6 +607,7 @@ Continued from [page 1](data-driven.md). See the [contents](data-driven.md#conte
 - [bpugs/Precision-Agriculture](https://github.com/bpugs/Precision-Agriculture) - Predicting crop yield based on soil and weather monitors. `no licence`
 - [Brdo-womp/Project4-Crop-Prediction](https://github.com/Brdo-womp/Project4-Crop-Prediction) - Machine learning project for predicting agricultural crop production in India using Python and multiple regression models. `no licence`
 - [BrentOchieng/crop-yield-prediction-with-pesticide-data](https://github.com/BrentOchieng/crop-yield-prediction-with-pesticide-data) - crop-yield-prediction-with-pesticide-data. `no licence`
+- [Briankim254/Team-NALU](https://github.com/Briankim254/Team-NALU) - This repository is home to the various problems solved during the Luna Hacks hackathon by team code name NALU.Technologies such as python and c# used to work on problems such as random number… `no licence`
 - [brightagbor/crop_yield_prediction](https://github.com/brightagbor/crop_yield_prediction) - Crop yield prediction. `no licence`
 - [brightclaude27/Smart-Agriculture-AI](https://github.com/brightclaude27/Smart-Agriculture-AI) - An advanced Smart Agriculture AI system built with Python and Machine Learning for crop yield prediction and soil health analysis. `no licence`
 - [brightliam20-ops/Crop-Yield-LSTM-Portugal](https://github.com/brightliam20-ops/Crop-Yield-LSTM-Portugal) - LSTM-based crop yield forecasting for Portugal — ISA/ULisboa Practical ML course project. `no licence`
@@ -1970,6 +1971,7 @@ Continued from [page 1](data-driven.md). See the [contents](data-driven.md#conte
 - [Lakshmidevi2222/Crop-yield-prediction-model](https://github.com/Lakshmidevi2222/Crop-yield-prediction-model) - Crop yield prediction. `no licence`
 - [lakshmihd29/Crop-Yield-Prediction](https://github.com/lakshmihd29/Crop-Yield-Prediction) - The aim of this data science project is to predict crop yield using the dataset provided from Crop Yield Prediction.. `no licence`
 - [Lakshya-29/Crop-Yield-Prediction-System](https://github.com/Lakshya-29/Crop-Yield-Prediction-System) - Crop yield prediction. `no licence`
+- [lakshya161019/Agro_oracle](https://github.com/lakshya161019/Agro_oracle) - Our project leverages data analytics and machine learning to predict crop yields and visualize agricultural data in India. Our web application provides farmers and policymakers with insights to make… `no licence`
 - [lal999/crop-yield-prediction](https://github.com/lal999/crop-yield-prediction) - Crop yield prediction. `no licence`
 - [Lalasa1234/CropYieldPrediction](https://github.com/Lalasa1234/CropYieldPrediction) - Predicts the yield of blueberry based on various parameters such as clone size, density of different bees and weather conditions. `no licence`
 - [Lalatendusamal/Indian_Agriculture_in_Odisha_Crop-yield_prediction](https://github.com/Lalatendusamal/Indian_Agriculture_in_Odisha_Crop-yield_prediction) - Crop yield prediction. `no licence`
@@ -2023,9 +2025,5 @@ Continued from [page 1](data-driven.md). See the [contents](data-driven.md#conte
 - [logesh-s411/Crop-yield-prediction](https://github.com/logesh-s411/Crop-yield-prediction) - Crop yield prediction. `no licence`
 - [LogeswaranSR/Crop-Yield-Demand-Forecasting](https://github.com/LogeswaranSR/Crop-Yield-Demand-Forecasting) - Crop yield prediction. `no licence`
 - [Lohi-lohi/Crop_Yeild_Prediction.](https://github.com/Lohi-lohi/Crop_Yeild_Prediction.) - A Machine Learning project using Python and Scikit-Learn to predict agricultural crop yields based on regional and environmental data. `no licence`
-- [lohitha-143/AI_Crop_Production_Prediction](https://github.com/lohitha-143/AI_Crop_Production_Prediction) - Crop yield prediction with machine learning. `no licence`
-- [LohithaK25/CropVision](https://github.com/LohithaK25/CropVision) - Crop yield prediction with machine learning. `no licence`
-- [LOHITHKUMARMEDURI/Crop-Yield-Prediction](https://github.com/LOHITHKUMARMEDURI/Crop-Yield-Prediction) - Crop yield prediction. `MIT`
-- [LohithUnnam/crop_yield_prediction_MLOps](https://github.com/LohithUnnam/crop_yield_prediction_MLOps) - Crop yield prediction. `no licence`
 
 Continued on [page 3](data-driven-3.md).

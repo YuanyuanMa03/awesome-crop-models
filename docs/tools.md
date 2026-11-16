@@ -735,8 +735,8 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 - [Jeikosd/DSSAT-R](https://github.com/Jeikosd/DSSAT-R) - DSSAT run simulations in R. `★ 20` `no licence`
 - [jrodriguez88/ORYZA_Model_RTOOLS](https://github.com/jrodriguez88/ORYZA_Model_RTOOLS) - R-Tools for Rice Crop Simulation with ORYZA V3.0. `★ 15` `no licence`
 - [SticsRPacks/SticsRPacks](https://github.com/SticsRPacks/SticsRPacks) - Easily Install and Load 'SticsRPacks' packages. `★ 13` `LGPL-3.0`
+- [APSIMInitiative/ApsimOnR](https://github.com/APSIMInitiative/ApsimOnR) - R interface for running APSIM simulations. `★ 12` `no licence`
 - [byzheng/rapsimng](https://github.com/byzheng/rapsimng) - A R package for APSIM Next Generation. `★ 12` `custom licence`
-- [APSIMInitiative/ApsimOnR](https://github.com/APSIMInitiative/ApsimOnR) - R interface for running APSIM simulations. `★ 11` `no licence`
 - [hzambran/SWAT2R](https://github.com/hzambran/SWAT2R) - Input/Output functions for pre- and post-processing SWAT (hydrological model) files in R. `★ 11` `custom licence`
 - [jrodriguez88/aquacrop-R](https://github.com/jrodriguez88/aquacrop-R) - Tools for crop simulations with Aquacrop V6. `★ 11` `no licence`
 - [PIK-LPJmL/lpjmlkit](https://github.com/PIK-LPJmL/lpjmlkit) - A collection of basic functions to facilitate the work with the DGVM LPJmL hosted at the Potsdam Institute for Climate Impact Research. It provides functions for running LPJmL, as well as reading… `★ 10` `AGPL-3.0`

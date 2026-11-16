@@ -28,7 +28,7 @@ Statistical and machine-learning models that predict crop variables (yield, grow
     - [PHP](#general-crop-php) (22)
     - [Pkl](#general-crop-pkl) (1)
     - [PLpgSQL](#general-crop-plpgsql) (2)
-    - [Python](#general-crop-python) (6094)
+    - [Python](#general-crop-python) (6097)
     - [R](data-driven-4.md#general-crop-r) (106)
     - [Rust](data-driven-4.md#general-crop-rust) (2)
     - [Shell](data-driven-4.md#general-crop-shell) (1)
@@ -40,7 +40,7 @@ Statistical and machine-learning models that predict crop variables (yield, grow
     - [Visual Basic](data-driven-4.md#general-crop-visual-basic) (1)
     - [Vue](data-driven-4.md#general-crop-vue) (3)
     - [Wolfram Language](data-driven-4.md#general-crop-wolfram-language) (1)
-    - [Other](data-driven-4.md#general-crop-other) (1903)
+    - [Other](data-driven-4.md#general-crop-other) (1900)
   - [Rice](data-driven-5.md#rice) (327)
     - [C++](data-driven-5.md#rice-cplusplus) (3)
     - [Dart](data-driven-5.md#rice-dart) (1)
@@ -819,7 +819,7 @@ Statistical and machine-learning models that predict crop variables (yield, grow
 - [Pranitha-07/Smart-Agriculture-Data-Visualization-Platform-](https://github.com/Pranitha-07/Smart-Agriculture-Data-Visualization-Platform-) - AI-powered agriculture data visualization platform with crop advisory system, weather analytics, and yield forecasting. Built with FastAPI backend and interactive dashboards for farmers and… `★ 43` `no licence`
 - [brad-ross/crop-yield-prediction-project](https://github.com/brad-ross/crop-yield-prediction-project) - Understanding crop yield predictions from CNNs as our final project for CS231N. `★ 39` `no licence`
 - [ab007shetty/crop-management-system](https://github.com/ab007shetty/crop-management-system) - The Crop Management System is a machine learning-based project designed to provide predictions and recommendations for farmers. `★ 37` `MIT` `archived`
-- [abhiwagh95/Crop-yield-prediction-using-weather-data-and-NDVI-time-series](https://github.com/abhiwagh95/Crop-yield-prediction-using-weather-data-and-NDVI-time-series) - The proposed system will be able to predict the crop yield production which will be useful to farmers for harvesting and storage. The system will use the weather forecasting which includes the… `★ 37` `no licence`
+- [abhiwagh95/Crop-yield-prediction-using-weather-data-and-NDVI-time-series](https://github.com/abhiwagh95/Crop-yield-prediction-using-weather-data-and-NDVI-time-series) - The proposed system will be able to predict the crop yield production which will be useful to farmers for harvesting and storage. The system will use the weather forecasting which includes the… `★ 36` `no licence`
 - [WUR-AI/MLforCropYieldForecasting](https://github.com/WUR-AI/MLforCropYieldForecasting) - Implementation of Machine learning baseline for large-scale crop yield forecasting. `★ 34` `MIT`
 - [LatchiyaKeerthi/Crop-Yield-Prediction-](https://github.com/LatchiyaKeerthi/Crop-Yield-Prediction-) - Crop yield prediction. `★ 30` `no licence`
 - [611noorsaeed/Crop-Yield-Prediction-Using-Machin-Learning-Python](https://github.com/611noorsaeed/Crop-Yield-Prediction-Using-Machin-Learning-Python) - Crop Yield Prediction Using Machin Learning Python. `★ 29` `no licence`
@@ -830,8 +830,8 @@ Statistical and machine-learning models that predict crop variables (yield, grow
 - [JunwenBai/GNN-RNN](https://github.com/JunwenBai/GNN-RNN) - A GNN-RNN approach for harnessing geospatial and temporal information: application to crop yield prediction. `★ 23` `no licence`
 - [onef1shy/DFYP](https://github.com/onef1shy/DFYP) - &#91;TGRS 2026&#93; DFYP: A Dynamic Fusion Framework with Spectral Channel Attention and Adaptive Operator learning for Crop Yield Prediction. `★ 23` `no licence`
 - [shreyzo/Crop-yield-and-profitability-prediction](https://github.com/shreyzo/Crop-yield-and-profitability-prediction) - Prediction of yield and profitability of crop records of India for the agricultural sector using machine learning techniques. `★ 22` `no licence`
-- [Bishanka-prog/crop_yield_prediction](https://github.com/Bishanka-prog/crop_yield_prediction) - Crop Yield Prediction using Machine Learning I built a data-driven project that analyzes the impact of rainfall on agricultural productivity and predicts crop yield using machine learning models. 🔍… `★ 20` `no licence`
 - [AbhishekKandoi/Crop-Yield-Prediction-based-on-Indian-Agriculture](https://github.com/AbhishekKandoi/Crop-Yield-Prediction-based-on-Indian-Agriculture) - A project to predict the crop yield using supervised machine learning algorithms. `★ 19` `no licence`
+- [Bishanka-prog/crop_yield_prediction](https://github.com/Bishanka-prog/crop_yield_prediction) - Crop Yield Prediction using Machine Learning I built a data-driven project that analyzes the impact of rainfall on agricultural productivity and predicts crop yield using machine learning models. 🔍… `★ 19` `no licence`
 - [Bhawna-ai/Agriculture-yield-prediction](https://github.com/Bhawna-ai/Agriculture-yield-prediction) - A machine learning project to predict agricultural crop yield. `★ 17` `MIT`
 - [sustainlab-group/Deep-Transfer-Learning-Crop-Yield-Prediction](https://github.com/sustainlab-group/Deep-Transfer-Learning-Crop-Yield-Prediction) - Crop yield prediction. `★ 17` `MIT`
 - [tariktesfa/Crop-Yield-prediction-using-Machine-Learning-Ensemble-Algorithms](https://github.com/tariktesfa/Crop-Yield-prediction-using-Machine-Learning-Ensemble-Algorithms) - A Crop Yield prediction model which is using Machine Learning Ensemble Regression Algorithms. `★ 17` `no licence`
