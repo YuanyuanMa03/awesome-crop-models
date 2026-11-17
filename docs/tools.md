@@ -212,7 +212,7 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 - [cropbox/Cropbox.jl](https://github.com/cropbox/Cropbox.jl) - Declarative framework for constructing and running crop process models. `★ 25` `MIT`
 - [bspanoghe/PlantModules.jl](https://github.com/bspanoghe/PlantModules.jl) - An acausal functional-structural plant modeling framework written in Julia. `★ 13` `MIT`
 - [VEZY/MultiScaleTreeGraph.jl](https://github.com/VEZY/MultiScaleTreeGraph.jl) - Read, analyse, compute, write and convert MTG files. `★ 11` `MIT`
-- [VEZY/PlantGeom.jl](https://github.com/VEZY/PlantGeom.jl) - Everything 3D for plants 🌱. `★ 10` `MIT`
+- [VEZY/PlantGeom.jl](https://github.com/VEZY/PlantGeom.jl) - Everything 3D for plants 🌱. `★ 11` `MIT`
 - [BiophysicalEcology/DynamicEnergyBudgets.jl](https://github.com/BiophysicalEcology/DynamicEnergyBudgets.jl) - Flexible Dynamic Energy Budget models in the Julia language. `★ 5` `custom licence`
 - [VirtualPlantLab/VirtualPlantLab.jl](https://github.com/VirtualPlantLab/VirtualPlantLab.jl) - The Virtual Plant Laboratory. `★ 4` `MIT`
 - [VirtualPlantLab/PlantGraphs.jl](https://github.com/VirtualPlantLab/PlantGraphs.jl) - Dynamic graphs for simulating plant growth and development. `★ 3` `MIT`
@@ -318,10 +318,11 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 
 #### C#
 
-- [swat-model/ArcSWAT3](https://github.com/swat-model/ArcSWAT3) - ArcGIS Pro interface for generating SWAT models. `★ 20` `no licence`
+- [swat-model/ArcSWAT3](https://github.com/swat-model/ArcSWAT3) - ArcGIS Pro interface for generating SWAT models. `★ 21` `no licence`
 - [APSIMInitiative/POAMA](https://github.com/APSIMInitiative/POAMA) - A web service for hosting the POAMA / APSIM climate forecasting system. `★ 1` `no licence`
 - [hie-dave/lpjg-gui](https://github.com/hie-dave/lpjg-gui) - A simple frontend for LPJ-Guess. `★ 1` `no licence`
 - [hol430/APSIM.Bootstrapper](https://github.com/hol430/APSIM.Bootstrapper) - Bootstrapper for APSIM kubernetes jobs. `★ 1` `no licence`
+- [swat-model/ArcSWATPlus](https://github.com/swat-model/ArcSWATPlus) - ArcGIS Pro interface for generating SWAT+ models. `★ 1` `no licence`
 - [swat-model/swat-check](https://github.com/swat-model/swat-check) - Desktop interface for SWAT Check for SWAT2012. `★ 1` `no licence`
 - [APSIMInitiative/APSIM.Cloud](https://github.com/APSIMInitiative/APSIM.Cloud) - C# services for running APSIM simulations in the cloud. `no licence`
 - [APSIMInitiative/APSIM.FileSplitter](https://github.com/APSIMInitiative/APSIM.FileSplitter) - A program for separating an apsimx file into multiple smaller files. `no licence`
@@ -330,7 +331,6 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 - [GeoModelLab/spacing](https://github.com/GeoModelLab/spacing) - No description provided. `no licence`
 - [GregMcLean-UQ/Utilities](https://github.com/GregMcLean-UQ/Utilities) - APSIM utilities. `no licence`
 - [hol430/server-manager](https://github.com/hol430/server-manager) - Web api for managing apsim server (aka FART) instances. `no licence`
-- [swat-model/ArcSWATPlus](https://github.com/swat-model/ArcSWATPlus) - ArcGIS Pro interface for generating SWAT+ models. `no licence`
 - [zalf-rpm/BarleyITFormatConverter](https://github.com/zalf-rpm/BarleyITFormatConverter) - Convert file from BarleyIT DB in ICASA standard to monica input files. `MPL-2.0`
 - [zalf-rpm/monica_blazor_ui](https://github.com/zalf-rpm/monica_blazor_ui) - Blazor UI for MONICA. `MPL-2.0`
 

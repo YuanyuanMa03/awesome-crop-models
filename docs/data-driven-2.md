@@ -1162,7 +1162,7 @@ Continued from [page 1](data-driven.md). See the [contents](data-driven.md#conte
 - [gayathriroy3/state-wise-crop-production-prediction](https://github.com/gayathriroy3/state-wise-crop-production-prediction) - Crop yield prediction. `no licence`
 - [GayathriSS-19/Crop_Yield_Prediction](https://github.com/GayathriSS-19/Crop_Yield_Prediction) - ML Model with deployment. `no licence`
 - [Gayatri-2810/Weather-Based-Crop-Yield-Forecast-In-Vidarbha-Using-Statistical-Analysis-ML](https://github.com/Gayatri-2810/Weather-Based-Crop-Yield-Forecast-In-Vidarbha-Using-Statistical-Analysis-ML) - A full-stack web application built with Flask that predicts crop yield using weather and soil data. The system processes datasets with Pandas and SQL, applies machine learning models for prediction… `no licence`
-- [gayatri-bagusetty/Crop-Type-and-Yield-Prediction-using-ML](https://github.com/gayatri-bagusetty/Crop-Type-and-Yield-Prediction-using-ML) - Crop type and Crop Yeild Prediction. `no licence`
+- [gayatri-bagusetty/Crop-Yield-Prediction-and-Analysis](https://github.com/gayatri-bagusetty/Crop-Yield-Prediction-and-Analysis) - Crop type and Crop Yeild Prediction. `no licence`
 - [gayatritupe123/Smart_Farmer_assistant](https://github.com/gayatritupe123/Smart_Farmer_assistant) - Crop yield prediction with machine learning. `no licence`
 - [GazaTech80/Crops-yield-predictions](https://github.com/GazaTech80/Crops-yield-predictions) - The system takes soil nutrients dataset to predict the crops yield. `no licence`
 - [gbabhi125-svg/smart-agriculture-ai](https://github.com/gbabhi125-svg/smart-agriculture-ai) - 🌾 AI-powered farming assistant — Crop Recommendation, Soil Health, Failure Risk & Harvest Prediction using Random Forest, SHAP, Flask & React. `no licence`

@@ -1080,7 +1080,7 @@ Continued from [page 2](data-driven-2.md). See the [contents](data-driven.md#con
 - [RameshKumar-B/crop-prediction](https://github.com/RameshKumar-B/crop-prediction) - Predicting Crop Production Based on Agricultural Data. `no licence`
 - [Rameshvd18/Crop-Yield-Prediction-using-Machine-Learning-main](https://github.com/Rameshvd18/Crop-Yield-Prediction-using-Machine-Learning-main) - Crop yield prediction with machine learning. `no licence`
 - [Rameswari-06/Crop-Management-for-Farmers](https://github.com/Rameswari-06/Crop-Management-for-Farmers) - A smart agricultural platform that helps farmers track crop health, manage field data, and receive real-time insights on soil, weather, and yield predictions to improve productivity and… `no licence`
-- [rAmeZ-m/Graduation_Project](https://github.com/rAmeZ-m/Graduation_Project) - Crop yield prediction with machine learning. `no licence`
+- [rAmeZ-m/AgriAdvisor](https://github.com/rAmeZ-m/AgriAdvisor) - Crop yield prediction with machine learning. `no licence`
 - [Ramkrish1999/classificationproject_crop_yield_prediction](https://github.com/Ramkrish1999/classificationproject_crop_yield_prediction) - No description provided. `no licence`
 - [ramsuregokul/Blind-Assist-YOLO-LLM](https://github.com/ramsuregokul/Blind-Assist-YOLO-LLM) - In this project i build a XGB model to predict the crop yield using different parameters like crop type , soil type , temperature etc. `no licence`
 - [Ramyaa0108/Crop-Yield-Prediction](https://github.com/Ramyaa0108/Crop-Yield-Prediction) - Machine Learning-based Crop Yield Prediction web application with a Flask backend, React frontend, and predictive analytics for smart agriculture. `no licence`

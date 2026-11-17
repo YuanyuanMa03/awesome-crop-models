@@ -4,7 +4,7 @@
 
 **A curated map of open-source crop and agricultural process models on GitHub**<br>crop or process → programming language → repository
 
-[![repositories](https://img.shields.io/badge/repositories-15%2C291-2ea44f?style=flat-square)](#contents) [![last collection](https://img.shields.io/badge/last_collection-2026--11--16-informational?style=flat-square)](docs/status.md) [![licence](https://img.shields.io/badge/licence-MIT-blue?style=flat-square)](LICENSE) [![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
+[![repositories](https://img.shields.io/badge/repositories-15%2C291-2ea44f?style=flat-square)](#contents) [![last collection](https://img.shields.io/badge/last_collection-2026--11--17-informational?style=flat-square)](docs/status.md) [![licence](https://img.shields.io/badge/licence-MIT-blue?style=flat-square)](LICENSE) [![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 
 [English](README.md) · [简体中文](docs/README.zh-CN.md) · [Review queue](docs/discovered.md) · [Collection status](docs/status.md)
 
@@ -12,7 +12,7 @@
 
 Crop growth simulators; soil, water, nutrient and climate process models; the frameworks and tools that run them; studies that apply them; and data-driven yield and process models. Each repository appears once, under its main crop or process and its main programming language, ordered by stars. Crop models are listed below, and the other branches have their own pages. Listing is not a scientific endorsement: check each project's licence before reuse.
 
-> **15,291 repositories** · 437 crop models · 1,675 process models · 1,584 frameworks and tools · 769 applications · 10,826 data-driven models. Screened from 113,427 GitHub repositories found by 525 searches and 33 maintainer accounts.
+> **15,291 repositories** · 437 crop models · 1,675 process models · 1,584 frameworks and tools · 769 applications · 10,826 data-driven models. Screened from 115,105 GitHub repositories found by 525 searches and 33 maintainer accounts.
 
 ## Contents
 
@@ -419,7 +419,7 @@ The most-starred process-based models and tools on the list. Each also appears i
 #### Other
 
 - [AtsushiMaruyama/A-water-temperarture-model-for-rice-paddies](https://github.com/AtsushiMaruyama/A-water-temperarture-model-for-rice-paddies) - A calculation sample of "A water temperature simulation model for rice paddies with variable water depths". `no licence`
-- [shymamangalath/SWAT-Rice](https://github.com/shymamangalath/SWAT-Rice) - Process-based paddy irrigation module for SWAT. `no licence`
+- [shymamangalath/SWAT-Rice](https://github.com/shymamangalath/SWAT-Rice) - Process-based paddy irrigation module for SWAT. `no licence` `not found or inaccessible`
 - [TaoLi999/ORYZA_v3](https://github.com/TaoLi999/ORYZA_v3) - Use to files transpotation among ORYZA community. `no licence`
 - [vnfms3259/CERES-rice](https://github.com/vnfms3259/CERES-rice) - CERES-rice model source code share. `no licence`
 

@@ -2369,7 +2369,7 @@ Process-based models of soil, water, climate, pests and other agricultural proce
 
 #### Fortran
 
-- [swat-model/swatplus](https://github.com/swat-model/swatplus) - Watershed soil, water, and agricultural management process simulations. `★ 87` `LGPL-2.1`
+- [swat-model/swatplus](https://github.com/swat-model/swatplus) - Watershed soil, water, and agricultural management process simulations. `★ 89` `LGPL-2.1`
 - [crazyzlj/SWAT](https://github.com/crazyzlj/SWAT) - An unofficial SWAT (Soil & Water Assessment Tool) code collection from official historical releases and the scientific community. `★ 80` `no licence`
 - [smwesten-usgs/swb](https://github.com/smwesten-usgs/swb) - Soil-Water-Balance: A Modified Thornthwaite-Mather Soil-Water-Balance Code for Estimating Groundwater Recharge. `★ 42` `custom licence`
 - [smwesten-usgs/swb2](https://github.com/smwesten-usgs/swb2) - SWB 2.0: a refactored version of the Soil-Water-Balance code. `★ 25` `custom licence`
