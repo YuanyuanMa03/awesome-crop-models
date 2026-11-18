@@ -593,6 +593,7 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 - [BenLatham/PcseWrapperDjango](https://github.com/BenLatham/PcseWrapperDjango) - An attempt to create a django app allowing Pcse to be used for FLOSS. `★ 1` `no licence`
 - [BeomseokForWork/dssat-mcp](https://github.com/BeomseokForWork/dssat-mcp) - MCP-based AI agent interface for DSSAT crop model calibration. `★ 1` `MIT`
 - [Briggs599/apsim-mcp](https://github.com/Briggs599/apsim-mcp) - An MCP server that lets an LLM drive the APSIM Next Gen farming-systems simulator with plain language. `★ 1` `Apache-2.0`
+- [Fengrui-Lab/FAIRY](https://github.com/Fengrui-Lab/FAIRY) - No description provided. `★ 1` `no licence`
 - [geonextgis/cropengine](https://github.com/geonextgis/cropengine) - cropengine is a Python package that streamlines running process-based crop models by automating data preparation, simulation workflows, and result analysis. `★ 1` `MIT`
 - [GeraultTr/pyRTVPL](https://github.com/GeraultTr/pyRTVPL) - No description provided. `★ 1` `no licence`
 - [gustavovisentini/PyCornSim](https://github.com/gustavovisentini/PyCornSim) - Simple tool for running CEREZ-Maize with python and personalizable input data. `★ 1` `no licence`
@@ -608,7 +609,6 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 - [MSU-CECO/DSSATLM-AgNeSy](https://github.com/MSU-CECO/DSSATLM-AgNeSy) - A Framework: Closing the Gap Between Crop Simulation and Practical Decision-Making. `★ 1` `Apache-2.0`
 - [MSUEWQ/Hydrus](https://github.com/MSUEWQ/Hydrus) - No description provided. `★ 1` `no licence`
 - [NASA-EarthRISE/earthrise-toolkit_DSSAT-Alabama](https://github.com/NASA-EarthRISE/earthrise-toolkit_DSSAT-Alabama) - No description provided. `★ 1` `GPL-3.0`
-- [quaoq/FAIRY](https://github.com/quaoq/FAIRY) - No description provided. `★ 1` `no licence`
 - [reaganames/pyfao56-AutoIrrigate-UI](https://github.com/reaganames/pyfao56-AutoIrrigate-UI) - A user interface created to visualize and customize a pyfao56 AutoIrrigate class. `★ 1` `no licence`
 - [rouhollahdavarpanah/swatplus-rev62-migrator](https://github.com/rouhollahdavarpanah/swatplus-rev62-migrator) - Migrate older SWAT+ projects to rev.62 — a standalone tool that updates input files so they load and run with a rev.62 executable. `★ 1` `MIT`
 - [SERVIR/dssat_service](https://github.com/SERVIR/dssat_service) - No description provided. `★ 1` `no licence`
@@ -748,9 +748,9 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 - [SticsRPacks/SticsOnR](https://github.com/SticsRPacks/SticsOnR) - A Package to control STICS from R. `★ 7` `LGPL-3.0`
 - [devalc/Pi-VAT](https://github.com/devalc/Pi-VAT) - A post-processing, interactive visualization, and analysis tool to synthesize multi-scenario, multi-watershed outputs from process-based geospatial models WEPP and SWAT. `★ 6` `MIT`
 - [Risk-Team/AquaCropPlotter](https://github.com/Risk-Team/AquaCropPlotter) - AquaCropPlotter is an R Shiny app for processing and visualizing FAO AquaCrop model output files. `★ 6` `no licence`
+- [SticsRPacks/SticsRFiles](https://github.com/SticsRPacks/SticsRFiles) - Read and modify STICS input/output files:. `★ 6` `LGPL-3.0`
 - [jknappe/hydrus2r](https://github.com/jknappe/hydrus2r) - R package to import HYDRUS 2D/3D simulation results into R. `★ 5` `MIT`
 - [joergsteinkamp/RLPJGUESS](https://github.com/joergsteinkamp/RLPJGUESS) - No description provided. `★ 5` `GPL-3.0` `archived`
-- [SticsRPacks/SticsRFiles](https://github.com/SticsRPacks/SticsRFiles) - Read and modify STICS input/output files:. `★ 5` `LGPL-3.0`
 - [tdeswaef/aquacroponr](https://github.com/tdeswaef/aquacroponr) - R package with wrapper functions for AquaCrop. `★ 5` `MIT`
 - [un-fao/AquaCropPlotter](https://github.com/un-fao/AquaCropPlotter) - AquaCropPlotter is an R Shiny app for processing and visualizing FAO AquaCrop model output files. `★ 5` `Apache-2.0`
 - [village-ecodynamics/dssatr](https://github.com/village-ecodynamics/dssatr) - R bindings for the DSSAT CSMs. `★ 5` `custom licence`
@@ -1439,7 +1439,7 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 - [RDCEP/psims](https://github.com/RDCEP/psims) - No description provided. `★ 33` `AGPL-3.0`
 - [DSSAT/pythia](https://github.com/DSSAT/pythia) - Another Gridded Modeling Framework. `★ 28` `no licence`
 - [davidstackio/apsimRegions](https://github.com/davidstackio/apsimRegions) - ApsimRegions is a one-way nested climate-crop modeling framework that links gridded weather data (rain, temperature, radiation, etc.) with the point-specific APSIM crop model. `★ 27` `MIT`
-- [Paloschi/AquaGrid](https://github.com/Paloschi/AquaGrid) - AquaCrop on rasters: zarr in/out, Numba CPU/GPU. `★ 22` `custom licence`
+- [Paloschi/AquaGrid](https://github.com/Paloschi/AquaGrid) - AquaCrop on rasters: zarr in/out, Numba CPU/GPU. `★ 25` `custom licence`
 - [ajwdewit/pyCGMS](https://github.com/ajwdewit/pyCGMS) - Python implementation of Crop Growth Monitoring System as implemented by the EU MARS project. `★ 14` `no licence`
 - [KUL-RSDA/RegionalAC_Py](https://github.com/KUL-RSDA/RegionalAC_Py) - Regional AquaCrop Python wrapper. `★ 12` `no licence`
 - [celray/CoSWAT-Framework](https://github.com/celray/CoSWAT-Framework) - This is the code for setting up the Community SWAT+ Model. It is made to work with Docker so that if software get's updated, it still works. `★ 11` `MIT`
@@ -1998,7 +1998,7 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 #### Other
 
 - [ajwdewit/WOFOST_crop_parameters](https://github.com/ajwdewit/WOFOST_crop_parameters) - Parameter sets for the WOFOST crop simulation model implemented in YAML. `★ 84` `no licence`
-- [Open-ET/flux-data-footprint](https://github.com/Open-ET/flux-data-footprint) - Footprint estimation and analysis for eddy covariance flux tower data. `★ 34` `Apache-2.0`
+- [Open-ET/flux-data-footprint](https://github.com/Open-ET/flux-data-footprint) - Footprint estimation and analysis for eddy covariance flux tower data. `★ 35` `Apache-2.0`
 - [DSSAT/dssat-csm-data](https://github.com/DSSAT/dssat-csm-data) - Experimental data files for DSSAT-CSM. `★ 22` `no licence`
 - [QuantGen/MAIZE-HUB](https://github.com/QuantGen/MAIZE-HUB) - No description provided. `★ 10` `no licence`
 - [Benzlxs/MMCBE](https://github.com/Benzlxs/MMCBE) - MMCBE: Multi-modality Dataset for Crop Biomass Estimation and Beyond. `★ 4` `no licence`

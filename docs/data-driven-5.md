@@ -8,6 +8,8 @@ Continued from [page 4](data-driven-4.md). See the [contents](data-driven.md#con
 
 #### Other (continued)
 
+- [kaushalshimpi/Crop-Yield-Prediction-using-Machine-Learning](https://github.com/kaushalshimpi/Crop-Yield-Prediction-using-Machine-Learning) - Crop Yield Prediction using Machine Learning. `no licence`
+- [Kaushik-991/Crop-yield-prediction-and-remedies-recommendation-using-various-feature-selection-techniques--ML](https://github.com/Kaushik-991/Crop-yield-prediction-and-remedies-recommendation-using-various-feature-selection-techniques--ML) - Crop yield prediction with machine learning. `Unlicense`
 - [kavana26-M/crop-yield-prediction-overview](https://github.com/kavana26-M/crop-yield-prediction-overview) - Crop yield prediction. `no licence`
 - [Kavanamurthy-km/Crop-yiled](https://github.com/Kavanamurthy-km/Crop-yiled) - crop yield prediction project. `no licence`
 - [Kavi-2103/IBM-Project-20534-1659749523](https://github.com/Kavi-2103/IBM-Project-20534-1659749523) - Estimate the Crop Yield using Data Analytics. `no licence`
@@ -217,7 +219,6 @@ Continued from [page 4](data-driven-4.md). See the [contents](data-driven.md#con
 - [Mikkudj/CropAI](https://github.com/Mikkudj/CropAI) - AI-powered crop yield prediction and smart farming assistant. `no licence`
 - [Mileesoni/Crop-yield-predidction](https://github.com/Mileesoni/Crop-yield-predidction) - This project focuses on developing a machine learning-based system that predicts crop yield based on various agricultural and environmental factors. The main objective is to assist farmers and… `no licence`
 - [Mileesoni/Predictive-Modelling-of-Crop-Yeilds-using-Machine-Learning](https://github.com/Mileesoni/Predictive-Modelling-of-Crop-Yeilds-using-Machine-Learning) - This project focuses on developing a machine learning-based system that predicts crop yield based on various agricultural and environmental factors. The main objective is to assist farmers and… `no licence`
-- [Minahil-CS/Agricultural-ML-Internship-YuvaIntern](https://github.com/Minahil-CS/Agricultural-ML-Internship-YuvaIntern) - Week 1: Strategic Planning and Data Analysis Framework for Agricultural Yield Prediction. `no licence`
 - [minekargandhali-pixel/Crop-Yield-Prediction](https://github.com/minekargandhali-pixel/Crop-Yield-Prediction) - Crop Yield Prediction. `no licence`
 - [minteh12/CropYieldPredictionAI_Sysytem](https://github.com/minteh12/CropYieldPredictionAI_Sysytem) - Crop yield prediction. `no licence`
 - [mishagrol/mishagrol](https://github.com/mishagrol/mishagrol) - Crop yield prediction with machine learning. `no licence`
@@ -541,7 +542,6 @@ Continued from [page 4](data-driven-4.md). See the [contents](data-driven.md#con
 - [rishikamagesh/Crop-Yield-Prediction](https://github.com/rishikamagesh/Crop-Yield-Prediction) - Crop yield prediction. `no licence`
 - [rishitha-152006/crop_yeild_prediction](https://github.com/rishitha-152006/crop_yeild_prediction) - This project predicts crop yield using machine learning models by analyzing soil properties, weather data, and past yield patterns. `no licence`
 - [rishiwandhare/KrishiMitra-Ai](https://github.com/rishiwandhare/KrishiMitra-Ai) - KrishiMiyra AI is an AI/ML-powered agricultural decision-support platform that predicts crop yield, forecasts rainfall risk, and recommends suitable crops using historical yield, weather, and soil… `MIT`
-- [riteshgirhe/smart-agriculture-ai](https://github.com/riteshgirhe/smart-agriculture-ai) - End-to-end smart agriculture platform for crop, fertilizer, irrigation, price, and yield prediction using machine learning. `no licence`
 - [Rithaniramesh/Crop-Yield-Prediction](https://github.com/Rithaniramesh/Crop-Yield-Prediction) - Crop yield prediction. `no licence`
 - [rithika1765/crop-yield-prediction](https://github.com/rithika1765/crop-yield-prediction) - Crop yield prediction. `no licence`
 - [RitikaKurmi/AgriSense-AI-Crop-Yield-Prediction](https://github.com/RitikaKurmi/AgriSense-AI-Crop-Yield-Prediction) - AI Powered Crop Yield Prediction using Python, Machine Learning, PostgreSQL, Streamlit and Power BI. `no licence`
