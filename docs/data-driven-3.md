@@ -257,7 +257,7 @@ Continued from [page 2](data-driven-2.md). See the [contents](data-driven.md#con
 - [melihkalkan4/trak-ai-crop-yield-cv-audit](https://github.com/melihkalkan4/trak-ai-crop-yield-cv-audit) - Reproducibility code for 'Spatial skill is not temporal skill' (IJEG): cross-validation audit of satellite-driven winter-wheat & sunflower yield prediction in Trakya, Türkiye. `custom licence`
 - [meller/AgricultureYieldPrediction](https://github.com/meller/AgricultureYieldPrediction) - Crop yield prediction. `MIT`
 - [mellowxmirage/AgroHelp](https://github.com/mellowxmirage/AgroHelp) - Developed a machine learning-based agriculture system for predicting crop yield and analyzing factors such as pest risk, fertilizer needs, and water requirements, with an interactive dashboard for… `no licence`
-- [Menwagaw/crop-yield-predictor](https://github.com/Menwagaw/crop-yield-predictor) - Crop yield prediction. `MIT`
+- [Menwagaw/crop-yield-predictor](https://github.com/Menwagaw/crop-yield-predictor) - Crop yield prediction. `MIT` `not found or inaccessible`
 - [menwagaw/ML-for-crop-yield-forecasting](https://github.com/menwagaw/ML-for-crop-yield-forecasting) - Crop yield prediction with machine learning. `no licence`
 - [Merbinbejo/assessment_3](https://github.com/Merbinbejo/assessment_3) - Crop production prediction. `no licence`
 - [MercySharon/AgriPredict](https://github.com/MercySharon/AgriPredict) - AgriPredictAI is an AI-driven web application designed to assist farmers and agricultural planners in making data-informed decisions. The system leverages Machine Learning and Time Series… `no licence`

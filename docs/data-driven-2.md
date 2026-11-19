@@ -8,6 +8,7 @@ Continued from [page 1](data-driven.md). See the [contents](data-driven.md#conte
 
 #### Python (continued)
 
+- [Akshaj000/CropYieldPrediction-LinearRegression](https://github.com/Akshaj000/CropYieldPrediction-LinearRegression) - Crop yield prediction with machine learning. `no licence`
 - [Akshara369/Crop-Yield-Prediction-using-Multimodal-Data-Fusion](https://github.com/Akshara369/Crop-Yield-Prediction-using-Multimodal-Data-Fusion) - Crop yield prediction. `no licence`
 - [AksharCodeCraft/Crop-Yield-Prediction](https://github.com/AksharCodeCraft/Crop-Yield-Prediction) - About Predicts crop yield from agricultural data using preprocessing, outlier handling, encoding, scaling, feature engineering, and model training (Linear, Decision Tree, ANN, Gradient Boosting).… `no licence`
 - [AksharGupta1/Crop_Yield_Prediction](https://github.com/AksharGupta1/Crop_Yield_Prediction) - ML-based crop yield prediction and district-level crop suitability system using LightGBM and remote sensing data (NDVI, rainfall, temperature). `no licence`
@@ -34,7 +35,7 @@ Continued from [page 1](data-driven.md). See the [contents](data-driven.md#conte
 - [alequerenghi/crop_prediction_data_driven](https://github.com/alequerenghi/crop_prediction_data_driven) - ML system to predict crop yield for the data-driven course. `no licence`
 - [ALEXASWA/CropYiledEstimation](https://github.com/ALEXASWA/CropYiledEstimation) - This intergrates remotely sensed data in estimating crop yield. `no licence`
 - [Alexdas1008/Crop-Yield-Predictioin](https://github.com/Alexdas1008/Crop-Yield-Predictioin) - Developed a machine learning model to predict crop yields based on weather, soil, and historical crop data. Achieved ~85% prediction accuracy using Random Forest classifier and evaluated with… `no licence`
-- [Alfeenubaidh/crop_prediction_model](https://github.com/Alfeenubaidh/crop_prediction_model) - Explainable crop yield prediction using NDVI, climate data, and soil features with a research-grade ML pipeline. `no licence`
+- [Alfeenubaidh/ML_LIFECYCLE_FRAMEWORK](https://github.com/Alfeenubaidh/ML_LIFECYCLE_FRAMEWORK) - Explainable crop yield prediction using NDVI, climate data, and soil features with a research-grade ML pipeline. `no licence`
 - [Alfin-Jose/cyp](https://github.com/Alfin-Jose/cyp) - ict project-crop yield prediction. `no licence`
 - [alfrin25mib10021/CROP-YIELD-PRODUCTION-SYSTEM](https://github.com/alfrin25mib10021/CROP-YIELD-PRODUCTION-SYSTEM) - Predicting how much a crop will yield at the end of a season is a challenge in farming. Farmers have to deal with rainfall, temperature changes, soil conditions and many other things that affect how… `no licence`
 - [ali-gai/crop-yield-app](https://github.com/ali-gai/crop-yield-app) - A Streamlit web app that predicts crop yield based on rainfall, pesticide usage, temperature, and crop type using a machine learning model. `no licence`
@@ -931,7 +932,6 @@ Continued from [page 1](data-driven.md). See the [contents](data-driven.md#conte
 - [dinal16/upskillcampus](https://github.com/dinal16/upskillcampus) - Prediction of crop production in India using ML. `no licence`
 - [Dinesh230806/Crop-Yield-Prediction](https://github.com/Dinesh230806/Crop-Yield-Prediction) - Crop yield prediction. `no licence`
 - [dineshd56073-spec/Crop-Yield-Analysis](https://github.com/dineshd56073-spec/Crop-Yield-Analysis) - Quadratic regression and binned residual diagnostics to model crop yield response to fertilizer and detect model bias. `no licence`
-- [Dineshkumar-jb/Predictive-Model-for-Crop-Cultivation-EDA-Project](https://github.com/Dineshkumar-jb/Predictive-Model-for-Crop-Cultivation-EDA-Project) - Crop Yield Prediction. `no licence`
 - [DineshwarS/Agentic-ai-smart-crop-yield-prediction-recommendation-system](https://github.com/DineshwarS/Agentic-ai-smart-crop-yield-prediction-recommendation-system) - Agentic AI based smart crop yield prediction and recommendation system. `no licence`
 - [dipankar-majumder/crop-yield-prediction](https://github.com/dipankar-majumder/crop-yield-prediction) - Crop yield prediction. `no licence`
 - [Dipanshu-Upadhyay/cropyield-prediction](https://github.com/Dipanshu-Upadhyay/cropyield-prediction) - Crop yield prediction with machine learning. `no licence`
