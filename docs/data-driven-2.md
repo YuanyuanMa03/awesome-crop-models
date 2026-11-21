@@ -300,6 +300,7 @@ Continued from [page 1](data-driven.md). See the [contents](data-driven.md#conte
 - [arjaiswal2909/crop-yield-prediction-using-deep-learning](https://github.com/arjaiswal2909/crop-yield-prediction-using-deep-learning) - Crop yield prediction with machine learning. `no licence`
 - [arju3610/Crop-Yield-Prediction](https://github.com/arju3610/Crop-Yield-Prediction) - Crop yield prediction. `no licence`
 - [Arjun-coder5/Crop-Yield-Prediction-ML](https://github.com/Arjun-coder5/Crop-Yield-Prediction-ML) - This repository contains solutions to various Data Structures and Algorithms (DSA) problems, solved daily from different online platforms like LeetCode, Codeforces, and GeeksforGeeks. The problems… `no licence`
+- [Arjun140205/Crop-Yield-Predictor-](https://github.com/Arjun140205/Crop-Yield-Predictor-) - Crop yield prediction. `no licence`
 - [Arjun379/Crop_yield_prediction](https://github.com/Arjun379/Crop_yield_prediction) - Crop yield prediction. `MIT`
 - [Arjunn1122/Crop-Yield-Prediction](https://github.com/Arjunn1122/Crop-Yield-Prediction) - Machine Learning-based Crop Yield Prediction using Python and Scikit-learn. `no licence`
 - [arjunneema09/Crop-Yield-Prediction](https://github.com/arjunneema09/Crop-Yield-Prediction) - Crop yield prediction. `no licence`
@@ -2024,6 +2025,5 @@ Continued from [page 1](data-driven.md). See the [contents](data-driven.md#conte
 - [Lizzy984/crop-yield](https://github.com/Lizzy984/crop-yield) - Crop yield prediction. `no licence`
 - [lk-learner/Digital-Agriculture-Data-Analytics](https://github.com/lk-learner/Digital-Agriculture-Data-Analytics) - AgTech/AgriTech Data Analytics. `no licence`
 - [lodhi-999/Crop-Yield-Prediction](https://github.com/lodhi-999/Crop-Yield-Prediction) - This project analyzes and predicts agricultural crop yields in India using historical data (1997–2020). Leveraging Prophet time series models with climatic and input-related regressors, it provides… `no licence`
-- [logachan/IBM-Project-21618-1659785900](https://github.com/logachan/IBM-Project-21618-1659785900) - Estimate the Crop Yield using Data Analytics. `no licence`
 
 Continued on [page 3](data-driven-3.md).

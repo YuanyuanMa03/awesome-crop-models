@@ -397,9 +397,9 @@ Process-based models of soil, water, climate, pests and other agricultural proce
 - [Yujie-W/PlantHydraulics.jl](https://github.com/Yujie-W/PlantHydraulics.jl) - Plant hydraulics using numerical method. `★ 2` `Apache-2.0`
 - [AleMorales/MultilayerCanopy.jl](https://github.com/AleMorales/MultilayerCanopy.jl) - Multilayer model of canopy photosynthesis. `★ 1` `MIT`
 - [PeterFransson/CCPH.jl](https://github.com/PeterFransson/CCPH.jl) - Coupled canopy photosynthesis and hydraulics model. `★ 1` `MIT`
+- [VEZY/ArchimedLight.jl](https://github.com/VEZY/ArchimedLight.jl) - Radiation interception in discrete direction. `★ 1` `MIT`
 - [Yujie-W/CanopyRadiativeTransfer.jl](https://github.com/Yujie-W/CanopyRadiativeTransfer.jl) - Models for canopy radiative transfer schemes. `★ 1` `Apache-2.0`
 - [fevalero19/In_silico_fspm](https://github.com/fevalero19/In_silico_fspm) - Work on FSPM leaf optical properties. `no licence`
-- [VEZY/ArchimedLight.jl](https://github.com/VEZY/ArchimedLight.jl) - Radiation interception in discrete direction. `MIT`
 - [wusunlab/Canopy.jl](https://github.com/wusunlab/Canopy.jl) - &#91;under construction&#93; A Julia package for biometeorology and biosphere--atmosphere interactions. `MIT`
 
 <a id="photosynthesis-mathematica"></a>
@@ -586,7 +586,7 @@ Process-based models of soil, water, climate, pests and other agricultural proce
 
 #### C++
 
-- [Plant-Root-Soil-Interactions-Modelling/CPlantBox](https://github.com/Plant-Root-Soil-Interactions-Modelling/CPlantBox) - Plant architecture with functional water and carbon process coupling. `★ 80` `GPL-3.0`
+- [Plant-Root-Soil-Interactions-Modelling/CPlantBox](https://github.com/Plant-Root-Soil-Interactions-Modelling/CPlantBox) - Plant architecture with functional water and carbon process coupling. `★ 81` `GPL-3.0`
 
 <a id="architecture-glsl"></a>
 
@@ -2343,7 +2343,7 @@ Process-based models of soil, water, climate, pests and other agricultural proce
 
 #### C
 
-- [PSUmodeling/MM-PIHM](https://github.com/PSUmodeling/MM-PIHM) - Multi-Modular Penn State Integrated Hydrologic Model. `★ 19` `MIT`
+- [PSUmodeling/MM-PIHM](https://github.com/PSUmodeling/MM-PIHM) - Multi-Modular Penn State Integrated Hydrologic Model. `★ 20` `MIT`
 - [PSUmodeling/BioRT-Flux-PIHM](https://github.com/PSUmodeling/BioRT-Flux-PIHM) - Watershed Biogeochemistry Model (the biogeochemical reactive transport model of PIHM family code). `★ 8` `MIT`
 - [hydrotian/VIC_irr](https://github.com/hydrotian/VIC_irr) - VIC irrigation model based on VIC 4.2.a. `★ 2` `GPL-2.0`
 - [liujunzhi321/SEIMS](https://github.com/liujunzhi321/SEIMS) - Spatially Explicit Integrated Modeling System. `★ 1` `GPL-2.0`
@@ -2369,7 +2369,7 @@ Process-based models of soil, water, climate, pests and other agricultural proce
 
 #### Fortran
 
-- [swat-model/swatplus](https://github.com/swat-model/swatplus) - Watershed soil, water, and agricultural management process simulations. `★ 89` `LGPL-2.1`
+- [swat-model/swatplus](https://github.com/swat-model/swatplus) - Watershed soil, water, and agricultural management process simulations. `★ 90` `LGPL-2.1`
 - [crazyzlj/SWAT](https://github.com/crazyzlj/SWAT) - An unofficial SWAT (Soil & Water Assessment Tool) code collection from official historical releases and the scientific community. `★ 80` `no licence`
 - [smwesten-usgs/swb](https://github.com/smwesten-usgs/swb) - Soil-Water-Balance: A Modified Thornthwaite-Mather Soil-Water-Balance Code for Estimating Groundwater Recharge. `★ 42` `custom licence`
 - [smwesten-usgs/swb2](https://github.com/smwesten-usgs/swb2) - SWB 2.0: a refactored version of the Soil-Water-Balance code. `★ 25` `custom licence`

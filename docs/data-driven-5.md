@@ -8,7 +8,6 @@ Continued from [page 4](data-driven-4.md). See the [contents](data-driven.md#con
 
 #### Other (continued)
 
-- [kaushalshimpi/Crop-Yield-Prediction-using-Machine-Learning](https://github.com/kaushalshimpi/Crop-Yield-Prediction-using-Machine-Learning) - Crop Yield Prediction using Machine Learning. `no licence`
 - [Kaushik-991/Crop-yield-prediction-and-remedies-recommendation-using-various-feature-selection-techniques--ML](https://github.com/Kaushik-991/Crop-yield-prediction-and-remedies-recommendation-using-various-feature-selection-techniques--ML) - Crop yield prediction with machine learning. `Unlicense`
 - [kavana26-M/crop-yield-prediction-overview](https://github.com/kavana26-M/crop-yield-prediction-overview) - Crop yield prediction. `no licence`
 - [Kavanamurthy-km/Crop-yiled](https://github.com/Kavanamurthy-km/Crop-yiled) - crop yield prediction project. `no licence`
@@ -973,6 +972,7 @@ Continued from [page 4](data-driven-4.md). See the [contents](data-driven.md#con
 - [usmanfaisal-dev/Crop-Yield-Prediction](https://github.com/usmanfaisal-dev/Crop-Yield-Prediction) - Machine Learning project predicting crop yield using multiple models. `MIT`
 - [usmust/Crop-yield-estimator-](https://github.com/usmust/Crop-yield-estimator-) - Crop yield prediction. `no licence`
 - [usvnikita/seed-to-sale-tracker](https://github.com/usvnikita/seed-to-sale-tracker) - This repository is a conceptual frontend UI/UX prototype. I created it specifically to demonstrate my dedication to the CannaTech industry and my understanding of cultivation business logic (growth… `no licence`
+- [Utkarsh-Singh-Shrinet/Al-Based-Crop-Recommendation-for-Indian-Farmers](https://github.com/Utkarsh-Singh-Shrinet/Al-Based-Crop-Recommendation-for-Indian-Farmers) - An AI-powered crop recommendation system for Indian farmers that uses real-time soil, weather, and market data to provide localized, climate-resilient guidance on crop selection, yield prediction… `no licence`
 - [utkarsh-vashistha/Sustainable-Crop-Yield-Prediction-Code-Profiling-Green-Software-Practices](https://github.com/utkarsh-vashistha/Sustainable-Crop-Yield-Prediction-Code-Profiling-Green-Software-Practices) - Crop yield prediction. `no licence`
 - [UtsavG2611/KisaanSaathi](https://github.com/UtsavG2611/KisaanSaathi) - Kisaan Saathi is an AI-Powered Crop Yield Prediction and Optimization Platform which bridge this gap by leveraging machine learning, historical agricultural data, and real-time weather information… `no licence`
 - [Uwinezamoise/CROP-YIELD-PREDICTION-25RP18644](https://github.com/Uwinezamoise/CROP-YIELD-PREDICTION-25RP18644) - Predicting crop yield based on temperature variations. `no licence`
@@ -1975,7 +1975,5 @@ Continued from [page 4](data-driven-4.md). See the [contents](data-driven.md#con
 - [joycezw/yield_prediction](https://github.com/joycezw/yield_prediction) - To predict corn yield based on historical yield and weather information. `★ 5` `no licence`
 - [AramburuMerlos/SSA_maize_management](https://github.com/AramburuMerlos/SSA_maize_management) - Effect of agronomic management practices on maize yields in Sub-Saharan Africa. `★ 4` `no licence`
 - [yhaochen/Climate_CornYield](https://github.com/yhaochen/Climate_CornYield) - No description provided. `★ 2` `no licence`
-- [bensonkenduiywo/yieldprediction](https://github.com/bensonkenduiywo/yieldprediction) - This repo contains maize yield prediction visualization results from RHEAS DSSAT coupled simulation models. `★ 1` `no licence`
-- [blschum/corn-yield-infill](https://github.com/blschum/corn-yield-infill) - Maize yield prediction with machine learning. `★ 1` `no licence`
 
 Continued on [page 6](data-driven-6.md).

@@ -1896,6 +1896,7 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 - [RDCEP/watch](https://github.com/RDCEP/watch) - transform WATCH weather archive into pSIMS format. `★ 1` `no licence`
 - [sonalimcdermid/Sonali_AgMIPClimate](https://github.com/sonalimcdermid/Sonali_AgMIPClimate) - These are the R scripts (and some matlab) that I use for AgMIP Climate. These are my development versions. `★ 1` `no licence`
 - [ua-snap/potential-evapotranspiration](https://github.com/ua-snap/potential-evapotranspiration) - Processing scripts for computing PET (potential evapotranspiration). `★ 1` `no licence`
+- [VEZY/DynACof_inputs](https://github.com/VEZY/DynACof_inputs) - The input parameter files templates for the DynACof model. `★ 1` `GPL-3.0`
 - [WMOST-userresources/HAWQs-SWAT-Hydroprocessor-compatability](https://github.com/WMOST-userresources/HAWQs-SWAT-Hydroprocessor-compatability) - Repository for storing R script and other resources for creating cross-compatibility of the US EPA's HAWQS (Hydrologic and Water Quality System) and Hydroprocessor for pre-processing of SWAT (Soil… `★ 1` `no licence`
 - [AAGI-AUS/SILO-Weather-Downloader-Plus](https://github.com/AAGI-AUS/SILO-Weather-Downloader-Plus) - Interactive R Shiny application for downloading and exporting Grid Point (Data Drill) and APSIM formatted SILO climate datasets. Provides visual and summarised quality assurance metadata for nearest… `MIT`
 - [AgMIP-GGCMI/fertilizer_rates](https://github.com/AgMIP-GGCMI/fertilizer_rates) - scripts for creating gridded fertilizer rates for GGCMI simulations. `no licence`
@@ -1949,7 +1950,6 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 - [uace-azmet/total-evapotranspiration-calculator](https://github.com/uace-azmet/total-evapotranspiration-calculator) - Shiny app to calculate total evapotranspiration at AZMet stations over a user-specified time period. `no licence`
 - [vanichols/SSURGO2APSIM-v2](https://github.com/vanichols/SSURGO2APSIM-v2) - A spin-off of Rafa Martinez's code to get SSURGO data into APSIM format. `no licence`
 - [vasseurbenoit/soilR](https://github.com/vasseurbenoit/soilR) - No description provided. `GPL-3.0`
-- [VEZY/DynACof_inputs](https://github.com/VEZY/DynACof_inputs) - The input parameter files templates for the DynACof model. `GPL-3.0`
 - [xinxinchen-96/AI-based-data-extraction-from-literature](https://github.com/xinxinchen-96/AI-based-data-extraction-from-literature) - AI-based data extraction from literature for crop modelling. `no licence`
 - [ycjung/AgMIP-Climate-IT-pilot-tools-R](https://github.com/ycjung/AgMIP-Climate-IT-pilot-tools-R) - converted AgMIP-Climate-IT-pilot-tools into R. `no licence`
 - [yufenghe22/get_climate_for_BioCro](https://github.com/yufenghe22/get_climate_for_BioCro) - Scripts to download NASA power data and produce BioCro weather input. `no licence`

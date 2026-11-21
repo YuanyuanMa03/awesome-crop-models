@@ -5,30 +5,30 @@ Machine-generated operational evidence; this is not a scientific review.
 ```json
 {
   "all_github_coverage_verified": false,
-  "attempted_at": "2026-11-20T11:36:13Z",
+  "attempted_at": "2026-11-21T10:58:38Z",
   "coverage_gaps": {
-    "historical": 300,
+    "historical": 307,
     "recent": 60
   },
-  "finished_at": "2026-11-20T11:42:22Z",
-  "last_healthy_at": "2026-11-20T11:36:13Z",
+  "finished_at": "2026-11-21T11:04:12Z",
+  "last_healthy_at": "2026-11-21T10:58:38Z",
   "last_historical_pass_at": null,
   "maintainer_accounts": {
     "cycle": 10,
-    "new_repositories": 67,
-    "observed_at": "2026-11-20T11:36:13Z",
+    "new_repositories": 97,
+    "observed_at": "2026-11-21T10:58:38Z",
     "pages": 10,
-    "remaining_accounts_or_pages": 24
+    "remaining_accounts_or_pages": 14
   },
-  "new_repository_identities": 1763,
+  "new_repository_identities": 1617,
   "owner_listing_gaps": 0,
   "pending_search_jobs": {
-    "historical": 33,
+    "historical": 31,
     "recent": 4
   },
-  "previous_healthy_at": "2026-11-19T11:37:17Z",
+  "previous_healthy_at": "2026-11-20T11:36:13Z",
   "recent_search": {
-    "completed_windows": 541,
+    "completed_windows": 544,
     "coverage_gaps": [
       {
         "cycle": 2,
@@ -609,8 +609,8 @@ Machine-generated operational evidence; this is not a scientific review.
     "cycle_end": "2026-10-22T11:09:10Z",
     "cycle_start": "2026-09-22T11:09:10Z",
     "cycle_started_at": "2026-10-22T11:09:10Z",
-    "discovered_repositories": 1703,
-    "observed_at": "2026-11-20T11:36:13Z",
+    "discovered_repositories": 1568,
+    "observed_at": "2026-11-21T10:58:38Z",
     "plan_completed": false,
     "remaining_jobs": 4,
     "requests": 20,
@@ -619,14 +619,14 @@ Machine-generated operational evidence; this is not a scientific review.
   },
   "refresh": {
     "checked_repositories": 40,
-    "known_identities": 39622,
+    "known_identities": 41385,
     "new_repositories": 0,
-    "observed_at": "2026-11-20T11:36:13Z",
+    "observed_at": "2026-11-21T10:58:38Z",
     "seed_count": 15291
   },
   "requests": 160,
   "status": "partial_budget",
-  "tracked_repositories": 41385
+  "tracked_repositories": 43002
 }
 ```
 
