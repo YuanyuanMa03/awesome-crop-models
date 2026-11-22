@@ -1,16 +1,16 @@
 {
   "last_owner_scan": {
     "cycle": 10,
-    "new_repositories": 97,
-    "observed_at": "2026-11-21T10:58:38Z",
+    "new_repositories": 124,
+    "observed_at": "2026-11-22T11:21:01Z",
     "pages": 10,
-    "remaining_accounts_or_pages": 14
+    "remaining_accounts_or_pages": 5
   },
   "last_refresh": {
     "checked_repositories": 40,
-    "known_identities": 41385,
+    "known_identities": 43002,
     "new_repositories": 0,
-    "observed_at": "2026-11-21T10:58:38Z",
+    "observed_at": "2026-11-22T11:21:01Z",
     "seed_count": 15291
   },
   "owner_cycle": 10,
@@ -151,56 +151,6 @@
   "owner_queue": [
     {
       "kind": "org",
-      "login": "VirtualPlantLab",
-      "page": 1
-    },
-    {
-      "kind": "org",
-      "login": "AgriculturalModelExchangeInitiative",
-      "page": 1
-    },
-    {
-      "kind": "org",
-      "login": "SticsRPacks",
-      "page": 1
-    },
-    {
-      "kind": "org",
-      "login": "gicait",
-      "page": 1
-    },
-    {
-      "kind": "user",
-      "login": "hectornieto",
-      "page": 1
-    },
-    {
-      "kind": "org",
-      "login": "Open-ET",
-      "page": 1
-    },
-    {
-      "kind": "org",
-      "login": "WSWUP",
-      "page": 1
-    },
-    {
-      "kind": "org",
-      "login": "cropmodels",
-      "page": 1
-    },
-    {
-      "kind": "org",
-      "login": "YASSOmodel",
-      "page": 1
-    },
-    {
-      "kind": "org",
-      "login": "AgMIP",
-      "page": 1
-    },
-    {
-      "kind": "org",
       "login": "Crop2ML-Catalog",
       "page": 1
     },
@@ -217,6 +167,11 @@
     {
       "kind": "org",
       "login": "zalf-rpm",
+      "page": 2
+    },
+    {
+      "kind": "org",
+      "login": "AgMIP",
       "page": 2
     }
   ],
@@ -239,6 +194,10 @@
     },
     "17geet/SimpleCrop": {
       "checked_at": "2026-10-27T08:57:51Z",
+      "outcome": "public_metadata_checked"
+    },
+    "1999-06-03/crop_yield": {
+      "checked_at": "2026-11-22T11:21:01Z",
       "outcome": "public_metadata_checked"
     },
     "2006spy/claude-code-zh-cn": {
@@ -365,6 +324,10 @@
       "checked_at": "2026-11-16T11:13:56Z",
       "outcome": "public_metadata_checked"
     },
+    "AdelineChristabel/upskillcampus": {
+      "checked_at": "2026-11-22T11:21:01Z",
+      "outcome": "public_metadata_checked"
+    },
     "Adivenkat28/Capstone-Project---Increasing-Crop-Yield-in-Greenhouses-using-AI": {
       "checked_at": "2026-11-19T11:37:17Z",
       "outcome": "public_metadata_checked"
@@ -387,6 +350,14 @@
     },
     "Akilandeshwarip21/IBM-Project-30169-1660141341": {
       "checked_at": "2026-11-15T10:50:34Z",
+      "outcome": "public_metadata_checked"
+    },
+    "AkshathaaKulal/Crop-Yield-Dashboard": {
+      "checked_at": "2026-11-22T11:21:01Z",
+      "outcome": "public_metadata_checked"
+    },
+    "AkshathaaKulal/Crop-yield-Dashboard-in-Tableau": {
+      "checked_at": "2026-11-22T11:21:01Z",
       "outcome": "public_metadata_checked"
     },
     "Alimah12/SmartAgric-system": {
@@ -549,6 +520,10 @@
       "checked_at": "2026-11-07T10:04:25Z",
       "outcome": "public_metadata_checked"
     },
+    "Chapman-John/Crop-Yield-Analysis": {
+      "checked_at": "2026-11-22T11:21:01Z",
+      "outcome": "public_metadata_checked"
+    },
     "CharanrajSridharan/IBM-Project-14321-1659580165": {
       "checked_at": "2026-11-14T10:23:22Z",
       "outcome": "public_metadata_checked"
@@ -645,6 +620,14 @@
       "checked_at": "2026-10-24T08:06:24Z",
       "outcome": "public_metadata_checked"
     },
+    "DevDynamo0125/AI-CROP-YIELD-PREDICTOR": {
+      "checked_at": "2026-11-22T11:21:01Z",
+      "outcome": "public_metadata_checked"
+    },
+    "Devang-555/Agricultural-Super-Application-Using-ML-": {
+      "checked_at": "2026-11-22T11:21:01Z",
+      "outcome": "public_metadata_checked"
+    },
     "Devashish-Varanasi/Crop-Yield-EDA": {
       "checked_at": "2026-11-20T11:36:13Z",
       "outcome": "public_metadata_checked"
@@ -723,6 +706,14 @@
     },
     "EYcab/open-science-resources": {
       "checked_at": "2026-10-31T09:36:59Z",
+      "outcome": "public_metadata_checked"
+    },
+    "EbrahemHassan132/linear-regression-crop-yield-analysis": {
+      "checked_at": "2026-11-22T11:21:01Z",
+      "outcome": "public_metadata_checked"
+    },
+    "EcoCesar93/DS_Crop-yields": {
+      "checked_at": "2026-11-22T11:21:01Z",
       "outcome": "public_metadata_checked"
     },
     "Edion-Liu/quick4j-master-app": {
@@ -937,6 +928,10 @@
       "checked_at": "2026-10-24T08:06:24Z",
       "outcome": "public_metadata_checked"
     },
+    "Harshal77777777/Building-a-Simple-FNN-for-CropYield": {
+      "checked_at": "2026-11-22T11:21:01Z",
+      "outcome": "public_metadata_checked"
+    },
     "Harshini-24-IT/IBM-Project-1253-1658381118": {
       "checked_at": "2026-11-14T10:23:22Z",
       "outcome": "public_metadata_checked"
@@ -1101,6 +1096,10 @@
       "checked_at": "2026-11-06T10:50:43Z",
       "outcome": "public_metadata_checked"
     },
+    "Kaushiktamgadge/crop-yield-production": {
+      "checked_at": "2026-11-22T11:21:01Z",
+      "outcome": "public_metadata_checked"
+    },
     "Kavi-2103/IBM-Project-20534-1659749523": {
       "checked_at": "2026-11-15T10:50:34Z",
       "outcome": "public_metadata_checked"
@@ -1139,6 +1138,10 @@
     },
     "Kshitij1170/RStudio-Crop-Yield-Analysis": {
       "checked_at": "2026-11-13T10:56:42Z",
+      "outcome": "public_metadata_checked"
+    },
+    "Kun009/Crop-Yield-EDA": {
+      "checked_at": "2026-11-22T11:21:01Z",
       "outcome": "public_metadata_checked"
     },
     "Kunwardivassingh/Crop_YIELD_Pred_per_State": {
@@ -1181,6 +1184,10 @@
       "checked_at": "2026-11-01T10:26:00Z",
       "outcome": "public_metadata_checked"
     },
+    "LimJY03/CropWeatherAnalysis": {
+      "checked_at": "2026-11-22T11:21:01Z",
+      "outcome": "public_metadata_checked"
+    },
     "Lockjaw2k/awesome-python": {
       "checked_at": "2026-10-24T08:06:24Z",
       "outcome": "public_metadata_checked"
@@ -1211,6 +1218,10 @@
     },
     "MADLUKA09/voxelcraft": {
       "checked_at": "2026-11-08T10:18:40Z",
+      "outcome": "public_metadata_checked"
+    },
+    "MANOJ-312/Analysis-of-crop-yield-and-determination-of-crop-production": {
+      "checked_at": "2026-11-22T11:21:01Z",
       "outcome": "public_metadata_checked"
     },
     "MARIALINFIASNEGAS/Estimate-the-crop-yield-using-data-analytics": {
@@ -1279,6 +1290,10 @@
     },
     "Malonje/sustain-ben": {
       "checked_at": "2026-11-13T10:56:42Z",
+      "outcome": "public_metadata_checked"
+    },
+    "ManavBhatt-03/PowerBi": {
+      "checked_at": "2026-11-22T11:21:01Z",
       "outcome": "public_metadata_checked"
     },
     "Manikiruba/IBM-Project-6862-1658841101": {
@@ -1425,6 +1440,10 @@
       "checked_at": "2026-11-14T10:23:22Z",
       "outcome": "public_metadata_checked"
     },
+    "Nekesa-kod/Agricultural-Data-Exploration": {
+      "checked_at": "2026-11-22T11:21:01Z",
+      "outcome": "public_metadata_checked"
+    },
     "Nirmala-Wickramasinghe/Crop_Yield_Dataset": {
       "checked_at": "2026-11-16T11:13:56Z",
       "outcome": "public_metadata_checked"
@@ -1533,6 +1552,10 @@
       "checked_at": "2026-11-14T10:23:22Z",
       "outcome": "public_metadata_checked"
     },
+    "PravegChikte/Building-a-Simple-FNN-for-CropYield": {
+      "checked_at": "2026-11-22T11:21:01Z",
+      "outcome": "public_metadata_checked"
+    },
     "Priya-Dharshini-G/IBM-Project-21561-1659784509": {
       "checked_at": "2026-11-15T10:50:34Z",
       "outcome": "public_metadata_checked"
@@ -1575,6 +1598,10 @@
     },
     "Raffael1234/FS17_seasons": {
       "checked_at": "2026-10-30T09:59:02Z",
+      "outcome": "public_metadata_checked"
+    },
+    "Raghava-25/Crop-yield-production": {
+      "checked_at": "2026-11-22T11:21:01Z",
       "outcome": "public_metadata_checked"
     },
     "RaheelOsman/WOFOST": {
@@ -1729,6 +1756,10 @@
       "checked_at": "2026-10-23T07:22:54Z",
       "outcome": "public_metadata_checked"
     },
+    "Sivaraj099/Power-BI-project-3": {
+      "checked_at": "2026-11-22T11:21:01Z",
+      "outcome": "public_metadata_checked"
+    },
     "SivashankariThirugnanam/Optimizing-crop-production": {
       "checked_at": "2026-11-16T11:13:56Z",
       "outcome": "public_metadata_checked"
@@ -1781,12 +1812,24 @@
       "checked_at": "2026-11-07T10:04:25Z",
       "outcome": "public_metadata_checked"
     },
+    "SudhanshuKatoch707/Crop-Yield-Impact": {
+      "checked_at": "2026-11-22T11:21:01Z",
+      "outcome": "public_metadata_checked"
+    },
+    "Sudheer-Kolli19/Smart-Farming": {
+      "checked_at": "2026-11-22T11:21:01Z",
+      "outcome": "public_metadata_checked"
+    },
     "SuguruGT/FarmSim_Mod_SoilMod": {
       "checked_at": "2026-10-26T08:53:10Z",
       "outcome": "public_metadata_checked"
     },
     "SupriyaJagtap56/PredictingCropYield": {
       "checked_at": "2026-11-15T10:50:34Z",
+      "outcome": "public_metadata_checked"
+    },
+    "SurajMandal14/Crop_Yield": {
+      "checked_at": "2026-11-22T11:21:01Z",
       "outcome": "public_metadata_checked"
     },
     "Suriya1052/IBM-Project-33793-1660226901": {
@@ -1919,6 +1962,10 @@
     },
     "TyKonKet/FS17_seasons": {
       "checked_at": "2026-10-29T09:56:28Z",
+      "outcome": "public_metadata_checked"
+    },
+    "TylerryZhao/Deeplearning-CNN-LSTM": {
+      "checked_at": "2026-11-22T11:21:01Z",
       "outcome": "public_metadata_checked"
     },
     "UDAYAGEETHA/IBM-Project-44807-1660726896": {
@@ -2121,6 +2168,10 @@
       "checked_at": "2026-10-23T07:22:54Z",
       "outcome": "public_metadata_checked"
     },
+    "aaronGeb/cropchain": {
+      "checked_at": "2026-11-22T11:21:01Z",
+      "outcome": "public_metadata_checked"
+    },
     "abdollahzakeri/Growth": {
       "checked_at": "2026-11-11T10:54:57Z",
       "outcome": "public_metadata_checked"
@@ -2139,6 +2190,10 @@
     },
     "abiliojunior/Hydrology": {
       "checked_at": "2026-11-03T10:50:42Z",
+      "outcome": "public_metadata_checked"
+    },
+    "abjodas/PCA-from-scratch-on-Crop-Yield-Dataset": {
+      "checked_at": "2026-11-22T11:21:01Z",
       "outcome": "public_metadata_checked"
     },
     "adamhsparks/pysimriw": {
@@ -2473,6 +2528,10 @@
       "checked_at": "2026-11-09T11:28:26Z",
       "outcome": "public_metadata_checked"
     },
+    "bsthakur24/Predicting-Crop-Yields": {
+      "checked_at": "2026-11-22T11:21:01Z",
+      "outcome": "public_metadata_checked"
+    },
     "buuren/awesome-python": {
       "checked_at": "2026-10-24T08:06:24Z",
       "outcome": "public_metadata_checked"
@@ -2733,6 +2792,10 @@
       "checked_at": "2026-11-14T10:23:22Z",
       "outcome": "public_metadata_checked"
     },
+    "dhiasadk/Crop-yield-predictor-App": {
+      "checked_at": "2026-11-22T11:21:01Z",
+      "outcome": "public_metadata_checked"
+    },
     "dipankar05/mSCOPE": {
       "checked_at": "2026-11-06T10:50:43Z",
       "outcome": "public_metadata_checked"
@@ -2809,6 +2872,10 @@
       "checked_at": "2026-10-23T07:22:54Z",
       "outcome": "public_metadata_checked"
     },
+    "eduardoparracho/crop-yield-analysis": {
+      "checked_at": "2026-11-22T11:21:01Z",
+      "outcome": "public_metadata_checked"
+    },
     "eheisman/Hydrology": {
       "checked_at": "2026-11-03T10:50:42Z",
       "outcome": "public_metadata_checked"
@@ -2835,6 +2902,10 @@
     },
     "eric-khq89o7/Bongo-Cat-Ultimate-Assistant": {
       "checked_at": "2026-11-09T11:28:26Z",
+      "outcome": "public_metadata_checked"
+    },
+    "eric157/crop-yield-analysis": {
+      "checked_at": "2026-11-22T11:21:01Z",
       "outcome": "public_metadata_checked"
     },
     "erosiners/SimpleCrop": {
@@ -3251,6 +3322,10 @@
     },
     "immortalcatz/Survival-Industry": {
       "checked_at": "2026-10-30T09:59:02Z",
+      "outcome": "public_metadata_checked"
+    },
+    "imrayng/AI-Driven-Agricultural-Crop-Yield-Analysis-using-Drones": {
+      "checked_at": "2026-11-22T11:21:01Z",
       "outcome": "public_metadata_checked"
     },
     "imtoosweetheart/rebugged": {
@@ -3693,6 +3768,10 @@
       "checked_at": "2026-10-24T08:06:24Z",
       "outcome": "public_metadata_checked"
     },
+    "leon-julius/Crop_Yield_EDA": {
+      "checked_at": "2026-11-22T11:21:01Z",
+      "outcome": "not_found_or_inaccessible"
+    },
     "lhmet-forks/WOFOST": {
       "checked_at": "2026-10-31T09:36:59Z",
       "outcome": "public_metadata_checked"
@@ -3841,12 +3920,24 @@
       "checked_at": "2026-11-19T11:37:17Z",
       "outcome": "public_metadata_checked"
     },
+    "maheshgodale/Agricultural-Crop-Yield-in-Indian-States-Analysis-using-Azure-": {
+      "checked_at": "2026-11-22T11:21:01Z",
+      "outcome": "public_metadata_checked"
+    },
     "maialona/openpdf": {
       "checked_at": "2026-11-17T11:50:02Z",
       "outcome": "not_found_or_inaccessible"
     },
+    "majid0608/Analysis-of-Crop-Yield-Production": {
+      "checked_at": "2026-11-22T11:21:01Z",
+      "outcome": "public_metadata_checked"
+    },
     "manandaraj/awesome-python": {
       "checked_at": "2026-10-23T07:22:54Z",
+      "outcome": "public_metadata_checked"
+    },
+    "manishaachary13/crop_yield_predictoin_ML": {
+      "checked_at": "2026-11-22T11:21:01Z",
       "outcome": "public_metadata_checked"
     },
     "mantalyb/Awesome-Geospatial": {
@@ -4007,6 +4098,10 @@
     },
     "model-library-pps/SUCROS_archive": {
       "checked_at": "2026-10-22T10:39:16Z",
+      "outcome": "public_metadata_checked"
+    },
+    "mohamedyahyawaseem/Agriculture-Impact-By-Climate": {
+      "checked_at": "2026-11-22T11:21:01Z",
       "outcome": "public_metadata_checked"
     },
     "moniquebranco/DCaPS": {
@@ -4449,6 +4544,10 @@
       "checked_at": "2026-10-26T08:53:10Z",
       "outcome": "public_metadata_checked"
     },
+    "ravi1215/crop_yield_predictor": {
+      "checked_at": "2026-11-22T11:21:01Z",
+      "outcome": "public_metadata_checked"
+    },
     "realDavy/esp32s3-llm-cluster": {
       "checked_at": "2026-11-08T10:18:40Z",
       "outcome": "public_metadata_checked"
@@ -4633,6 +4732,10 @@
       "checked_at": "2026-10-24T08:06:24Z",
       "outcome": "public_metadata_checked"
     },
+    "satheeshkmr955/eda_indian_state_wise_agricultural_crop_yield_dataset": {
+      "checked_at": "2026-11-22T11:21:01Z",
+      "outcome": "public_metadata_checked"
+    },
     "sativa/GDAY": {
       "checked_at": "2026-10-30T09:59:02Z",
       "outcome": "public_metadata_checked"
@@ -4675,6 +4778,10 @@
     },
     "satu4al/Satellite-imaging-techniques": {
       "checked_at": "2026-11-08T10:18:40Z",
+      "outcome": "public_metadata_checked"
+    },
+    "satvikvirmani/crop-yield": {
+      "checked_at": "2026-11-22T11:21:01Z",
       "outcome": "public_metadata_checked"
     },
     "saumishr/django-image-cropper": {
@@ -4861,6 +4968,10 @@
       "checked_at": "2026-11-09T11:28:26Z",
       "outcome": "public_metadata_checked"
     },
+    "sujanganiga/Crop-yield-predictor-Machine-learning-Project": {
+      "checked_at": "2026-11-22T11:21:01Z",
+      "outcome": "public_metadata_checked"
+    },
     "sunxingxingtf/pyDSSAT": {
       "checked_at": "2026-11-07T10:04:25Z",
       "outcome": "public_metadata_checked"
@@ -5007,6 +5118,10 @@
     },
     "ustczhouyu/EndtoEndCroppingSystem": {
       "checked_at": "2026-11-06T10:50:43Z",
+      "outcome": "public_metadata_checked"
+    },
+    "utkarshk988/Crop-Yield-Production": {
+      "checked_at": "2026-11-22T11:21:01Z",
       "outcome": "public_metadata_checked"
     },
     "utrgv-agroeco-uav/Learn_Data_Science_For_Agriculture": {

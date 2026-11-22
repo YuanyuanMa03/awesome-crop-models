@@ -8,7 +8,6 @@ Continued from [page 3](data-driven-3.md). See the [contents](data-driven.md#con
 
 #### Python (continued)
 
-- [Sri787/Crop-Yield-Prediction-using-Data-Mining](https://github.com/Sri787/Crop-Yield-Prediction-using-Data-Mining) - Crop yield prediction with machine learning. `no licence`
 - [sricharan2505/Predictive-Analytics-For-Crop-Yield-Optimization](https://github.com/sricharan2505/Predictive-Analytics-For-Crop-Yield-Optimization) - Crop yield prediction. `no licence`
 - [sridhareguram/Crop-yield-Prediction](https://github.com/sridhareguram/Crop-yield-Prediction) - Crop yield prediction. `no licence`
 - [SriDharshnna/Crop_Yield_Prediction](https://github.com/SriDharshnna/Crop_Yield_Prediction) - Crop yield prediction. `no licence`
@@ -1183,7 +1182,7 @@ Continued from [page 3](data-driven-3.md). See the [contents](data-driven.md#con
 - [pateash/kisanmitra](https://github.com/pateash/kisanmitra) - Crop Yield Prediction Web App Built using Sklearn and Laravel Web Framework. `★ 20` `no licence`
 - [Gokul-B-18/Crop-Yield-Prediction-System](https://github.com/Gokul-B-18/Crop-Yield-Prediction-System) - Crop yield prediction. `★ 18` `no licence`
 - [cnai-ds/Crop-Yield-Prediction-Satellite-Image](https://github.com/cnai-ds/Crop-Yield-Prediction-Satellite-Image) - Python data pipeline to acquire, clean, and calculate vegetation indices from Sentinel-2 satellite image. Package is available only for our clients. `★ 14` `no licence`
-- [yieldsat/yieldsat.github.io](https://github.com/yieldsat/yieldsat.github.io) - YieldSAT: A Multimodal Benchmark Dataset for High-Resolution Crop Yield Prediction. `★ 10` `no licence`
+- [yieldsat/yieldsat.github.io](https://github.com/yieldsat/yieldsat.github.io) - YieldSAT: A Multimodal Benchmark Dataset for High-Resolution Crop Yield Prediction. `★ 12` `no licence`
 - [sains-data/Prediksi-Hasil-Panen-Berdasarkan-Faktor-Cuaca-dan-Lahan-di-Sumatera](https://github.com/sains-data/Prediksi-Hasil-Panen-Berdasarkan-Faktor-Cuaca-dan-Lahan-di-Sumatera) - Crop yield prediction. `★ 6` `no licence` `archived`
 - [TheSaintIndiano/Crop-Yield-Production](https://github.com/TheSaintIndiano/Crop-Yield-Production) - Predict crop yield from FAO data. `★ 6` `no licence`
 - [Bavatarinee/Smart-Agriculture---Deep-Learning-for-Accurate-Crop-Yield-Prediction-and-Food-Security-](https://github.com/Bavatarinee/Smart-Agriculture---Deep-Learning-for-Accurate-Crop-Yield-Prediction-and-Food-Security-) - FarmVision is a deep learning–based web application that predicts crop production using real agricultural data. It runs entirely in the browser with TensorFlow.js, supports CSV uploads, visualizes… `★ 4` `no licence`
@@ -1205,6 +1204,7 @@ Continued from [page 3](data-driven-3.md). See the [contents](data-driven.md#con
 - [Surekha-Konegari/Smart-Farming](https://github.com/Surekha-Konegari/Smart-Farming) - It showcases the usage of Powerbi and then Rapidminer to predict the yield of crops and maximise the yield by using the visualizations. `★ 3` `no licence`
 - [abishekrkashyap/Farma--crop-yield-prediction](https://github.com/abishekrkashyap/Farma--crop-yield-prediction) - Crop yield prediction. `★ 2` `no licence`
 - [adarpitadhar13-DA/ESD-PROJECT-AGRICULTURE-RURAL-DEVELOPMENT-](https://github.com/adarpitadhar13-DA/ESD-PROJECT-AGRICULTURE-RURAL-DEVELOPMENT-) - his project uses machine learning to predict crop yields. By analyzing weather, soil, and historical data, it provides accurate forecasts to help farmers optimize planting, resource allocation, and… `★ 2` `no licence`
+- [ambrosia2024/YIELD-HUB](https://github.com/ambrosia2024/YIELD-HUB) - Trains and evaluates ML models for Crop Yield Prediction task. `★ 2` `no licence`
 - [anuragkj/Crop_yield_prediction_and_management_Blockchain_and_ML](https://github.com/anuragkj/Crop_yield_prediction_and_management_Blockchain_and_ML) - Crop yield prediction with machine learning. `★ 2` `no licence`
 - [BhaveshBhakta/Crop-Yield-Prediction](https://github.com/BhaveshBhakta/Crop-Yield-Prediction) - Indian Crop Yield Prediction using Machine Learning. Predicts agricultural yield based on crop type, season, area, and year using a Random Forest Regressor. Includes a dynamic, GSAP-enhanced Flask… `★ 2` `no licence`
 - [bhushan0919/Crop_Production_Prediction](https://github.com/bhushan0919/Crop_Production_Prediction) - Crop yield prediction. `★ 2` `no licence`

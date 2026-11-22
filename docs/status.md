@@ -5,30 +5,30 @@ Machine-generated operational evidence; this is not a scientific review.
 ```json
 {
   "all_github_coverage_verified": false,
-  "attempted_at": "2026-11-21T10:58:38Z",
+  "attempted_at": "2026-11-22T11:21:01Z",
   "coverage_gaps": {
-    "historical": 307,
-    "recent": 60
+    "historical": 309,
+    "recent": 61
   },
-  "finished_at": "2026-11-21T11:04:12Z",
-  "last_healthy_at": "2026-11-21T10:58:38Z",
+  "finished_at": "2026-11-22T11:25:53Z",
+  "last_healthy_at": "2026-11-22T11:21:01Z",
   "last_historical_pass_at": null,
   "maintainer_accounts": {
     "cycle": 10,
-    "new_repositories": 97,
-    "observed_at": "2026-11-21T10:58:38Z",
+    "new_repositories": 124,
+    "observed_at": "2026-11-22T11:21:01Z",
     "pages": 10,
-    "remaining_accounts_or_pages": 14
+    "remaining_accounts_or_pages": 5
   },
-  "new_repository_identities": 1617,
+  "new_repository_identities": 1732,
   "owner_listing_gaps": 0,
   "pending_search_jobs": {
-    "historical": 31,
-    "recent": 4
+    "historical": 27,
+    "recent": 3
   },
-  "previous_healthy_at": "2026-11-20T11:36:13Z",
+  "previous_healthy_at": "2026-11-21T10:58:38Z",
   "recent_search": {
-    "completed_windows": 544,
+    "completed_windows": 547,
     "coverage_gaps": [
       {
         "cycle": 2,
@@ -602,6 +602,16 @@ Machine-generated operational evidence; this is not a scientific review.
         "query_id": "cn-crop-model",
         "reason": "duplicate_items_across_pages",
         "start": "2026-09-25T06:39:11Z"
+      },
+      {
+        "cycle": 2,
+        "end": "2026-09-29T06:16:40Z",
+        "page": 3,
+        "query_id": "cn-crop-model",
+        "reason": "short_page_before_reported_total",
+        "reported_total": 790,
+        "returned": 99,
+        "start": "2026-09-29T00:39:11Z"
       }
     ],
     "coverage_note": "Completion means this query plan was traversed. GitHub search is mutable, may omit repositories, and does not prove coverage of all GitHub.",
@@ -609,24 +619,24 @@ Machine-generated operational evidence; this is not a scientific review.
     "cycle_end": "2026-10-22T11:09:10Z",
     "cycle_start": "2026-09-22T11:09:10Z",
     "cycle_started_at": "2026-10-22T11:09:10Z",
-    "discovered_repositories": 1568,
-    "observed_at": "2026-11-21T10:58:38Z",
+    "discovered_repositories": 1702,
+    "observed_at": "2026-11-22T11:21:01Z",
     "plan_completed": false,
-    "remaining_jobs": 4,
+    "remaining_jobs": 3,
     "requests": 20,
     "status": "partial",
-    "unresolved_gap_count": 60
+    "unresolved_gap_count": 61
   },
   "refresh": {
     "checked_repositories": 40,
-    "known_identities": 41385,
+    "known_identities": 43002,
     "new_repositories": 0,
-    "observed_at": "2026-11-21T10:58:38Z",
+    "observed_at": "2026-11-22T11:21:01Z",
     "seed_count": 15291
   },
   "requests": 160,
   "status": "partial_budget",
-  "tracked_repositories": 43002
+  "tracked_repositories": 44734
 }
 ```
 

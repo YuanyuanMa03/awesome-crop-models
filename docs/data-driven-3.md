@@ -8,7 +8,6 @@ Continued from [page 2](data-driven-2.md). See the [contents](data-driven.md#con
 
 #### Python (continued)
 
-- [logachan/IBM-Project-21618-1659785900](https://github.com/logachan/IBM-Project-21618-1659785900) - Estimate the Crop Yield using Data Analytics. `no licence`
 - [loges-waran/AgroRain-Insight-Rainfall-Crop-Yield-Dashboard-for--India](https://github.com/loges-waran/AgroRain-Insight-Rainfall-Crop-Yield-Dashboard-for--India) - This project analyzes how variations in annual rainfall influence crop productivity across different Indian states. Using rainfall and agricultural yield data, it visualizes trends, computes… `no licence`
 - [logesh-s411/Crop-yield-prediction](https://github.com/logesh-s411/Crop-yield-prediction) - Crop yield prediction. `no licence`
 - [LogeswaranSR/Crop-Yield-Demand-Forecasting](https://github.com/LogeswaranSR/Crop-Yield-Demand-Forecasting) - Crop yield prediction. `no licence`
@@ -2024,5 +2023,6 @@ Continued from [page 2](data-driven-2.md). See the [contents](data-driven.md#con
 - [sreerag0460/crop-desease-and-yield-prediction](https://github.com/sreerag0460/crop-desease-and-yield-prediction) - Crop yield prediction. `no licence`
 - [Sreevardhangit/Crop_Yield_Prediction](https://github.com/Sreevardhangit/Crop_Yield_Prediction) - Crop yield prediction. `no licence`
 - [SreyasSankar7/Crop-yield-prediction](https://github.com/SreyasSankar7/Crop-yield-prediction) - Crop Yield Prediction using ML for Sustainable Agriculture. `no licence`
+- [Sri787/Crop-Yield-Prediction-using-Data-Mining](https://github.com/Sri787/Crop-Yield-Prediction-using-Data-Mining) - Crop yield prediction with machine learning. `no licence`
 
 Continued on [page 4](data-driven-4.md).

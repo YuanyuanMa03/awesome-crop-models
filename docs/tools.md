@@ -1466,7 +1466,7 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 - [alwinhopf/dssatengine](https://github.com/alwinhopf/dssatengine) - No description provided. `custom licence`
 - [attia3/agroecosystem-simulation-pipeline](https://github.com/attia3/agroecosystem-simulation-pipeline) - A Python wrapper / batch-runner for executing DSSAT (CSM) simulations at scale, designed for gridded, multi-scenario workflows (climate ensembles, RCPs, rotations), with automated weather… `no licence`
 - [bare92/aquacrop_spatialized](https://github.com/bare92/aquacrop_spatialized) - No description provided. `no licence`
-- [CGIAR-Climate-Data-Hub/ag-cube-cm](https://github.com/CGIAR-Climate-Data-Hub/ag-cube-cm) - No description provided. `no licence`
+- [CGIAR-Climate-Data-Hub/ag-cube-cm](https://github.com/CGIAR-Climate-Data-Hub/ag-cube-cm) - No description provided. `MIT`
 - [cyrillemidingoyi/AgriScale](https://github.com/cyrillemidingoyi/AgriScale) - A Distributed Framework for Gridded Crop Models Ensemble. `no licence`
 - [diegopons/aquacrops](https://github.com/diegopons/aquacrops) - No description provided. `Apache-2.0`
 - [diegopons/aquagrid](https://github.com/diegopons/aquagrid) - No description provided. `custom licence`
