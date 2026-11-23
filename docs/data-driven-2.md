@@ -8,6 +8,8 @@ Continued from [page 1](data-driven.md). See the [contents](data-driven.md#conte
 
 #### Python (continued)
 
+- [Akshaj000/CropYieldPrediction-LinearRegression](https://github.com/Akshaj000/CropYieldPrediction-LinearRegression) - Crop yield prediction with machine learning. `no licence`
+- [Akshara369/Crop-Yield-Prediction-using-Multimodal-Data-Fusion](https://github.com/Akshara369/Crop-Yield-Prediction-using-Multimodal-Data-Fusion) - Crop yield prediction. `no licence`
 - [AksharCodeCraft/Crop-Yield-Prediction](https://github.com/AksharCodeCraft/Crop-Yield-Prediction) - About Predicts crop yield from agricultural data using preprocessing, outlier handling, encoding, scaling, feature engineering, and model training (Linear, Decision Tree, ANN, Gradient Boosting).… `no licence`
 - [AksharGupta1/Crop_Yield_Prediction](https://github.com/AksharGupta1/Crop_Yield_Prediction) - ML-based crop yield prediction and district-level crop suitability system using LightGBM and remote sensing data (NDVI, rainfall, temperature). `no licence`
 - [Akshat-1618/Crop_Yield_Prediction](https://github.com/Akshat-1618/Crop_Yield_Prediction) - Crop yield prediction. `no licence`
@@ -2022,7 +2024,5 @@ Continued from [page 1](data-driven.md). See the [contents](data-driven.md#conte
 - [Linh5126/CS313-Agricultural-Yield-Prediction](https://github.com/Linh5126/CS313-Agricultural-Yield-Prediction) - Crop yield prediction. `no licence`
 - [Lizzy984/crop-yield](https://github.com/Lizzy984/crop-yield) - Crop yield prediction. `no licence`
 - [lk-learner/Digital-Agriculture-Data-Analytics](https://github.com/lk-learner/Digital-Agriculture-Data-Analytics) - AgTech/AgriTech Data Analytics. `no licence`
-- [lodhi-999/Crop-Yield-Prediction](https://github.com/lodhi-999/Crop-Yield-Prediction) - This project analyzes and predicts agricultural crop yields in India using historical data (1997–2020). Leveraging Prophet time series models with climatic and input-related regressors, it provides… `no licence`
-- [logachan/IBM-Project-21618-1659785900](https://github.com/logachan/IBM-Project-21618-1659785900) - Estimate the Crop Yield using Data Analytics. `no licence`
 
 Continued on [page 3](data-driven-3.md).

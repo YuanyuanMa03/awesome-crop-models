@@ -28,7 +28,7 @@ Statistical and machine-learning models that predict crop variables (yield, grow
     - [PHP](#general-crop-php) (22)
     - [Pkl](#general-crop-pkl) (1)
     - [PLpgSQL](#general-crop-plpgsql) (2)
-    - [Python](#general-crop-python) (6097)
+    - [Python](#general-crop-python) (6100)
     - [R](data-driven-4.md#general-crop-r) (106)
     - [Rust](data-driven-4.md#general-crop-rust) (2)
     - [Shell](data-driven-4.md#general-crop-shell) (1)
@@ -40,7 +40,7 @@ Statistical and machine-learning models that predict crop variables (yield, grow
     - [Visual Basic](data-driven-4.md#general-crop-visual-basic) (1)
     - [Vue](data-driven-4.md#general-crop-vue) (3)
     - [Wolfram Language](data-driven-4.md#general-crop-wolfram-language) (1)
-    - [Other](data-driven-4.md#general-crop-other) (1900)
+    - [Other](data-driven-4.md#general-crop-other) (1897)
   - [Rice](data-driven-5.md#rice) (327)
     - [C++](data-driven-5.md#rice-cplusplus) (3)
     - [Dart](data-driven-5.md#rice-dart) (1)
@@ -261,6 +261,7 @@ Statistical and machine-learning models that predict crop variables (yield, grow
 
 #### Dart
 
+- [SamarthToge/AgropilotAI](https://github.com/SamarthToge/AgropilotAI) - Crop yield prediction with machine learning. `★ 2` `no licence`
 - [devShaik010/kv-app](https://github.com/devShaik010/kv-app) - Crop yield prediction with machine learning. `★ 1` `no licence`
 - [HARSHAVARDHAN2907/Crop-Yield-Predicter](https://github.com/HARSHAVARDHAN2907/Crop-Yield-Predicter) - An application developed using flutter which is used to predict the yield of crops that would be profitable based on rainfall factor in the particular year. `★ 1` `no licence`
 - [KarunyaGS/PayirseAI-Application](https://github.com/KarunyaGS/PayirseAI-Application) - PayirseAI is an AI-powered agricultural solution designed to assist farmers and stakeholders in accurately estimating crop yield using data-driven insights. Leveraging satellite imagery, weather… `★ 1` `no licence`
@@ -280,7 +281,6 @@ Statistical and machine-learning models that predict crop variables (yield, grow
 - [klcwdias/Silk_Farm_Mobile_Application](https://github.com/klcwdias/Silk_Farm_Mobile_Application) - This App is used to control the PH,Humidity,LUX etc in NFT. Also this application is used to make harvest prediction. `no licence`
 - [klcwdias/Silk_Farm_Project_Flutter_APk](https://github.com/klcwdias/Silk_Farm_Project_Flutter_APk) - This App is used to control the PH,Humidity,LUX etc in NFT. Also this application is used to make harvest prediction. `no licence`
 - [pushwanthdharavath/AI_Farming](https://github.com/pushwanthdharavath/AI_Farming) - A mobile app using ML/DL techniques for crop yield prediction, crop recommendation, and mapping satellite images with ground view images to optimize farming practices and ensure optimal crop health… `no licence`
-- [SamarthToge/AgropilotAI](https://github.com/SamarthToge/AgropilotAI) - Crop yield prediction with machine learning. `no licence`
 - [smartinternz02/SBSPS-Challenge-5538-AI-Assisted-Farming-for-Crop-Recommendation-Farm-Yield-Prediction-Application](https://github.com/smartinternz02/SBSPS-Challenge-5538-AI-Assisted-Farming-for-Crop-Recommendation-Farm-Yield-Prediction-Application) - Crop yield prediction with machine learning. `no licence`
 - [Sreeramkumar005/agro](https://github.com/Sreeramkumar005/agro) - AI-powered agriculture web application for plant disease prediction and crop yield prediction. `no licence`
 - [SREERAMKUMARK/plant-disease-and-yield-prediction](https://github.com/SREERAMKUMARK/plant-disease-and-yield-prediction) - AI-based system for detecting plant diseases and predicting crop yield using machine learning techniques. `no licence`
@@ -1232,6 +1232,7 @@ Statistical and machine-learning models that predict crop variables (yield, grow
 - [BaerchenJ/Stagewise-crop-yield-prediction-with-multisource-functional-indices](https://github.com/BaerchenJ/Stagewise-crop-yield-prediction-with-multisource-functional-indices) - Yield, indices data, and scripts for reproducibility. `★ 1` `no licence`
 - [bahricansekmen/Crop-Yield-Estimation-in-Smart-Agriculture](https://github.com/bahricansekmen/Crop-Yield-Estimation-in-Smart-Agriculture) - Predicting crop yields in agriculture based on climatic conditions. `★ 1` `no licence`
 - [BeheraSas/HarvestPro-Prediction](https://github.com/BeheraSas/HarvestPro-Prediction) - Crop yield prediction. `★ 1` `no licence`
+- [BhadraMohit09/Crop_Analysis_with_Flask_API](https://github.com/BhadraMohit09/Crop_Analysis_with_Flask_API) - This is a web-based application designed to predict crop yield based on various input factors such as farm area, fertilizer usage, pesticide usage, water consumption, crop type, irrigation method… `★ 1` `MPL-2.0`
 - [bhargavram3006/Crop_Yield_Prediction](https://github.com/bhargavram3006/Crop_Yield_Prediction) - A machine learning–powered web application that predicts crop yield (in tons per hectare) based on agronomic and environmental inputs. Built with Django (backend) and two trained ML models — XGBoost… `★ 1` `no licence`
 - [bharukahimanshu/FarmAssist](https://github.com/bharukahimanshu/FarmAssist) - FarmAssist: A Web Application for Crop Yield Prediction, Crop and Fertilizer Recommendation Based on Machine Learning. FarmAssist is a web application that utilizes machine learning to provide… `★ 1` `no licence`
 - [bhavana444/Crop-yield-prediction-using-ML](https://github.com/bhavana444/Crop-yield-prediction-using-ML) - Crop yield prediction with machine learning. `★ 1` `no licence`
@@ -2089,7 +2090,5 @@ Statistical and machine-learning models that predict crop variables (yield, grow
 - [AKRISHNASRIKAR/crop-yield-prediction](https://github.com/AKRISHNASRIKAR/crop-yield-prediction) - Crop yield prediction. `no licence`
 - [akritisakshi/Crop-Yield-Predictor](https://github.com/akritisakshi/Crop-Yield-Predictor) - Crop yield prediction. `no licence`
 - [akshadabhandwalkar756-blip/Crop-Yield-Prediction-Using-Multilayer-Perceptron-Neural-Networks](https://github.com/akshadabhandwalkar756-blip/Crop-Yield-Prediction-Using-Multilayer-Perceptron-Neural-Networks) - The agriculture industry faces its greatest challenges in the twenty-first century. The world’s population is expected to grow to 9.7 billion people by the year 2050 and will require an additional… `no licence`
-- [Akshaj000/CropYieldPrediction-LinearRegression](https://github.com/Akshaj000/CropYieldPrediction-LinearRegression) - Crop yield prediction with machine learning. `no licence`
-- [Akshara369/Crop-Yield-Prediction-using-Multimodal-Data-Fusion](https://github.com/Akshara369/Crop-Yield-Prediction-using-Multimodal-Data-Fusion) - Crop yield prediction. `no licence`
 
 Continued on [page 2](data-driven-2.md).

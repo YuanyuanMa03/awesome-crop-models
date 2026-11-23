@@ -8,6 +8,11 @@ Continued from [page 3](data-driven-3.md). See the [contents](data-driven.md#con
 
 #### Python (continued)
 
+- [sreenandha/Climate-Climate-Aware-Crop-Suitability-Model](https://github.com/sreenandha/Climate-Climate-Aware-Crop-Suitability-Model) - Climate and Crop Adaptive Suitability System (CCACS) A data-driven decision support tool that predicts crop suitability and yield under changing climate conditions. This system integrates real-time… `no licence`
+- [sreerag0460/crop-desease-and-yield-prediction](https://github.com/sreerag0460/crop-desease-and-yield-prediction) - Crop yield prediction. `no licence`
+- [Sreevardhangit/Crop_Yield_Prediction](https://github.com/Sreevardhangit/Crop_Yield_Prediction) - Crop yield prediction. `no licence`
+- [SreyasSankar7/Crop-yield-prediction](https://github.com/SreyasSankar7/Crop-yield-prediction) - Crop Yield Prediction using ML for Sustainable Agriculture. `no licence`
+- [Sri787/Crop-Yield-Prediction-using-Data-Mining](https://github.com/Sri787/Crop-Yield-Prediction-using-Data-Mining) - Crop yield prediction with machine learning. `no licence`
 - [sricharan2505/Predictive-Analytics-For-Crop-Yield-Optimization](https://github.com/sricharan2505/Predictive-Analytics-For-Crop-Yield-Optimization) - Crop yield prediction. `no licence`
 - [sridhareguram/Crop-yield-Prediction](https://github.com/sridhareguram/Crop-yield-Prediction) - Crop yield prediction. `no licence`
 - [SriDharshnna/Crop_Yield_Prediction](https://github.com/SriDharshnna/Crop_Yield_Prediction) - Crop yield prediction. `no licence`
@@ -1244,7 +1249,6 @@ Continued from [page 3](data-driven-3.md). See the [contents](data-driven.md#con
 - [Bala-1999/crop-yield-prediction](https://github.com/Bala-1999/crop-yield-prediction) - crop yield prediction using knn classification. `★ 1` `no licence`
 - [Bamlak2797/crop-yield-prediction](https://github.com/Bamlak2797/crop-yield-prediction) - Crop yield prediction. `★ 1` `no licence`
 - [bansu448/crop_yield-predict-](https://github.com/bansu448/crop_yield-predict-) - A Machine Learning-based Crop Yield Prediction system using Flask that predicts crop production based on rainfall, temperature, and area with an interactive web interface. `★ 1` `no licence`
-- [BhadraMohit09/Crop_Analysis_with_Flask_API](https://github.com/BhadraMohit09/Crop_Analysis_with_Flask_API) - This is a web-based application designed to predict crop yield based on various input factors such as farm area, fertilizer usage, pesticide usage, water consumption, crop type, irrigation method… `★ 1` `MPL-2.0`
 - [Bishal-5/Crop_Yield_Prediction_System_Final_Year_Project](https://github.com/Bishal-5/Crop_Yield_Prediction_System_Final_Year_Project) - Crop yield prediction. `★ 1` `no licence`
 - [byzheng/A-HYBRID-DEEP-LEARNING-MODEL-AND-DATASET-FOR-CROP-YIELD-ESTIMATION](https://github.com/byzheng/A-HYBRID-DEEP-LEARNING-MODEL-AND-DATASET-FOR-CROP-YIELD-ESTIMATION) - Crop yield prediction with machine learning. `★ 1` `no licence`
 - [Chinthak123/Crop-Yield-predictor-using-XGBoost](https://github.com/Chinthak123/Crop-Yield-predictor-using-XGBoost) - Crop yield prediction with machine learning. `★ 1` `no licence`
@@ -2003,8 +2007,5 @@ Continued from [page 3](data-driven-3.md). See the [contents](data-driven.md#con
 - [Kantesh-Gul/DSA-CEP-20sw080](https://github.com/Kantesh-Gul/DSA-CEP-20sw080) - "XGBoost model predicts crop yields with remarkable 98.72% training and 97.33% test accuracy, empowering agriculture stakeholders with data-driven insights.". `no licence`
 - [karthick-2003-coder/AI-POWERED-CROP-YIELD-PREDICTION-USING-MACHINE-LEARNING.](https://github.com/karthick-2003-coder/AI-POWERED-CROP-YIELD-PREDICTION-USING-MACHINE-LEARNING.) - Crop yield prediction with machine learning. `no licence`
 - [Karthikeya-Sriram/Deep-Learning-based-Crop-Yield-Prediction](https://github.com/Karthikeya-Sriram/Deep-Learning-based-Crop-Yield-Prediction) - Crop yield prediction with machine learning. `no licence`
-- [kathir010105/CropYieldPrediction](https://github.com/kathir010105/CropYieldPrediction) - Crop yield prediction. `no licence`
-- [kaushal-shivaprakashan/Adaptive-Crop-Yield-Forecasting-Using-Statistical-Learning-Algorithms](https://github.com/kaushal-shivaprakashan/Adaptive-Crop-Yield-Forecasting-Using-Statistical-Learning-Algorithms) - Crop yield prediction. `no licence`
-- [kaushalshimpi/Crop-Yield-Prediction-using-Machine-Learning](https://github.com/kaushalshimpi/Crop-Yield-Prediction-using-Machine-Learning) - Crop Yield Prediction using Machine Learning. `no licence`
 
 Continued on [page 5](data-driven-5.md).

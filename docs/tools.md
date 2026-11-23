@@ -1709,6 +1709,7 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 - [ARS-SWRC/Gridded-CLIGEN-Processing](https://github.com/ARS-SWRC/Gridded-CLIGEN-Processing) - Google Earth Engine climate processing for CLIGEN. `★ 1` `no licence`
 - [Ashish-Kondal/Preprocessing_for_AgroHydrological_Modeling](https://github.com/Ashish-Kondal/Preprocessing_for_AgroHydrological_Modeling) - Preprocessing Scripts for VIC-CropSyst Modeling. `★ 1` `MIT`
 - [bicklabuw/AgroEcoMetrics](https://github.com/bicklabuw/AgroEcoMetrics) - No description provided. `★ 1` `MIT`
+- [carpena1/py_HB_texture](https://github.com/carpena1/py_HB_texture) - Estimate USDA soil texture and saturated hydraulic conductivity (Ks) from a measured soil water characteristic curve, via van Genuchten fitting and a mixture of physical methods and machine learning… `★ 1` `CC-BY-4.0`
 - [CIAT-DAPA/agrilac_etl_agroclimatic_bulletins](https://github.com/CIAT-DAPA/agrilac_etl_agroclimatic_bulletins) - ETL to generate inputs for agroclimatic bulletins based on WRF forecast and historical data from IMERG. `★ 1` `no licence`
 - [CNES/et-dataset](https://github.com/CNES/et-dataset) - Toolbox to prepare data for evapotranspiration algorithms. `★ 1` `AGPL-3.0`
 - [David-Freebairn/Weather-explorer](https://github.com/David-Freebairn/Weather-explorer) - No description provided. `★ 1` `no licence`
@@ -1754,7 +1755,6 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 - [billsacks/clm_misc-make_crop_1850_dataset](https://github.com/billsacks/clm_misc-make_crop_1850_dataset) - Script for making a year-1850 raw dataset with all crop types. `no licence`
 - [brampee/Soil_Moisture_FC_Estimator](https://github.com/brampee/Soil_Moisture_FC_Estimator) - Jupyter tool that estimates soil field capacity from multi-depth volumetric water content data. It detects wetting events, smooths each drying curve, and uses first and second derivatives to find… `no licence`
 - [buraksanlilar/PcseDatasetCreator](https://github.com/buraksanlilar/PcseDatasetCreator) - Agricultural dataset creator for PCSE crop simulations with weather, soil, and management data integration from Turkish regions. `MIT`
-- [carpena1/py_HB_texture](https://github.com/carpena1/py_HB_texture) - Estimate USDA soil texture and saturated hydraulic conductivity (Ks) from a measured soil water characteristic curve, via van Genuchten fitting and nearest-neighbor inference in the GSHP database. `CC-BY-4.0`
 - [cc123-h/Aquacrop-hydrological-year](https://github.com/cc123-h/Aquacrop-hydrological-year) - Preprocess NASA‑POWER daily meteorological data, select representative hydrological years, and batch‑generate AquaCrop `.cli` climate input files for crop‑scenario simulation. `MIT`
 - [CGIAR-AgWise/agwise_data_sourcing](https://github.com/CGIAR-AgWise/agwise_data_sourcing) - No description provided. `no licence`
 - [chandankr014/soil-aggregation-module](https://github.com/chandankr014/soil-aggregation-module) - No description provided. `MIT`
