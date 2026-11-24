@@ -209,7 +209,7 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 #### Julia
 
 - [VirtualPlantLab/PlantSimEngine.jl](https://github.com/VirtualPlantLab/PlantSimEngine.jl) - Framework for coupling plant process models across organizational scales. `★ 27` `MIT`
-- [cropbox/Cropbox.jl](https://github.com/cropbox/Cropbox.jl) - Declarative framework for constructing and running crop process models. `★ 25` `MIT`
+- [cropbox/Cropbox.jl](https://github.com/cropbox/Cropbox.jl) - Declarative framework for constructing and running crop process models. `★ 26` `MIT`
 - [bspanoghe/PlantModules.jl](https://github.com/bspanoghe/PlantModules.jl) - An acausal functional-structural plant modeling framework written in Julia. `★ 13` `MIT`
 - [VEZY/MultiScaleTreeGraph.jl](https://github.com/VEZY/MultiScaleTreeGraph.jl) - Read, analyse, compute, write and convert MTG files. `★ 11` `MIT`
 - [VEZY/PlantGeom.jl](https://github.com/VEZY/PlantGeom.jl) - Everything 3D for plants 🌱. `★ 11` `MIT`
@@ -554,6 +554,7 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 - [dodge-ttu/crop-modeling-site](https://github.com/dodge-ttu/crop-modeling-site) - A Django driven crop modeling website. `★ 3` `no licence`
 - [erickpeirson/HydrusHelper](https://github.com/erickpeirson/HydrusHelper) - Python CLI tool for streamlining Hydrus simulations. `★ 3` `no licence`
 - [FabioSeixas/CassavaPy](https://github.com/FabioSeixas/CassavaPy) - A module to write, run and get outputs from DSSAT-Manihot model. `★ 3` `no licence`
+- [gsoykan/lettuce-greenhouse-gym](https://github.com/gsoykan/lettuce-greenhouse-gym) - Gymnasium environment for the van Henten lettuce greenhouse model. `★ 3` `Apache-2.0`
 - [jajberni/pcse_web](https://github.com/jajberni/pcse_web) - Interactive web interface for PCSE. `★ 3` `Apache-2.0`
 - [nierad/lpjg2nc](https://github.com/nierad/lpjg2nc) - Quick LPJ-GUESS ascii to netCDF4 converter. `★ 3` `no licence`
 - [openalea-incubator/groalea](https://github.com/openalea-incubator/groalea) - Interoperability between GroIMP and OpenAlea. `★ 3` `no licence`
@@ -574,7 +575,6 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 - [cpohagwu/lintul3-gym](https://github.com/cpohagwu/lintul3-gym) - A transparent, reproducible Gymnasium environment for LINTUL3 nitrogen-management reinforcement learning. `★ 2` `Apache-2.0`
 - [federicomatarante/InterCropGym](https://github.com/federicomatarante/InterCropGym) - A RL project to contribute to regenerative agricolture. `★ 2` `custom licence`
 - [gk-crop/simplace_pypkg](https://github.com/gk-crop/simplace_pypkg) - Python package to interact with the modeling framework Simplace. `★ 2` `GPL-3.0`
-- [gsoykan/lettuce-greenhouse-gym](https://github.com/gsoykan/lettuce-greenhouse-gym) - Gymnasium environment for the van Henten lettuce greenhouse model. `★ 2` `Apache-2.0`
 - [hie-dave/lpj-scripts](https://github.com/hie-dave/lpj-scripts) - Scripts for running lpj-guess on gadi. `★ 2` `no licence`
 - [JinzhuWANG/FullCAM_REST_API_GET_DATA](https://github.com/JinzhuWANG/FullCAM_REST_API_GET_DATA) - No description provided. `★ 2` `no licence`
 - [LightModelIntercomparisonOnPlant/SceneManagement](https://github.com/LightModelIntercomparisonOnPlant/SceneManagement) - Code to import/export a scene. `★ 2` `no licence`
