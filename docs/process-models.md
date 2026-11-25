@@ -1762,7 +1762,7 @@ Process-based models of soil, water, climate, pests and other agricultural proce
 - [muhammedrashidx/irrigation-pet-model](https://github.com/muhammedrashidx/irrigation-pet-model) - No description provided. `no licence`
 - [mvcastro/pet_equations](https://github.com/mvcastro/pet_equations) - Equations for Estimate Potential Evapotranspiration. `MIT`
 - [nicolas0lucas/EvapoGIS](https://github.com/nicolas0lucas/EvapoGIS) - No description provided. `no licence`
-- [nkz-os/nekazari-module-crop-health](https://github.com/nkz-os/nekazari-module-crop-health) - Crop Health Engine — Real-time biophysical inference (CWSI, MDS, Water Balance) for Nekazari platform. `AGPL-3.0`
+- [nkz-os/nekazari-module-crop-health](https://github.com/nkz-os/nekazari-module-crop-health) - Crop Health Engine — Real-time biophysical inference (CWSI, MDS, Water Balance) for Nekazari platform. `AGPL-3.0` `not found or inaccessible`
 - [Nora-Research-Lab/thornthwaite-pet-calculator](https://github.com/Nora-Research-Lab/thornthwaite-pet-calculator) - For climatologists and hydrologists: enter monthly mean temperatures and latitude to instantly compute potential evapotranspiration using the Thornthwaite method. `no licence`
 - [nrs23/waterlogged-core](https://github.com/nrs23/waterlogged-core) - Core library for the waterlogged evapotranspiration app. `no licence`
 - [OmarGarTe/SPAC-Py](https://github.com/OmarGarTe/SPAC-Py) - No description provided. `GPL-3.0`

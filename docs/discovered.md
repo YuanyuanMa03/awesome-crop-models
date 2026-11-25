@@ -2,7 +2,7 @@
 
 Repositories found by discovery that nobody has classified yet. To list one, add it to `config/seeds.json`; to reject one, record it with a reason in `config/excluded.json`. Forks are not listed unless curated.
 
-126891 tracked · 15291 listed · 78836 excluded · 798 forks · **31966 awaiting review**
+128735 tracked · 15291 listed · 78836 excluded · 798 forks · **33810 awaiting review**
 
 | Repository | ★ | Language | Description | Found by |
 |---|---|---|---|---|
@@ -12,29 +12,35 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [nanaism/yomiyasu](https://github.com/nanaism/yomiyasu) | 3481 | Python | AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese | cn-crop-model |
 | [glanderness/BeefTV](https://github.com/glanderness/BeefTV) | 2479 | TypeScript | High-performance · Lightweight · AI Native Video workspace. 面向 AI 时代的视频创作工作台。 在画布中，和Agent一起自由连接创意和素材。 | cn-crop-model |
 | [zhuyansen/awesome-claude-video-skills](https://github.com/zhuyansen/awesome-claude-video-skills) | 2426 |  | Open-source skills and toolkits that let Claude Code, Codex and other coding agents make video. 180 repos by type, each | cn-crop-model |
+| [wuyoscar/AISafetyHot](https://github.com/wuyoscar/AISafetyHot) | 2082 | TeX | AI Safety HOT: daily AI safety news, papers and incidents in one place — jailbreaks, prompt injection, alignment, evals, | cn-crop-model |
 | [riba2534/claude-opus-5-5-demo](https://github.com/riba2534/claude-opus-5-5-demo) | 1425 | JavaScript | claude-opus-5-5-demo | cn-crop-model |
 | [shack2/SuperSQLInjection](https://github.com/shack2/SuperSQLInjection) | 1274 | C | 超级SQL注入工具（SSQLInjection）是一款基于HTTP协议自组包的SQL注入工具支持各种类型的SQL注入，支持HTTPS模式注入；支持以盲注、错误显示、Union注入等方式来获取数据；支持常见数据库，可以采用自动化模式和手动模式 | cn-crop-model |
 | [joeseesun/opus-video-prompts](https://github.com/joeseesun/opus-video-prompts) | 1154 |  | Claude Opus 5.5 用代码生成视频：全网案例与可直接复制的提示词 &#124; Copy-ready prompts & 54 cases of Opus 5.5 code-rendered videos | cn-crop-model |
 | [adunext/adu-motion-video](https://github.com/adunext/adu-motion-video) | 1016 | JavaScript | 阿杜的 AI 剪辑 Skill｜全系列模板已升级为 MotionGit .motion 开放格式，下载后直接发给助手即可创作。下载：https://motiongit.com/@adunext ｜精选阿杜与 Opus 5.5 制作的代码级动 | cn-crop-model |
 | [hgtuj5688/tvbox-desktop](https://github.com/hgtuj5688/tvbox-desktop) | 836 | TypeScript | TVBox Desktop —— 纯白极简的 Windows 影视聚合客户端（Electron 44 + React 19 + TypeScript 7 + Vite 7） | cn-crop-model |
 | [wanvfx/ProxyNodeHub](https://github.com/wanvfx/ProxyNodeHub) | 729 | C# | ProxyNodeHub 用于发现 GitHub 上活跃的免费节点仓库：分析活跃度、去重分散的节点、直接给出可用的订阅链接。点一次「搜索并分析」，剩下的梳理工作全部由它完成。 | cn-crop-model |
+| [J3n5en/voicekey](https://github.com/J3n5en/voicekey) | 663 | Swift | macOS hold-to-talk / tap-to-talk dictation with Doubao & WeType ASR | cn-crop-model |
 | [mashanglinyu/luanyujia-workbench](https://github.com/mashanglinyu/luanyujia-workbench) | 647 | JavaScript | 多场景 AI 工作台：六层总纲 + 拓扑连线图 + 公开版工作台模板（四场景可跑，源码照搬即用）+ 记忆机制。配套集市：https://www.mydsh.xyz 。作者：https://linyujia.me 。注意：不是装完就能用，场景 | cn-crop-model |
 | [yuedizhibo/MHI2Q-CarPlay-AltScreen](https://github.com/yuedizhibo/MHI2Q-CarPlay-AltScreen) | 553 | C | 补全 Audi MHI2Q / MIB2 High AUG22 的 CarPlay AltScreen 逻辑，让 CarPlay 第二屏显示在 Virtual Cockpit 仪表盘。Completes CarPlay AltScreen | cn-crop-model |
 | [xiaodou-official/xiaodou-open-platform](https://github.com/xiaodou-official/xiaodou-open-platform) | 540 |  | 个人支付接口：小豆支付开放平台——个人可申请的支付宝、微信支付接口。个人支付接口无需营业执照，身份证+银行卡即可接入；RSA2 签名、webhook 验签、持牌机构清算、次日中午前到账。China individual payment AP | cn-crop-model |
 | [fumingyang2004/Tulpa](https://github.com/fumingyang2004/Tulpa) | 538 | Python | 使用MCP，让你几乎所有的Agent访问QQ/微信/B站，甚至亲自下场水群和发消息！ | cn-crop-model |
 | [wallechfox/offline-pdf-tools](https://github.com/wallechfox/offline-pdf-tools) | 495 | HTML | 一套纯离线运行的 PDF 处理工具集，共40余项功能，1个网页文件。包含合并、拆分（支持页码范围/固定页数/单页/奇偶拆分）、旋转、删除、PDF 转图片、图片转 PDF、页面可视化重排、对开页切分、交替合并。无需安装软件，无需上传文件，打开 | mdl-cropbox |
 | [everyinfra/seo-skills](https://github.com/everyinfra/seo-skills) | 471 | Python | Free global SEO/GEO skill for Claude Code, Codex & 10 agent hosts — 18 market portals, 56 stdlib scripts, 672 golden tes | cn-crop-model |
+| [guohuadeng/app-odoo](https://github.com/guohuadeng/app-odoo) | 463 | HTML | Odoo Free Addon for 20,19,18,17,16,15,14,13,12,11,10, CE and EE and SH。Odoo的社区版、企业版、.sh版等全版本开源免费增强模块应用集合。 | cn-crop-model |
 | [zezhishao/DailyArXiv](https://github.com/zezhishao/DailyArXiv) | 452 | Python | Daily ArXiv Papers. | crop-phenology |
 | [Sallyn0225/eidolon-sc](https://github.com/Sallyn0225/eidolon-sc) | 443 | Python | 和《偶像大师 闪耀色彩》偶像实时语音/文字对话的 AI 分身：日语原声 + 中文字幕、回忆原作剧情、跨角色共享记忆；支持 Google/GitHub 登录与自带密钥，Docker Compose 一键部署（参考 LAPLACE Eidolo | cn-crop-model |
 | [Kianzzz/xilo-opus-video](https://github.com/Kianzzz/xilo-opus-video) | 430 | Python | 用 Claude Opus 5.5 写代码做视频：先给三个方案和预览，确认后逐帧渲染成片 &#124; Canvas / WebGL / Three.js / Remotion / HyperFrames &#124; Claude Code Skill | cn-crop-model |
 | [hs-web/hsweb-easy-orm](https://github.com/hs-web/hsweb-easy-orm) | 340 | Java | 简单的orm工具,为动态表单而生 | cn-crop-model |
 | [Work-Fisher/ComfyUI-Fisher-Pose](https://github.com/Work-Fisher/ComfyUI-Fisher-Pose) | 323 | JavaScript | ComfyUI 姿势与机位编辑器 for Qwen Image 2.1：VNCCS 真人人偶 + OpenPose 一键摆姿（内置 209 骨架）+ 自由视角多人机位 &#124; Pose & camera studio with VNCCS Po | cn-crop-model |
+| [T7moris/GPT-Niang](https://github.com/T7moris/GPT-Niang) | 319 | PowerShell | GPT娘额度挂件：Windows / macOS 白发龙娘桌面挂件，自动识别 Free、Go、Plus、Pro 等套餐，按实际额度窗口显示，支持单行居中、语录、按压反馈、拖动缩放和主窗口跟随。 | cn-crop-model |
 | [Akun-python/autumn-recruitment](https://github.com/Akun-python/autumn-recruitment) | 317 | Jupyter Notebook | Autumn-Recruit Algo Notes(秋招算法学习仓库)，面向大模型时代的算法、工程与AI学习共建仓库。从数学基础、数据结构，到机器学习、深度学习、LLM、Agent、AI-Infra、语音与数据科学，通过「理解→推导→手写 | cn-crop-model |
 | [shuma12303/ip-optimizer](https://github.com/shuma12303/ip-optimizer) | 291 | Python | 数码解码 IP 优选器 —— Cloudflare IP 自动获取 / 三级测速 / 综合评分排名 / 稳定性复测（Windows 桌面版，免安装 exe 见 Releases） | cn-crop-model |
 | [JEen-wang/Adaptive-rag](https://github.com/JEen-wang/Adaptive-rag) | 284 | Python | 按问题复杂度自动分流的电商客服 RAG：简单问题直接回答；复杂问题经过多跳检索并自我纠错；查单、退改通过工具调用完成，且高风险写操作必须先经人工确认。基于 FastAPI 和 LangGraph，混合检索并附带引用，内置离线评测与 Prom | cn-crop-model |
 | [YixuanFranco/YourBoyfriend](https://github.com/YixuanFranco/YourBoyfriend) | 282 | Python | 帮你做个男朋友. | cn-crop-model |
 | [sanqianzilanyue/ai-voice-breath-kiss-water](https://github.com/sanqianzilanyue/ai-voice-breath-kiss-water) | 275 | HTML |  | cn-crop-model |
 | [xiaodou-official/xiaodou-market](https://github.com/xiaodou-official/xiaodou-market) | 273 |  | 小豆集市｜数字商品交易平台：发卡寄售、卡密平台、虚拟发卡、寄售网。24 小时发卡平台、卡密自动发货；虚拟商品寄售免费开店，买家免注册，支付宝、微信收款（支付宝内可选花呗/信用卡，微信内可选信用卡），持牌机构清算、次日中午前到账（含节假日）。 | cn-crop-model |
+| [QingniaoDawn/Antigravity-YiJianHanHua](https://github.com/QingniaoDawn/Antigravity-YiJianHanHua) | 270 | Python | Antigravity（Google Agentic IDE）Windows / macOS / Linux 三平台一键汉化：21030 翻译单元、内置插件面板也中文、原生右键菜单也中文、一键还原、双击即用，永久免费 | cn-crop-model |
+| [zoolapp/aime](https://github.com/zoolapp/aime) | 270 | Swift | 艾么输入法 · An open-source Chinese input method for macOS, built on RIME. Local first, optional AI. | cn-crop-model |
 | [Roylyl/MacPlay](https://github.com/Roylyl/MacPlay) | 258 | Rust | 让Mac通过USB或共用Wi-Fi接收iPhone CarPlay画面的原生macOS应用，支持分辨率与高帧率配置。 | cn-crop-model |
 | [YyAdnBug/kitty-tools](https://github.com/YyAdnBug/kitty-tools) | 239 | Swift | 纯原生 macOS 菜单栏效率工具：剪贴板历史、翻译（划词 / 截图翻译 / 大模型流式）、启动器、截图标注与长截图。Swift 6 + SwiftUI / AppKit，零第三方依赖，Apple 芯片，macOS 15+。 | cn-crop-model |
 | [alpha-miner/alpha-mind](https://github.com/alpha-miner/alpha-mind) | 238 | Jupyter Notebook | quantitative security portfolio analysis. The analysis pipeline including data storage abstraction, alpha calculation, M | cn-crop-model |
@@ -45,6 +51,7 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [LarryE135/dsh-flash-presets](https://github.com/LarryE135/dsh-flash-presets) | 203 | JavaScript | 降低Deepseek v4.1flash的Token消耗/Raising Token efficiency without lossing performance(Works for v4.1flash) | cn-crop-model |
 | [Tongyu3/Tdsh-DSH-Mobile-Android-NO-ROOT](https://github.com/Tongyu3/Tdsh-DSH-Mobile-Android-NO-ROOT) | 202 | Java | 将dsh移植到了手机上，not Root，一键安装apk，可以读取文件并且编辑，在无障碍权限下还能做更多事情，欢迎来尝试。 | cn-crop-model |
 | [OedoSoldier/Endfield-Poser](https://github.com/OedoSoldier/Endfield-Poser) | 198 | C++ |  | cn-crop-model |
+| [Trinkle23897/karaoke](https://github.com/Trinkle23897/karaoke) | 196 | Python | 一个包含地球上所有能唱的歌的免费KTV | cn-crop-model |
 | [KYRIE66nb/mobile-agent](https://github.com/KYRIE66nb/mobile-agent) | 193 | Kotlin | Android 端 AI 聊天 + 本地工具 Agent | cn-crop-model |
 | [DahnJ/EO-jobs](https://github.com/DahnJ/EO-jobs) | 189 | Haskell | 🛰️ List of earth observation companies and job sites | soil-carbon-crop |
 | [Finderchangchang/brewreel](https://github.com/Finderchangchang/brewreel) | 188 | JavaScript | 精酿 BrewReel：让 DeepSeek 这类便宜模型也能做出好看的竖版宣传片。写一份产品简报，AI 挑镜头、写文案，一条命令出片。3 种配方、6 个行业、广告法校验，开源可商用。 | cn-crop-model |
@@ -83,6 +90,7 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [jsdsg666/AutoWWTP-ASM-Demo](https://github.com/jsdsg666/AutoWWTP-ASM-Demo) | 108 | Python | LLM Agent for WWTP biotreatment on redefined ASM code library | cn-crop-model |
 | [xiaoguan521/guoapp](https://github.com/xiaoguan521/guoapp) | 107 | Dart |  | cn-crop-model |
 | [RealCorebb/bbScope](https://github.com/RealCorebb/bbScope) | 106 |  | DIY 3D Digital Microscope | cn-crop-model |
+| [Shing299/kaoyan-widget](https://github.com/Shing299/kaoyan-widget) | 104 | Java | 考研英语单词桌面小组件：按初试倒计时自动倒推每日词量，定时通知推送 + 桌面小组件 + 学习弹幕；内置 5398 词，支持自定义词库、深色模式、双语/仅英文/仅中文切换。纯本地运行，不联网、无账号。 | cn-crop-model |
 | [q734738781/CatMaster](https://github.com/q734738781/CatMaster) | 98 | Python |  | cn-crop-model |
 | [Akun-python/Mathematical-Modeling](https://github.com/Akun-python/Mathematical-Modeling) | 97 | HTML | 开源免费，不断迭代更新！ | cn-crop-model |
 | [Refining-colors/pet-with-you](https://github.com/Refining-colors/pet-with-you) | 97 | JavaScript | 桌面宠物：爱吃白饭的蓝色小肥鱼。一只住在独立软件里的桌面宠物，支持纯粹桌宠、GPT客户端连接等模式，具备高个性化DIY功能。 | cn-crop-model |
@@ -98,6 +106,7 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [unitedrhino/go-cad](https://github.com/unitedrhino/go-cad) | 91 | Go | 纯 Go 实现的 DWG/DXF 解析、渲染与写出库。支持 R9～R2018 读取、六代 DWG 容器写出、DXF/JSON 转换、中文 PNG/SVG 渲染、智能拆图与标题栏识别。37 张真实图纸与 LibreDWG 金标准值级对齐 10 | cn-crop-model |
 | [sssssjw11/touxian](https://github.com/sssssjw11/touxian) | 90 | Kotlin | 偷闲 · Touxian multi-platform release repository for the desktop attention workbench and Android app | cn-crop-model |
 | [lshhhhhhh/ai-school-op](https://github.com/lshhhhhhh/ai-school-op) | 89 | Python | AI 校园版《败犬女主太多了！》OP 制作过程：分镜、MiniMax H3 逐镜人物替换、拼接、超分；18 位 AI 娘人设与完整演员表 | cn-crop-model |
+| [wuyhong715/rikkahub-agent-pure](https://github.com/wuyhong715/rikkahub-agent-pure) | 89 | Kotlin | RikkaHub Agent · Pure — an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic | cn-crop-model |
 | [bayshier/open-source-games-zh](https://github.com/bayshier/open-source-games-zh) | 88 | Python | 开源游戏清单中文版 &#124; 250+ 开源游戏与商业游戏开源重制版合集 · 基于 bobeff/open-source-games（CC0） | cn-crop-model |
 | [code-ant/z7x-adb](https://github.com/code-ant/z7x-adb) | 88 | Java | 极米 Z7X 高亮版开启 ADB 图文教程及 Android 自动开启工具 | cn-crop-model |
 | [tianfeng66/psd-font-pack](https://github.com/tianfeng66/psd-font-pack) | 87 | Swift | Mac 上一键打包 PSD 用到的字体：检测缺失、自动补齐（Adobe 自带 / 本地字体库 / 免费字体下载），和 PSD 一起打成 zip | cn-crop-model |
@@ -112,6 +121,7 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [honxi1/Endfield-Poser](https://github.com/honxi1/Endfield-Poser) | 77 | C++ |  | cn-crop-model |
 | [sixtysevenlf/dsh-skill-blender-modeling](https://github.com/sixtysevenlf/dsh-skill-blender-modeling) | 76 |  | DSH skill v1.0 · Blender 建模与装配流程：多 Agent 分工范式（冻结 spec/写作用域/接口表）、参考图形体还原、六条必踩的坑、十道数值门装配审计；23 条配方；配套插件 dsh-blender-plugin | cn-crop-model |
 | [tomatoparkdao/omniailab-ai-director](https://github.com/tomatoparkdao/omniailab-ai-director) | 76 | JavaScript | OmniAiLab AI Director｜影视级全流程 AI 导演 Skill，也是会引导你做判断的决策系统：先定作品形态，再让你指定导演／摄影机／布光／美学（或交给它判断），从剧本解析到成片交付。An end-to-end AI dir | cn-crop-model |
+| [AharaOoO/acheng-director-skill](https://github.com/AharaOoO/acheng-director-skill) | 74 | Python | Acheng Director — 电影级导演综合引擎 · 影视工业级 AI 导演中枢 (MiniMax H3 / Seedance / 132运镜白模) | cn-crop-model |
 | [xiaour/yolo-data](https://github.com/xiaour/yolo-data) | 74 | JavaScript | 先进且稳定的企业级智能分析平台；面向企业问数、洞察分析的Data Agent，基于数据分析方法论打造可审计、可治理、可复现workflow | cn-crop-model |
 | [baibanbao/qu-ai-wei](https://github.com/baibanbao/qu-ai-wei) | 73 |  | 去 AI 味：中文写作的 AI 痕迹清理 skill。合并三家规则（含语料实测），并裁决它们互相矛盾的七处。A Claude skill for stripping AI tells from Chinese drafts. | cn-crop-model |
 | [lilymoonight/GamePadStudio](https://github.com/lilymoonight/GamePadStudio) | 73 | Python |  | cn-crop-model |
@@ -134,13 +144,18 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [HanZijie/agentos-android](https://github.com/HanZijie/agentos-android) | 59 | Kotlin | AgentOS for Android — system-level Agent runtime, AOSP integration, ROM and device support. 一个Root，让你的手机变身为“豆包手机”！ | cn-crop-model |
 | [TomasResquin/PdfBooklet](https://github.com/TomasResquin/PdfBooklet) | 59 | Python | Creates booklets from Pdf files, and much more | mdl-cropbox |
 | [nange/easyss](https://github.com/nange/easyss) | 58 | Go | 简单易用的全平台网络代理工具。 | cn-crop-model |
+| [nicedoctors/JiuNuoDesktopPet](https://github.com/nicedoctors/JiuNuoDesktopPet) | 58 | C# | 啾糯桌宠：Windows 双角色桌宠，捏脸、双宠互动与桌面物理；源码公开，禁止商业使用。 | cn-crop-model |
 | [T8mars/Comfyui-Qwen-Image-2.1-BlockCache-T8](https://github.com/T8mars/Comfyui-Qwen-Image-2.1-BlockCache-T8) | 58 | Python |  | cn-crop-model |
 | [bigmoumou/AI-Agent-Literacy](https://github.com/bigmoumou/AI-Agent-Literacy) | 57 | JavaScript | Learning Analytics Tools Implementation Applications (NTNU) | cn-crop-model |
 | [bosprimigenious/autoresearch-skills](https://github.com/bosprimigenious/autoresearch-skills) | 57 | Python | Reusable skills for AutoResearch task design, isolation, QA, and handoff | cn-crop-model |
+| [KingPennymore/WengzhouVela-AnOpenSourceNovelEditorAndManager](https://github.com/KingPennymore/WengzhouVela-AnOpenSourceNovelEditorAndManager) | 57 | JavaScript | 文舟是一款面向 HarmonyOS NEXT 的写作软件。界面参考 Acode 的文件标签、行号和编辑操作，并加入文件工作区、章节管理、GitHub 仓库同步和 Acode 插件支持。 | cn-crop-model |
 | [sorrowKnight123/bilibili-persona](https://github.com/sorrowKnight123/bilibili-persona) | 57 | Python |  | cn-crop-model |
+| [chuspeeism/code-video-director](https://github.com/chuspeeism/code-video-director) | 56 | Python | 代码视频导演：让 AI 编程助手（Codex / Claude Code）用代码做出像样的视频 | cn-crop-model |
 | [yjscloud/pvecenter](https://github.com/yjscloud/pvecenter) | 56 | Python | Proxmox VE 8.x/9.x 自托管管理面板：虚拟机与 LXC 容器全生命周期、cloud-init 模板流水线、 监控大盘、VNC/串口控制台、多角色权限与操作审计；另含 AI 排查助手（会话式归因、要改系统的 命令逐条批准、To | cn-crop-model |
 | [xbzbing/dsh-git-panel](https://github.com/xbzbing/dsh-git-panel) | 55 | JavaScript | Web GUI 里的 IDE 风格 Git 面板——分支/提交历史总览、变更提交与 amend、AI 生成提交信息、文件浏览、代码与图片新旧差异对照、输入框分支标记、针对移动端优化 &#124; an IDE-style Git panel for | cn-crop-model |
 | [Justinuse1/pojia-breaker](https://github.com/Justinuse1/pojia-breaker) | 54 | JavaScript | Chinese-first LLM jailbreak benchmark & red-team toolkit &#124; 中文LLM安全评测框架 &#124; by POJIA.AI | cn-crop-model |
+| [sunilxsk/lockperm](https://github.com/sunilxsk/lockperm) | 54 | Kotlin | LockPerm 是一个 Xposed 模块，可为每个应用独立配置设备伪装与权限防护。🍰 | cn-crop-model |
+| [kalvsupu/disAD](https://github.com/kalvsupu/disAD) | 53 | Kotlin | 免 Root 本地广告拦截 · Root-free local ad blocker — VpnService DNS 过滤 + 无障碍辅助点掉「跳过」，体积 &lt;1 MB，纯本地、不联网、不采集。附技术边界说明：为什么腾讯系和微信内的广告拦 | cn-crop-model |
 | [ArtLjn/agriagent-os](https://github.com/ArtLjn/agriagent-os) | 52 | Python | AgriAgent OS: an AI agent platform for farm operations, built with FastAPI, React, React Native, and LangGraph. | cropping-systems |
 | [misakano7545/traework2api-panel](https://github.com/misakano7545/traework2api-panel) | 52 | Go | TRAE 的 OpenAI 兼容反向代理：多账号轮转、自动签到、token 自动刷新，纯 Go 零依赖。 | cn-crop-model |
 | [superxyline/fnos_music_ext](https://github.com/superxyline/fnos_music_ext) | 52 | Python | 飞牛音乐在线曲库扩展 fnmusic-ext 二次开发版：红心收藏自动下载原文件并自动转官方收藏。二开自 javycoder/fnos_music_ext | cn-crop-model |
@@ -148,6 +163,7 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [chencheng666/great-powers-rts](https://github.com/chencheng666/great-powers-rts) | 51 | JavaScript | 大国崛起：AI 辅助开发的原创红警风格浏览器即时战略游戏，支持单机陆海空对战、现代支援兵种和离线试玩。 | cn-crop-model |
 | [paicat1/Bonsai-27B-NInfer](https://github.com/paicat1/Bonsai-27B-NInfer) | 51 | Python | Bonsai-27B x NInfer local deployment project (RTX 5080, ternary quantization) | cn-crop-model |
 | [a137460387/dsh-infinite-gen-x](https://github.com/a137460387/dsh-infinite-gen-x) | 50 | JavaScript | 无限X代 (Infinite Generation X) — 在 dsh-infinite-gen-4 基础上迭代的 DSH 破甲插件：低调措辞内核 + Host 架构层拒绝闭环干预 + 可靠 armor 评分器，数据驱动升级。 | cn-crop-model |
+| [chu0119/vc-strike](https://github.com/chu0119/vc-strike) | 50 | Python | VC-Strike — VMware vCenter CVE-2026-59310 (unauth root RCE) & CVE-2026-59309 (SRP auth bypass) authorized pentest suite. | cn-crop-model |
 | [liuzhuohua/drouter](https://github.com/liuzhuohua/drouter) | 50 | Python | Debian 13 软路由管理系统 · Web 管理面板。不重新实现任何协议 —— 渲染原生配置、语法预检、原子写入并 reload。 | cn-crop-model |
 | [haiy/opus55-video-guide-zh](https://github.com/haiy/opus55-video-guide-zh) | 49 | Python | Opus 5.5 视频制作中文教程与导航：GitHub项目、X案例、提示词、MV源码、制作流程与工具。 | cn-crop-model |
 | [laojina/vidmind](https://github.com/laojina/vidmind) | 49 | Java | 基于 Java、Spring Boot 与 LangChain4j 的长视频 Agent，支持 ASR/OCR 多模态解析、重叠分块 RAG、RocketMQ 异步任务与可恢复分析。 | cn-crop-model |
@@ -156,21 +172,26 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [xanb-ship-it/RezeDesign-Mobile](https://github.com/xanb-ship-it/RezeDesign-Mobile) | 48 | HTML | Android 上的 MMD 场景编辑器：PMX/VMD 模型与动作、4K 60 帧视频导出、舞台场景、多种渲染风格、实时特效、时间轴与曲线编辑、歌词生成口型及发布分享。基于 AmyangXYZ/reze-design 与 reze-eng | cn-crop-model |
 | [CHNragdoll/anki-pipeline](https://github.com/CHNragdoll/anki-pipeline) | 47 | Python | 考研历年真题 PDF 与 Anki 卡包。数学一、二、三，政治，计算机 408，管理类综合能力（199）和经济类综合能力（396）提供试卷、答案、详解及 Anki。英语一、二提供真题、答题卡、答案与大纲。另有各科初试答题卡、2026／202 | cn-crop-model |
 | [LBEILC/RhineLabUI-Workflow](https://github.com/LBEILC/RhineLabUI-Workflow) | 47 |  | 38 条消息让 GPT-6 Astra 复刻莱茵生命 UI 的完整制作流程：逐条复盘、方法总结与可套用的反馈句式 | cn-crop-model |
+| [pokemonchw/dfcn](https://github.com/pokemonchw/dfcn) | 47 | Assembly |  | cn-crop-model |
 | [HiBer2007/LearnC-](https://github.com/HiBer2007/LearnC-) | 46 | C++ | 学习C/C++？这有什么难的，认真学习喵~ | cn-crop-model |
 | [lukeTheNeuromancer/agentic-ai-system-design-primer-zh](https://github.com/lukeTheNeuromancer/agentic-ai-system-design-primer-zh) | 46 |  | Agentic AI 系统设计笔记 | cn-crop-model |
 | [huachen19867/liuliang-buddy](https://github.com/huachen19867/liuliang-buddy) | 45 | Dart | 流量小伙伴：可爱安卓流量查询与桌面卡片，首次可选移动/联通/电信/广电（测试版，电信余量为官网显示值估算） | cn-crop-model |
 | [yuanrui/CodeGenerator](https://github.com/yuanrui/CodeGenerator) | 45 | C# | 一个小而美的代码生成器，基于 Mono T4 引擎，支持数据库：MySQL、PostgreSQL、SQLite、SQL Server、Oracle. CodeGenerator is a template base on generator | cn-crop-model |
+| [zkforge/dsh-claude-desktop-theme](https://github.com/zkforge/dsh-claude-desktop-theme) | 44 | TypeScript | DSH 桌面端 Claude 风格主题插件 | cn-crop-model |
 | [drscrewdriver/dsh-browser-cdp](https://github.com/drscrewdriver/dsh-browser-cdp) | 43 | TypeScript | 多环境支持DSH 浏览器插件：让 Agent 通过 CDP 接入真实 Chrome edge ego-lite browser tabbit —— 远程目标序列与激活、实时视频/截图回传、登录导入。Remote-CDP agent brow | cn-crop-model |
 | [liora-vale/ai-companion-telegram-guide](https://github.com/liora-vale/ai-companion-telegram-guide) | 43 |  | 把 AI 伴侣搬进 Telegram：MochiBot × OpenRouter × VPS 实战教程 | cn-crop-model |
 | [nu1lkali/CineIsle](https://github.com/nu1lkali/CineIsle) | 43 | Kotlin | 影屿（CineIsle) - 一个 Emby 服务器的安卓第三方客户端 | cn-crop-model |
+| [ponysb/mlimli](https://github.com/ponysb/mlimli) | 43 | JavaScript | Open-source Agent for Work Creation | cn-crop-model |
 | [kcy4334-lgtm/translate-book-arxiv](https://github.com/kcy4334-lgtm/translate-book-arxiv) | 42 | Python | Translate arXiv papers into book-quality PDFs with parallel sub-agents. Reads the LaTeX source, so equations and the pap | model-stics |
 | [kumawu/blog](https://github.com/kumawu/blog) | 42 |  | blog | cn-crop-model |
 | [recursive-ai-oss/onepdf-csharp](https://github.com/recursive-ai-oss/onepdf-csharp) | 42 | C# |  | mdl-cropbox |
+| [DerrickJc/orchestrator-tokenCoupon](https://github.com/DerrickJc/orchestrator-tokenCoupon) | 41 | TypeScript | 摆脱Token焦虑！最大化利用你订阅的大模型。基于 MCP 的跨端多 Agent 编排平台：网页模型规划审查，本地 Agent 编码执行。复用订阅额度，支持跨模型交接、并行调度与断点恢复，减少额外 API Token 开销 | cn-crop-model |
 | [ewkzcz/bili-2-ppt](https://github.com/ewkzcz/bili-2-ppt) | 40 | Python | bili-2-ppt：这是一个可以把一条 B 站视频做成 PPT 等文档的 Skill。你只需提供一条 B 站视频链接，AI 可以帮你通过 PPT 还原出视频内容和原始画面 | cn-crop-model |
 | [cyberdaddyleo/yutang](https://github.com/cyberdaddyleo/yutang) | 39 | JavaScript |  | cn-crop-model |
 | [ismoshushi/awesome-opus-video-skills](https://github.com/ismoshushi/awesome-opus-video-skills) | 39 | HTML | 一份只收 开源、可安装的视频类 Agent Skill 的精选索引——主打 Claude Opus 5.5 真正擅长的出片方式。 | cn-crop-model |
 | [XinAn-Annie/desktop-pet-windows](https://github.com/XinAn-Annie/desktop-pet-windows) | 39 | Python |  | cn-crop-model |
 | [xinhailaopo/video-watch-plus](https://github.com/xinhailaopo/video-watch-plus) | 39 | Python | 让 Agent 既看得见视频也听得见声音的 DSH 技能：声学侦察判定有无人声、ASR 幻觉证伪、三路互校，含 Windows 一键环境与上游兼容性修补。 | cn-crop-model |
+| [chaogevision/words-flashcard](https://github.com/chaogevision/words-flashcard) | 38 | Python |  | cn-crop-model |
 | [ILOVCTRY/Obsius-AI](https://github.com/ILOVCTRY/Obsius-AI) | 38 | TypeScript | AI驱动的智能体协作工具，用于逆向，渗透测试等。 | cn-crop-model |
 | [isesword/golem](https://github.com/isesword/golem) | 38 | Go | Pure-Go native-library emulation framework: load Android AArch64 .so files and call their functions directly — no JVM, n | cn-crop-model |
 | [Donald24718/OkHuman](https://github.com/Donald24718/OkHuman) | 37 | Go | One process = one agent. Go single-repo personal agent runtime with decoupled plugins. | cn-crop-model |
@@ -229,6 +250,7 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [Correia-jpv/fucking-public-apis](https://github.com/Correia-jpv/fucking-public-apis) | 24 | Python | A collective list of free APIs. With repository stars⭐ and forks🍴 | soil-carbon-crop |
 | [fywdy/chatgpt-chibi-pets](https://github.com/fywdy/chatgpt-chibi-pets) | 24 | Python | 8 unofficial chibi desktop pets for ChatGPT (Codex v2 sprite packs, 1536x2288): AI-model mascots — white dragon, whale m | cn-crop-model |
 | [NeonMedusa/Sawdust](https://github.com/NeonMedusa/Sawdust) | 24 | C | A fast, simple and tiny DAW written in Zig — no runtime required. | cn-crop-model |
+| [wang-jiahao/gulou](https://github.com/wang-jiahao/gulou) | 24 | JavaScript | 南京大学鼓楼校园：步行、骑行、滑翔，在昼夜与晴雨中探索建筑、街道和校园故事。 | cn-crop-model |
 | [xihaian251/ml-research-audit](https://github.com/xihaian251/ml-research-audit) | 24 | Python | End-to-end provenance auditing for machine-learning research: dataset → experiment → result → paper claim. | cn-crop-model |
 | [elegant01/dsh-codearts](https://github.com/elegant01/dsh-codearts) | 23 | TypeScript | dsh-plugin, 在DSH中使用华为codearts的积分，token, | cn-crop-model |
 | [JohnLiao501/ModHub](https://github.com/JohnLiao501/ModHub) | 23 | JavaScript | Degrees of Lewdity 模组管理套件 &#124; 基于 ModLoader 2.x 与 TweeReplacer | cn-crop-model |
@@ -261,6 +283,7 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [jzh-1228/wb2api](https://github.com/jzh-1228/wb2api) | 19 | Python | 把 WorkBuddy/CodeBuddy 桌面端登录态转成 OpenAI/Anthropic 兼容 API 的反代网关与多账号运营平台 | cn-crop-model |
 | [kingdream-cn/embodied-ai-weekly](https://github.com/kingdream-cn/embodied-ai-weekly) | 19 | CSS | 🤖 具身智能周刊 (Embodied AI Weekly) &#124; 追踪具身智能、人形机器人、具身大模型与行业落地前沿动态。 | cn-crop-model |
 | [merckhung/twn_election](https://github.com/merckhung/twn_election) | 19 | C++ | Taiwan Election Dashboard | cn-crop-model |
+| [miyang-ai/alice_fanart](https://github.com/miyang-ai/alice_fanart) | 19 | HTML | Alice 二创素材库与垫图规范（Alice / 洛小山） | cn-crop-model |
 | [pomelos-on-sale/pomelo-ui](https://github.com/pomelos-on-sale/pomelo-ui) | 19 |  | A Modern UI System for ESP32 Devices. | cn-crop-model |
 | [qingchencloud/low-cost-life-guide](https://github.com/qingchencloud/low-cost-life-guide) | 19 | Python | 低性价比人生指南：错误建议与高代价决策的反面案例库 | cn-crop-model |
 | [Taron0323/Huawei-Cup-Mathematical-Modeling-Skill](https://github.com/Taron0323/Huawei-Cup-Mathematical-Modeling-Skill) | 19 |  | 华为杯数学建模skill：基于2024数模之星论文的建模、验证、写作与答辩辅助。 | cn-crop-model |
@@ -322,11 +345,14 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [k-brother/lx-music-harmony](https://github.com/k-brother/lx-music-harmony) | 14 | C | 落雪鸿蒙 | cn-crop-model |
 | [lq0910/cs1.5-web](https://github.com/lq0910/cs1.5-web) | 14 | TypeScript | cs1.5复刻web版，浏览器可玩，重温经典，已打包各平台桌面端。 | cn-crop-model |
 | [marvinli001/edgeweir](https://github.com/marvinli001/edgeweir) | 14 | TypeScript | 开源自托管 CDN / WAF / 边缘调度控制面：缓存、HTTPS、OWASP CRS、CC 防护、四层转发、智能 DNS 调度，单进程单镜像，无回连无遥测。 | cn-crop-model |
+| [Nya-Angle/CDUT-Studio](https://github.com/Nya-Angle/CDUT-Studio) | 14 | TypeScript | CDUT Studio：端侧开源 AI 智能体工作台，集成 AXTree 浏览器自动化、长期记忆反思与科学计算 &#124; CDUT Studio: An open-source, local-first desktop AI agent plat | cn-crop-model |
+| [shitianyaa/FriendlySchool](https://github.com/shitianyaa/FriendlySchool) | 14 | Java | FriendlySchool — LSPosed module for ad removal and privacy protection. | cn-crop-model |
 | [tianfeng66/coze-anime-biography-workflow](https://github.com/tianfeng66/coze-anime-biography-workflow) | 14 |  | 扣子动漫人物传记视频工作流：分镜、参考图、逐镜头视频、中文旁白、字幕与拼接 | cn-crop-model |
 | [xikkcn/myemby](https://github.com/xikkcn/myemby) | 14 | TypeScript | myemby（我的EMBY）— 轻量、干净的 Emby 客户端，一套代码出 Windows / Linux / Android 手机 / Android TV / 网页端。默认浅色主题。 | cn-crop-model |
 | [xrn1997/dsh-session-delete](https://github.com/xrn1997/dsh-session-delete) | 14 | TypeScript | deepseek harness 会话回收站 | cn-crop-model |
 | [yh4922/dsh-workspace](https://github.com/yh4922/dsh-workspace) | 14 | TypeScript | A remote workspace plugin for DeepSeek Harness (DSH). It manages SSH hosts inside DSH, opens remote terminals, lets you | cn-crop-model |
 | [YiwanGo/BaiyunKeys-iOS](https://github.com/YiwanGo/BaiyunKeys-iOS) | 14 | Swift | 白云区蓝牙门禁开锁离线版-iOS | cn-crop-model |
+| [2951461586/AStudio2API](https://github.com/2951461586/AStudio2API) | 13 | Go | 将 AStudio（讯飞星辰 / Astron Studio）逆向为 OpenAI / Anthropic 兼容的 Go 网关：多协议、手机号验证码登录、账号池保活、签到权益、Docker 部署 | cn-crop-model |
 | [7788dev/viagra-skill](https://github.com/7788dev/viagra-skill) | 13 |  | ‘’让你的AI不再疲软不堪‘’ | cn-crop-model |
 | [asdnmy123/dsh-whale-sway](https://github.com/asdnmy123/dsh-whale-sway) | 13 | JavaScript | Token-rate-driven whale-tail sway for the DSH running indicator | cn-crop-model |
 | [Bailan766/codex-pojia](https://github.com/Bailan766/codex-pojia) | 13 | JavaScript | Codex 破甲层：面向 DeepSeek-V4 / V4-Flash 的三层指令注入与确定性回归验收（scorer + offline assertions + live prompt-bank） | cn-crop-model |
@@ -342,9 +368,12 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [mefist-asuka/Deepseek-standard-mode](https://github.com/mefist-asuka/Deepseek-standard-mode) | 13 |  | 基于 BongoCat 的Deepseek蓝色大肥鱼 Live2D 标准模式模型开源工程，包含全套源文件与贴图。 | cn-crop-model |
 | [redwolf2019/laya-rs](https://github.com/redwolf2019/laya-rs) | 13 | Rust | Pure Rust runtime + HTTP server for Laya System-1 models，Linux / CPU-first / multilingual / ONNX Runtime | cn-crop-model |
 | [ReefRuan/tonerelay-lightroom-mcp](https://github.com/ReefRuan/tonerelay-lightroom-mcp) | 13 | Python | Adobe Lightroom Classic MCP server for AI photo editing: previews, reference color matching, subject masks and batch cul | cn-crop-model |
+| [renyimen2026/wheelarm-lab](https://github.com/renyimen2026/wheelarm-lab) | 13 | Python |  | cn-crop-model |
 | [sdhzth/ofdrwnet](https://github.com/sdhzth/ofdrwnet) | 13 | C# | OFD (GB/T 33190-2016) read/write library for .NET — a cross-platform port of OFDRW, with OFD-H (GB/T 48666-2026) electro | cn-crop-model |
+| [Sky-lll27/DSH-chat-keeper](https://github.com/Sky-lll27/DSH-chat-keeper) | 13 | JavaScript | DSH 对话管家：跨工作区对话总表 · 正文搜索（中文子串 / 未打开的旧对话也能搜 / 定位到命中那句并读出上下文）· 按时间批量归档 · 回收站式删除（可恢复、分批、不删除正在运行的对话） | cn-crop-model |
 | [solplum/anything2video](https://github.com/solplum/anything2video) | 13 | TypeScript | 🎬 代码驱动自动化视频生成引擎：输入文本主题，全自动编排分镜、对齐旁白音轨并渲染 Remotion 动画视频。 | cn-crop-model |
 | [songth1ef/watchdogs-motion](https://github.com/songth1ef/watchdogs-motion) | 13 | TypeScript | Shot-by-shot recreation of two Watch Dogs trailers, rendered entirely in code (Canvas 2D + three.js). Fan-made study. | cn-crop-model |
+| [sunyuzheng/ask-lizheng](https://github.com/sunyuzheng/ask-lizheng) | 13 | Python |  | cn-crop-model |
 | [teddyli18000/mimo-web2api](https://github.com/teddyli18000/mimo-web2api) | 13 | Go | 把小米 MiMo AI Studio 网页端反代为 OpenAI / Anthropic 兼容 API 的本地网关。单 exe 双击即用。Turn MiMo web chat into an OpenAI/Anthropic compati | cn-crop-model |
 | [turingevo/os-pilot-ai](https://github.com/turingevo/os-pilot-ai) | 13 | Go |  | cn-crop-model |
 | [wangjohnny/mybatis-generator-ext](https://github.com/wangjohnny/mybatis-generator-ext) | 13 | Java | 一个 mybatis generator 的特殊扩展方式 | cn-crop-model |
@@ -362,7 +391,9 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [kangtsang/dsh-worktree-space](https://github.com/kangtsang/dsh-worktree-space) | 12 | JavaScript | Worktree Space：将一个可包含多个 Git 仓库的工作区任务放进独立的任务空间目录——参与的每个仓库使用同一个任务分支各开一个 worktree；空间自动注册为 DSH 工作区，会话直接在其中开工，多个任务并行推进、互不干扰。收 | cn-crop-model |
 | [lswlc33/maibms](https://github.com/lswlc33/maibms) | 12 | Kotlin | 麻衣 BMS · 蚂蚁 BMS 保护板的非官方 Android 客户端（KMP + Compose Multiplatform）：深色模式、信息清晰、界面优雅、更快更稳 | cn-crop-model |
 | [lueelu/DeepEP](https://github.com/lueelu/DeepEP) | 12 | C++ |  | cn-crop-model |
+| [lxw112190/lw.PPOCR.Vulkan](https://github.com/lxw112190/lw.PPOCR.Vulkan) | 12 | C++ | C++ 实现的 PP-OCR Vulkan GPU 推理，支持 Tiny/Small/Medium 模型、C ABI、HTTP/Web 服务及 C# WinForms 示例，无需 CUDA。C++ PP-OCR Vulkan GPU inf | cn-crop-model |
 | [lza6/Get-source-code](https://github.com/lza6/Get-source-code) | 12 | JavaScript | 一键获取目标网站的源代码信息等，方便进行逆向二次渗透开发 | cn-crop-model |
+| [Mimikkoro1/comfy-workbench-android](https://github.com/Mimikkoro1/comfy-workbench-android) | 12 | Kotlin | 非官方 ComfyUI 安卓客户端 · Unofficial Android client for ComfyUI | cn-crop-model |
 | [nevertoday/xxd-panel-250](https://github.com/nevertoday/xxd-panel-250) | 12 | Python |  | cn-crop-model |
 | [NNNNolan/Router2API](https://github.com/NNNNolan/Router2API) | 12 | C# |  | cn-crop-model |
 | [overdued/world-model-spatial-intelligence-course](https://github.com/overdued/world-model-spatial-intelligence-course) | 12 | Jupyter Notebook | World Models & Spatial Intelligence — an open course by CUHK(SZ) SAI BL&SP Group. 世界模型与空间智能开源课程. | cn-crop-model |
@@ -370,12 +401,17 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [redchenk/tsukuyomi-space-app](https://github.com/redchenk/tsukuyomi-space-app) | 12 | Dart |  | cn-crop-model |
 | [ringozzt/howtolivebetter-research](https://github.com/ringozzt/howtolivebetter-research) | 12 | HTML | eternity4719/HowToLiveBetter 开源项目调研报告与思维导图（612 条循证生活指南） | cn-crop-model |
 | [wyrt000/mi-song-gpt](https://github.com/wyrt000/mi-song-gpt) | 12 | TypeScript | 基于 songloft-plugin-miot 的定制版。执行流程：固定口令 → 语音记忆 → 搜索口令 → AI 语义判定 → 问答接管。新增问答接管（小爱答不上来时由大模型接管，可联网搜索/带上下文/分段播报）、AI 播放意图语义判定、 | cn-crop-model |
+| [zhangheqing11/PsyHOT](https://github.com/zhangheqing11/PsyHOT) | 12 | TypeScript | 每天读完心理学和精神医学的新研究，挑出值得看的几条。期刊、预印本、学会和媒体 94 个信源，模型精选与中文日报。基于 AIHOT 开源框架。 | cn-crop-model |
+| [ajietudou007/TraceDot](https://github.com/ajietudou007/TraceDot) | 11 | HTML | 迹点点 TraceDot · 集成式旅行纪念票根工作室：十种票面一站式制作收藏，行程自动绘制成中国地图，串成旅行编年史与年度报告。纯前端单文件，浏览器 / Windows / macOS 全平台 | cn-crop-model |
 | [bayuewind/Muse-desktop-pet](https://github.com/bayuewind/Muse-desktop-pet) | 11 | JavaScript | Muse桌面宠物：macOS 原生状态监控、文字与语音输入、多格式回复接收 | cn-crop-model |
+| [chai2shi-spec/BiliMusic](https://github.com/chai2shi-spec/BiliMusic) | 11 | TypeScript | BiliMusic，免登录的bilibili音乐播放器。 | cn-crop-model |
 | [Cyr1s-dev/Lynceus](https://github.com/Cyr1s-dev/Lynceus) | 11 | Rust | Evidence-chain security audit platform: Rust/Axum control plane, mission-driven branch exploration, and external worker | cn-crop-model |
 | [daguaid341-cpu/write-30-second-storyboards](https://github.com/daguaid341-cpu/write-30-second-storyboards) | 11 | JavaScript | Rui-Skills：漫剧与真人剧独立制作，默认30秒分镜；支持小说改编、大纲、人物与场景道具设定、剧本、角色资产管理，以及ANERNEQ（北极之息）真人剧光影参考与原创提示词模板。 | cn-crop-model |
 | [E1Byte/wechat-jev-android](https://github.com/E1Byte/wechat-jev-android) | 11 | Kotlin | 安卓版微信一对一聊天实时分析助手 · LSPosed 模块，调 TypeSafe Jev 决策模型分析情绪/意图/潜台词，气泡下方本地卡片显示（只读不发） | cn-crop-model |
 | [eghrhegpe/dsh-connect-sensenova-token-plan](https://github.com/eghrhegpe/dsh-connect-sensenova-token-plan) | 11 | JavaScript | &#91;DSH Plugins&#93; 商汤接入 DSH 的全家桶：查看积分额度、接入API与商汤小浣熊桌面端，429重试 | cn-crop-model |
 | [EncosTech/hunter130_collection](https://github.com/EncosTech/hunter130_collection) | 11 |  |  | cn-crop-model |
+| [KaiTeeDreamChai/xiaomi-band-dev-guide](https://github.com/KaiTeeDreamChai/xiaomi-band-dev-guide) | 11 |  | ⌚ 专为小米手环 (Xiaomi Vela OS / HyperOS) 打造的表盘与快应用开发指南、避坑手册与最佳实践 | cn-crop-model |
+| [kiven72/DaFeiYu-ZhuoChong-Alpha](https://github.com/kiven72/DaFeiYu-ZhuoChong-Alpha) | 11 | JavaScript | 基于https://github.com/Pal-AI-Lab/Coopanion和https://github.com/vladelaina/BongoCat用codex改版的离线版大肥鱼桌宠 | cn-crop-model |
 | [miyupyxh/LiftArc](https://github.com/miyupyxh/LiftArc) | 11 | Java |  | cn-crop-model |
 | [Narcissufundis/J2me-nx](https://github.com/Narcissufundis/J2me-nx) | 11 | Java | A J2ME emulator for Java games made for the Nintendo Switch, targeting Atmosphere CFW to run Java games on real‑console | cn-crop-model |
 | [netra-ai-lab/Netra-OCR](https://github.com/netra-ai-lab/Netra-OCR) | 11 | Jupyter Notebook | A Squeeze-and-Excitation Transformer Network for Khmer Optical Character Recognition | crop-model, rd-crop-modeling |
@@ -397,6 +433,7 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [EasySilicon/DigitalICDesignBenchmark](https://github.com/EasySilicon/DigitalICDesignBenchmark) | 10 | Assembly | Digital IC Design Benchmark for AI Agents. | cn-crop-model |
 | [epacces/DVB-S2-Master-Thesis](https://github.com/epacces/DVB-S2-Master-Thesis) | 10 | TeX | BCH-LDPC Concatenated Coding and High Order Modulations for Satellite Transmitters | model-stics |
 | [Foccarus3/Sts2CharForge](https://github.com/Foccarus3/Sts2CharForge) | 10 | C# | Slay the Spire 2 自定义角色生成器：图形界面配置角色 / 卡牌 / 遗物 / 药水 / 美术，构建自己的角色mods。A character mod generator for Slay the Spire 2. | cn-crop-model |
+| [FrostLeafKEE/dsh-chat-bridge](https://github.com/FrostLeafKEE/dsh-chat-bridge) | 10 | TypeScript | Switch between DeepSeek web chat and workspaces in DeepSeek Harness. Web history sidebar and one-click conversation impo | cn-crop-model |
 | [GeavenMax/GPDb](https://github.com/GeavenMax/GPDb) | 10 | HTML | GPDb： 一个男同成人影视数据库管理客户端 | cn-crop-model |
 | [grapeot/voice-lora](https://github.com/grapeot/voice-lora) | 10 | Python | Train a LoRA that rewrites AI-written Chinese into one author's voice, from the author's own writing (reverse-synthesize | cn-crop-model |
 | [guiguisocute/bad-time-mv](https://github.com/guiguisocute/bad-time-mv) | 10 | JavaScript |  | cn-crop-model |
@@ -431,7 +468,9 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [hyydmmhy/DocToPdfTool](https://github.com/hyydmmhy/DocToPdfTool) | 9 | C# | 多功能文档格式转换工具，支持 文档转 PDF、Word 转 PDF、Excel 转 PDF、Excel 转图片、PPT 转 PDF、PPT 转 Word、PPT 转图片、Word 转图片、图片转 PDF、PDF 加密、PDF 转 Word、 | mdl-cropbox |
 | [justhalfbit/dsh-plugin-jev-effort-selector](https://github.com/justhalfbit/dsh-plugin-jev-effort-selector) | 9 | JavaScript | DeepSeek Harness (DSH) 推理等级自动选择插件：由 Jev System One 模型判断每条消息值多少思考量，按模型声明的等级自动推导档位，上下文信封让「继续」这类追问继承话题深度，低置信度向上取，任何失败都静默沿用原 | cn-crop-model |
 | [lapig-ufg/pasto-legal](https://github.com/lapig-ufg/pasto-legal) | 9 | Python | Sistema multiagente especializado em assitência técnica para pecuária brasileira | soil-carbon-crop |
+| [lavamilkTeam/lmBoxForUnity](https://github.com/lavamilkTeam/lmBoxForUnity) | 9 | C# | An all-in-one platform for industrial design, simulation, and AI agents, with cloud computing support. | cn-crop-model |
 | [mdl233/ai-pairing-field-notes](https://github.com/mdl233/ai-pairing-field-notes) | 9 | JavaScript | 跟 AI 结对干活的实战笔记：Windows 中文环境 102 条真实坑（附速查表）· 零基础入门 21 节 · 协作纪律 · 把工作留下来的做法 · AI 做界面与美术 · 在国内网络里搞到模型与工具 | cn-crop-model |
+| [molly-ovo/dsh-workbuddy-oauth](https://github.com/molly-ovo/dsh-workbuddy-oauth) | 9 | TypeScript | 把 WorkBuddy 的模型接入 DeepSeek Harness：自带 OAuth 设备码登录，不依赖桌面 App，支持多账号轮转与失败冷却。 | cn-crop-model |
 | [myopencomm/Tradingbot](https://github.com/myopencomm/Tradingbot) | 9 | Python | Bot Telegram de trading pour Bourse Direct — briefing IA quotidien, alertes SL/TP, import screenshot, ordres experts. Py | mdl-expert-n |
 | [pennyzhaozhao/AI-interview-Assistant](https://github.com/pennyzhaozhao/AI-interview-Assistant) | 9 | Swift | Help people to prepare the interview | cn-crop-model |
 | [philsonxu/CiCiHaHa](https://github.com/philsonxu/CiCiHaHa) | 9 | C | Study C from beginning ,data struct,draw graph & animate,image process, network, numeric calculation, AI & LLM train... | cn-crop-model |
@@ -457,6 +496,7 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [Bdysj/kiroRelayRouter](https://github.com/Bdysj/kiroRelayRouter) | 8 | TypeScript | Bring your own models into Kiro IDE — a multi-upstream AI gateway with protocol translation, health-aware routing and cr | cn-crop-model |
 | [changexbc/agent-companion](https://github.com/changexbc/agent-companion) | 8 | Rust | 桌面悬浮会话窗：一眼看见 Codex、WorkBuddy、CodeBuddy、Codeg 的运行 / 待确认 / 完成状态，点击跳回原会话。 | cn-crop-model |
 | [chengxixian/local-music](https://github.com/chengxixian/local-music) | 8 | Kotlin | Android 本地音乐播放器 · 液态玻璃界面 · USB DAC 原生直通（自研 UAC2 驱动）· 多语言 | cn-crop-model |
+| [cjy20040604-hub/eyes-training](https://github.com/cjy20040604-hub/eyes-training) | 8 | TypeScript | Browser-based binocular vision exploration and self-tracking tool (red-cyan anaglyph, PWA). Personal wellness tool, not | cn-crop-model |
 | [cmeng-CM/Gourd](https://github.com/cmeng-CM/Gourd) | 8 | Swift | 壶中天（壶中天地）——一个小容器里装下一整个天地；屏幕顶部那个小口展开，就是你的整块工作台。 | cn-crop-model |
 | [CroissanTTs/dsh-harness-jarvis](https://github.com/CroissanTTs/dsh-harness-jarvis) | 8 | TypeScript | 贾维斯 · 常驻桌面的悬浮窗桌面助手 / 桌面宠物 —— DSH Desktop 的粒子光球：快速审批权限、⌃⌥J 快速对话。A floating-window desktop assistant & desktop pet for DSH | cn-crop-model |
 | [cz413/Dock](https://github.com/cz413/Dock) | 8 | TypeScript | 本地优先的 Windows 实验室服务器工作台：集中管理多台服务器 SSH 会话、NVIDIA GPU 监控、SFTP 和 VS Code Remote-SSH，无需部署服务端。 | cn-crop-model |
@@ -486,6 +526,9 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [Team-Quaver/quaver-astra](https://github.com/Team-Quaver/quaver-astra) | 8 | Go | A lightweight, cross-platform Quaver Music client with a native-like experience. built by MyGO | cn-crop-model |
 | [Usasi103/DialogMenu](https://github.com/Usasi103/DialogMenu) | 8 | Java | 基于 Minecraft Dialog 的菜单插件 | cn-crop-model |
 | [we1jia/emberfall](https://github.com/we1jia/emberfall) | 8 | JavaScript | 余烬地牢：钟下墓城 · 3D 动作肉鸽游戏 | cn-crop-model |
+| [WenHuaYiYang/chaos-bandpack](https://github.com/WenHuaYiYang/chaos-bandpack) | 8 | Kotlin | 小米手环 10 Pro 投递包制作台（Android）：在手机上给手环做字体与桌面图标表盘，逐字节等价于设备侧 PC 脚本。AGPL-3.0 | cn-crop-model |
+| [woson-L/dsh-em-agent](https://github.com/woson-L/dsh-em-agent) | 8 | HTML | DSH EM Agent · Antenna Design Console — driven by CST Studio Suite MCP | cn-crop-model |
+| [wsf73/short-drama-factory](https://github.com/wsf73/short-drama-factory) | 8 | Python | 抖音/红果爆款短剧工业化编剧系统 v4.4 — 纯剧本引擎（40赛道+六母型钩子+九类反转+广电16号令合规，自带 E1~E24 / S1~S8 机检脚本） | cn-crop-model |
 | [XDflight/NeteaseMusicDownloader](https://github.com/XDflight/NeteaseMusicDownloader) | 8 | Rust | 云音下载姬 · 跨平台的网易云音乐批量下载器 | cn-crop-model |
 | [YuniCaI2/CcinoGPU](https://github.com/YuniCaI2/CcinoGPU) | 8 | C++ | A High Performance GPU Lib Based on Vulkan. | cn-crop-model |
 | [1430038895/STM32F407-Modbus-RTU-TCP-gateway-FreeRTOS-LwIP-](https://github.com/1430038895/STM32F407-Modbus-RTU-TCP-gateway-FreeRTOS-LwIP-) | 7 | C | STM32F407 Modbus RTU/TCP gateway (FreeRTOS + LwIP) | cn-crop-model |
@@ -503,6 +546,7 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [GenjiYin/easytrader-ths-patch](https://github.com/GenjiYin/easytrader-ths-patch) | 7 | Python | easytrader自动化下单补丁 | cn-crop-model |
 | [heihei-momo/PathPlanning_Tracking](https://github.com/heihei-momo/PathPlanning_Tracking) | 7 | Python |  | cn-crop-model |
 | [ixiaokaikai/MiniMax-H3-Video-V100-2or4GPU-ComfyUI](https://github.com/ixiaokaikai/MiniMax-H3-Video-V100-2or4GPU-ComfyUI) | 7 | Python | 下载即用的 ComfyUI 多卡环境：用 2 张或 4 张 V100-16G 跑 MiniMax H3 视频生成（参考图/视频/音频 → 带音频的视频，RayLight 序列并行 + FSDP 权重分片） · Ready-to-use mu | cn-crop-model |
+| [J0ey2ou/ddl-manager](https://github.com/J0ey2ou/ddl-manager) | 7 | JavaScript | DDL Manager v4：Windows 待办、日历、桌面悬浮窗、本地 OCR 与跨电脑日程同步；提供内置 WebView2 的离线安装包。 | cn-crop-model |
 | [JasonYu0822/opencode2pi-desktop](https://github.com/JasonYu0822/opencode2pi-desktop) | 7 | JavaScript | A very simple tool to apply free models from OpenCode to pi-desktop; availability is not guaranteed. 一个很简单的将OpenCode中免费模 | cn-crop-model |
 | [jerrymds/Harni](https://github.com/jerrymds/Harni) | 7 | TypeScript | 純網頁版自主 Coding Agent 開發平台 (Web-based Autonomous Coding Agent IDE) | cn-crop-model |
 | [JiuJingLab/ios](https://github.com/JiuJingLab/ios) | 7 | Swift | 揪鏡 - 開源永久免費反偷拍工具 iOS App | cn-crop-model |
@@ -527,11 +571,13 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [sheriffanakaleaptdh6948-art/kaoyan-804-thermo-zhangyu-kaige](https://github.com/sheriffanakaleaptdh6948-art/kaoyan-804-thermo-zhangyu-kaige) | 7 | Python | 海大（大连海事大学）804 工程热力学历年真题 2004–2026 全本，192 页，含参考答案。另附张宇基础30讲、考研竞赛凯哥、没咋了线代、田静句句真研 等考研资料全文本化。Markdown 纯文本 + LaTeX 公式，专为 AI / | cn-crop-model |
 | [soft-clustering/soft-clustering](https://github.com/soft-clustering/soft-clustering) | 7 | Python | Soft Clustering Python Package | mdl-lingra |
 | [tabidachinokaze/music-party](https://github.com/tabidachinokaze/music-party) | 7 | TypeScript | 网易云音乐官方「多人一起听」(Listen Together) 的第三方桌面客户端：好友继续使用官方 App，桌面端加入同一官方房间，播放进度同步、推歌/切歌、待播队列、房间聊天、私信与表情。Electron + TypeScript，内置 | cn-crop-model |
+| [Tlyer233/strata-dual-3080-qwen-flash](https://github.com/Tlyer233/strata-dual-3080-qwen-flash) | 7 | Python | basic on strata, and 3080 20g×2 +64 ddr4(2888) ; run 80decode+2000prefill under 200k(k8v4)+vision+mtp | cn-crop-model |
 | [TTNAN/renqing-ledger](https://github.com/TTNAN/renqing-ledger) | 7 | TypeScript | 本地优先的中国家庭礼金账本。婚丧嫁娶、满月乔迁、节日红包，每一笔收礼和还礼都记清楚；数据只存在本机，不上传云端，人情往来只有自家人看得见。 | cn-crop-model |
 | [undacmic/langchain-pdf-inspector](https://github.com/undacmic/langchain-pdf-inspector) | 7 | Python | An integration package connecting pdf-inspector to LangChain | mdl-cropbox |
 | [WangHaomao/GeoSpider](https://github.com/WangHaomao/GeoSpider) | 7 | Roff | 项目暂时完成，日后继续完善 | cn-crop-model |
 | [xiangsir4088/muse-hub](https://github.com/xiangsir4088/muse-hub) | 7 | TypeScript | 数字博物馆 / MuseHub — 虚拟三维博物馆展厅：WebGL 第一人称漫游 + 文物鉴赏 + 多语言导览。Bilingual (zh/en) UI, Chinese-primary wall didactics, ink-wash l | cn-crop-model |
 | [xiaoshui2025/fnhk](https://github.com/xiaoshui2025/fnhk) | 7 | JavaScript |  | cn-crop-model |
+| [Xposed-Modules-Repo/io.github.sunilxsk.lockperm](https://github.com/Xposed-Modules-Repo/io.github.sunilxsk.lockperm) | 7 |  | LockPerm | cn-crop-model |
 | [ygxiuming/ninfer-bonsai-4070ti](https://github.com/ygxiuming/ninfer-bonsai-4070ti) | 7 | Shell | NInfer 引擎 + Bonsai-2-27B 三元模型 RTX 4070 Ti 12GB Linux 部署实录（含 Docker 容器化与 CI 自动打包） | cn-crop-model |
 | [YJYAWA/HarmonyFCL](https://github.com/YJYAWA/HarmonyFCL) | 7 | Java | 适配鸿蒙os next+（Harmony OS5.0.0+）的卓易通环境的FoldCraftLauncher（FCL）启动器第三方分支，集成了MobileGlues和MobileGl渲染器 | cn-crop-model |
 | [YuanyuanMa03/awesome-crop-models](https://github.com/YuanyuanMa03/awesome-crop-models) | 7 | Python | Curated, auto-refreshed list of open-source crop and agricultural process models on GitHub | agroecosystem-ghg, canopy-photosynthesis |
@@ -544,18 +590,24 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [agentthink/wms-lite](https://github.com/agentthink/wms-lite) | 6 | C# | WMS-Lite 是一个 C# + WinForm 编写的轻量级仓库物料管理系统，采用经典三层架构（UI / BLL / DAL），数据库使用 SQL Server，覆盖小型仓库物料管理的全流程。 | cn-crop-model |
 | [andyqiuqiubo/andy-harness](https://github.com/andyqiuqiubo/andy-harness) | 6 | TypeScript | 插件化 AI Agent 底座（FastAPI + Vue3）：多 Provider 模型接入与状态管理、Jev 结构化决策、插件市场一键安装、全局养成元气宠物、会话与插件一站式管理，内置一键启停脚本。 | cn-crop-model |
 | [aritosi/weread-guizang](https://github.com/aritosi/weread-guizang) | 6 | Python | 把微信读书 skills 还原成开箱即用的工具 —— 取书、搜索、笔记回顾、Anki 导出、MCP 接入 | cn-crop-model |
+| [ayst-z/music-code-mv](https://github.com/ayst-z/music-code-mv) | 6 | JavaScript | DSH plugin: render code-driven music videos (music-code-mv) — deterministic Canvas2D/Three.js shots, headless-Chrome or | cn-crop-model |
 | [Azzle05/Deepseek-Whale-Pet](https://github.com/Azzle05/Deepseek-Whale-Pet) | 6 | JavaScript | Windows 桌面 DeepSeek 余额与系统内存监控小鲸鱼，支持透明气泡、桌面横条、音效、托盘和便携版 EXE。 | cn-crop-model |
 | [baileyh8/lightmail](https://github.com/baileyh8/lightmail) | 6 | Rust | 轻邮 · A lightweight native macOS email client with unified inboxes, full-message translation and Markdown export. SwiftUI | cn-crop-model |
+| [beizheguangdexiangrikui/kuihua](https://github.com/beizheguangdexiangrikui/kuihua) | 6 | HTML | Lumen · 多模型 AI 桌面工作站 —— 一个界面接入 27 家大模型服务商，自定义系统提示一键注入、流式对话、文件附件、插件与本地工具，附桌面壁纸引擎。绿色免安装，Windows 10/11 x64。 | cn-crop-model |
 | [bzsanti/oxidize-python](https://github.com/bzsanti/oxidize-python) | 6 | Python | Python bindings for oxidize-pdf — generate, parse, split, merge & manipulate PDFs with native Rust performance. No C dep | mdl-cropbox |
 | [callme707/task_vault](https://github.com/callme707/task_vault) | 6 | Rust |  | cn-crop-model |
 | [cnlarry/EOS](https://github.com/cnlarry/EOS) | 6 | TSQL | Enterprise OS，企业操作系统，AI时代企业级管理系统的正确形态。本项目是2008年成型的闭源项目，巅峰期数百家客户同时使用，是最早一批B\S架构的企业级管理系统。由于旧系统基于IE浏览器开发，兼容性极差，因此我将它彻底重构并开源 | cn-crop-model |
 | [cocolight/fluxdown-plugin-m3u8](https://github.com/cocolight/fluxdown-plugin-m3u8) | 6 | JavaScript |  | cn-crop-model |
+| [dengjp905/EmberTCAD](https://github.com/dengjp905/EmberTCAD) | 6 | Python | Open-source AI Assistant for Sentaurus TCAD and Sentaurus Workbench | cn-crop-model |
 | [doublequiet-on/taki-ournotes-bot](https://github.com/doublequiet-on/taki-ournotes-bot) | 6 | Python | Taki：基于 NeriWST/ournotes-qq-bot 的 Our Notes 日服 QQ 查询机器人（非官方） | cn-crop-model |
 | [empty-sekai/ournotes-player](https://github.com/empty-sekai/ournotes-player) | 6 | JavaScript | Browser player for BanG Dream! Our Notes: live charts, story episodes and Live2D models (WebGL2 web components) | cn-crop-model |
 | [fjinyuan8-dot/njuptlabpass](https://github.com/fjinyuan8-dot/njuptlabpass) | 6 | Python | 南邮实验平台脚本 | cn-crop-model |
+| [flower-elf/NextTokenCenter](https://github.com/flower-elf/NextTokenCenter) | 6 | Python |  | cn-crop-model |
 | [gfgghgftgffg/task-router](https://github.com/gfgghgftgffg/task-router) | 6 | JavaScript |  | cn-crop-model |
 | [Grey1112/Ultra-Low-Barrier-ComfyUI-Workflow-Integration-App](https://github.com/Grey1112/Ultra-Low-Barrier-ComfyUI-Workflow-Integration-App) | 6 | JavaScript | 低门槛，易上手的超低门槛 ComfyUI  本地AI生图工作流集成应用，当前处于开发阶段，存在大量bug | cn-crop-model |
+| [gxrsprite/WebdavSharpServer](https://github.com/gxrsprite/WebdavSharpServer) | 6 | C# | 基于 .NET 10 的跨平台文件服务，支持 WebDAV、FTP 与 SMB，提供统一的用户权限管理和 Blazor 管理后台。默认使用纯 C# 实现、无原生库依赖的 NovaDb，也可通过 FreeSql 接入其他数据库。 | cn-crop-model |
 | [han0519/desktop-robot-companion](https://github.com/han0519/desktop-robot-companion) | 6 | C | Cardboard desktop robot on ESP32-S3: AI chat (xiaozhi), persona engine, 52 expressions, NetEase music proxy with QR logi | cn-crop-model |
+| [havoc123/A1IndexTTSMod](https://github.com/havoc123/A1IndexTTSMod) | 6 | C# | 《不问凡尘》AI NPC 本地 语音 MOD | cn-crop-model |
 | [InternRobotics/internw0-page](https://github.com/InternRobotics/internw0-page) | 6 | TypeScript |  | cn-crop-model |
 | [ItsMeRioooo/AkoAngBagyo-Lyrics.py](https://github.com/ItsMeRioooo/AkoAngBagyo-Lyrics.py) | 6 | Python | A desktop lyric-animation experience built with Python. The app plays the included audio track while lyric cards appear, | mdl-lpy |
 | [Je11yb0ne/Simple-Zombie-NX](https://github.com/Je11yb0ne/Simple-Zombie-NX) | 6 | Scala | Simple Zombie Mod For Switch GTA5 | cn-crop-model |
@@ -571,6 +623,7 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [mmdnaihuangbao/CodexDowngradedMonitor](https://github.com/mmdnaihuangbao/CodexDowngradedMonitor) | 6 | Rust | Codex降智雷达 | cn-crop-model |
 | [mufeng05/ha-york-smart-home](https://github.com/mufeng05/ha-york-smart-home) | 6 | Python | Home Assistant integration for York air conditioners via the 约克智慧家 (York Smart Home) cloud | cn-crop-model |
 | [NekoCitrus/Neko-VRC](https://github.com/NekoCitrus/Neko-VRC) | 6 | Python | VRChat OSC SPS/OGB depth controller for DG-LAB Coyote and Opossum devices. | cn-crop-model |
+| [noblespear/academic-reading-master](https://github.com/noblespear/academic-reading-master) | 6 | Python | 面向新晋研究生与科研入门本科生的论文阅读 skill：论文搜集、三视图阅读、自动批注答疑及 Markdown 周报。 | cn-crop-model |
 | [pafa/Signal-Hunter](https://github.com/pafa/Signal-Hunter) | 6 | JavaScript | 信号猎手 · Local event research and human-approved paper-trading workbench for A-share, Hong Kong and US equities. | cn-crop-model |
 | [ppxxforever/fuck-educoder](https://github.com/ppxxforever/fuck-educoder) | 6 | Python |  | cn-crop-model |
 | [QZzwj/kith-skill](https://github.com/QZzwj/kith-skill) | 6 | Python | 一个聊天人格Skill包生成工具，将QQ等来源的聊天记录蒸馏为轻量、便于上传和迁移的SKILL.md、关系记忆文件及.zip技能包。生成结果可用于支持Skill格式或类似技能包机制的工具，当前主要适配QZdesk。 | cn-crop-model |
@@ -578,12 +631,15 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [Sakurashiyo/yumesute-server](https://github.com/Sakurashiyo/yumesute-server) | 6 | C# | 一个基于c#开发的wds本地服务端(wip) | cn-crop-model |
 | [Sakuta014/xiaoshua](https://github.com/Sakuta014/xiaoshua) | 6 | Kotlin | xiaoshua app | cn-crop-model |
 | [shinku-xuan/dsh-luna-theme](https://github.com/shinku-xuan/dsh-luna-theme) | 6 | JavaScript | 借鉴 Luna-Chat 视觉语言的 **DeepSeek Harness（DSH）换肤插件**，桌面端与 Web 端通用。 | cn-crop-model |
+| [shj4588/AlphaPi-STEM-XIAOZHI](https://github.com/shj4588/AlphaPi-STEM-XIAOZHI) | 6 | HTML |  | cn-crop-model |
 | [SmartArduino/pxa-apps](https://github.com/SmartArduino/pxa-apps) | 6 | C |  | cn-crop-model |
 | [Sonnet0524/wechat-corpus-toolkit](https://github.com/Sonnet0524/wechat-corpus-toolkit) | 6 | Python | 微信语料本地分析工具链 — wechat-decrypt 完整下游扩展：提key/解密/导出/建库/27个分析脚本。语料数据全程不出本机，LLM判读层可选云端API或本地模型（可完全离线）。MIT双署名。 | cn-crop-model |
 | [Sunshinin11/GTA-2-N64-Recomp](https://github.com/Sunshinin11/GTA-2-N64-Recomp) | 6 | C++ | &#91;Finished&#93; GTA 2 port for Nintendo 64 (libdragon + gta2_re decomp). Source code only - bring your own game data. No furt | model-stics |
 | [syiism/loomproxy](https://github.com/syiism/loomproxy) | 6 | Go |  | cn-crop-model |
 | [TheM14/foo_input_joc](https://github.com/TheM14/foo_input_joc) | 6 | C++ | 基于JustOneCacophony C++内核版本修改而来的E-AC-3 JOC的Foobar播放组件 | cn-crop-model |
 | [wenbyin/YTraderHarness](https://github.com/wenbyin/YTraderHarness) | 6 | Python |  | cn-crop-model |
+| [wfsg00098/YogaITS](https://github.com/wfsg00098/YogaITS) | 6 | C# |  | cn-crop-model |
+| [WLChara/RAReplayPlugin](https://github.com/WLChara/RAReplayPlugin) | 6 | C++ | open source replay plugin for Red Alert 2 Yuri's Revenge . | cn-crop-model |
 | [woaphone/mtk-mod-tee-nogz](https://github.com/woaphone/mtk-mod-tee-nogz) | 6 | Python | on mtk devices patch tee to disable geniezone | cn-crop-model |
 | [wuhutakeoffyoo/booth-cli](https://github.com/wuhutakeoffyoo/booth-cli) | 6 | Python | Booth.pm (VRChat/同人市场) 搜索 CLI，为 AI agent 设计，零依赖 Python | cn-crop-model |
 | [WuYiLingOps/dockpilot](https://github.com/WuYiLingOps/dockpilot) | 6 | TypeScript | 面向 Linux 与 Windows 的轻量级开源 Docker 桌面管理应用。 | cn-crop-model |
@@ -594,9 +650,11 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [xiaoxi-li/ai-interview-assistant](https://github.com/xiaoxi-li/ai-interview-assistant) | 6 | Rust |  | cn-crop-model |
 | [XueRenYi0/InkTeach](https://github.com/XueRenYi0/InkTeach) | 6 | C# | Windows 课堂批注覆盖层：在 PPT / WPS / 任意软件上直接写板书。低延迟压感书写、22 种图形、白板与 PPT 联动、计时器与随机点名。A transparent classroom annotation overlay f | cn-crop-model |
 | [xw1998/mdk_agent_mcp](https://github.com/xw1998/mdk_agent_mcp) | 6 | C | 现在mdk可以直接接进AI调试了哦，多出去走走看看大好风景吧。keil uvision mcp stm32 cortex-m embedded debugger uvsock reverse-engineering | cn-crop-model |
+| [yehuzi2026/workbuddy-skills-hub](https://github.com/yehuzi2026/workbuddy-skills-hub) | 6 | Python | 75 个开箱即用的 WorkBuddy / CodeBuddy AI Agent 技能，覆盖投标标书、自媒体运营、合同法务、工程造价、本地大模型、Windows 运维等 10 大场景。中文实战库，即拷即用。 | cn-crop-model |
 | [YellFunGit/IndoorunSDKIosDemo](https://github.com/YellFunGit/IndoorunSDKIosDemo) | 6 | Objective-C | IndoorunSDK IOS端demo | cn-crop-model |
 | [yembors64632/dsh-workbuddy-connect](https://github.com/yembors64632/dsh-workbuddy-connect) | 6 | JavaScript | 把 WorkBuddy / WorkBuddy AI 桌面 App 的订阅模型接入 DeepSeek Harness（个人自用方案） | cn-crop-model |
 | [YiIimini/dsh-manju-studio](https://github.com/YiIimini/dsh-manju-studio) | 6 | JavaScript | 【停止维护更新】漫剧工作台 DSH 插件：小说→分镜→本地 H3 渲染→成片 | cn-crop-model |
+| [yizhishudaixiong/dabao](https://github.com/yizhishudaixiong/dabao) | 6 | Go | 特别适用于Python新手的一键打包工具-好看的Python转EXE工具 | cn-crop-model |
 | [Yoahoug/BeaconTower](https://github.com/Yoahoug/BeaconTower) | 6 | Go | 自托管服务器监控面板：SSH 无 Agent 采集 · RAPL 功耗计量 · 一键 WireGuard 组网 · NATFRP/ChmlFrp/Cloudflare 内网穿透托管 · v2.8 双主题前端（Toy/Classic 一键互切 | cn-crop-model |
 | [yogurt7771/ComfyUI-YogurtNodes-MinimaxH3Director](https://github.com/yogurt7771/ComfyUI-YogurtNodes-MinimaxH3Director) | 6 | Python |  | cn-crop-model |
 | [Yunmoan/thmr-app](https://github.com/Yunmoan/thmr-app) | 6 | Dart |  | cn-crop-model |
@@ -605,16 +663,20 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [zhc9968/ZufyUI](https://github.com/zhc9968/ZufyUI) | 6 | C++ | A native Win32 UI framework for C++, rendered with Direct2D. Includes a layout system, widgets, signals/slots, high-DPI | cn-crop-model |
 | [zty828/OPUS5.5-COD](https://github.com/zty828/OPUS5.5-COD) | 6 | JavaScript |  | cn-crop-model |
 | [zzt718/fzs1-decloud](https://github.com/zzt718/fzs1-decloud) | 6 | Shell | 蜂助手 S1 (MIBOX-668M2) 去云控改造 + 工具箱（IMEI改串/锁频段/锁频点/锁小区/数据面板）。含 ASR 平台（ASR1802/ASR1803）LTE 模组 AT 命令实测文档：AT*BAND band lock / | cn-crop-model |
+| [0sha0/ADOFAI-PERFECT](https://github.com/0sha0/ADOFAI-PERFECT) | 5 | C++ |  | cn-crop-model |
 | [1471155912/CISTrack](https://github.com/1471155912/CISTrack) | 5 | HTML | 星网与千帆低轨星座在轨追踪：纯前端、无服务端；可在线用，也可下载 ZIP 本地部署并定时自动更新，单文件可离线打开 &#124; Live tracker for China's CSCN & Qianfan LEO constellations: | cn-crop-model |
 | [2214331539/Yita](https://github.com/2214331539/Yita) | 5 | C# | Translate everywhere | cn-crop-model |
 | [2439810550/buddy-deck](https://github.com/2439810550/buddy-deck) | 5 | C# | 把 WorkBuddy 桌面 App 的账号变成本地 AI 网关 —— 多账号、自动签到、滑动窗口续期、四种协议，Claude Code / Codex / pi / DSH 都能接 | cn-crop-model |
+| [363540372liu-png/FPGA-image-edge-detection-system-based-on-Ti60F225](https://github.com/363540372liu-png/FPGA-image-edge-detection-system-based-on-Ti60F225) | 5 | SystemVerilog |  | cn-crop-model |
 | [3acloud/openair](https://github.com/3acloud/openair) | 5 | Python | Turn Skills into apps, making AI capabilities easier to use and manage. | cn-crop-model |
 | [54Lynnn/graphify-jev](https://github.com/54Lynnn/graphify-jev) | 5 | Python | Next-gen Codebase Knowledge Graph with TypeSafe JEV Semantic Navigation & Zero Vector DB. Accurate to the code line, 90% | cn-crop-model |
 | [a756598009-cmyk/Qwen-Image-2.1---AMD-GPU-](https://github.com/a756598009-cmyk/Qwen-Image-2.1---AMD-GPU-) | 5 |  | Qwen-Image-2.1-无审查版-AMD-GPU部署方案 | cn-crop-model |
+| [a961282799-crypto/dsh-timeband](https://github.com/a961282799-crypto/dsh-timeband) | 5 | TypeScript | DeepSeek Harness 头像旁的峰谷时段、倒计时与 24 小时时间轴插件 | cn-crop-model |
 | [abaabaaba234/shield-vehicle-resupply](https://github.com/abaabaaba234/shield-vehicle-resupply) | 5 | Lua | Helldivers 2 Lua mod: vehicles inside an FX-12 shield generator bubble are continuously repaired and resupplied. | cn-crop-model |
 | [adandd-byte/EvoHarnessAlert](https://github.com/adandd-byte/EvoHarnessAlert) | 5 | Python |  | cn-crop-model |
 | [advaetuc/Balram](https://github.com/advaetuc/Balram) | 5 | TypeScript |  | soil-carbon-crop |
 | [Altria1979/pokotype](https://github.com/Altria1979/pokotype) | 5 | TypeScript | 五十音から文章まで、日本語タイピングを練習。読み上げ・苦手な仮名の復習・AI文章生成に対応。登録不要、日本語・中文・Englishで使えます。 | cn-crop-model |
+| [Ame-Choo/dsh-study-coach](https://github.com/Ame-Choo/dsh-study-coach) | 5 | JavaScript | DSH 的学习教练插件：把一门课拆成知识地图，逐单元记掌握度、排每日任务，并给学生一个看得见进度的网页面板。 | cn-crop-model |
 | [AquaHydro/rightkit](https://github.com/AquaHydro/rightkit) | 5 | Swift | RightKit | cn-crop-model |
 | [Arcaneology/WowHandbookAddon](https://github.com/Arcaneology/WowHandbookAddon) | 5 | Lua | Free all-in-one companion addon for World of Warcraft: Forever: dungeon guide, spells by level, action bars, world map. | cn-crop-model |
 | [asdnmy123/dsh-prompt-optimizer](https://github.com/asdnmy123/dsh-prompt-optimizer) | 5 | JavaScript | 给 DSH 对话输入框加一个 ♂harden 按钮：一键把草稿锻造成硬邦邦、雷霆炫酷、肌肉集团味的提示词 —— 事实一条不丢，废话一句不留。A hard-boiled prompt rewriter for the DeepSeek Har | cn-crop-model |
@@ -625,27 +687,37 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [bedelltracietony26477-create/seedance-director-community](https://github.com/bedelltracietony26477-create/seedance-director-community) | 5 | Python | CineWeaver Director Engine — an open-source AI cinematic orchestration framework for Seedance 2.0/2.5, covering script-t | cn-crop-model |
 | [bocmiao/api](https://github.com/bocmiao/api) | 5 | JavaScript | Miao API：聚合 API 平台，一个 Key 调用 94 个常用接口，包括游戏限免、全网热榜、天气节假日、金融行情、娱乐趣味、开发工具和网络检测，附带账号、分级限流和订阅推送。零依赖 Node.js。 | cn-crop-model |
 | [BreezeKitten/LegecloPlayer_Lite](https://github.com/BreezeKitten/LegecloPlayer_Lite) | 5 | JavaScript |  | cn-crop-model |
+| [CaiCy6/med-datasets](https://github.com/CaiCy6/med-datasets) | 5 |  | 医学数据集大全（整合版）：影像/多模态/文本数据集 + 疾病大类索引 + 分割基准专题，431 条已分类补链、随机排序 | cn-crop-model |
 | [CatciSurn/AdoFalling](https://github.com/CatciSurn/AdoFalling) | 5 | C# | AdoFalling冰与火之舞转下落式音游，原作者为﻿B站的UP主@謊沐﻿ 。模组的二次开发并开源已获得原作者于评论区的同意。 | cn-crop-model |
 | [cbt12123/handmade-llm](https://github.com/cbt12123/handmade-llm) | 5 | Python | Handwrite your way from Python loops to CUDA kernels — a from-scratch LLM roadmap. 50+ runnable scripts, numpy-only star | cn-crop-model |
 | [CCB-TEAM/kards-sim](https://github.com/CCB-TEAM/kards-sim) | 5 | C# | KARDS 本地对局模拟器：把客户端蓝图的 Kismet 字节码直接转译成 C#，用于训练/评测 AI | cn-crop-model |
 | [CD-ZTHC/ai-town](https://github.com/CD-ZTHC/ai-town) | 5 | TypeScript |  | cn-crop-model |
+| [cerary/OBD-HUB-WATCH](https://github.com/cerary/OBD-HUB-WATCH) | 5 | C | OBD HUB WATCH for M5Stack StopWatch C152 V1.0 and OBDLink CX. Derived from SKYGAUGE, with round UI, G-force, data freshn | cn-crop-model |
 | [CharTyr/DSH-SubAgent-Fish](https://github.com/CharTyr/DSH-SubAgent-Fish) | 5 | JavaScript | 小鱼！现在会成为你的Deepseek Harness 子智能体...的头像！ | cn-crop-model |
 | [CoolPorridge223/EasyElevator](https://github.com/CoolPorridge223/EasyElevator) | 5 | Java |  | cn-crop-model |
 | [CY68GI/PrinterShareFixer](https://github.com/CY68GI/PrinterShareFixer) | 5 | C# | Windows 10 / Windows 11 局域网打印机共享一键修复工具（WinUI 3 + .NET 10），支持“本机有打印机/没有打印机”两种角色，含命令行工具 | cn-crop-model |
 | [drscrewdriver/dsh-csv-sidebar](https://github.com/drscrewdriver/dsh-csv-sidebar) | 5 | TypeScript | DSH web plugin: CSV/TSV/PSV structured preview in the right sidebar (dsh-better-sidebar consumer) with a four-dimension | cn-crop-model |
 | [drscrewdriver/dsh-tidy-display](https://github.com/drscrewdriver/dsh-tidy-display) | 5 | JavaScript | 整洁显示 Tidy Display — reading view + message rail for DeepSeek Harness 0.1.7, merged from dsh-better-display × dsh-tidycha | cn-crop-model |
+| [ealink1/super-link](https://github.com/ealink1/super-link) | 5 | Go | SuperLink · 数据、终端与笔记，一个原生工作台。Go + Fyne 构建，集成多数据源 SQL、SSH / SFTP 与 Markdown，支持 macOS、Windows 和 Linux。 | cn-crop-model |
 | [EncosTech/hunter130_hardware](https://github.com/EncosTech/hunter130_hardware) | 5 |  |  | cn-crop-model |
+| [erichuang777777/awesome-tw-physician-engineer](https://github.com/erichuang777777/awesome-tw-physician-engineer) | 5 | Python | A curated list of Taiwanese physician-engineers / 收錄有才華的跨界醫師工程師。（很多大神沒有公開repo本專案僅供參考。 | cn-crop-model |
+| [EricSun0218/jianghuyouling](https://github.com/EricSun0218/jianghuyouling) | 5 | C# | 江湖有灵：《太吾绘卷》AI NPC Mod，支持对话、记忆、群聊与真实游戏行动。MIT 开源。 | cn-crop-model |
 | [Estecsky/HD2-PhysBoneTool](https://github.com/Estecsky/HD2-PhysBoneTool) | 5 | Python |  | cn-crop-model |
 | [evil-melody/MdView](https://github.com/evil-melody/MdView) | 5 | HTML | markdown，office全套免费预览和编辑 | cn-crop-model |
+| [ezpzfile/ezpzfile-jtd](https://github.com/ezpzfile/ezpzfile-jtd) | 5 | Rust | 一太郎（.jtd）文書をどこでも開いて、編集して保存できるオープンソース。Rust エンジン + 1 ファイルのブラウザワープロ + 形式仕様書。Open, edit and save Ichitaro files anywhere. ジャ | cn-crop-model |
 | [FAUSTFAST/pixel-fighter](https://github.com/FAUSTFAST/pixel-fighter) | 5 | JavaScript |  | cn-crop-model |
 | [FW1201/code-animation-explainer](https://github.com/FW1201/code-animation-explainer) | 5 | Python | 用程式碼拍教學動畫的 Agent Skill：腳本分鏡、8 參數提示詞、自然配音、字級字幕對齊、渲染與出處標註｜Code-based explainer video skill for any agent platform | cn-crop-model |
 | [Gael-Edith/ai-mind-paper-collection](https://github.com/Gael-Edith/ai-mind-paper-collection) | 5 |  |  | cn-crop-model |
 | [greatluca666/florr-auto-farm](https://github.com/greatluca666/florr-auto-farm) | 5 | Python | florr.io auto pathing + farming | cn-crop-model |
 | [GuYeying/pygamest](https://github.com/GuYeying/pygamest) | 5 | Python | Pygame implementation and binding with pure Rust using RustPython as interpreter | cn-crop-model |
 | [Haa1024/SEU-Timetable](https://github.com/Haa1024/SEU-Timetable) | 5 | Kotlin | 东南大学课表 · Android 客户端（Kotlin + Compose） | cn-crop-model |
+| [he1793789145-ops/astrbot_plugin_monsterHunterRise](https://github.com/he1793789145-ops/astrbot_plugin_monsterHunterRise) | 5 | Python | 使用ai创作的可以查询怪物猎人崛起素材掉落的插件 | cn-crop-model |
+| [HeHuoDa/HeHuoDa](https://github.com/HeHuoDa/HeHuoDa) | 5 | TypeScript | 禾伙搭｜面向四川农业大学学生的校园比赛与项目组队平台，聚合比赛信息与官方通知，帮助同学发现比赛、寻找队友。基于 Vue 3、NestJS 与 PostgreSQL 构建，持续开发中 | cn-crop-model |
+| [HelloWangXiangDong/fnAlbum](https://github.com/HelloWangXiangDong/fnAlbum) | 5 | Kotlin | 飞牛 fnOS 相册的 Android TV 第三方客户端｜遥控器浏览 · 手机扫码登录 · 视频与实况照片播放 | cn-crop-model |
 | [heranhe/AntiRC](https://github.com/heranhe/AntiRC) | 5 | TypeScript | AntiRC - 在 iPhone 上掌控电脑端的 Antigravity。外网免配置秒连、原生相机扫码、支持 TestFlight 一键安装与源码自部署。 | cn-crop-model |
 | [Hey966/Codex-Usage-Widget](https://github.com/Hey966/Codex-Usage-Widget) | 5 | Kotlin |  | cn-crop-model |
 | [huaiminyetnotsleep/hodor](https://github.com/huaiminyetnotsleep/hodor) | 5 | TypeScript | 自部署于 Cloudflare（Workers + D1）的 Telegram 双向聊天机器人：用户私聊自动归入客服超级群的独立话题，一人一话题、消息不串，在话题里直接回复即送达用户私聊。管理命令丰富，内置限流防滥用，支持一键部署与多实例独 | cn-crop-model |
+| [ianhsu927/cudy-tr3600-openwrt](https://github.com/ianhsu927/cudy-tr3600-openwrt) | 5 | Python | Cudy TR3600 v1 OpenWrt with OpenClash and USB tethering | cn-crop-model |
 | [Jefflier/baowei-yangcun](https://github.com/Jefflier/baowei-yangcun) | 5 | JavaScript | 保卫羊村怀旧服：纯前端 HTML5 迷宫塔防（单机复刻，测试版） | cn-crop-model |
 | [Joeland4/awesome-ego-data](https://github.com/Joeland4/awesome-ego-data) | 5 |  | A curated, up-to-date list of open egocentric (first-person) datasets collection for  embodied AI, robotics, including | cn-crop-model |
 | [juangchuank-ops/jev2api](https://github.com/juangchuank-ops/jev2api) | 5 | Go | TypeSafe Jev (typesafe.ai) 反向代理网关：原生 /v1/systemone 透传 + OpenAI 兼容层，含号池与控制台 | cn-crop-model |
@@ -656,16 +728,21 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [KouzakiUmi/dsh-subusage](https://github.com/KouzakiUmi/dsh-subusage) | 5 | JavaScript | DeepSeek Harness 订阅用量插件：28 条提供商入口的额度、余额、重置时间与续用提示；余量药丸、统一设置页及只读 Agent API。 | cn-crop-model |
 | [Lambda-zhou/deepseekwhyteme](https://github.com/Lambda-zhou/deepseekwhyteme) | 5 |  | 为什么编程这么样呢 | cn-crop-model |
 | [lanxi-ai/flat-character-skill](https://github.com/lanxi-ai/flat-character-skill) | 5 |  | 无相绘境 · Formless Tales｜跨平台人物色块插画 Skill，支持真人照片、动漫人物与角色插画，提供场景设计和通用提示词。 | cn-crop-model |
+| [leyyoudian/i2s_es7210_sound](https://github.com/leyyoudian/i2s_es7210_sound) | 5 | C | ESP32-S3 + ES7210 四麦克风阵列：声源定位 (GCC-PHAT/SRP-PHAT) + 端侧音色识别 (Edge Impulse INT8) 开发板固件 | cn-crop-model |
 | [liangdabiao/go-game-ai](https://github.com/liangdabiao/go-game-ai) | 5 | TypeScript | 一个纯前端的单机围棋闯关游戏，从 &#91;online-go.com&#93; 的 LearningHub 教程中提取而成。 &gt; 3564 个关卡，8 个章节，从零基础到高阶战术，最后是与大模型 AI 的终极对决。 | cn-crop-model |
 | [Liliths-Legacy/DOL-PCbakery-MOD](https://github.com/Liliths-Legacy/DOL-PCbakery-MOD) | 5 | JavaScript | 一个带有肉鸽要素的模拟经营，旨给原版的种植与采集系统一个出口。 | cn-crop-model |
+| [LiStudioorg/licore](https://github.com/LiStudioorg/licore) | 5 | Go | 用 Go 编写的轻量级无守护进程容器引擎。单容器内存约 2.3 MiB，支持 Linux / Android / macOS，自研 .licore 镜像格式，不依赖 Docker / OCI。 | cn-crop-model |
+| [lorinefeng/Source2Brain](https://github.com/lorinefeng/Source2Brain) | 5 | JavaScript | 让现有 Agent 按需组合开源能力，把收藏变成有出处、用得上的知识。 | cn-crop-model |
 | [loveFirefly-26710/ImgDedup](https://github.com/loveFirefly-26710/ImgDedup) | 5 | Python | Windows 本地图片去重工具，可查找完全重复、感知近似和语义相似图片。每组由用户审阅；删除的文件会移入回收站或指定目录，并可撤销。Local Windows app for finding exact, perceptually sim | cn-crop-model |
 | [LUOaini1213/ai-engineering-interview-questions-company-wise-zh](https://github.com/LUOaini1213/ai-engineering-interview-questions-company-wise-zh) | 5 | Markdown | AI 工程面试题（按公司分类）中文翻译版 &#124; 原文: pallavi-shekhar/ai-engineering-interview-questions-company-wise (Apache-2.0) | cn-crop-model |
+| [lyangfan/research-survey](https://github.com/lyangfan/research-survey) | 5 | Python |  | cn-crop-model |
 | [MarcBolo/block-editor](https://github.com/MarcBolo/block-editor) | 5 | JavaScript | Notion 风格的 Obsidian 块编辑插件：块手柄、拖拽排序、多选、块类型转换与斜杠命令。 | cn-crop-model |
 | [michaelpersonal/anabology-escape-velocity](https://github.com/michaelpersonal/anabology-escape-velocity) | 5 |  |  | cn-crop-model |
 | [Milan-31/mushoku-life-simulator](https://github.com/Milan-31/mushoku-life-simulator) | 5 | TypeScript | 基于《无职转生》世界观的文字人生模拟器 · React + TypeScript + Electron。可二次开发，禁止商用。 | cn-crop-model |
 | [misaka-link/umi-linux](https://github.com/misaka-link/umi-linux) | 5 | Shell | Xiaomi Mi 10 (umi / SM8250) 原生 Debian 13 Linux：GPU(Vulkan 1.3)、视频硬编解、WiFi 6、USB 网卡+串口全通，不装 Android | cn-crop-model |
 | [Moer2831/ida-pro-mcp](https://github.com/Moer2831/ida-pro-mcp) | 5 | Python | 自用 | cn-crop-model |
 | [monicaffy108-alt/dexhand-inertia-toolkit](https://github.com/monicaffy108-alt/dexhand-inertia-toolkit) | 5 | Python | 灵巧手 URDF 惯性参数工具箱 — 根据实测质量批量更新 URDF 的 &lt;mass&gt; 和 &lt;inertia&gt;，支持等比缩放、左右手批量处理、自动验证。URDF mass & inertia scaling toolkit for dex | cn-crop-model |
+| [MYFSillyBa/auto-CMake](https://github.com/MYFSillyBa/auto-CMake) | 5 | C# | STM32 工程助手 / STM32 Project Helper：Windows 桌面程序与 VS Code 本地插件，支持 STM32CubeMX Keil MDK-ARM ↔ CMake 转换、ARM GCC 工具链检测安装、CMak | cn-crop-model |
 | [myYangyunfan/dsh-pack](https://github.com/myYangyunfan/dsh-pack) | 5 | JavaScript |  | cn-crop-model |
 | [naveenautomationlabs/reporting-labs-python](https://github.com/naveenautomationlabs/reporting-labs-python) | 5 | HTML |  | mdl-lpy |
 | [newbigdeng/wtpy-plus](https://github.com/newbigdeng/wtpy-plus) | 5 | Python | WonderTrader-plus 的 Python 接口与 Vue 3 工作台：监控、调度、快速回测和 Plus 回测 | cn-crop-model |
@@ -696,7 +773,10 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [TerryYu12/xy-reader](https://github.com/TerryYu12/xy-reader) | 5 | Kotlin | Android 本地漫画 / 小说阅读器：压缩包直读（ZIP/RAR/7Z/TAR），本地与远程书库（WebDAV / Google Drive）。Jetpack Compose + Room | cn-crop-model |
 | [Tuoxie423/TuoIM](https://github.com/Tuoxie423/TuoIM) | 5 | Go | 基于 Gin + WebSocket + MySQL + Redis 实现的** 单体高并发** 即时通讯（IM）系统，支持单聊、群聊、好友管理、群组管理、文件上传。 | cn-crop-model |
 | [u12138ujkigh/ComfyUI-FaceLoRACurator](https://github.com/u12138ujkigh/ComfyUI-FaceLoRACurator) | 5 | Python | Face LoRA dataset curation for ComfyUI: scan, filter, auto-caption (Florence-2/LLM), review and export training sets. 17 | cn-crop-model |
+| [uiuiiii1/stm32f407-iot-gateway](https://github.com/uiuiiii1/stm32f407-iot-gateway) | 5 | C | 基于STM32F407的多功能工业物联网网关：Modbus RTU采集 + W5500硬件协议栈MQTT上云 + LCD仪表盘（SPL标准库，里程碑A裸机全功能版） | cn-crop-model |
+| [Vae-x/Lightsaber-Musical-Score-Creation](https://github.com/Vae-x/Lightsaber-Musical-Score-Creation) | 5 | C++ | 基于 Qt5 的 Windows VR 节奏游戏曲谱制作与编辑工具，支持音频裁剪、试听和 PICO Neo 3 歌曲导入。 | cn-crop-model |
 | [VG666/mininw](https://github.com/VG666/mininw) | 5 | JavaScript | `mininw` 是一个与 nw.js 接口兼容的桌面应用运行时：它用 miniblink 当浏览器内核， 用一套自研的 C++ 宿主把"网页"和"系统能力（窗口 / 菜单 / 托盘 / 文件 / 剪贴板 / 进程…）"接起来， 并提供一个 | cn-crop-model |
+| [vichikoma/vichikoma-bench](https://github.com/vichikoma/vichikoma-bench) | 5 | JavaScript | 国产大模型多维度能力横评 | cn-crop-model |
 | [WangXiang50/standup-script-doctor](https://github.com/WangXiang50/standup-script-doctor) | 5 |  |  | cn-crop-model |
 | [wbb316/dsh-novel](https://github.com/wbb316/dsh-novel) | 5 | JavaScript | DSH 插件：小说创作台 —— 给 agent 5 个 novel_* 工具 + 一个开书向导 / 设定表单 / 关系图 / 剧情任务栏 / 一键续写流式直播的面板（宿主原生席位，入口在左侧栏） | cn-crop-model |
 | [wbb316/dsh-profile-sync](https://github.com/wbb316/dsh-profile-sync) | 5 | JavaScript | profile 间插件迁移：把网页版（web）的插件集安全牵引到桌面端（desktop）—— 算差异、预检、生成退出后执行的脚本、重启后核对 | cn-crop-model |
@@ -714,13 +794,16 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [yyar-sir/study-room-system](https://github.com/yyar-sir/study-room-system) | 5 | Java | 共享自习室预约与管理系统 · SpringBoot 3 + Vue 3 + MySQL 前后端分离 &#124; 三类角色：自习室用户 / 前台管理员 / 经营者 &#124; 选座预约 → 到店签到 → 权益计费 → 数据统计 → AI 智能问答 完整业务闭 | cn-crop-model |
 | [YYC-Cube/YYC3-AI-Family-Comic-Drama](https://github.com/YYC-Cube/YYC3-AI-Family-Comic-Drama) | 5 | Python | YYC³ AI Family·Comic Drama — 8拟人Agent×ReAct-C九步闭环驱动「小说→分镜→图像→视频→成片→运营」六阶段全链路工业化漫剧生产系统 &#124; Mac M4 + 双DGX Spark GB10 + NAS &#124; | cn-crop-model |
 | [zdacongming-glitch/statistical-innovation-assessment](https://github.com/zdacongming-glitch/statistical-innovation-assessment) | 5 | Python | 统计研究创新性评估 Codex skill：三级分类与保留一位小数的十分制评分。 | cn-crop-model |
+| [zhoushu44/DSAgent-Plugin](https://github.com/zhoushu44/DSAgent-Plugin) | 5 | JavaScript | DSH 宿主的扩展插件，提供账号连接器与技能市场，为 AI 模型注册 24 个工具（账号管理、登录风控、技能查询、平台代理对话、商品发布/采集），支持淘宝、抖音、小红书、B站、快手、拼多多等 10 个平台的自动化操作。 | cn-crop-model |
 | [ZJemYoung/jev-chat-windows-laya](https://github.com/ZJemYoung/jev-chat-windows-laya) | 5 | Python | Windows 版微信聊天副驾（上游 fork）：本地 laya 判断引擎免密钥运行 + 修复高缩放屏抓取错位 Windows fork of jev-chat: key-free local laya judge + DPI-aware | cn-crop-model |
 | [ZLHAOOO/laya-mlx-zh](https://github.com/ZLHAOOO/laya-mlx-zh) | 5 | Python | Chinese fine-tuned Laya decision model weights (MLX, Apple Silicon) — 中文微调 Laya 决策模型: 消息路由/紧急度/优先级/检索选词, 一次前向全出, ~27ms | cn-crop-model |
 | [zzy0623-lmf/rq-visionkit](https://github.com/zzy0623-lmf/rq-visionkit) | 5 | Python |  | cn-crop-model |
 | [zzycxz/FreeCodeZ](https://github.com/zzycxz/FreeCodeZ) | 5 | TypeScript | FreeCodeZ — 开源 AI 编程工作台：桌面应用（Windows/macOS/Linux）、Web 与终端 Agent。本地 API Key 直连多家大模型，内置插件商店与技能生态，支持手机远控；无遥测，业务数据不外发。基于 ZCo | cn-crop-model |
 | [zzzhen-22/slides-annotated-html](https://github.com/zzzhen-22/slides-annotated-html) | 5 | Python | 把 PDF / PPT 课件变成「左看讲解、右对原文」的单文件 HTML — 逐页对照 · 离线 KaTeX · 划词标记与笔记抽屉 | cn-crop-model |
+| [1111cs/MallAgent](https://github.com/1111cs/MallAgent) | 4 | Java | Reliable Java commerce agent with RAG, MCP tools, closed-loop execution and deterministic evaluation. | cn-crop-model |
 | [123456p-df/DDL-Manager](https://github.com/123456p-df/DDL-Manager) | 4 | Objective-C | Helps with dealing with deadlines | cn-crop-model |
 | [1763853131/ComfyUI_KeDou](https://github.com/1763853131/ComfyUI_KeDou) | 4 | Python | 把 ComfyUI 工作流变成可点击的 App：本地 HTTP 桥接（/ps/apps、/ps/media、/ps/pack）+ .kapp.json 应用打包 + 缩略图媒体加载节点。Turn ComfyUI workflows into | cn-crop-model |
+| [42tr/firefly](https://github.com/42tr/firefly) | 4 | Rust | 个人助手可以使用 codex claude，支持添加自己的模块 | cn-crop-model |
 | [997375857/e-debug-bridge](https://github.com/997375857/e-debug-bridge) | 4 | Python | 易语言调试中转 MCP：本地 E5.95 IDE 的读取、可靠修改、编译与运行观测，通过 MCP 交给 AI 调用 | cn-crop-model |
 | [AIDiscovery007/qc-reframe](https://github.com/AIDiscovery007/qc-reframe) | 4 | JavaScript | 在 Codex 内置浏览器里选图，用本机 Codex CLI 细查逆向、编排多图并直接生图。多任务并行，图片与提示词存于本机。 | cn-crop-model |
 | [AjoloteHacker/Aqua-Registro](https://github.com/AjoloteHacker/Aqua-Registro) | 4 | Kotlin |  | es-crop-model |
@@ -760,6 +843,7 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [elisezhu123/cc-ios-simulator](https://github.com/elisezhu123/cc-ios-simulator) | 4 | TypeScript |  | cn-crop-model |
 | [Ember452/annona](https://github.com/Ember452/annona) | 4 | Java | 年轮 · annona — self-hosted study tracker + AI mock-interview loop: log  what you studied, get questions and a decision pa | cn-crop-model |
 | [emo-bird/szuer-toolbox](https://github.com/emo-bird/szuer-toolbox) | 4 | TypeScript | 深大人工具箱 | cn-crop-model |
+| [encored2333/ninfer-16g-4070tisuper-qwen3.8-27b-gsq-rco](https://github.com/encored2333/ninfer-16g-4070tisuper-qwen3.8-27b-gsq-rco) | 4 | C++ | NInfer sm_89 engine (source-built) + Qwen3.8-27B GSQ-RCO on RTX 4070 Ti SUPER 16GB — 112 tok/s decode, full deployment d | cn-crop-model |
 | [Estecsky/HD2-BatchTool](https://github.com/Estecsky/HD2-BatchTool) | 4 | Python | HD2 Batch Tool for Custom Skeleton | cn-crop-model |
 | [EverettFish/squishy-skill](https://github.com/EverettFish/squishy-skill) | 4 | Python | Turn your favorite picture into a cute, plump, slow-rising 3D squishy. An open-source AI Skill with Blender + a quiet wh | cn-crop-model |
 | [feiwell/dsh-enhance-prompt](https://github.com/feiwell/dsh-enhance-prompt) | 4 | JavaScript | 在 DeepSeek-Harness 桌面版的输入栏一键把草稿改写成更清晰、更具体的提示词：日常办公 / 代码开发 / 设计创意三种收束模式，支持一键还原原文。 | cn-crop-model |
@@ -767,8 +851,10 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [fengxingxuerong/quaiwei](https://github.com/fengxingxuerong/quaiwei) | 4 | TypeScript | 趣AI味 QuAiWei —— 本地离线的「去 AI 味」工具：把 AI 写的中文改得更像人写的。纯 TypeScript 确定性引擎，默认不联网、不花钱、不泄露原文、不新增事实；可选接 LLM 深度改写与 PPL 困惑度检测。Web / | cn-crop-model |
 | [Fish-under-sea/Fish-under-sea](https://github.com/Fish-under-sea/Fish-under-sea) | 4 | JavaScript | Fish-under-sea 的 GitHub 个人主页：AI Agent / 桌面工具 / DSH 插件生态 —— 项目索引与状态总览 | cn-crop-model |
 | [flashfrogluo/second-take](https://github.com/flashfrogluo/second-take) | 4 | Python | AI reasoning QA + retake note: when an AI answer disappoints, diagnose where its chain-of-thought went wrong and produce | cn-crop-model |
+| [Flowfangfei/dsh-ui-background](https://github.com/Flowfangfei/dsh-ui-background) | 4 | Python | 让 DeepSeek Harness 桌面版界面表面透明、露出自定义背景图，并用细边框区分面板。不改 DSH 源码。 | cn-crop-model |
 | [ForJiang/image-metadata-cleaner](https://github.com/ForJiang/image-metadata-cleaner) | 4 | JavaScript | 批量清除照片 EXIF/GPS 等元数据，纯浏览器本地处理 &#124; Batch-remove EXIF/GPS metadata from photos, 100% in-browser | cn-crop-model |
 | [freezeLUO/CodeBuddy-Usage-Dashboard](https://github.com/freezeLUO/CodeBuddy-Usage-Dashboard) | 4 | TypeScript | VSCode 侧边栏插件：统计本机 CodeBuddy 与 WorkBuddy 的 Token 与积分消耗，含趋势、项目/模型分布与会话明细，两个数据源一键切换。数据全部来自本地，不联网、不上传。 | cn-crop-model |
+| [Fy1ng/Fy1Switch](https://github.com/Fy1ng/Fy1Switch) | 4 | C# |  | cn-crop-model |
 | [gadniyibigira5/AI_A2_2526951](https://github.com/gadniyibigira5/AI_A2_2526951) | 4 | Python | An evidence-grounded machine learning microservice for agricultural decision support in Musanze, Rwanda. It provides off | dd-yield-estimation |
 | [George01230123/NetDoctor](https://github.com/George01230123/NetDoctor) | 4 | C# | 一体化 Windows 系统工具：网络诊断修复、Windows 优化(151项)、垃圾清理、硬件检测 | cn-crop-model |
 | [GitHubAres/MoYu](https://github.com/GitHubAres/MoYu) | 4 | Python | 墨语 MoYu —— 本地优先的 AI 小说写作工作台：涵盖灵感孵化、大纲规划、正文写作、设定管理到作品导出的完整闭环，支持 Windows 桌面端与 Linux VPS / Docker 部署 | cn-crop-model |
@@ -787,6 +873,7 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [kar215-group/llm-chat](https://github.com/kar215-group/llm-chat) | 4 | Python | 本地 AI 工作台：llama.cpp 对话 / sd.cpp 生图生视频 / 多家云端 API / 外置 Agent 引擎（dsh）。Windows 桌面端，轻量、低依赖。 | cn-crop-model |
 | [Lancasteerr/figma_bridge_agent](https://github.com/Lancasteerr/figma_bridge_agent) | 4 | TypeScript | A local-first bridge that enables coding agents to turn Figma designs into code and create safe, reviewable design propo | cn-crop-model |
 | [lantianxiadejiyuyun/index_view](https://github.com/lantianxiadejiyuyun/index_view) | 4 | TypeScript | 一个强量化的浏览器首页+密码工具 | cn-crop-model |
+| [Leafyezi233/dsh-model-gateway](https://github.com/Leafyezi233/dsh-model-gateway) | 4 | JavaScript |  | cn-crop-model |
 | [LeavingRain/dbx-plugin-imrepo](https://github.com/LeavingRain/dbx-plugin-imrepo) | 4 | Python | A DBX plugin for Image Repostries | cn-crop-model |
 | [leeymxz/comfy-models-mapper](https://github.com/leeymxz/comfy-models-mapper) | 4 | Python | 把多个ComfyUI整合包的models目录，统一映射到一个真实的模型仓库，避免几个GB的模型被复制到每个整合包里重复占用的硬盘。 | cn-crop-model |
 | [Lenshang/SuperMidiAgent](https://github.com/Lenshang/SuperMidiAgent) | 4 | TypeScript | SuperMidiAgent AI Tools | cn-crop-model |
@@ -794,6 +881,7 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [lifuchun522/springaialibabapractice](https://github.com/lifuchun522/springaialibabapractice) | 4 | Java | Spring AI Alibaba 中文实战与数字人示例：18 掌实战代码、验收证据与运维治理 | cn-crop-model |
 | [liiilhhh02/pvz_trans](https://github.com/liiilhhh02/pvz_trans) | 4 | Python | Mac / iPhone / Linux 上原生玩《植物大战僵尸杂交版 0.30》（PvZ Hybrid）：不用 CrossOver、虚拟机或串流。免安装 DMG（Intel/Apple Silicon 通用）、Linux x86_64 直 | zh-virtual-plant |
 | [liki-0814/daylight-workbench](https://github.com/liki-0814/daylight-workbench) | 4 | JavaScript |  | cn-crop-model |
+| [LINIX099/adofai-chart-generator](https://github.com/LINIX099/adofai-chart-generator) | 4 | Python | ADOFAI 谱面生成器 · Electron 前端 + Python core(sidecar) | cn-crop-model |
 | [LinuxSuRen/local-onvif-adapter](https://github.com/LinuxSuRen/local-onvif-adapter) | 4 | Go | Expose local cameras (built-in/USB) as standard ONVIF devices. 把本地摄像头（内置/USB）暴露为标准 ONVIF 设备：Go + Vue 单二进制，内嵌 RTSP 服务器与 W | cn-crop-model |
 | [lishaohang011-max/eastern-fantasy-game-poster](https://github.com/lishaohang011-max/eastern-fantasy-game-poster) | 4 |  | 国风海报 · Codex Skill：保留原图主体，设计国风书法标题、电影感调色与游戏概念海报排版。项目标识 eastern-fantasy-game-poster。 | cn-crop-model |
 | [Liu-bit264/LiteBootLoader](https://github.com/Liu-bit264/LiteBootLoader) | 4 | C | A lite BootLoader for embedded devices | cn-crop-model |
@@ -813,6 +901,7 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [newtype-01/wow-codex](https://github.com/newtype-01/wow-codex) | 4 | JavaScript | 在魔兽世界里使用Codex：原生macOS插件与桥接，基于chelinho139/wow-ai | cn-crop-model |
 | [newxhy/ecom-hero-detail-image-pro](https://github.com/newxhy/ecom-hero-detail-image-pro) | 4 |  | 跨类目电商主图 + 详情页 AI 作图技能（千问办公 QwenWork 专用）。阶段A 出 HTML 版式稿 + 逐屏生图提示词，阶段B 用内置图像模型批量出成品。适用淘宝/天猫/京东/拼多多/亚马逊，任何品类。 | cn-crop-model |
 | [NoneadChina/Nonead-DSH-Desktop](https://github.com/NoneadChina/Nonead-DSH-Desktop) | 4 | TypeScript | Nonead-DSH-Desktop An open-source desktop client for Windows, macOS, and Linux, built on DeepSeek Harness. | cn-crop-model |
+| [Not-a-Different-Name/PVZ-online](https://github.com/Not-a-Different-Name/PVZ-online) | 4 | C++ |  | cn-crop-model |
 | [omninbs/MiauNoteBlock](https://github.com/omninbs/MiauNoteBlock) | 4 | JavaScript | A new generation NoteBlockStudio with unprecedented features and support for mobile devices. | cn-crop-model |
 | [onlyoasis/awesome-jev-cases](https://github.com/onlyoasis/awesome-jev-cases) | 4 | JavaScript | Source-linked Jev use cases, open-source projects, and official cookbooks | cn-crop-model |
 | [Paimonshen/dsh-coding-plugin](https://github.com/Paimonshen/dsh-coding-plugin) | 4 | JavaScript | 代码学习插件 — DSH 动态 Cordis 插件：悬浮窗代码编辑器/多语言执行/课程关卡评判/分析直投对话 | cn-crop-model |
@@ -823,16 +912,20 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [perillaroc/sblade-explorer](https://github.com/perillaroc/sblade-explorer) | 4 | Rust | 《剑星》存档收集度分析工具 | cn-crop-model |
 | [PhyMathia/PhyMathia](https://github.com/PhyMathia/PhyMathia) | 4 | JavaScript |  | cn-crop-model |
 | [PigeonAI-Yang/oneirloom](https://github.com/PigeonAI-Yang/oneirloom) | 4 | Python | Oneirloom / 织梦师: 23 free visual creation Agent Skills. Explore ideas, analyze references, write image prompts, and refin | cn-crop-model |
+| [printf6666/NTE-Auto-Bid](https://github.com/printf6666/NTE-Auto-Bid) | 4 | Python |  | cn-crop-model |
+| [qingzhizhu517-rgb/FileAction](https://github.com/qingzhizhu517-rgb/FileAction) | 4 | JavaScript | 西客松项目-文启，详情看仓库具体介绍 | cn-crop-model |
 | [QiuXiYueShiJiu/ClassIslandToolbox](https://github.com/QiuXiYueShiJiu/ClassIslandToolbox) | 4 | C# | ClassIsland 置顶工具条插件：幸运抽签、屏幕批注、自定义快捷方式。常驻屏幕最顶层，一个云朵圆钮点开向两边展开。 | cn-crop-model |
 | [redimocteer/voxlate](https://github.com/redimocteer/voxlate) | 4 | Python | Windows 本地视频配音工具｜英/日→中文、音色克隆、角色分组、逐句试听与重配、手动分句。Offline video dubbing with sentence-level editing. | cn-crop-model |
 | [Reimuaa/Fujian_AutoAim](https://github.com/Reimuaa/Fujian_AutoAim) | 4 | C++ | 基于同济开源的自瞄系统 | cn-crop-model |
 | [renchunyu28997855-sketch/ninfer_3060](https://github.com/renchunyu28997855-sketch/ninfer_3060) | 4 | C++ | 3060专用的qwen推理引擎 | cn-crop-model |
+| [rikkahilo/ln-helper](https://github.com/rikkahilo/ln-helper) | 4 | JavaScript | 多站轻小说抓取 / 阅读 / 翻译浏览器扩展（Chrome MV3）：抓正文与插图、EPUB/PDF 导出、内置阅读器、AI 翻译、OCR，数据存本地统一书库。 | cn-crop-model |
 | [riverzhou/rustmd](https://github.com/riverzhou/rustmd) | 4 | JavaScript | Local-first notes app for Markdown, HTML, CSV, TXT & JSON — Windows, macOS & Linux. Edit HTML and preview full pages in | cn-crop-model |
 | [RocLing26/product-studio-releases](https://github.com/RocLing26/product-studio-releases) | 4 |  | Product Studio｜AI 产品经理工作台：Agent 追问澄清灵感，生成并审阅需求文档、交互原型与设计文档；记录上线时结合产物与实际交付自动提炼知识、更新知识库，并提示知识口径冲突。 | cn-crop-model |
 | [roverstargazer1-max/xuexitong-academic-workbench](https://github.com/roverstargazer1-max/xuexitong-academic-workbench) | 4 | Python | 学习通个人学业工作台（双层用户画像 + 本地分层数据仓库 + MCP 精准扫描与 AI 辅助作答） | cn-crop-model |
 | [Rycar1/SliverReshine](https://github.com/Rycar1/SliverReshine) | 4 | Go | Sliver with WebUI and more tools | cn-crop-model |
 | [saitarslanboun/MultimodalSequential](https://github.com/saitarslanboun/MultimodalSequential) | 4 | Python |  | crop-model, rd-crop-modeling |
 | [Sata1949/kedai](https://github.com/Sata1949/kedai) | 4 | Rust | KedaiAgent — 本地运行的通用 LLM 智能体 harness（Rust 后端 + Vue 3 前端 + Tauri 桌面壳） | cn-crop-model |
+| [shenglinl79-alt/fashion-shoot-suite](https://github.com/shenglinl79-alt/fashion-shoot-suite) | 4 |  | 服装 AI 商拍 Skill 套件：给一张样衣平铺图，产出同模特、跨风格、跨画幅可交付的商拍成片。提示词不手写，全部由配方卡 + 模特电子身份证组装。 | cn-crop-model |
 | [Shoreee/AquaWindow](https://github.com/Shoreee/AquaWindow) | 4 | TypeScript |  | cn-crop-model |
 | [shuaichao171/pi-desktop](https://github.com/shuaichao171/pi-desktop) | 4 | TypeScript | Pi SDK desktop workbench for Windows | cn-crop-model |
 | [sigilante/lean-ski](https://github.com/sigilante/lean-ski) | 4 | Lean |  | mdl-psims |
@@ -845,6 +938,7 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [sundyme/event-horizon](https://github.com/sundyme/event-horizon) | 4 | HTML | 视界 EVENT HORIZON — a real-time, physically ray-traced fall into a black hole (WebGL2, single HTML file) | cn-crop-model |
 | [superhuap/genshin_7.1_dump](https://github.com/superhuap/genshin_7.1_dump) | 4 | C++ |  | cn-crop-model |
 | [SwimmingTiger/hvm-cli](https://github.com/SwimmingTiger/hvm-cli) | 4 | C++ | 通过HiShell命令行控制鸿蒙虚拟机和openeuler融合开发环境 | cn-crop-model |
+| [timeti123553/vasp-skill](https://github.com/timeti123553/vasp-skill) | 4 | Python | 一个可以帮助你使用VASP的工具。 | cn-crop-model |
 | [Tokeii0/offline-mmo-revival-skill](https://github.com/Tokeii0/offline-mmo-revival-skill) | 4 |  | mmo | cn-crop-model |
 | [tom2almighty/cpa-dashboard](https://github.com/tom2almighty/cpa-dashboard) | 4 | TypeScript |  | cn-crop-model |
 | [TopVitamin/QS-WMS-Project](https://github.com/TopVitamin/QS-WMS-Project) | 4 | TypeScript | 基于“供应链产品经理训练营”中强盛科技的背景，输出的一整套“WMS项目”的产品设计产出物，包含业务背景，需求调研，需求设计文档，产品原型Demo等…… | cn-crop-model |
@@ -853,6 +947,8 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [turtlelnc/MES-Homework](https://github.com/turtlelnc/MES-Homework) | 4 | JavaScript | 校园作业分析器：上传作业，AI 识别批改，教师复核后自动生成班级学情、知识点掌握率、错因统计与讲评课方案。所有数字由已复核数据确定性计算，AI 只负责转写成课堂语言。  Smart Campus Homework Analyzer: upl | cn-crop-model |
 | [tzdwindows/TzdDiag](https://github.com/tzdwindows/TzdDiag) | 4 | C | Hard disk monitoring and diagnostics tool | cn-crop-model |
 | [VkDream/codex-subagent-coordination](https://github.com/VkDream/codex-subagent-coordination) | 4 | JavaScript | Codex native subagent coordination and personalization | cn-crop-model |
+| [wangsalin/Awesome-Quark-Resources](https://github.com/wangsalin/Awesome-Quark-Resources) | 4 |  | 🌟 精选夸克网盘高价值资源合集 (340+ 套)，涵盖 AI 实操、电商副业、短视频新媒体、商业认知、外语学习、实用工具等，一键免费转存！ | cn-crop-model |
+| [WindDreamboat/dsh_laap](https://github.com/WindDreamboat/dsh_laap) | 4 | TypeScript | 插件-dsh意识工程最小实现 | cn-crop-model |
 | [wow121/mwi-fastsim](https://github.com/wow121/mwi-fastsim) | 4 | JavaScript |  | cn-crop-model |
 | [wyx135230/visual-archaeology](https://github.com/wyx135230/visual-archaeology) | 4 |  | 逆向获取任何你想要插图图片的提示词，让AI成为创作者本人，而不是描述者 | cn-crop-model |
 | [xiiyioozzz/opus55-3d-games](https://github.com/xiiyioozzz/opus55-3d-games) | 4 | JavaScript | 一句话提示词 · One Shot —— Claude Opus 5.5 代码生成能力实测：三个可玩的 3D 网页游戏，单会话生成，零人工改动代码 | cn-crop-model |
@@ -866,6 +962,7 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [ym2025szz/PythonA](https://github.com/ym2025szz/PythonA) | 4 | JavaScript | 面向 Android ARM64 平板的本地 Python IDE：CodeMirror、CPython、Jedi、pytest 与内置官方 DSH。 | cn-crop-model |
 | [Yokino337088/Revolution](https://github.com/Yokino337088/Revolution) | 4 | C# | Revolution——具有革命性的Unity客户端框架 | cn-crop-model |
 | [yourcplusplus/NexusAgent](https://github.com/yourcplusplus/NexusAgent) | 4 | Python | A production-ready CodeAgent with multi-agent orchestration, context engineering, and automated evaluation. | cn-crop-model |
+| [YUE546/IQOO-neo7-ghostlock-43499](https://github.com/YUE546/IQOO-neo7-ghostlock-43499) | 4 | C | 基于CVE-2026-43499（ghostlock）的 iQOO Neo7 提权移植，希望能为5.10系内核的机型提供一些参考。 | cn-crop-model |
 | [yueyueliu3518-create/workmate-public](https://github.com/yueyueliu3518-create/workmate-public) | 4 | Java |  | cn-crop-model |
 | [Yuimi-chaya/how-to-make-qqchatbot-better](https://github.com/Yuimi-chaya/how-to-make-qqchatbot-better) | 4 | Python | Make QQ chatbots better in practice: host capabilities, model behavior, persona design, and AstrBot/OneBot deployment. &#124; | cn-crop-model |
 | [yukarysat/st-moonvoice-tts](https://github.com/yukarysat/st-moonvoice-tts) | 4 | JavaScript | 月声 —— 为 Breeze TTS 2 适配的 SillyTavern 朗读插件。使用自然语言控制情感、可自设场景音效（环境音/事件音）、NPC 按标签自动分配音色。快速上手，安装即用。派生自 Thirteen-Moons 的 ST-in | cn-crop-model |
@@ -873,6 +970,7 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [zhangwenwei44/Bei-](https://github.com/zhangwenwei44/Bei-) | 4 | Swift |  | cn-crop-model |
 | [zhisandesu/yihuan-desktop-pet](https://github.com/zhisandesu/yihuan-desktop-pet) | 4 |  | 异环小精灵：安魂曲 Windows 桌面陪伴程序。个人非商业自用；下载、使用说明与问题反馈。 | cn-crop-model |
 | [zimukiv/gameProject](https://github.com/zimukiv/gameProject) | 4 | JavaScript | minigame项目 | cn-crop-model |
+| [ztkedou/moyuwang-xiuxian](https://github.com/ztkedou/moyuwang-xiuxian) | 4 | Python | 摸鱼修仙传 · 浏览器挂机文字修仙游戏（React 单页 + Node/TS 后端）— 完整可复现源码包，含前端补丁管线与 200+ 接口服务端 | cn-crop-model |
 | [0x7c00-World/PowerElectronicSkill](https://github.com/0x7c00-World/PowerElectronicSkill) | 3 | HTML | 电力电子工程师技能体系 · 14 篇自包含技术文档：电路分析 / 控制理论 / 电磁学 / 功率器件与驱动 / 磁性元件 / 小信号建模 / 环路补偿 / 数字控制 / PCB 布局 / AN-136 中译 / 热管理 / 测量 / EMC | cn-crop-model |
 | [11sta/CrushExam](https://github.com/11sta/CrushExam) | 3 | Python | CrushExam 是一个面向期末、等级、考证等考试的Skill考试神器。 | cn-crop-model |
 | [151shi23/AshenFlameFoundry](https://github.com/151shi23/AshenFlameFoundry) | 3 | Java | Minecraft world/save to OBJ exporter for Android (offline, three.js preview, GPL-3.0) | cn-crop-model |
@@ -892,119 +990,21 @@ Repositories found by discovery that nobody has classified yet. To list one, add
 | [acdpy/ai-manju](https://github.com/acdpy/ai-manju) | 3 | HTML | AI 漫剧工作台 - 本地 AI 短剧创作工具 | cn-crop-model |
 | [aforgomon41-create/sillytavern-kami-preset](https://github.com/aforgomon41-create/sillytavern-kami-preset) | 3 | JavaScript |  | cn-crop-model |
 | [AIE1903-DataCompetition-26AY/wireless-traffic-lab](https://github.com/AIE1903-DataCompetition-26AY/wireless-traffic-lab) | 3 | Python |  | cn-crop-model |
+| [aimerneige/exchange-website](https://github.com/aimerneige/exchange-website) | 3 | TypeScript |  | cn-crop-model |
 | [ainepadma/Wedontcar-Vision-Control](https://github.com/ainepadma/Wedontcar-Vision-Control) | 3 | C | 2026 Southeast University 21st Intelligent Vehicle Competition Camera Team 2026年东南大学第二十一届智能车竞赛镜头组 | cn-crop-model |
 | [AirFlavoredGum/pi-plugin-manager](https://github.com/AirFlavoredGum/pi-plugin-manager) | 3 | JavaScript |  | cn-crop-model |
 | [AkhshayArul/Heterogenous-Dynamic-Lists-Python-lists-in-C-](https://github.com/AkhshayArul/Heterogenous-Dynamic-Lists-Python-lists-in-C-) | 3 | C++ | Implementation of Python like lists allowing heterogenous data type storage in C++ . | mdl-lpy |
 | [Allenalonel/AoffeePlayer](https://github.com/Allenalonel/AoffeePlayer) | 3 | Kotlin | 现代化 Android WebDAV 音频流式播放器 (Jetpack Compose + Media3 + FFmpeg) | cn-crop-model |
+| [aman-hanspal/towards-reliable-text-based-video-search](https://github.com/aman-hanspal/towards-reliable-text-based-video-search) | 3 | Python |  | crop-model, rd-crop-modeling |
 | [ankan00V/AnnRakshak](https://github.com/ankan00V/AnnRakshak) | 3 | Python | Early detection and management of crop diseases and pest infestations | crop-phenology |
 | [Artchen520/MTexpander](https://github.com/Artchen520/MTexpander) | 3 | Java | 一款mt管理器插件提供缩写一键展开（自定义缩写库+分组+按文件类型生效）；框选批量注释（对齐缩进列，注释符跟随文件类型）；环绕包裹（自定义模板库）；顶部编辑菜单提供分组开关面板。 | cn-crop-model |
+| [Asaceoo/project-ai](https://github.com/Asaceoo/project-ai) | 3 | HTML | 面向产品与供应链开发专员的轻量级桌面工具。 | cn-crop-model |
 | [atoz03/pdf2jsonl](https://github.com/atoz03/pdf2jsonl) | 3 | Python |  | cn-crop-model |
+| [aumt/Xiaomi_XUN_Kernel](https://github.com/aumt/Xiaomi_XUN_Kernel) | 3 | Shell | 红米平板 SE (Redmi Pad SE / xun / SM6225) 自编译内核：ReSukiSU + SUSFS + Droidspaces + bpf_loop 回填，产出 AnyKernel3 卡刷包，含 ABI(CRC) 闸门 | cn-crop-model |
 | [Aurora0134/write-attractive-readme](https://github.com/Aurora0134/write-attractive-readme) | 3 | JavaScript | 写有吸引力的 README · 花叔高 star 项目 README 的骨架、语气与证据装置，实测成 26 项命中率表 + A/B/C 证据分级 + 24 项可跑校验 | cn-crop-model |
 | [AXERA-TECH/asr-llm-tts-chain](https://github.com/AXERA-TECH/asr-llm-tts-chain) | 3 | C++ | AX Audio SDK 是面向 AX8850 板端的实时会议音频处理链路。它把 ALSA 采集、WebRTC AudioProcessing（APM）、NPU 降噪、语音活动检测（TEN-VAD）、SenseVoice 语音识别和 音频归 | cn-crop-model |
+| [ayaka14732/tpu-v4-latency-numbers](https://github.com/ayaka14732/tpu-v4-latency-numbers) | 3 | Python | Measured TPU v4 latency and throughput | cn-crop-model |
 | [AZeC4/Web3-lumao](https://github.com/AZeC4/Web3-lumao) | 3 |  | Web3撸毛资料大全汇聚了全网公开空投交互资源 | cn-crop-model |
 | [baishu136/model-viewer-3d](https://github.com/baishu136/model-viewer-3d) | 3 | TypeScript | Windows 3D model viewer and converter for FBX、OBJ、STL、GLB、glTF、PLY、VRM、PMX、PMD and .MB/.MD(MAYA),.blender,.c4d,.max | cn-crop-model |
-| [BB-Kita/SXU-HPC-MCC2026-ROMS-RoSiNE](https://github.com/BB-Kita/SXU-HPC-MCC2026-ROMS-RoSiNE) | 3 | Fortran | 晋省某双一流高校登媏郎队决赛(大量AI预警) | cn-crop-model |
-| [bear40828-cmyk/Lumen-Engram](https://github.com/bear40828-cmyk/Lumen-Engram) | 3 | Python | 有据可查的长期对话记忆系统：证据溯源、防回声巩固、分层召回 | cn-crop-model |
-| [bestNan/idea-stock](https://github.com/bestNan/idea-stock) | 3 | Kotlin | idea的一个插件可以在idea里面看行情 | cn-crop-model |
-| [beybladehunter/LineDraw-iOS](https://github.com/beybladehunter/LineDraw-iOS) | 3 | Swift | 原生 iPhone LINE 抽選工具，SwiftUI Liquid Glass、手機自主 WDA 與 Mac 輔助模式。PolyForm Noncommercial 1.0.0。 | cn-crop-model |
-| [Bruce-lhq/exam-review](https://github.com/Bruce-lhq/exam-review) | 3 | HTML | 📚 An agent skill that turns a folder of course materials (slides, notes, past exams) into an interactive review guide an | cn-crop-model |
-| [Bruce848647703/kairos-research](https://github.com/Bruce848647703/kairos-research) | 3 | Python | Kairos Research — 跨仓库真实数据实验的研究结论报告集：异象图谱/ML vs 单因子/多资产/锦标赛/风险尾部/执行TCA/数据方法论，数字均可溯源。 | cn-crop-model |
-| [Bugmancer/Autocar](https://github.com/Bugmancer/Autocar) | 3 | Python |  | cn-crop-model |
-| [by-lastime/IA-GS](https://github.com/by-lastime/IA-GS) | 3 | Rust | IA'GS — Local photo-to-3D Gaussian Splatting for Apple Silicon macOS. Native masking, camera grouping and an integrated | cn-crop-model |
-| [c3h3-ci/hacs-vision](https://github.com/c3h3-ci/hacs-vision) | 3 | JavaScript | HACS Vision — Home Assistant integration for managing HACS repositories with a modern panel UI | cn-crop-model |
-| [caiqiqqq/CodeVori](https://github.com/caiqiqqq/CodeVori) | 3 | TypeScript | CodeVori 是跨平台 AI 编程工作台，集成桌面端、Web 与终端 Agent，支持多智能体协作、远程工作区和手机远程控制。 | cn-crop-model |
-| [Carrero007/AgroScan](https://github.com/Carrero007/AgroScan) | 3 | CSS |  | es-crop-model |
-| [CCnotcc016/xinyu](https://github.com/CCnotcc016/xinyu) | 3 | Java | AI 情绪日记 + 匿名树洞｜Java 17 + Spring Boot 3 + Vue3 H5 | cn-crop-model |
-| [Chentianzhuzhu/zhuzhu_copilot](https://github.com/Chentianzhuzhu/zhuzhu_copilot) | 3 | Python | zhuzhu Copilot | cn-crop-model |
-| [citie114514/pi-connect](https://github.com/citie114514/pi-connect) | 3 | JavaScript |  | cn-crop-model |
-| [cjznb/agentchat](https://github.com/cjznb/agentchat) | 3 | TypeScript | 多 Agent 聊天协作中枢：Hub（HTTP/WS/MCP）+ Web UI + OpenCode / Claude Code 适配器 | cn-crop-model |
-| [ckcyian23/proxy-for-self](https://github.com/ckcyian23/proxy-for-self) | 3 | Rust | Self-hosted API gateway with account pools, session-aware routing, a Vue admin panel, and an optional private Excel work | cn-crop-model |
-| [CloudHuman/multica-plugin-openviking-memory](https://github.com/CloudHuman/multica-plugin-openviking-memory) | 3 | JavaScript |  | cn-crop-model |
-| [CNGentole-Lee/ClassManageSystem](https://github.com/CNGentole-Lee/ClassManageSystem) | 3 | Python | 课堂抽名/小组积分助手：悬浮球双击加权随机抽学生（优先少抽，次数存stats.ini），连抽滚动揭晓；小组加减分/撤销/改组/清零；名单、历史、自启、托盘、崩溃日志、单实例。 Classroom picker & group scorer: | cn-crop-model |
-| [CodeMan-cmd/Hopeflow](https://github.com/CodeMan-cmd/Hopeflow) | 3 | Vue | Hopeflow — AI 短剧漫剧工厂：从小说原文到成片的一站式 AI 创作平台（小说→剧本→资产→分镜→视频→成片） | cn-crop-model |
-| [cyi-cc/cyi-box](https://github.com/cyi-cc/cyi-box) | 3 | Go |  | cn-crop-model |
-| [Cyllevantie/NewMathAgent](https://github.com/Cyllevantie/NewMathAgent) | 3 | Python | 经过长达17个链条，一键生成数学建模竞赛论文，无论是作为正文提交还是作为参考样板都十分优秀 | cn-crop-model |
-| [daoge96/HardwareInspector](https://github.com/daoge96/HardwareInspector) | 3 | Python | Windows 硬件检测 + 基准测试 + 压力测试 GUI 工具（PySide6），可打包单文件 exe | cn-crop-model |
-| [daxing-663/multi-agent-Agricultural-maintenance](https://github.com/daxing-663/multi-agent-Agricultural-maintenance) | 3 | Python |  | cn-crop-model |
-| [ddddxz/repoclaw](https://github.com/ddddxz/repoclaw) | 3 | TypeScript |  | cn-crop-model |
-| [ddjddjxgb-cpu/ime-icon-tool](https://github.com/ddjddjxgb-cpu/ime-icon-tool) | 3 | Python | Replace the Windows taskbar input-indicator icon for any TSF IME with a custom character | cn-crop-model |
-| [deepseek-harness-java/dsh-java-plugin-skills](https://github.com/deepseek-harness-java/dsh-java-plugin-skills) | 3 | Shell | DSH Java 技能包：一句话生成业务应用与 Java Native 插件，完成 AI 智能体对接与全链路验证。 | cn-crop-model |
-| [deepyolo9527/yolo_tool](https://github.com/deepyolo9527/yolo_tool) | 3 | Python | YOLO一站式从数据智能标注到模型一键训练、推理 | cn-crop-model |
-| [dengduanglang/kaoyan-english-2-writing-skills](https://github.com/dengduanglang/kaoyan-english-2-writing-skills) | 3 | Python | 蒸馏考研名师以及模版的考研英语二大小作文｜批改 + 优化 Skill | cn-crop-model |
-| [dian-ZD/geotowny](https://github.com/dian-ZD/geotowny) | 3 | Java | Minecraft 1.21.8 Fabric ????? - ??/??/?????? &#124; Earth geopolitics simulation for Fabric servers (WIP, AI-assisted) | cn-crop-model |
-| [DiEr-TouShou/dsh-connect-comate](https://github.com/DiEr-TouShou/dsh-connect-comate) | 3 | TypeScript | Connect the locally signed-in WPS Comate account to DeepSeek Harness as a model provider, via a secure loopback shim (re | cn-crop-model |
-| [DolomitiAugust/mid-autumn-bobing](https://github.com/DolomitiAugust/mid-autumn-bobing) | 3 | TypeScript |  | cn-crop-model |
-| [Dongdong0704/PhyQGen-ecnu](https://github.com/Dongdong0704/PhyQGen-ecnu) | 3 |  |  | cn-crop-model |
-| [dongdonglog/a-share-observer](https://github.com/dongdonglog/a-share-observer) | 3 | Python | 持续运行的 A 股市场数据与复盘看板 | cn-crop-model |
-| [dotcom888/super-harness](https://github.com/dotcom888/super-harness) | 3 | Python |  | cn-crop-model |
-| [drfai/dsh-whale-pet](https://github.com/drfai/dsh-whale-pet) | 3 | JavaScript | DeepSeek Harness 桌宠插件：内置 Coopanion 鲸鱼娘分层精灵，随模型峰谷计价自动更换女仆装发带颜色，并常驻显示时段倒计时 | cn-crop-model |
-| [DST-LSJ/MMD-to-Spine](https://github.com/DST-LSJ/MMD-to-Spine) | 3 | Python | 将MMD人物动作转换为Spine二维骨骼动画的Python工具，包含Spine测试工程。 | cn-crop-model |
-| [EConG37/feishu-web-clipper](https://github.com/EConG37/feishu-web-clipper) | 3 | JavaScript | 网页剪藏到飞书多维表格 — 浏览器剪藏扩展（Chrome MV3）：提取正文与封面图转 Markdown，三级分类，一键同步到飞书多维表格。Web clipper extension that saves pages to Feishu/L | cn-crop-model |
-| [edwardchangsu/all-agents-in-one](https://github.com/edwardchangsu/all-agents-in-one) | 3 | TypeScript | 一个软件管理多个agent cli | cn-crop-model |
-| [egoist74110/llama-web](https://github.com/egoist74110/llama-web) | 3 | TypeScript | 本地私有 LLM 控制台：llama-server 进程管理、OpenAI 兼容 API、中文管理界面（Nuxt + Bun） | cn-crop-model |
-| [Endlesswx/wetype-phrase-export](https://github.com/Endlesswx/wetype-phrase-export) | 3 | Python | 微信输入法常用语导出 | cn-crop-model |
-| [enicn/story2reel](https://github.com/enicn/story2reel) | 3 | JavaScript | 把「分镜 → 配音 → 成片 → 封面 → 发布包」整条流水线脚本化的 AI 技能包：storyboard 唯一真源，HyperFrames 引擎，edge-tts/千问双供应商，五道质量门禁。 | cn-crop-model |
-| [EpicGazel/leaflogger-py](https://github.com/EpicGazel/leaflogger-py) | 3 | Python |  | mdl-lpy |
-| [eric8bit/pi-desktop-workbuddy](https://github.com/eric8bit/pi-desktop-workbuddy) | 3 | JavaScript | 帮你在pi-desktop上面使用workbuddy的免费积分 | cn-crop-model |
-| [exciter09/sound-director](https://github.com/exciter09/sound-director) | 3 | HTML | 给视频自动配乐与音效的 Agent Skill 及 Web 配音工作台：Qwen3-VL 场景分析 + Stable Audio 3 生成 + ffmpeg 混音 | cn-crop-model |
-| [EZ1250/Live2D-AI-Desktop-Pet-Framework](https://github.com/EZ1250/Live2D-AI-Desktop-Pet-Framework) | 3 | TypeScript | An Electron Live2D desktop-pet framework: it ships with no models, credentials or machine data, so you drop a model fold | cn-crop-model |
-| [Ezisup/Arcaea-spliter](https://github.com/Ezisup/Arcaea-spliter) | 3 | Python |  | cn-crop-model |
-| [FaiHui10/YJK-Skills-Package](https://github.com/FaiHui10/YJK-Skills-Package) | 3 | Python | 用于Agent驱动盈建科（YJK）的skills，用于deepseek harness，workbuddy等Agent | cn-crop-model |
-| [Fanghj256/resume-polish](https://github.com/Fanghj256/resume-polish) | 3 | HTML | 中文单页简历 Skill：简历衣柜 → 拆解 JD → 匹配打分 → 投递前质检，含浏览器内可编辑 HTML 与导出脚本 | cn-crop-model |
-| [fengxinzi-mulan/ai_proxy](https://github.com/fengxinzi-mulan/ai_proxy) | 3 | Go |  | cn-crop-model |
-| [fgjg70/FPGA](https://github.com/fgjg70/FPGA) | 3 | Verilog |  | cn-crop-model |
-| [fioew/guoapp](https://github.com/fioew/guoapp) | 3 | Dart | HongGuoJian / ZhenGuoJian - Flutter short drama app | cn-crop-model |
-| [fish2lab/patchouli-lecture-2](https://github.com/fish2lab/patchouli-lecture-2) | 3 | JavaScript | 从 9 分到 90 分：笨蛋都能懂的学习公式 — 帕秋莉讲座系列第 2 集，讲学习的预测误差模型（Canvas 2D 剪纸风科普动画） | cn-crop-model |
-| [flufy3d/MaaLow](https://github.com/flufy3d/MaaLow) | 3 | Python | MaaLow — Teachable Low-Code Automation on MaaFramework. 基于 MaaFramework 的可教学低代码视觉自动化平台：用自然语言 + 屏幕标注教会它，再让它自己做。 | cn-crop-model |
-| [ForJiang/image-to-splat](https://github.com/ForJiang/image-to-splat) | 3 | JavaScript | 图片/视频/环绕照片 → 可旋转 3D 高斯泼溅点云，全在浏览器内完成 &#124; Turn photos, videos or orbit shots into a rotatable 3D Gaussian-splatting point cl | cn-crop-model |
-| [FrankXIAO0108/applydesk](https://github.com/FrankXIAO0108/applydesk) | 3 | TypeScript | ApplyDesk · 实习岗位发现、人工确认、投递进度与飞书同步。Local-first Vibe Coding MVP. | cn-crop-model |
-| [freedom0213/huashuiCampusTrade](https://github.com/freedom0213/huashuiCampusTrade) | 3 | Java | 基于 Spring Cloud 的校园闲置交易平台，采用微服务架构实现用户、商品、订单等核心业务，集成 Redis、RabbitMQ、OpenFeign、XXL-JOB、Sentinel 等技术。 | cn-crop-model |
-| [FudanOpenSourceClub/LeaderBoard](https://github.com/FudanOpenSourceClub/LeaderBoard) | 3 | TypeScript |  | cn-crop-model |
-| [FullLifeGames/PSDashboard](https://github.com/FullLifeGames/PSDashboard) | 3 | TypeScript | Chess-style analysis for Pokémon Showdown replays. Load a replay, scrub to any turn, read the engine's evaluation, and p | mdl-psims |
-| [fyt7943tyf/futa_gtnh](https://github.com/fyt7943tyf/futa_gtnh) | 3 | Java |  | cn-crop-model |
-| [gan-jibamao/GaodeClean](https://github.com/gan-jibamao/GaodeClean) | 3 | Objective-C | 高德地图去广告 + 界面精简 · 全版本自适应 · 纯运行时 hook，不抓网络不改 IPA · rootless / RootHide | cn-crop-model |
-| [GeovannaSCunha/CP01-maker_lab](https://github.com/GeovannaSCunha/CP01-maker_lab) | 3 | C++ |  | es-crop-model |
-| [ginkgonine/dsh-server-hub](https://github.com/ginkgonine/dsh-server-hub) | 3 | JavaScript | A persistent multi-server switcher for DeepSeek Harness Web | cn-crop-model |
-| [gnmn2233-tech/Machine-Vision](https://github.com/gnmn2233-tech/Machine-Vision) | 3 | Python |  | cn-crop-model |
-| [goldshoot0720/NewEffects](https://github.com/goldshoot0720/NewEffects) | 3 | JavaScript |  | cn-crop-model |
-| [Gongsc/Theme-Pixel](https://github.com/Gongsc/Theme-Pixel) | 3 | Vue | 极简探针的像素风格主题 | cn-crop-model |
-| [gongyanhe78-collab/TQ-Agent](https://github.com/gongyanhe78-collab/TQ-Agent) | 3 | Python | 这个是一个天气小助手，实现对气候灾害的分析与预警预报 | cn-crop-model |
-| [gpscorreia/face-liveness-python](https://github.com/gpscorreia/face-liveness-python) | 3 | Python |  | mdl-lpy |
-| [Grampusworld/Unity_Lottery](https://github.com/Grampusworld/Unity_Lottery) | 3 | C# | A self-developed 2D pixel-style scratch-off lottery game, developed by Unity. | cn-crop-model |
-| [guaidao2/vuln4all](https://github.com/guaidao2/vuln4all) | 3 | Python | 模块化的 Web 漏洞靶场：丢一个模块进去，就多一道题。教学 / CTF 培训 / 自测都能用。 · A modular web vulnerability range: drop in a module, get a new challe | cn-crop-model |
-| [guonl/guonl-mysql-web-studio](https://github.com/guonl/guonl-mysql-web-studio) | 3 | TypeScript | MySQL Web Studio是一款简单好用的mysql客户端工具 | cn-crop-model |
-| [GZF123/arx-televr](https://github.com/GZF123/arx-televr) | 3 | Python |  | cn-crop-model |
-| [H0rR1p/IceReader](https://github.com/H0rR1p/IceReader) | 3 | HTML | A Chinese-Japanese Japanese learning reader | cn-crop-model |
-| [Hachi-right/AbyssBloom](https://github.com/Hachi-right/AbyssBloom) | 3 | HTML | 2D 侧视水下探索 + 弹幕捕鱼独立游戏 · Unity 6 (URP 2D) · 奇幻生物 + 治愈风格 + 废土质感 | cn-crop-model |
-| [HantianLiu/ENSEMBLE](https://github.com/HantianLiu/ENSEMBLE) | 3 | Python | A traceable multi-model LLM workbench for literature reviews, claim verification, and collaborative rule drafting / 可追溯的 | cn-crop-model |
-| [haoccy0u/plant-batch-grouper-public](https://github.com/haoccy0u/plant-batch-grouper-public) | 3 | Python | Blender grass and herbaceous plant grouping, branch root pivots and growth axes. GPL-3.0-or-later. | cn-crop-model |
-| [he0119/dsh-session-manager](https://github.com/he0119/dsh-session-manager) | 3 | TypeScript | 迁移工作区与会话到新目录，导出 / 导入 .dshsess 会话包，用 WebDAV 在多台机器之间同步。 | cn-crop-model |
-| [heimao-1314/turn-based-game](https://github.com/heimao-1314/turn-based-game) | 3 | JavaScript | 口袋精灵 Dome &#124; Pure AI-made turn-based browser game demo. Experimental; see README and disclaimer. | cn-crop-model |
-| [hequan2017/new-ops](https://github.com/hequan2017/new-ops) | 3 | Go | 白泽（BaiZe） 是一个插件化的统一运维开发平台：把 CMDB 资产、WebSSH 终端、批量作业、发布流水线、Docker/K8s 容器管理、监控告警、工单、数据库审核、AI 运维等 20+ 个运维域的能力收敛到一个底座、一套权限、一份 | cn-crop-model |
-| [HexTech-91/Loppu-client](https://github.com/HexTech-91/Loppu-client) | 3 | Java | Minecraft 1.21.1 Fabric 客户端源码 &#124; 228 模块 · NanoVG 渲染 · Mixin 注入 &#124; 已移除窃取账号令牌的后门类 | cn-crop-model |
-| [hi-shp/skyrai](https://github.com/hi-shp/skyrai) | 3 | HTML |  | soil-carbon-crop |
-| [honeydev-404/Learn_Python_Programming](https://github.com/honeydev-404/Learn_Python_Programming) | 3 | Python | Documenting my journey in Python, programming fundamentals, and hands-on coding projects. | mdl-lpy |
-| [Hong-agent/K100LC-RT4](https://github.com/Hong-agent/K100LC-RT4) | 3 | C++ | 海光 K100 LC（gfx926）上从零自研的 Qwen3.8-27B 推理运行时：RT4 权重格式、int4 算子、MTP3 投机解码、本地视觉塔与 OpenAI 兼容服务 | cn-crop-model |
-| [hquip/dopamine3-roothide-experimental](https://github.com/hquip/dopamine3-roothide-experimental) | 3 | C | Experimental RootHide port on Dopamine 3.0.10. Source integration and CI; device compatibility is unverified. | cn-crop-model |
-| [hrk666666/Senren-Banka-MiBand-10](https://github.com/hrk666666/Senren-Banka-MiBand-10) | 3 | JavaScript | 千恋＊万花（SAGA PLANETS）小米手环移植版 —— 内容 qlwh-mibandported × 引擎 Sanoba-Witch-MiBand-10（Vela OS 快应用，JS） | cn-crop-model |
-| [hubehero/VinaStudio](https://github.com/hubehero/VinaStudio) | 3 | Python | Desktop workbench for AutoDock Vina: molecular preparation, binding-site setup, docking jobs and reproducible result rev | cn-crop-model |
-| [HybridRCG/sprinkler-dash-card](https://github.com/HybridRCG/sprinkler-dash-card) | 3 | JavaScript | Smart irrigation card for Home Assistant — in the Home Assistant Marketplace, two schedules, per-zone timers, rain and t | proc-irrigation-scheduling |
-| [ibarryyan/technical-evangelist-skill](https://github.com/ibarryyan/technical-evangelist-skill) | 3 |  | You know , for Technology Evangelist! | cn-crop-model |
-| [ice-wocker/frontier-knowledge-base](https://github.com/ice-wocker/frontier-knowledge-base) | 3 | Python | 前沿科技知识库：覆盖 AI、硬件半导体、软件工程、数据工程、网络安全、基础科学、新兴科技、产业与社会，163 篇专题文档，全部基于公开网络资料并逐条附来源链接 | cn-crop-model |
-| [igorodriguesd/rockysoul-react](https://github.com/igorodriguesd/rockysoul-react) | 3 | TypeScript |  | es-crop-model |
-| [imprprpr/vpsentinel](https://github.com/imprprpr/vpsentinel) | 3 | Python |  | cn-crop-model |
-| [iStarFire/Shanghai-XueQuFang](https://github.com/iStarFire/Shanghai-XueQuFang) | 3 | Python | 上海购买学区房相关数据 | cn-crop-model |
-| [J-5271/synology-nas-cli1](https://github.com/J-5271/synology-nas-cli1) | 3 | Python | 群晖 Synology NAS（DSM）管理技能包：SSH/官方 CLI、Web API、FileStation、NFS、性能诊断、系统升级、批量整理、硬盘兼容性。默认只读，改配置需确认。 | cn-crop-model |
-| [jackwangfeng/keel](https://github.com/jackwangfeng/keel) | 3 | Go | 开源多租户电商系统：门店电子围栏、同城配送、AI 员工（MCP）、内置分布式事务，Go + PostgreSQL + Flutter。Open-source multi-tenant e-commerce with geofenced st | cn-crop-model |
-| [JasonYANG170/tspi-AIBox](https://github.com/JasonYANG170/tspi-AIBox) | 3 | Python | 泰山派 RK3566 离线语音助手固件：RKNPU 语音识别、本地 Qwen3 对话、OLED 与按键控制，CI 构建 Armbian 镜像。 &#124; Offline voice assistant firmware for TaishanPi | cn-crop-model |
-| [Jasurbek16/Learn-Python-IUT](https://github.com/Jasurbek16/Learn-Python-IUT) | 3 | Python | Repo for students of Introduction to IT (IUT course, Fall-2026) | mdl-lpy |
-| [joeseesun/qiaomu-dsh-dev](https://github.com/joeseesun/qiaomu-dsh-dev) | 3 | Python | Develop, debug, review, test, install and release persistent DeepSeek Harness (DSH) Cordis plugins and bundles. Use for | cn-crop-model |
-| [john-walks-slow/dsh-live2d-voice](https://github.com/john-walks-slow/dsh-live2d-voice) | 3 | JavaScript | Live2D companion for DeepSeek Harness (DSH): realtime TTS voice, continuous speech input, subtitle translation, multi-mo | cn-crop-model |
-| [Johnly1986/AmberFlow](https://github.com/Johnly1986/AmberFlow) | 3 | TypeScript | 冻结计划的自动化中间件（TypeScript / Node ≥ 22.6）：LLM 只规划一次，执行由本地规则与决策模型逐步完成，演示一次后既可端侧执行。 | cn-crop-model |
-| [josnil/pvz-hybrid-mod-skills](https://github.com/josnil/pvz-hybrid-mod-skills) | 3 | Python | WorkBuddy Agent Skills for Plants vs. Zombies Hybrid Edition (Godot 4 + C#) modding: .pmod format encyclopedia + end-to- | cn-crop-model |
-| [JustinEric777/Agents-Research](https://github.com/JustinEric777/Agents-Research) | 3 | SCSS |  | cn-crop-model |
-| [k1711019707-alt/civilfem-agent](https://github.com/k1711019707-alt/civilfem-agent) | 3 | Python | 基于 Python 的钢结构分析工具，支持构件参数检查、Gmsh 网格生成、OpenSeesPy/CalculiX 求解和计算报告输出。 | cn-crop-model |
-| [ka114n/NAI-Studio](https://github.com/ka114n/NAI-Studio) | 3 | Kotlin | Kotlin / Compose image generation, editing, infinite canvas and comic storyboard app for Windows and Android. | cn-crop-model |
-| [kaiccck/linzhi](https://github.com/kaiccck/linzhi) | 3 | TypeScript | 走得到：基于百度地图开放能力的 15 分钟生活圈智能体检与规划助手 | cn-crop-model |
 
-The 30966 remaining candidates, with fewer stars, are in `catalog/repositories.json`.
+The 32810 remaining candidates, with fewer stars, are in `catalog/repositories.json`.

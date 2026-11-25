@@ -361,7 +361,7 @@ Continued from [page 2](data-driven-2.md). See the [contents](data-driven.md#con
 - [moralesmaya/Predicting-Crop-Yields](https://github.com/moralesmaya/Predicting-Crop-Yields) - This code is part of a larger project which is working to predict future food scarcity by country based on differing climate mitigation conditions. `no licence`
 - [MosesKKhoza/Crop-Yield-Estimate](https://github.com/MosesKKhoza/Crop-Yield-Estimate) - Crop yield prediction. `AGPL-3.0`
 - [MOSESMUGAYAMASHENGU/Agricultural-Yield-Prediction-Regression](https://github.com/MOSESMUGAYAMASHENGU/Agricultural-Yield-Prediction-Regression) - Advanced regression analysis predicting crop yields using ensemble methods & feature engineering - 97% accuracy. `MIT`
-- [mosetf/CropAiBackend](https://github.com/mosetf/CropAiBackend) - Crop yield prediction with machine learning. `no licence`
+- [mosetf/CropAiBackend](https://github.com/mosetf/CropAiBackend) - Crop yield prediction with machine learning. `no licence` `not found or inaccessible`
 - [Mosin1425/Crop-Yield-Prediction-Using-IOT](https://github.com/Mosin1425/Crop-Yield-Prediction-Using-IOT) - Crop yield prediction. `no licence`
 - [mostafashazly7/crop-yield-prediction-ml](https://github.com/mostafashazly7/crop-yield-prediction-ml) - Machine Learning pipeline for predicting crop yield using climate, pesticide usage, and agricultural data with regression models and cross-validation. `MIT`
 - [Moukuh/crop-predictor-hackathon](https://github.com/Moukuh/crop-predictor-hackathon) - Robust yield prediction of various farm processing units. `no licence`

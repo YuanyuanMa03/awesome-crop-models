@@ -952,6 +952,7 @@ Continued from [page 3](data-driven-3.md). See the [contents](data-driven.md#con
 - [varnitsharma00/Crop-Yield-Prediction-Agricultural-Productivity-Forecasting-System](https://github.com/varnitsharma00/Crop-Yield-Prediction-Agricultural-Productivity-Forecasting-System) - AI-powered agricultural productivity forecasting system for predicting crop yield using machine learning and data analysis. `★ 2` `MIT`
 - [DhruvSood05/Yield-Sense-Minor-Project](https://github.com/DhruvSood05/Yield-Sense-Minor-Project) - AI-powered crop yield prediction and agricultural decision-support platform. Combines ML-based yield prediction, weather intelligence, rule-based agronomic advisories, scenario optimization… `★ 1` `no licence`
 - [Elango-2005/Crop-Yield-Prediction-Web-Application](https://github.com/Elango-2005/Crop-Yield-Prediction-Web-Application) - Crop Yield Prediction is an AI-powered web application that predicts agricultural crop yield using a Random Forest machine learning model. Built with React, TypeScript, Flask, and Scikit-learn, it… `★ 1` `no licence`
+- [hstu-cplab/agrosense-twin](https://github.com/hstu-cplab/agrosense-twin) - Crop yield prediction. `★ 1` `no licence`
 - [Josephcoder123/ai-crop-yield-prediction-project](https://github.com/Josephcoder123/ai-crop-yield-prediction-project) - Crop yield prediction with machine learning. `★ 1` `no licence`
 - [masteronin99/MiniProject](https://github.com/masteronin99/MiniProject) - An angular application hosted with flask - Crop Yield Prediction. `★ 1` `no licence`
 - [nikhil-rf/Smart-Farmer-Platform](https://github.com/nikhil-rf/Smart-Farmer-Platform) - Crop yield prediction with machine learning. `★ 1` `no licence`
@@ -1029,7 +1030,6 @@ Continued from [page 3](data-driven-3.md). See the [contents](data-driven.md#con
 - [himanpatidar/cropYieldPrediction](https://github.com/himanpatidar/cropYieldPrediction) - Crop yield prediction. `no licence`
 - [HimanshuMali701/FarmSevak-WebPortal](https://github.com/HimanshuMali701/FarmSevak-WebPortal) - Smart agriculture platform providing AI-driven crop yield prediction, weather intelligence, and personalized farming recommendations. `no licence`
 - [hpruthvi29-pixel/Crop](https://github.com/hpruthvi29-pixel/Crop) - Crop yield prediction with machine learning. `no licence`
-- [hstu-cplab/agrosense-twin](https://github.com/hstu-cplab/agrosense-twin) - Crop yield prediction. `no licence`
 - [itzmeahammed/Smart-farming](https://github.com/itzmeahammed/Smart-farming) - Crop yield prediction with machine learning. `no licence`
 - [jaytruth/crop-yield-predictor](https://github.com/jaytruth/crop-yield-predictor) - Crop yield prediction. `GPL-3.0`
 - [jengGod/Crop-Yield-Forecastingv1](https://github.com/jengGod/Crop-Yield-Forecastingv1) - Crop yield prediction. `no licence`
