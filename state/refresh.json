@@ -1,16 +1,16 @@
 {
   "last_owner_scan": {
     "cycle": 11,
-    "new_repositories": 98,
-    "observed_at": "2026-11-25T12:51:20Z",
+    "new_repositories": 124,
+    "observed_at": "2026-11-26T12:29:25Z",
     "pages": 10,
-    "remaining_accounts_or_pages": 14
+    "remaining_accounts_or_pages": 5
   },
   "last_refresh": {
     "checked_repositories": 40,
-    "known_identities": 48055,
+    "known_identities": 49899,
     "new_repositories": 0,
-    "observed_at": "2026-11-25T12:51:20Z",
+    "observed_at": "2026-11-26T12:29:25Z",
     "seed_count": 15291
   },
   "owner_cycle": 11,
@@ -151,56 +151,6 @@
   "owner_queue": [
     {
       "kind": "org",
-      "login": "VirtualPlantLab",
-      "page": 1
-    },
-    {
-      "kind": "org",
-      "login": "AgriculturalModelExchangeInitiative",
-      "page": 1
-    },
-    {
-      "kind": "org",
-      "login": "SticsRPacks",
-      "page": 1
-    },
-    {
-      "kind": "org",
-      "login": "gicait",
-      "page": 1
-    },
-    {
-      "kind": "user",
-      "login": "hectornieto",
-      "page": 1
-    },
-    {
-      "kind": "org",
-      "login": "Open-ET",
-      "page": 1
-    },
-    {
-      "kind": "org",
-      "login": "WSWUP",
-      "page": 1
-    },
-    {
-      "kind": "org",
-      "login": "cropmodels",
-      "page": 1
-    },
-    {
-      "kind": "org",
-      "login": "YASSOmodel",
-      "page": 1
-    },
-    {
-      "kind": "org",
-      "login": "AgMIP",
-      "page": 1
-    },
-    {
-      "kind": "org",
       "login": "Crop2ML-Catalog",
       "page": 1
     },
@@ -217,6 +167,11 @@
     {
       "kind": "org",
       "login": "zalf-rpm",
+      "page": 2
+    },
+    {
+      "kind": "org",
+      "login": "AgMIP",
       "page": 2
     }
   ],
@@ -437,6 +392,10 @@
       "checked_at": "2026-11-22T11:21:01Z",
       "outcome": "public_metadata_checked"
     },
+    "Ali-jalili/failstack": {
+      "checked_at": "2026-11-26T12:29:25Z",
+      "outcome": "public_metadata_checked"
+    },
     "Alimah12/SmartAgric-system": {
       "checked_at": "2026-11-21T10:58:38Z",
       "outcome": "public_metadata_checked"
@@ -445,8 +404,16 @@
       "checked_at": "2026-11-21T10:58:38Z",
       "outcome": "public_metadata_checked"
     },
+    "AlimohamedV/atarra": {
+      "checked_at": "2026-11-26T12:29:25Z",
+      "outcome": "not_found_or_inaccessible"
+    },
     "Allcor/API": {
       "checked_at": "2026-10-31T09:36:59Z",
+      "outcome": "public_metadata_checked"
+    },
+    "Amarizs/Amarizs": {
+      "checked_at": "2026-11-26T12:29:25Z",
       "outcome": "public_metadata_checked"
     },
     "AndrewGordienko/fieldlens-carbon-robotics": {
@@ -520,6 +487,10 @@
     "Aswins10/Agricultural-Crop-Yield-in-Indian-States-Dataset": {
       "checked_at": "2026-11-21T10:58:38Z",
       "outcome": "public_metadata_checked"
+    },
+    "AunCly/agriculture-recommandations": {
+      "checked_at": "2026-11-26T12:29:25Z",
+      "outcome": "not_found_or_inaccessible"
     },
     "AvdhootC/CropAdvisor": {
       "checked_at": "2026-11-24T13:40:07Z",
@@ -656,6 +627,10 @@
     "ColtonProvias/awesome-python": {
       "checked_at": "2026-10-24T08:06:24Z",
       "outcome": "public_metadata_checked"
+    },
+    "ComesBernacheaJeremias/SGI-Agro": {
+      "checked_at": "2026-11-26T12:29:25Z",
+      "outcome": "not_found_or_inaccessible"
     },
     "ConfidenceYF/Stochastic-Modelling-of-Crop-Yields-for-Decision-Planning-in-Ghana-s-Agricultural-Sector": {
       "checked_at": "2026-11-20T11:36:13Z",
@@ -835,6 +810,10 @@
     },
     "EYcab/open-science-resources": {
       "checked_at": "2026-10-31T09:36:59Z",
+      "outcome": "public_metadata_checked"
+    },
+    "EasyExchange/EE-server": {
+      "checked_at": "2026-11-26T12:29:25Z",
       "outcome": "public_metadata_checked"
     },
     "EbrahemHassan132/linear-regression-crop-yield-analysis": {
@@ -1097,6 +1076,10 @@
       "checked_at": "2026-10-29T09:56:28Z",
       "outcome": "public_metadata_checked"
     },
+    "HenryLGL/-Henry-L-Py103-": {
+      "checked_at": "2026-11-26T12:29:25Z",
+      "outcome": "public_metadata_checked"
+    },
     "HeroBarry/AndroidNote": {
       "checked_at": "2026-11-18T11:39:20Z",
       "outcome": "public_metadata_checked"
@@ -1197,6 +1180,10 @@
       "checked_at": "2026-11-11T10:54:57Z",
       "outcome": "public_metadata_checked"
     },
+    "JbDev-tech/agrimeteo": {
+      "checked_at": "2026-11-26T12:29:25Z",
+      "outcome": "public_metadata_checked"
+    },
     "Jiang2019Code/WOFOST_crop_parameters": {
       "checked_at": "2026-11-04T10:53:17Z",
       "outcome": "public_metadata_checked"
@@ -1271,6 +1258,10 @@
     },
     "Kennylovetheworld/EndtoEndCroppingSystem": {
       "checked_at": "2026-11-05T10:52:57Z",
+      "outcome": "public_metadata_checked"
+    },
+    "KevinLTT/MCPT": {
+      "checked_at": "2026-11-26T12:29:25Z",
       "outcome": "public_metadata_checked"
     },
     "Keziah-Kinuthia/Crop-Yield-Analysis-Using-AgEvidence-Dataset": {
@@ -1349,6 +1340,14 @@
       "checked_at": "2026-11-15T10:50:34Z",
       "outcome": "public_metadata_checked"
     },
+    "Lemuel-Blignaut/pa-data-cleaning-yield-prediction-response-analysis": {
+      "checked_at": "2026-11-26T12:29:25Z",
+      "outcome": "not_found_or_inaccessible"
+    },
+    "LeoguoEx/awesome-python-cn": {
+      "checked_at": "2026-11-26T12:29:25Z",
+      "outcome": "public_metadata_checked"
+    },
     "Leopold7303/FS17_seasons": {
       "checked_at": "2026-10-30T09:59:02Z",
       "outcome": "public_metadata_checked"
@@ -1399,6 +1398,10 @@
     },
     "Luyikeka/open-sustainable-technology": {
       "checked_at": "2026-11-10T11:09:04Z",
+      "outcome": "public_metadata_checked"
+    },
+    "Lxnrd0/agrovision": {
+      "checked_at": "2026-11-26T12:29:25Z",
       "outcome": "public_metadata_checked"
     },
     "MADLUKA09/voxelcraft": {
@@ -1675,6 +1678,10 @@
     },
     "OImperador1/Farms": {
       "checked_at": "2026-11-05T10:52:57Z",
+      "outcome": "public_metadata_checked"
+    },
+    "OceanBelongsToMe/review": {
+      "checked_at": "2026-11-26T12:29:25Z",
       "outcome": "public_metadata_checked"
     },
     "OleksiiYurchuk/awesome-python": {
@@ -2053,6 +2060,10 @@
       "checked_at": "2026-11-05T10:52:57Z",
       "outcome": "public_metadata_checked"
     },
+    "SpyHello/datadigest-agri-example": {
+      "checked_at": "2026-11-26T12:29:25Z",
+      "outcome": "public_metadata_checked"
+    },
     "SravyaSree22/Crop_Yield_Analysis-": {
       "checked_at": "2026-11-23T12:34:35Z",
       "outcome": "public_metadata_checked"
@@ -2401,6 +2412,10 @@
       "checked_at": "2026-11-25T12:51:20Z",
       "outcome": "not_found_or_inaccessible"
     },
+    "YobieBenjamin/hardware-and-silicon": {
+      "checked_at": "2026-11-26T12:29:25Z",
+      "outcome": "public_metadata_checked"
+    },
     "YodaheTG/crop_yield_and_NDVI": {
       "checked_at": "2026-11-15T10:50:34Z",
       "outcome": "public_metadata_checked"
@@ -2463,6 +2478,10 @@
     },
     "abdollahzakeri/Growth": {
       "checked_at": "2026-11-11T10:54:57Z",
+      "outcome": "public_metadata_checked"
+    },
+    "abenahun/tianrenhuanjing": {
+      "checked_at": "2026-11-26T12:29:25Z",
       "outcome": "public_metadata_checked"
     },
     "abhedwig-cell/pcse": {
@@ -2589,6 +2608,10 @@
       "checked_at": "2026-10-25T08:23:33Z",
       "outcome": "public_metadata_checked"
     },
+    "allen-hsu/phaser-tank": {
+      "checked_at": "2026-11-26T12:29:25Z",
+      "outcome": "public_metadata_checked"
+    },
     "allfed/nw-crop-yield-change": {
       "checked_at": "2026-11-21T10:58:38Z",
       "outcome": "public_metadata_checked"
@@ -2697,12 +2720,20 @@
       "checked_at": "2026-10-22T10:39:16Z",
       "outcome": "public_metadata_checked"
     },
+    "armandosolisvillegas-max/rain_detector": {
+      "checked_at": "2026-11-26T12:29:25Z",
+      "outcome": "public_metadata_checked"
+    },
     "arocha1/pecan": {
       "checked_at": "2026-10-29T09:56:28Z",
       "outcome": "public_metadata_checked"
     },
     "artem-wrighteng94d5/Bongo-Cat-Ultimate-Assistant": {
       "checked_at": "2026-11-09T11:28:26Z",
+      "outcome": "public_metadata_checked"
+    },
+    "as20aa/fourier_transform": {
+      "checked_at": "2026-11-26T12:29:25Z",
       "outcome": "public_metadata_checked"
     },
     "ashay21/Crop-Yield-Production": {
@@ -2729,12 +2760,20 @@
       "checked_at": "2026-10-23T07:22:54Z",
       "outcome": "public_metadata_checked"
     },
+    "aymenkssi/Encyclopedie_agriculture": {
+      "checked_at": "2026-11-26T12:29:25Z",
+      "outcome": "not_found_or_inaccessible"
+    },
     "aythepallyln/Optimizing-Agricultural-Production": {
       "checked_at": "2026-11-16T11:13:56Z",
       "outcome": "public_metadata_checked"
     },
     "azeizat/pecan": {
       "checked_at": "2026-10-22T19:59:05Z",
+      "outcome": "public_metadata_checked"
+    },
+    "babywade/HuaWeiCodeCraft2018": {
+      "checked_at": "2026-11-26T12:29:25Z",
       "outcome": "public_metadata_checked"
     },
     "baibaibai66/movie": {
@@ -2801,6 +2840,10 @@
       "checked_at": "2026-11-02T11:02:19Z",
       "outcome": "public_metadata_checked"
     },
+    "binfed/python-sec": {
+      "checked_at": "2026-11-26T12:29:25Z",
+      "outcome": "public_metadata_checked"
+    },
     "biocro/biocro": {
       "checked_at": "2026-10-22T10:39:16Z",
       "outcome": "public_metadata_checked"
@@ -2859,6 +2902,10 @@
     },
     "c5sire/API": {
       "checked_at": "2026-10-31T09:36:59Z",
+      "outcome": "public_metadata_checked"
+    },
+    "caixindong/New-Guy-In-CV": {
+      "checked_at": "2026-11-26T12:29:25Z",
       "outcome": "public_metadata_checked"
     },
     "calculatorgeek/awesome-minecraft": {
@@ -3019,6 +3066,10 @@
     },
     "dahabdev/jitimage": {
       "checked_at": "2026-10-23T07:22:54Z",
+      "outcome": "public_metadata_checked"
+    },
+    "dailai/Agriculture_KnowledgeGraph": {
+      "checked_at": "2026-11-26T12:29:25Z",
       "outcome": "public_metadata_checked"
     },
     "dajiaohuang/awesome-minecraft": {
@@ -3297,6 +3348,10 @@
       "checked_at": "2026-10-29T09:56:28Z",
       "outcome": "public_metadata_checked"
     },
+    "fcg/ppt": {
+      "checked_at": "2026-11-26T12:29:25Z",
+      "outcome": "public_metadata_checked"
+    },
     "feliksik/ggcmi": {
       "checked_at": "2026-10-26T08:53:10Z",
       "outcome": "public_metadata_checked"
@@ -3457,6 +3512,14 @@
       "checked_at": "2026-11-25T12:51:20Z",
       "outcome": "public_metadata_checked"
     },
+    "gmzhou333/-": {
+      "checked_at": "2026-11-26T12:29:25Z",
+      "outcome": "public_metadata_checked"
+    },
+    "gnz-b/interviewNotice": {
+      "checked_at": "2026-11-26T12:29:25Z",
+      "outcome": "public_metadata_checked"
+    },
     "gokul-y116/SMART-AGROTHON": {
       "checked_at": "2026-11-23T12:34:35Z",
       "outcome": "public_metadata_checked"
@@ -3588,6 +3651,10 @@
     "herman-berghuijs/pcse_notebooks": {
       "checked_at": "2026-11-10T11:09:04Z",
       "outcome": "public_metadata_checked"
+    },
+    "hernan1015/hn-agro-aportes-sur": {
+      "checked_at": "2026-11-26T12:29:25Z",
+      "outcome": "not_found_or_inaccessible"
     },
     "heyuting/pecan": {
       "checked_at": "2026-10-25T08:23:33Z",
@@ -3751,6 +3818,10 @@
     },
     "j-alberto/API": {
       "checked_at": "2026-10-30T09:59:02Z",
+      "outcome": "public_metadata_checked"
+    },
+    "j168/j688": {
+      "checked_at": "2026-11-26T12:29:25Z",
       "outcome": "public_metadata_checked"
     },
     "jacket12356/UI-problems": {
@@ -4141,6 +4212,10 @@
       "checked_at": "2026-10-23T07:22:54Z",
       "outcome": "public_metadata_checked"
     },
+    "leewz/lisp.py": {
+      "checked_at": "2026-11-26T12:29:25Z",
+      "outcome": "public_metadata_checked"
+    },
     "leidebut/awesome-python": {
       "checked_at": "2026-10-23T07:22:54Z",
       "outcome": "public_metadata_checked"
@@ -4325,8 +4400,16 @@
       "checked_at": "2026-11-22T11:21:01Z",
       "outcome": "public_metadata_checked"
     },
+    "makkaraayush/quad-commutation-testbed": {
+      "checked_at": "2026-11-26T12:29:25Z",
+      "outcome": "public_metadata_checked"
+    },
     "manandaraj/awesome-python": {
       "checked_at": "2026-10-23T07:22:54Z",
+      "outcome": "public_metadata_checked"
+    },
+    "mania0915/quick4j": {
+      "checked_at": "2026-11-26T12:29:25Z",
       "outcome": "public_metadata_checked"
     },
     "manishaachary13/crop_yield_predictoin_ML": {
@@ -4393,6 +4476,10 @@
       "checked_at": "2026-10-26T08:53:10Z",
       "outcome": "public_metadata_checked"
     },
+    "maxime2476/Atlas": {
+      "checked_at": "2026-11-26T12:29:25Z",
+      "outcome": "not_found_or_inaccessible"
+    },
     "maximilianfeix/awesome-minecraft": {
       "checked_at": "2026-11-10T11:09:04Z",
       "outcome": "public_metadata_checked"
@@ -4437,6 +4524,10 @@
       "checked_at": "2026-11-02T11:02:19Z",
       "outcome": "public_metadata_checked"
     },
+    "mengmengmiao/Datafountain2017-": {
+      "checked_at": "2026-11-26T12:29:25Z",
+      "outcome": "public_metadata_checked"
+    },
     "mereman/FS17_seasons": {
       "checked_at": "2026-10-30T09:59:02Z",
       "outcome": "public_metadata_checked"
@@ -4456,6 +4547,10 @@
     "miruthu01/IBM-Project-22508-1659853443": {
       "checked_at": "2026-11-15T10:50:34Z",
       "outcome": "public_metadata_checked"
+    },
+    "mixiotes12/Control_enfermedades_equipo_07": {
+      "checked_at": "2026-11-26T12:29:25Z",
+      "outcome": "not_found_or_inaccessible"
     },
     "mjwang1010/pecan": {
       "checked_at": "2026-10-28T09:38:19Z",
@@ -4572,6 +4667,10 @@
     "nadeeem98/Crop-Yield": {
       "checked_at": "2026-11-16T11:13:56Z",
       "outcome": "public_metadata_checked"
+    },
+    "naim-hamidi-data/prediction-rendement-ble-31": {
+      "checked_at": "2026-11-26T12:29:25Z",
+      "outcome": "not_found_or_inaccessible"
     },
     "nani-2004/Crop-Yield-Predition-and-Fertilizer-Recommedation": {
       "checked_at": "2026-11-24T13:40:07Z",
@@ -5265,6 +5364,10 @@
       "checked_at": "2026-10-24T08:06:24Z",
       "outcome": "public_metadata_checked"
     },
+    "scuzza91/sistema-agrario": {
+      "checked_at": "2026-11-26T12:29:25Z",
+      "outcome": "public_metadata_checked"
+    },
     "seekyiyi/Virtual-Machine": {
       "checked_at": "2026-11-18T11:39:20Z",
       "outcome": "public_metadata_checked"
@@ -5356,6 +5459,10 @@
     "simanto604newscred/awesome-python": {
       "checked_at": "2026-10-26T08:53:10Z",
       "outcome": "public_metadata_checked"
+    },
+    "sjk-wt/jkaiwt": {
+      "checked_at": "2026-11-26T12:29:25Z",
+      "outcome": "not_found_or_inaccessible"
     },
     "skeletonsec/scientific-agents": {
       "checked_at": "2026-11-07T10:04:25Z",
@@ -5945,6 +6052,10 @@
       "checked_at": "2026-11-09T11:28:26Z",
       "outcome": "public_metadata_checked"
     },
+    "zezhix/distributed-crawler": {
+      "checked_at": "2026-11-26T12:29:25Z",
+      "outcome": "public_metadata_checked"
+    },
     "zhangshu0/UI-problem": {
       "checked_at": "2026-11-19T11:37:17Z",
       "outcome": "public_metadata_checked"
@@ -5963,6 +6074,10 @@
     },
     "zhengyima/easydeepnude": {
       "checked_at": "2026-11-04T10:53:17Z",
+      "outcome": "public_metadata_checked"
+    },
+    "zhonghehuangpu/ForIOS": {
+      "checked_at": "2026-11-26T12:29:25Z",
       "outcome": "public_metadata_checked"
     },
     "zhongwangwei/NEC_CropYield": {

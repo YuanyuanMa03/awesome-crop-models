@@ -1,13 +1,13 @@
 {
   "all_github_coverage_verified": false,
-  "attempted_at": "2026-11-25T12:51:20Z",
+  "attempted_at": "2026-11-26T12:29:25Z",
   "coverage_gaps": {
-    "historical": 326,
+    "historical": 332,
     "recent": 63
   },
-  "finished_at": "2026-11-25T12:58:13Z",
+  "finished_at": "2026-11-26T12:36:57Z",
   "historical_search": {
-    "completed_windows": 654,
+    "completed_windows": 663,
     "coverage_gaps": [
       {
         "cycle": 3,
@@ -2914,6 +2914,64 @@
         "query_id": "mdl-lpy",
         "reason": "duplicate_items_across_pages",
         "start": "2016-08-05T14:27:03Z"
+      },
+      {
+        "cycle": 3,
+        "end": "2026-05-06T17:31:17Z",
+        "page": 5,
+        "previous_total": 580,
+        "query_id": "dd-crop-yield-prediction",
+        "reason": "result_count_changed",
+        "reported_total": 579,
+        "start": "2026-03-11T04:54:05Z"
+      },
+      {
+        "cycle": 3,
+        "end": "2026-10-23T07:22:54Z",
+        "page": 8,
+        "previous_total": 996,
+        "query_id": "rd-crop-modelling",
+        "reason": "result_count_changed",
+        "reported_total": 998,
+        "start": "2026-08-27T18:45:43Z"
+      },
+      {
+        "cycle": 3,
+        "end": "2026-10-23T07:22:54Z",
+        "page": 8,
+        "previous_total": 997,
+        "query_id": "rd-crop-modeling",
+        "reason": "result_count_changed",
+        "reported_total": 999,
+        "start": "2026-08-27T18:45:43Z"
+      },
+      {
+        "cycle": 3,
+        "end": "2018-02-21T20:39:08Z",
+        "page": 6,
+        "previous_total": 937,
+        "query_id": "cn-crop-model",
+        "reason": "result_count_changed",
+        "reported_total": 936,
+        "start": "2017-10-31T19:24:44Z"
+      },
+      {
+        "count": 1,
+        "cycle": 3,
+        "end": "2026-10-23T07:22:54Z",
+        "page": 10,
+        "query_id": "rd-crop-modelling",
+        "reason": "duplicate_items_across_pages",
+        "start": "2026-08-27T18:45:43Z"
+      },
+      {
+        "count": 1,
+        "cycle": 3,
+        "end": "2026-10-23T07:22:54Z",
+        "page": 10,
+        "query_id": "rd-crop-modeling",
+        "reason": "duplicate_items_across_pages",
+        "start": "2026-08-27T18:45:43Z"
       }
     ],
     "coverage_note": "Completion means this query plan was traversed. GitHub search is mutable, may omit repositories, and does not prove coverage of all GitHub.",
@@ -2921,32 +2979,32 @@
     "cycle_end": "2026-10-23T07:22:54Z",
     "cycle_start": "2007-01-01T00:00:00Z",
     "cycle_started_at": "2026-10-23T07:22:54Z",
-    "discovered_repositories": 4025,
-    "observed_at": "2026-11-25T12:51:20Z",
+    "discovered_repositories": 4372,
+    "observed_at": "2026-11-26T12:29:25Z",
     "plan_completed": false,
-    "remaining_jobs": 19,
+    "remaining_jobs": 18,
     "requests": 60,
     "status": "partial",
-    "unresolved_gap_count": 326
+    "unresolved_gap_count": 332
   },
-  "last_healthy_at": "2026-11-25T12:51:20Z",
+  "last_healthy_at": "2026-11-26T12:29:25Z",
   "last_historical_pass_at": null,
   "maintainer_accounts": {
     "cycle": 11,
-    "new_repositories": 98,
-    "observed_at": "2026-11-25T12:51:20Z",
+    "new_repositories": 124,
+    "observed_at": "2026-11-26T12:29:25Z",
     "pages": 10,
-    "remaining_accounts_or_pages": 14
+    "remaining_accounts_or_pages": 5
   },
-  "new_repository_identities": 1844,
+  "new_repository_identities": 1677,
   "owner_listing_gaps": 0,
   "pending_search_jobs": {
-    "historical": 19,
-    "recent": 3
+    "historical": 18,
+    "recent": 4
   },
-  "previous_healthy_at": "2026-11-24T13:40:07Z",
+  "previous_healthy_at": "2026-11-25T12:51:20Z",
   "recent_search": {
-    "completed_windows": 554,
+    "completed_windows": 556,
     "coverage_gaps": [
       {
         "cycle": 2,
@@ -3557,22 +3615,22 @@
     "cycle_end": "2026-10-22T11:09:10Z",
     "cycle_start": "2026-09-22T11:09:10Z",
     "cycle_started_at": "2026-10-22T11:09:10Z",
-    "discovered_repositories": 1806,
-    "observed_at": "2026-11-25T12:51:20Z",
+    "discovered_repositories": 1626,
+    "observed_at": "2026-11-26T12:29:25Z",
     "plan_completed": false,
-    "remaining_jobs": 3,
+    "remaining_jobs": 4,
     "requests": 20,
     "status": "partial",
     "unresolved_gap_count": 63
   },
   "refresh": {
     "checked_repositories": 40,
-    "known_identities": 48055,
+    "known_identities": 49899,
     "new_repositories": 0,
-    "observed_at": "2026-11-25T12:51:20Z",
+    "observed_at": "2026-11-26T12:29:25Z",
     "seed_count": 15291
   },
-  "requests": 143,
+  "requests": 160,
   "status": "partial",
-  "tracked_repositories": 49899
+  "tracked_repositories": 51576
 }

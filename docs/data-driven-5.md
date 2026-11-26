@@ -8,6 +8,7 @@ Continued from [page 4](data-driven-4.md). See the [contents](data-driven.md#con
 
 #### Other (continued)
 
+- [Karthikeya-Sriram/Deep-Learning-based-Crop-Yield-Prediction](https://github.com/Karthikeya-Sriram/Deep-Learning-based-Crop-Yield-Prediction) - Crop yield prediction with machine learning. `no licence`
 - [kathir010105/CropYieldPrediction](https://github.com/kathir010105/CropYieldPrediction) - Crop yield prediction. `no licence`
 - [kaushal-shivaprakashan/Adaptive-Crop-Yield-Forecasting-Using-Statistical-Learning-Algorithms](https://github.com/kaushal-shivaprakashan/Adaptive-Crop-Yield-Forecasting-Using-Statistical-Learning-Algorithms) - Crop yield prediction. `no licence`
 - [kaushalshimpi/Crop-Yield-Prediction-using-Machine-Learning](https://github.com/kaushalshimpi/Crop-Yield-Prediction-using-Machine-Learning) - Crop Yield Prediction using Machine Learning. `no licence`
@@ -691,7 +692,6 @@ Continued from [page 4](data-driven-4.md). See the [contents](data-driven.md#con
 - [shailu1607/Crop-Yield-Prediction-and-Recommender-System-using-ML](https://github.com/shailu1607/Crop-Yield-Prediction-and-Recommender-System-using-ML) - Crop yield prediction with machine learning. `no licence`
 - [SHAISMIRUTHY-09112004/crop-yield-prediction-app](https://github.com/SHAISMIRUTHY-09112004/crop-yield-prediction-app) - prediction for increasing productivity. `no licence`
 - [shalinisanagavarapu/crop_yield_prediction](https://github.com/shalinisanagavarapu/crop_yield_prediction) - Crop yield prediction. `no licence`
-- [shamilba/AI-Driven-Precision-Agriculture-System](https://github.com/shamilba/AI-Driven-Precision-Agriculture-System) - AI-powered mobile application for crop health monitoring and yield prediction using machine learning and simulated IoT data. `MIT`
 - [Sharif-sheikh/cropYieldPrediction](https://github.com/Sharif-sheikh/cropYieldPrediction) - Crop yield prediction. `no licence`
 - [sharmachaitanya945/crop-yield-prediction](https://github.com/sharmachaitanya945/crop-yield-prediction) - Crop yield prediction. `no licence`
 - [SharvariBhor12/Crop_Yield_Prediction](https://github.com/SharvariBhor12/Crop_Yield_Prediction) - Crop yield prediction. `no licence`
@@ -827,7 +827,7 @@ Continued from [page 4](data-driven-4.md). See the [contents](data-driven.md#con
 - [soumilimondal/Crops_Yield_Prediction](https://github.com/soumilimondal/Crops_Yield_Prediction) - Crop yield prediction. `no licence`
 - [soumyadeepojhacst/Crops_Yield_Prediction](https://github.com/soumyadeepojhacst/Crops_Yield_Prediction) - Crop yield prediction. `no licence`
 - [soumyakg-ks/CropMindParc](https://github.com/soumyakg-ks/CropMindParc) - CropMind is an AI-powered smart farming assistant that provides crop prediction, soil analysis, fertilizer guidance, yield estimation, weather insights, and real-time voice-based agricultural help.… `no licence`
-- [sourav021205/precision-crop-forecast-pro](https://github.com/sourav021205/precision-crop-forecast-pro) - Precision Crop Forecast Pro – A machine learning-based system for crop recommendation and crop yield prediction using agricultural and environmental data with an interactive Streamlit interface. `no licence`
+- [souravk444/precision-crop-forecast-pro](https://github.com/souravk444/precision-crop-forecast-pro) - Precision Crop Forecast Pro – A machine learning-based system for crop recommendation and crop yield prediction using agricultural and environmental data with an interactive Streamlit interface. `no licence`
 - [SouvickMazumdar/Case-Study-Crop-Yield-Prediction](https://github.com/SouvickMazumdar/Case-Study-Crop-Yield-Prediction) - This repository contains the ppt as well as case study done over crop yield prediction. `no licence`
 - [Sowmya-5G4/Crop-Yield-Prediction](https://github.com/Sowmya-5G4/Crop-Yield-Prediction) - Predicting crop yield using ML. `no licence`
 - [Sowmya-Chidurala/CropDiseaseYieldPrediction](https://github.com/Sowmya-Chidurala/CropDiseaseYieldPrediction) - Crop yield prediction. `no licence`
@@ -931,7 +931,6 @@ Continued from [page 4](data-driven-4.md). See the [contents](data-driven.md#con
 - [tejarajaboyina/Crop-Yield-Prediction](https://github.com/tejarajaboyina/Crop-Yield-Prediction) - Crop yield prediction. `no licence`
 - [Tejasbankar5/Crop-Recommendation-Yield-Prediction-System](https://github.com/Tejasbankar5/Crop-Recommendation-Yield-Prediction-System) - A machine learning-based web application that recommends the best crop to grow and predicts crop yield using soil nutrients, weather, and environmental data. `no licence`
 - [tejasree850/Crop-production-prediction](https://github.com/tejasree850/Crop-production-prediction) - Crop yield prediction. `no licence`
-- [tejeswar1308/Crop-Yield-Prediction-DS-Project](https://github.com/tejeswar1308/Crop-Yield-Prediction-DS-Project) - Crop yield prediction. `no licence`
 - [tejjas12/Crop-Yield-Prediction](https://github.com/tejjas12/Crop-Yield-Prediction) - An intelligent crop recommendation system using Machine Learning based on soil nutrients (N, P, K) and environmental conditions. `no licence`
 - [tejk231993-hub/Crop-yield-prediction](https://github.com/tejk231993-hub/Crop-yield-prediction) - Built a Gradient Boosting regression model to predict crop yield using historical agricultural data (Rainfall, Fertilizer, Pesticide), providing actionable insights for farmers and policymakers. `no licence`
 - [TeoChrysostomidis/CropYield_GenAI](https://github.com/TeoChrysostomidis/CropYield_GenAI) - Predicting Crop Yield. `no licence`
@@ -1592,7 +1591,7 @@ Continued from [page 4](data-driven-4.md). See the [contents](data-driven.md#con
 - [mrsaeeddev/wheat-yield-prediction](https://github.com/mrsaeeddev/wheat-yield-prediction) - Wheat yield prediction. `no licence`
 - [mshahid888/project-03-winter-wheat-yield-forecasting](https://github.com/mshahid888/project-03-winter-wheat-yield-forecasting) - Wheat yield prediction. `MIT`
 - [mzachow/wheat-yield-forecast-argentina](https://github.com/mzachow/wheat-yield-forecast-argentina) - Wheat yield forecast for Argentina using Seasonal Climate Models. `GPL-3.0`
-- [naim-hamidi-data/prediction-rendement-ble-31](https://github.com/naim-hamidi-data/prediction-rendement-ble-31) - Ce projet prépare l’entrée en master DigitalAgri par la réalisation d’une chaîne complète d’analyse agricole avec Python : collecte, nettoyage, exploration, modélisation, validation et… `no licence`
+- [naim-hamidi-data/prediction-rendement-ble-31](https://github.com/naim-hamidi-data/prediction-rendement-ble-31) - Ce projet prépare l’entrée en master DigitalAgri par la réalisation d’une chaîne complète d’analyse agricole avec Python : collecte, nettoyage, exploration, modélisation, validation et… `no licence` `not found or inaccessible`
 - [NICCEEGlobalCtr/Multi-Source-Data-Wheat-Yield-Model](https://github.com/NICCEEGlobalCtr/Multi-Source-Data-Wheat-Yield-Model) - The model integrates 252,056 field records from 18,004 sites across China to build a multi-source data–driven machine learning framework for wheat yield prediction. Based on this model, N, P, and K… `no licence`
 - [nicolepretini/wheat-yield-climate-ml](https://github.com/nicolepretini/wheat-yield-climate-ml) - Predicting wheat yield from climate data using machine learning. `no licence`
 - [nicolepretini/wheat-yield-prediction](https://github.com/nicolepretini/wheat-yield-prediction) - Wheat yield prediction. `no licence`
@@ -1828,7 +1827,7 @@ Continued from [page 4](data-driven-4.md). See the [contents](data-driven.md#con
 - [ezekiel-oos/togo-maize-yield-prediction](https://github.com/ezekiel-oos/togo-maize-yield-prediction) - Analyse et prédiction du rendement du maïs au Togo (1961-2024) avec Python et Scikit-learn. `no licence`
 - [Faith-kapama/Maize-yield-prediction](https://github.com/Faith-kapama/Maize-yield-prediction) - Maize yield prediction. `no licence`
 - [fayexin/corn-yield-dashboard](https://github.com/fayexin/corn-yield-dashboard) - Maize yield prediction with machine learning. `no licence`
-- [fcoliveira-utfpr/ML_maize_pr](https://github.com/fcoliveira-utfpr/ML_maize_pr) - Modelo híbrido MZA-FAO + machine learning e análise de risco econômico do milho 2ª safra no Paraná. `no licence`
+- [fcoliveira-utfpr/ML_maize_pr](https://github.com/fcoliveira-utfpr/ML_maize_pr) - Research code, data and analyses for the article Sowing date as a risk-management decision in soybean–maize double cropping: a physics-guided, insurance-validated agro-economic framework. `no licence`
 - [geqiulin/ZeeLin-CYBench-China-Maize](https://github.com/geqiulin/ZeeLin-CYBench-China-Maize) - Reproducible CY-Bench China maize yield forecasting model and leave-one-year-out results. `MIT`
 - [gilyonyango10/maize_yield_project](https://github.com/gilyonyango10/maize_yield_project) - Maize yield prediction. `no licence`
 - [giovadg/US_corn_yield_forecast](https://github.com/giovadg/US_corn_yield_forecast) - Maize yield prediction. `no licence`

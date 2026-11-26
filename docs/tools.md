@@ -746,9 +746,9 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 - [BramDr/VIC_support](https://github.com/BramDr/VIC_support) - Supporting documentation and scripts for VIC. `★ 7` `GPL-3.0`
 - [rsachse/luess](https://github.com/rsachse/luess) - A R package for estimation of ecosystem services based on LPJmL model output. `★ 7` `GPL-2.0`
 - [SticsRPacks/SticsOnR](https://github.com/SticsRPacks/SticsOnR) - A Package to control STICS from R. `★ 7` `LGPL-3.0`
+- [SticsRPacks/SticsRFiles](https://github.com/SticsRPacks/SticsRFiles) - Read and modify STICS input/output files:. `★ 7` `LGPL-3.0`
 - [devalc/Pi-VAT](https://github.com/devalc/Pi-VAT) - A post-processing, interactive visualization, and analysis tool to synthesize multi-scenario, multi-watershed outputs from process-based geospatial models WEPP and SWAT. `★ 6` `MIT`
 - [Risk-Team/AquaCropPlotter](https://github.com/Risk-Team/AquaCropPlotter) - AquaCropPlotter is an R Shiny app for processing and visualizing FAO AquaCrop model output files. `★ 6` `no licence`
-- [SticsRPacks/SticsRFiles](https://github.com/SticsRPacks/SticsRFiles) - Read and modify STICS input/output files:. `★ 6` `LGPL-3.0`
 - [jknappe/hydrus2r](https://github.com/jknappe/hydrus2r) - R package to import HYDRUS 2D/3D simulation results into R. `★ 5` `MIT`
 - [joergsteinkamp/RLPJGUESS](https://github.com/joergsteinkamp/RLPJGUESS) - No description provided. `★ 5` `GPL-3.0` `archived`
 - [tdeswaef/aquacroponr](https://github.com/tdeswaef/aquacroponr) - R package with wrapper functions for AquaCrop. `★ 5` `MIT`
