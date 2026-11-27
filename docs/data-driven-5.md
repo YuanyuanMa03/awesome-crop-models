@@ -8,6 +8,8 @@ Continued from [page 4](data-driven-4.md). See the [contents](data-driven.md#con
 
 #### Other (continued)
 
+- [Kantesh-Gul/DSA-CEP-20sw080](https://github.com/Kantesh-Gul/DSA-CEP-20sw080) - "XGBoost model predicts crop yields with remarkable 98.72% training and 97.33% test accuracy, empowering agriculture stakeholders with data-driven insights.". `no licence`
+- [karthick-2003-coder/AI-POWERED-CROP-YIELD-PREDICTION-USING-MACHINE-LEARNING.](https://github.com/karthick-2003-coder/AI-POWERED-CROP-YIELD-PREDICTION-USING-MACHINE-LEARNING.) - Crop yield prediction with machine learning. `no licence`
 - [Karthikeya-Sriram/Deep-Learning-based-Crop-Yield-Prediction](https://github.com/Karthikeya-Sriram/Deep-Learning-based-Crop-Yield-Prediction) - Crop yield prediction with machine learning. `no licence`
 - [kathir010105/CropYieldPrediction](https://github.com/kathir010105/CropYieldPrediction) - Crop yield prediction. `no licence`
 - [kaushal-shivaprakashan/Adaptive-Crop-Yield-Forecasting-Using-Statistical-Learning-Algorithms](https://github.com/kaushal-shivaprakashan/Adaptive-Crop-Yield-Forecasting-Using-Statistical-Learning-Algorithms) - Crop yield prediction. `no licence`
@@ -117,7 +119,6 @@ Continued from [page 4](data-driven-4.md). See the [contents](data-driven.md#con
 - [LiangWeiXian11/YieldForecast_CASA00025](https://github.com/LiangWeiXian11/YieldForecast_CASA00025) - Machine learning model-based crop yield prediction and GEE visualisation in North Dakota, USA. `no licence`
 - [lija-th/crop-yield-prediction](https://github.com/lija-th/crop-yield-prediction) - Crop yield prediction. `no licence`
 - [Lingeshwaran2906/Agriculture-Crop-Prediction](https://github.com/Lingeshwaran2906/Agriculture-Crop-Prediction) - Machine Learning project to predict agricultural crop production in India using historical cultivation and production data. `MIT`
-- [lithik-raj/SatAgriSense-AI](https://github.com/lithik-raj/SatAgriSense-AI) - AI-powered geospatial platform combining satellite imagery, NDVI analysis, crop recommendation, yield prediction, and environmental monitoring for smarter agricultural decisions. `no licence`
 - [LOGANTHEGRIDLOCK/Crop-yield-prediction](https://github.com/LOGANTHEGRIDLOCK/Crop-yield-prediction) - Crop yield prediction. `no licence`
 - [logeshgovindasamy/AI-POWERED-CROP-YIELD-PREDICTION-MODELING-ENVIRONMENT-FACTORS](https://github.com/logeshgovindasamy/AI-POWERED-CROP-YIELD-PREDICTION-MODELING-ENVIRONMENT-FACTORS) - Crop yield prediction with machine learning. `no licence`
 - [LogicalBk/Fasal-Anuman](https://github.com/LogicalBk/Fasal-Anuman) - Fasal Anuman : A web app that predicts crop yield loss due to heavy rains and connects farmer to organic solutions within their budget. Built for farmers of India. `no licence`
@@ -1974,6 +1975,5 @@ Continued from [page 4](data-driven-4.md). See the [contents](data-driven.md#con
 - [JohMast/cornXplain](https://github.com/JohMast/cornXplain) - An app for explainable and interactive crop modeling, contribution to the ML4Earth-Hackathon-2022. `★ 6` `no licence`
 - [joycezw/yield_prediction](https://github.com/joycezw/yield_prediction) - To predict corn yield based on historical yield and weather information. `★ 5` `no licence`
 - [AramburuMerlos/SSA_maize_management](https://github.com/AramburuMerlos/SSA_maize_management) - Effect of agronomic management practices on maize yields in Sub-Saharan Africa. `★ 4` `no licence`
-- [yhaochen/Climate_CornYield](https://github.com/yhaochen/Climate_CornYield) - No description provided. `★ 2` `no licence`
 
 Continued on [page 6](data-driven-6.md).

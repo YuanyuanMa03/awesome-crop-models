@@ -8,6 +8,9 @@ Continued from [page 1](data-driven.md). See the [contents](data-driven.md#conte
 
 #### Python (continued)
 
+- [AkratiNigam/CropCare](https://github.com/AkratiNigam/CropCare) - CropCare is a data-driven solution designed to empower farmers and agricultural stakeholders with actionable insights for better crop management. The project integrates machine learning, data… `no licence`
+- [AKRISHNASRIKAR/crop-yield-prediction](https://github.com/AKRISHNASRIKAR/crop-yield-prediction) - Crop yield prediction. `no licence`
+- [akritisakshi/Crop-Yield-Predictor](https://github.com/akritisakshi/Crop-Yield-Predictor) - Crop yield prediction. `no licence`
 - [akshadabhandwalkar756-blip/Crop-Yield-Prediction-Using-Multilayer-Perceptron-Neural-Networks](https://github.com/akshadabhandwalkar756-blip/Crop-Yield-Prediction-Using-Multilayer-Perceptron-Neural-Networks) - The agriculture industry faces its greatest challenges in the twenty-first century. The world’s population is expected to grow to 9.7 billion people by the year 2050 and will require an additional… `no licence`
 - [Akshaj000/CropYieldPrediction-LinearRegression](https://github.com/Akshaj000/CropYieldPrediction-LinearRegression) - Crop yield prediction with machine learning. `no licence`
 - [Akshara369/Crop-Yield-Prediction-using-Multimodal-Data-Fusion](https://github.com/Akshara369/Crop-Yield-Prediction-using-Multimodal-Data-Fusion) - Crop yield prediction. `no licence`
@@ -2021,8 +2024,5 @@ Continued from [page 1](data-driven.md). See the [contents](data-driven.md#conte
 - [likhitha2223/Crop-Yield-Predictor](https://github.com/likhitha2223/Crop-Yield-Predictor) - Crop yield prediction. `no licence`
 - [likitha-2829/Crop-yield-prediction-using-machine-learning-mac](https://github.com/likitha-2829/Crop-yield-prediction-using-machine-learning-mac) - Crop yield prediction with machine learning. `no licence`
 - [lilou9221/mcgill_team2_capstone](https://github.com/lilou9221/mcgill_team2_capstone) - Crop yield prediction. `no licence`
-- [LilPhantum/Crop-Yield-Prediction-System](https://github.com/LilPhantum/Crop-Yield-Prediction-System) - Machine learning-based crop yield prediction system for West Africa using ensemble models Random Forest, Gradient Boosting, Ridge Regression. Trained on 12 African countries 2,776 samples, 1990-2013… `no licence`
-- [LimJY03/CropWeatherAnalysis](https://github.com/LimJY03/CropWeatherAnalysis) - Visualize weather data and predict crop yields based on historical weather patterns. `MIT`
-- [Linh5126/CS313-Agricultural-Yield-Prediction](https://github.com/Linh5126/CS313-Agricultural-Yield-Prediction) - Crop yield prediction. `no licence`
 
 Continued on [page 3](data-driven-3.md).
