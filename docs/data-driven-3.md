@@ -8,6 +8,8 @@ Continued from [page 2](data-driven-2.md). See the [contents](data-driven.md#con
 
 #### Python (continued)
 
+- [likitha-2829/Crop-yield-prediction-using-machine-learning-mac](https://github.com/likitha-2829/Crop-yield-prediction-using-machine-learning-mac) - Crop yield prediction with machine learning. `no licence`
+- [lilou9221/mcgill_team2_capstone](https://github.com/lilou9221/mcgill_team2_capstone) - Crop yield prediction. `no licence`
 - [LilPhantum/Crop-Yield-Prediction-System](https://github.com/LilPhantum/Crop-Yield-Prediction-System) - Machine learning-based crop yield prediction system for West Africa using ensemble models Random Forest, Gradient Boosting, Ridge Regression. Trained on 12 African countries 2,776 samples, 1990-2013… `no licence`
 - [LimJY03/CropWeatherAnalysis](https://github.com/LimJY03/CropWeatherAnalysis) - Visualize weather data and predict crop yields based on historical weather patterns. `MIT`
 - [Linh5126/CS313-Agricultural-Yield-Prediction](https://github.com/Linh5126/CS313-Agricultural-Yield-Prediction) - Crop yield prediction. `no licence`
@@ -2021,8 +2023,5 @@ Continued from [page 2](data-driven-2.md). See the [contents](data-driven.md#con
 - [sree453/crop-yield-forecast-dashboard-ML-](https://github.com/sree453/crop-yield-forecast-dashboard-ML-) - Machine Learning-powered Crop Yield Forecast Dashboard built with Streamlit, Scikit-Learn, and Regression Models for agricultural yield prediction. `no licence`
 - [sreea42c1/Crop_Yield_Prediction](https://github.com/sreea42c1/Crop_Yield_Prediction) - Crop yield prediction. `no licence`
 - [sreejareddypinninti/ANKUR](https://github.com/sreejareddypinninti/ANKUR) - Automated Crop Yield Prediction. `no licence`
-- [Sreejavedururu/Agriculture-crop-selection-and-yield-forecasting-using-machine-learning-techniques](https://github.com/Sreejavedururu/Agriculture-crop-selection-and-yield-forecasting-using-machine-learning-techniques) - Crop yield prediction with machine learning. `no licence`
-- [sreelakshmi1512/Crop_Yield_Prediction](https://github.com/sreelakshmi1512/Crop_Yield_Prediction) - Crop yield prediction. `no licence`
-- [SreelakshmiSuresh05/Agricultural-Crop-Yield-Prediction](https://github.com/SreelakshmiSuresh05/Agricultural-Crop-Yield-Prediction) - Crop yield prediction. `no licence`
 
 Continued on [page 4](data-driven-4.md).

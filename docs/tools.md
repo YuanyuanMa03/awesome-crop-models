@@ -208,8 +208,8 @@ Modelling frameworks, model interfaces and wrappers, calibration and data-assimi
 
 #### Julia
 
+- [cropbox/Cropbox.jl](https://github.com/cropbox/Cropbox.jl) - Declarative framework for constructing and running crop process models. `★ 27` `MIT`
 - [VirtualPlantLab/PlantSimEngine.jl](https://github.com/VirtualPlantLab/PlantSimEngine.jl) - Framework for coupling plant process models across organizational scales. `★ 27` `MIT`
-- [cropbox/Cropbox.jl](https://github.com/cropbox/Cropbox.jl) - Declarative framework for constructing and running crop process models. `★ 26` `MIT`
 - [bspanoghe/PlantModules.jl](https://github.com/bspanoghe/PlantModules.jl) - An acausal functional-structural plant modeling framework written in Julia. `★ 13` `MIT`
 - [VEZY/MultiScaleTreeGraph.jl](https://github.com/VEZY/MultiScaleTreeGraph.jl) - Read, analyse, compute, write and convert MTG files. `★ 11` `MIT`
 - [VEZY/PlantGeom.jl](https://github.com/VEZY/PlantGeom.jl) - Everything 3D for plants 🌱. `★ 11` `MIT`

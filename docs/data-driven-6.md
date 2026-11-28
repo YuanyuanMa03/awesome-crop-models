@@ -8,6 +8,7 @@ Continued from [page 5](data-driven-5.md). See the [contents](data-driven.md#con
 
 #### R (continued)
 
+- [AramburuMerlos/SSA_maize_management](https://github.com/AramburuMerlos/SSA_maize_management) - Effect of agronomic management practices on maize yields in Sub-Saharan Africa. `★ 4` `no licence`
 - [yhaochen/Climate_CornYield](https://github.com/yhaochen/Climate_CornYield) - No description provided. `★ 2` `no licence`
 - [bensonkenduiywo/yieldprediction](https://github.com/bensonkenduiywo/yieldprediction) - This repo contains maize yield prediction visualization results from RHEAS DSSAT coupled simulation models. `★ 1` `no licence`
 - [blschum/corn-yield-infill](https://github.com/blschum/corn-yield-infill) - Maize yield prediction with machine learning. `★ 1` `no licence`

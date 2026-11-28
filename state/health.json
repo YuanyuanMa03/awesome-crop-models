@@ -1,29 +1,29 @@
 {
   "all_github_coverage_verified": false,
-  "attempted_at": "2026-11-27T12:15:18Z",
+  "attempted_at": "2026-11-28T11:42:25Z",
   "coverage_gaps": {
-    "historical": 335,
-    "recent": 64
+    "historical": 336,
+    "recent": 65
   },
-  "finished_at": "2026-11-27T12:21:30Z",
-  "last_healthy_at": "2026-11-27T12:15:18Z",
+  "finished_at": "2026-11-28T11:47:41Z",
+  "last_healthy_at": "2026-11-28T11:42:25Z",
   "last_historical_pass_at": null,
   "maintainer_accounts": {
-    "cycle": 11,
-    "new_repositories": 23,
-    "observed_at": "2026-11-27T12:15:18Z",
-    "pages": 5,
-    "remaining_accounts_or_pages": 0
+    "cycle": 12,
+    "new_repositories": 67,
+    "observed_at": "2026-11-28T11:42:25Z",
+    "pages": 10,
+    "remaining_accounts_or_pages": 24
   },
-  "new_repository_identities": 1695,
+  "new_repository_identities": 1491,
   "owner_listing_gaps": 0,
   "pending_search_jobs": {
-    "historical": 13,
-    "recent": 3
+    "historical": 11,
+    "recent": 4
   },
-  "previous_healthy_at": "2026-11-26T12:29:25Z",
+  "previous_healthy_at": "2026-11-27T12:15:18Z",
   "recent_search": {
-    "completed_windows": 559,
+    "completed_windows": 562,
     "coverage_gaps": [
       {
         "cycle": 2,
@@ -637,6 +637,15 @@
         "reason": "result_count_changed",
         "reported_total": 573,
         "start": "2026-10-02T13:01:41Z"
+      },
+      {
+        "count": 2,
+        "cycle": 2,
+        "end": "2026-10-03T17:09:10Z",
+        "page": 7,
+        "query_id": "cn-crop-model",
+        "reason": "duplicate_items_across_pages",
+        "start": "2026-10-03T11:31:41Z"
       }
     ],
     "coverage_note": "Completion means this query plan was traversed. GitHub search is mutable, may omit repositories, and does not prove coverage of all GitHub.",
@@ -644,22 +653,22 @@
     "cycle_end": "2026-10-22T11:09:10Z",
     "cycle_start": "2026-09-22T11:09:10Z",
     "cycle_started_at": "2026-10-22T11:09:10Z",
-    "discovered_repositories": 1678,
-    "observed_at": "2026-11-27T12:15:18Z",
+    "discovered_repositories": 1490,
+    "observed_at": "2026-11-28T11:42:25Z",
     "plan_completed": false,
-    "remaining_jobs": 3,
+    "remaining_jobs": 4,
     "requests": 20,
     "status": "partial",
-    "unresolved_gap_count": 64
+    "unresolved_gap_count": 65
   },
   "refresh": {
     "checked_repositories": 40,
-    "known_identities": 51576,
+    "known_identities": 53271,
     "new_repositories": 0,
-    "observed_at": "2026-11-27T12:15:18Z",
+    "observed_at": "2026-11-28T11:42:25Z",
     "seed_count": 15291
   },
   "requests": 160,
   "status": "partial_budget",
-  "tracked_repositories": 53271
+  "tracked_repositories": 54762
 }
